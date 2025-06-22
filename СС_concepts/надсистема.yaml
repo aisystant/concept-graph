@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/надсистема
+name_ru: надсистема
+name_en: supersystem
+purpose_ru: Контекст для целевой системы.
+purpose_en: Context for the target system.
+conceptType: system
+usageContext_ru: В системном мышлении для анализа окружения.
+usageContext_en: In systemic thinking for analyzing environment.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является подсистемой.
+not_this_en: Not a subsystem.
+definition_ru: Система, в которую входит целевая система, отличающаяся более высоким
+  уровнем.
+definition_en: A system that contains the target system, distinguished by a higher
+  level.
+summary_ru: ''
+summary_en: ''
+example_ru: Автомобиль как надсистема для мотора.
+example_en: Car as a supersystem for the engine.
+promptHint_ru: Анализируйте для понимания контекста.
+promptHint_en: Analyze for understanding context.
+opposite_ru: Подсистема
+opposite_en: Subsystem
+metaphor_ru: Больший контейнер.
+metaphor_en: Larger container.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: вложенность
+- relation: PART_OF
+  target_concept: системные уровни
+examples:
+  positive_ru:
+  - Надсистема автомобиля.
+  positive_en:
+  - Supersystem of the car.
+  negative_ru:
+  - Мотор как надсистема.
+  negative_en:
+  - Engine as a supersystem.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: надсистема
+Определение: Система, в которую входит целевая система, отличающаяся более высоким
+  уровнем.
+Синонимы: *id001
+Связи:
+- вложенность
+- система
+- системные уровни
+Главы:
+- C6

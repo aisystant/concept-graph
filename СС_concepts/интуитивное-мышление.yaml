@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/интуитивное-мышление
+name_ru: интуитивное мышление
+name_en: intuitive thinking
+purpose_ru: Позволяет быстро реагировать на знакомые ситуации.
+purpose_en: Allows quick reactions to familiar situations.
+conceptType: Process
+usageContext_ru: В контексте спектра формальности мышления.
+usageContext_en: In the context of the spectrum of formality of thinking.
+synonyms_ru: &id001
+- чувственное мышление
+synonyms_en:
+- sensory thinking
+not_this_ru: Не является формальным мышлением.
+not_this_en: Not formal thinking.
+definition_ru: Процесс, основанный на опыте и автоматизмах для быстрого принятия решений.
+definition_en: A process based on experience and automatisms for quick decision-making.
+summary_ru: ''
+summary_en: ''
+example_ru: Интуитивное решение в знакомой ситуации, как у пожарных.
+example_en: Intuitive decision in a familiar situation, as with firefighters.
+promptHint_ru: Используйте для анализа быстрых решений.
+promptHint_en: Use for analyzing quick decisions.
+opposite_ru: Формальное мышление
+opposite_en: Formal thinking
+metaphor_ru: Как внутренний навигатор.
+metaphor_en: Like an internal navigator.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: спектр-формальности-мышления
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: животное-мышление
+examples:
+  positive_ru:
+  - Использование интуиции в повседневных решениях.
+  positive_en:
+  - Using intuition in everyday decisions.
+  negative_ru:
+  - Зависимость от интуиции без проверки.
+  negative_en:
+  - Reliance on intuition without verification.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: интуитивное мышление
+Определение: Процесс, основанный на опыте и автоматизмах для быстрого принятия решений.
+Синонимы: *id001
+Связи:
+- животное-мышление
+- мышление
+- спектр-формальности-мышления
+Главы:
+- C2

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/методы-обучения
+name_ru: Методы обучения
+name_en: Learning Methods
+purpose_ru: Улучшают усвоение знаний.
+purpose_en: Improve knowledge acquisition.
+conceptType: System
+usageContext_ru: В образовании.
+usageContext_en: In education.
+synonyms_ru: &id001
+- Способы обучения
+synonyms_en:
+- Teaching Methods
+not_this_ru: Не пассивные.
+not_this_en: Not passive.
+definition_ru: Система, заключающаяся в техниках для эффективного обучения.
+definition_en: A system, characterized by techniques for effective learning.
+summary_ru: ''
+summary_en: ''
+example_ru: Методы обучения с использованием собранности.
+example_en: Learning methods using collectedness.
+promptHint_ru: Выбирайте методы для развития.
+promptHint_en: Choose methods for development.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как инструменты в мастерской.
+metaphor_en: Like tools in a workshop.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: практики саморазвития
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: временные масштабы обучения
+examples:
+  positive_ru:
+  - Методы обучения ускоряют рост.
+  positive_en:
+  - Learning methods accelerate growth.
+  negative_ru:
+  - Плохие методы замедляют прогресс.
+  negative_en:
+  - Poor methods slow progress.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Методы обучения
+Определение: Система, заключающаяся в техниках для эффективного обучения.
+Синонимы: *id001
+Связи:
+- временные масштабы обучения
+- практики саморазвития
+- системное мышление
+Главы:
+- C3

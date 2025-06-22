@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L4/concept/психология
+name_ru: Психология
+name_en: Psychology
+purpose_ru: Изучать внутренний мир человека, включая переживания, эмоции и мотивации,
+  для интеграции с другими областями знаний.
+purpose_en: To study the inner world of a person, including experiences, emotions,
+  and motivations, for integration with other fields of knowledge.
+conceptType: discipline
+usageContext_ru: В психологии и в сочетании с системным мышлением для анализа личности.
+usageContext_en: In psychology and in combination with systemic thinking for personality
+  analysis.
+synonyms_ru: &id001
+- Наука о психике
+synonyms_en:
+- Science of the psyche
+not_this_ru: Не является инструментом для анализа внешних систем, как системное мышление.
+not_this_en: Not a tool for analyzing external systems, as in systemic thinking.
+definition_ru: Дисциплина, занимающаяся изучением психики человека, фокусируясь на
+  внутренних процессах и состояниях, отличаясь от системного мышления акцентом на
+  эмоциональной динамике и адаптации, а не на изменении внешних систем.
+definition_en: Discipline that examines the psyche of a human, focusing on internal
+  processes and states, differing from systemic thinking by emphasizing emotional
+  dynamics and adaptation rather than external system changes.
+summary_ru: ''
+summary_en: ''
+example_ru: Психология помогает человеку понять свои эмоции, чтобы адаптироваться
+  к текущим условиям, как в случае терапии для управления стрессом.
+example_en: Psychology helps a person understand their emotions to adapt to current
+  conditions, such as in therapy for managing stress.
+promptHint_ru: Используйте при анализе внутренних состояний для лучшего понимания
+  эмоциональных реакций.
+promptHint_en: Use when analyzing internal states for better understanding of emotional
+  reactions.
+opposite_ru: Системное мышление
+opposite_en: Systemic thinking
+metaphor_ru: Зеркало внутреннего мира
+metaphor_en: Mirror of the inner world
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: системный подход
+- relation: RELATES_TO
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональное состояние
+examples:
+  positive_ru:
+  - Психология помогает в терапии для управления эмоциями.
+  positive_en:
+  - Psychology aids in therapy for managing emotions.
+  negative_ru:
+  - Психология не решает внешние системные проблемы.
+  negative_en:
+  - Psychology does not solve external systemic problems.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Психология
+Определение: Дисциплина, занимающаяся изучением психики человека, фокусируясь на внутренних
+  процессах и состояниях, отличаясь от системного мышления акцентом на эмоциональной
+  динамике и адаптации, а не на изменении внешних систем.
+Синонимы: *id001
+Связи:
+- системное мышление
+- системный подход
+- эмоциональное состояние
+Главы:
+- C4

@@ -1,0 +1,102 @@
+iri: https://system-school.ru/L7/concept/трансдисциплина
+name_ru: трансдисциплина
+name_en: transdiscipline
+purpose_ru: Теория, объединяющая разные области для работы с системами.
+purpose_en: A theory that unites various fields for working with systems.
+conceptType: theory
+usageContext_ru: В инженерии и системном подходе.
+usageContext_en: In engineering and systems approach.
+synonyms_ru: &id001
+- междисциплинарная дисциплина
+- Междисциплинарность
+- интегрированная дисциплина
+synonyms_en:
+- interdisciplinary discipline
+- Interdisciplinarity
+- integrated discipline
+not_this_ru: Не является узкой специализацией.
+not_this_en: It is not a narrow specialization.
+definition_ru: Теория (genus), охватывающая несколько дисциплин для анализа систем
+  на разных уровнях (differentia).
+definition_en: A theory (genus) that encompasses multiple disciplines for analyzing
+  systems at various levels (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Инженерия как трансдисциплина в медицине и образовании.
+example_en: Engineering as a transdiscipline in medicine and education.
+promptHint_ru: Используйте трансдисциплину для комплексного анализа.
+promptHint_en: Use transdiscipline for comprehensive analysis.
+opposite_ru: Узкая дисциплина.
+opposite_en: Narrow discipline.
+metaphor_ru: Трансдисциплина как мозаика из частей.
+metaphor_en: Transdiscipline as a mosaic of parts.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: интеллект-стек
+- relation: RELATES_TO
+  target_concept: дисциплина
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: собранность
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: экзокортекс
+- relation: RELATES_TO
+  target_concept: интеллект-стек
+- relation: RELATES_TO
+  target_concept: понятия
+- relation: RELATES_TO
+  target_concept: приемы мышления
+- relation: IS_A
+  target_concept: инженерия
+- relation: RELATES_TO
+  target_concept: система
+- relation: HAS_EXAMPLE
+  target_concept: метод
+- relation: ALIGNS_WITH
+  target_concept: принципы инженерии
+- relation: PART_OF
+  target_concept: деятельность
+examples:
+  positive_ru:
+  - Трансдисциплинарный подход в инженерии.
+  positive_en:
+  - Transdisciplinary approach in engineering.
+  negative_ru:
+  - Изолированная дисциплина.
+  negative_en:
+  - An isolated discipline.
+discipline:
+  name_ru: Трансдисциплинарные науки
+  name_en: Transdisciplinary sciences
+  level: L3
+Название: трансдисциплина
+Определение: Теория (genus), охватывающая несколько дисциплин для анализа систем на
+  разных уровнях (differentia).
+Синонимы: *id001
+Связи:
+- деятельность
+- дисциплина
+- инженерия
+- интеллект-стек
+- метод
+- мышление
+- понятия
+- приемы мышления
+- принципы инженерии
+- система
+- системное мышление
+- собранность
+- экзокортекс
+Главы:
+- C2
+- C3
+- C5
+- C7

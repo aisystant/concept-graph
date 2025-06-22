@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/планирование-работ
+name_ru: планирование работ
+name_en: work planning
+purpose_ru: Организует этапы проектов.
+purpose_en: Organizes project stages.
+conceptType: Процесс
+usageContext_ru: В стадиях жизнедеятельности.
+usageContext_en: In life stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является исполнением.
+not_this_en: Not execution.
+definition_ru: Процесс, в ходе которого разбиваются работы на этапы, отличающийся
+  использованием инструментов управления.
+definition_en: A process in which works are broken into stages, distinguished by use
+  of management tools.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Планирование: составление чек-листа.'
+example_en: 'Planning: creating a checklist.'
+promptHint_ru: Примениайте для эффективности проектов.
+promptHint_en: Apply for project efficiency.
+opposite_ru: Спонтанное выполнение
+opposite_en: Spontaneous execution
+metaphor_ru: Построение карты пути.
+metaphor_en: Building a path map.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: реализация
+- relation: RELATES_TO
+  target_concept: личное стратегирование
+examples:
+  positive_ru:
+  - Эффективное планирование работ.
+  positive_en:
+  - Effective work planning.
+  negative_ru:
+  - Хаотичное начало задач.
+  negative_en:
+  - Chaotic task starting.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: планирование работ
+Определение: Процесс, в ходе которого разбиваются работы на этапы, отличающийся использованием
+  инструментов управления.
+Синонимы: *id001
+Связи:
+- личное стратегирование
+- реализация
+- стадии жизнедеятельности
+Главы:
+- C5

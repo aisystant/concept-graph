@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L3/concept/наведение-внимания
+name_ru: Наведение внимания
+name_en: Attention Direction
+purpose_ru: Фокусирует внимание на объектах.
+purpose_en: Focuses attention on objects.
+conceptType: Process
+usageContext_ru: В задачах.
+usageContext_en: In tasks.
+synonyms_ru: &id001
+- Фокусировка внимания
+synonyms_en:
+- Attention Focusing
+not_this_ru: Не случайное.
+not_this_en: Not random.
+definition_ru: Процесс, заключающийся в выборе и фиксации внимания на конкретном объекте.
+definition_en: A process, characterized by selecting and fixing attention on a specific
+  object.
+summary_ru: ''
+summary_en: ''
+example_ru: Наведение внимания на ключевые элементы системы.
+example_en: Directing attention to key system elements.
+promptHint_ru: Используйте наведение для анализа.
+promptHint_en: Use direction for analysis.
+opposite_ru: Рассеивание внимания
+opposite_en: Attention Scattering
+metaphor_ru: Как прицеливание.
+metaphor_en: Like aiming.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: понятийное внимание
+examples:
+  positive_ru:
+  - Наведение внимания повышает эффективность.
+  positive_en:
+  - Attention direction increases efficiency.
+  negative_ru:
+  - Плохое наведение приводит к ошибкам.
+  negative_en:
+  - Poor direction leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Наведение внимания
+Определение: Процесс, заключающийся в выборе и фиксации внимания на конкретном объекте.
+Синонимы: *id001
+Связи:
+- внимание
+- понятийное внимание
+- управление вниманием
+Главы:
+- C3

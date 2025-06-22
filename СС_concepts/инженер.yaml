@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/инженер
+name_ru: инженер
+name_en: engineer
+purpose_ru: Специалист, применяющий методы для создания систем.
+purpose_en: A specialist who applies methods to create systems.
+conceptType: role
+usageContext_ru: В проектах создания систем.
+usageContext_en: In projects for creating systems.
+synonyms_ru: &id001
+- специалист
+synonyms_en:
+- specialist
+not_this_ru: Не является общим термином без специализации.
+not_this_en: It is not a general term without specialization.
+definition_ru: Роль (genus), включающая лиц, целенаправленно разрабатывающих системы
+  в широком смысле (differentia).
+definition_en: A role (genus) that includes individuals deliberately developing systems
+  in a broad sense (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Инженер, разрабатывающий ракету.
+example_en: An engineer developing a rocket.
+promptHint_ru: Определите роль инженера в проекте.
+promptHint_en: Identify the engineer's role in a project.
+opposite_ru: Неспециалист.
+opposite_en: Non-specialist.
+metaphor_ru: Инженер как строитель.
+metaphor_en: Engineer as a builder.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: создатель системы
+- relation: PART_OF
+  target_concept: инженерия
+- relation: RELATES_TO
+  target_concept: система
+- relation: HAS_EXAMPLE
+  target_concept: принципы инженерии
+- relation: ALIGNS_WITH
+  target_concept: менеджмент
+examples:
+  positive_ru:
+  - Классический инженер в проекте.
+  positive_en:
+  - Classical engineer in a project.
+  negative_ru:
+  - Человек без методов.
+  negative_en:
+  - Person without methods.
+discipline:
+  name_ru: Инженерия
+  name_en: Engineering
+  level: L3
+Название: инженер
+Определение: Роль (genus), включающая лиц, целенаправленно разрабатывающих системы
+  в широком смысле (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- менеджмент
+- принципы инженерии
+- система
+- создатель системы
+Главы:
+- C7

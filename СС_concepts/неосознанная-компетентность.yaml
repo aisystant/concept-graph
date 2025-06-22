@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L2/concept/неосознанная-компетентность
+name_ru: неосознанная компетентность
+name_en: unconscious competence
+purpose_ru: Достигает автоматизма в навыках.
+purpose_en: Achieves automatism in skills.
+conceptType: Stage
+usageContext_ru: В контексте квадранта компетенций.
+usageContext_en: In the context of competence quadrant.
+synonyms_ru: &id001
+- автоматическое мастерство
+synonyms_en:
+- automatic mastery
+not_this_ru: Не является осознанной стадией.
+not_this_en: Not a conscious stage.
+definition_ru: Стадия, где навыки выполняются автоматически без сознательного усилия.
+definition_en: A stage where skills are performed automatically without conscious
+  effort.
+summary_ru: ''
+summary_en: ''
+example_ru: Вождение автомобиля после длительной практики.
+example_en: Driving a car after extensive practice.
+promptHint_ru: Используйте для оценки навыков.
+promptHint_en: Use for evaluating skills.
+opposite_ru: Неосознанная некомпетентность
+opposite_en: Unconscious incompetence
+metaphor_ru: Как вторая натура.
+metaphor_en: Like second nature.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: квадрант-компетенций
+- relation: RELATES_TO
+  target_concept: осознанная-компетентность
+- relation: HAS_EXAMPLE
+  target_concept: мастерство
+examples:
+  positive_ru:
+  - Автоматическое выполнение задач.
+  positive_en:
+  - Automatic task performance.
+  negative_ru:
+  - Потеря осознанности в действиях.
+  negative_en:
+  - Loss of awareness in actions.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: неосознанная компетентность
+Определение: Стадия, где навыки выполняются автоматически без сознательного усилия.
+Синонимы: *id001
+Связи:
+- квадрант-компетенций
+- мастерство
+- осознанная-компетентность
+Главы:
+- C2

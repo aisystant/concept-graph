@@ -1,0 +1,70 @@
+iri: https://system-school.ru/L4/concept/системный-подход
+name_ru: Системный подход
+name_en: Systemic approach
+purpose_ru: Анализировать личность в контексте внешних систем, связывая внутренние
+  состояния с внешними изменениями.
+purpose_en: To analyze personality in the context of external systems, linking internal
+  states with external changes.
+conceptType: method
+usageContext_ru: В системном мышлении для интеграции психологии с другими областями.
+usageContext_en: In systemic thinking for integrating psychology with other fields.
+synonyms_ru: &id001
+- Системный метод
+synonyms_en:
+- Systemic method
+not_this_ru: Не является фокусом только на внутренних процессах, как психология.
+not_this_en: Not focused solely on internal processes, as in psychology.
+definition_ru: Метод, который связывает психологический подход с внешними системами,
+  фокусируясь на анализе состояний и ролей, отличаясь от психологии тем, что подчеркивает
+  изменения внешних систем перед внутренними.
+definition_en: Method that links psychological approaches with external systems, focusing
+  on analysis of states and roles, differing from psychology by emphasizing changes
+  in external systems before internal ones.
+summary_ru: ''
+summary_en: ''
+example_ru: Системный подход помогает анализировать, как внешние роли влияют на внутренние
+  состояния, например, в управлении организацией.
+example_en: Systemic approach helps analyze how external roles affect internal states,
+  for example, in organization management.
+promptHint_ru: Применяйте для рассмотрения внешних факторов в анализе личности.
+promptHint_en: Apply for considering external factors in personality analysis.
+opposite_ru: Психология
+opposite_en: Psychology
+metaphor_ru: Мост между внутренним и внешним миром
+metaphor_en: Bridge between the inner and outer world
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: психология
+- relation: HAS_EXAMPLE
+  target_concept: системные уровни
+examples:
+  positive_ru:
+  - Системный подход интегрирует психологию с внешними системами.
+  positive_en:
+  - Systemic approach integrates psychology with external systems.
+  negative_ru:
+  - Системный подход не фокусируется только на эмоциях.
+  negative_en:
+  - Systemic approach does not focus solely on emotions.
+discipline:
+  name_ru: Системный подход
+  name_en: Systemic approach
+  level: L3
+Название: Системный подход
+Определение: Метод, который связывает психологический подход с внешними системами,
+  фокусируясь на анализе состояний и ролей, отличаясь от психологии тем, что подчеркивает
+  изменения внешних систем перед внутренними.
+Синонимы: *id001
+Связи:
+- психология
+- системное мышление
+- системные уровни
+Главы:
+- C4

@@ -1,0 +1,70 @@
+iri: https://system-school.ru/L8/concept/системное-лидерство
+name_ru: Системное лидерство
+name_en: Systems Leadership
+purpose_ru: Организует команду для создания систем.
+purpose_en: Organizes a team for creating systems.
+conceptType: Role
+usageContext_ru: В командах для руководства.
+usageContext_en: In teams for guidance.
+synonyms_ru: &id001
+- Системное руководство
+synonyms_en:
+- Systems Guidance
+not_this_ru: Не является иерархическим.
+not_this_en: It is not hierarchical.
+definition_ru: Роль, в которой лидер помогает в ролевом исполнении, отличающаяся от
+  классического лидерства.
+definition_en: A role in which the leader assists in role performance, distinguished
+  from classical leadership.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное лидерство включает сострадание.
+example_en: Systems leadership includes compassion.
+promptHint_ru: Используйте для командного управления.
+promptHint_en: Use for team management.
+opposite_ru: Индивидуальное лидерство
+opposite_en: Individual Leadership
+metaphor_ru: Как оркестровый дирижер.
+metaphor_en: Like an orchestral conductor.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: проектные роли
+- relation: RELATES_TO
+  target_concept: человек в системном рассмотрении
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: IS_A
+  target_concept: лидер
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Эффективное системное лидерство.
+  positive_en:
+  - Effective systems leadership.
+  negative_ru:
+  - Лидерство без системного подхода.
+  negative_en:
+  - Leadership without a systems approach.
+discipline:
+  name_ru: Лидерство
+  name_en: Leadership
+  level: L3
+Название: Системное лидерство
+Определение: Роль, в которой лидер помогает в ролевом исполнении, отличающаяся от
+  классического лидерства.
+Синонимы: *id001
+Связи:
+- лидер
+- проектные роли
+- системное мышление
+- сострадание
+- человек в системном рассмотрении
+Главы:
+- C6
+- C8

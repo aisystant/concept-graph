@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/переключение-внимания
+name_ru: Переключение внимания
+name_en: Attention Switching
+purpose_ru: Позволяет гибко перемещать фокус.
+purpose_en: Allows flexible focus shifting.
+conceptType: Process
+usageContext_ru: В многозадачности.
+usageContext_en: In multitasking.
+synonyms_ru: &id001
+- Смена фокуса
+synonyms_en:
+- Focus Switching
+not_this_ru: Не хаотичное.
+not_this_en: Not chaotic.
+definition_ru: Процесс, заключающийся в перемещении внимания между объектами без потери
+  эффективности.
+definition_en: A process, characterized by shifting attention between objects without
+  efficiency loss.
+summary_ru: ''
+summary_en: ''
+example_ru: Переключение внимания между задачами в проекте.
+example_en: Switching attention between tasks in a project.
+promptHint_ru: Оптимизируйте переключение для баланса.
+promptHint_en: Optimize switching for balance.
+opposite_ru: Застревание внимания
+opposite_en: Attention Sticking
+metaphor_ru: Как смена каналов на ТВ.
+metaphor_en: Like changing TV channels.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: мультимодальное внимание
+examples:
+  positive_ru:
+  - Эффективное переключение повышает адаптивность.
+  positive_en:
+  - Effective switching increases adaptability.
+  negative_ru:
+  - Частое переключение вызывает перегрузки.
+  negative_en:
+  - Frequent switching causes overloads.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Переключение внимания
+Определение: Процесс, заключающийся в перемещении внимания между объектами без потери
+  эффективности.
+Синонимы: *id001
+Связи:
+- внимание
+- мультимодальное внимание
+- управление вниманием
+Главы:
+- C3

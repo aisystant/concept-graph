@@ -1,0 +1,72 @@
+iri: https://system-school.ru/L9/concept/заинтересованные-лица
+name_ru: заинтересованные лица
+name_en: stakeholders
+purpose_ru: Обеспечивают учет интересов в создании систем.
+purpose_en: Ensure accounting of interests in system creation.
+conceptType: object
+usageContext_ru: В проектировании систем.
+usageContext_en: In system design.
+synonyms_ru: &id001
+- проектные роли
+- участники
+synonyms_en:
+- project roles
+- participants
+not_this_ru: Не являются случайными наблюдателями.
+not_this_en: Not random observers.
+definition_ru: Объект, включающий лица, чьи интересы затрагиваются системой, отличающийся
+  от других объектов необходимостью учета в разработке.
+definition_en: An object including persons whose interests are affected by a system,
+  distinguished from other objects by the necessity of accounting in development.
+summary_ru: ''
+summary_en: ''
+example_ru: Заинтересованные лица учитываются при создании успешной системы.
+example_en: Stakeholders are considered when creating a successful system.
+promptHint_ru: Анализируйте для этичного проектирования.
+promptHint_en: Analyze for ethical design.
+opposite_ru: незаинтересованные
+opposite_en: uninterested
+metaphor_ru: Круги в воде от камня.
+metaphor_en: Ripples in water from a stone.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: проектные роли
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: PART_OF
+  target_concept: системный подход 2.0
+- relation: RELATES_TO
+  target_concept: интересная жизнь
+- relation: RELATES_TO
+  target_concept: счастье
+examples:
+  positive_ru:
+  - Учет заинтересованных лиц приводит к успешным системам.
+  positive_en:
+  - Accounting for stakeholders leads to successful systems.
+  negative_ru:
+  - Игнорирование приводит к неудачам.
+  negative_en:
+  - Ignoring leads to failures.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: заинтересованные лица
+Определение: Объект, включающий лица, чьи интересы затрагиваются системой, отличающийся
+  от других объектов необходимостью учета в разработке.
+Синонимы: *id001
+Связи:
+- интересная жизнь
+- проектные роли
+- системный подход 2.0
+- счастье
+- успешная система
+Главы:
+- C6
+- C9

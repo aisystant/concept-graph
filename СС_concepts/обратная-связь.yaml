@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/обратная-связь
+name_ru: Обратная связь
+name_en: Feedback
+purpose_ru: Предоставляет информацию для улучшения.
+purpose_en: Provides information for improvement.
+conceptType: Relation
+usageContext_ru: В обучении и работе.
+usageContext_en: In learning and work.
+synonyms_ru: &id001
+- Отзыв
+synonyms_en:
+- Review
+not_this_ru: Не критика, а конструктивная информация.
+not_this_en: Not criticism, but constructive information.
+definition_ru: Отношение, заключающееся в получении и использовании информации о результатах
+  для корректировки действий.
+definition_en: A relation, characterized by obtaining and using information about
+  results to adjust actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Обратная связь от коллег для исправления ошибок.
+example_en: Feedback from colleagues for error correction.
+promptHint_ru: Собирайте обратную связь регулярно.
+promptHint_en: Gather feedback regularly.
+opposite_ru: Отсутствие обратной связи
+opposite_en: Lack of Feedback
+metaphor_ru: Как зеркало, отражающее реальность.
+metaphor_en: Like a mirror reflecting reality.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: исправление ошибок
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: продуктивность
+examples:
+  positive_ru:
+  - Обратная связь улучшает результаты.
+  positive_en:
+  - Feedback improves results.
+  negative_ru:
+  - Без обратной связи ошибки накапливаются.
+  negative_en:
+  - Without feedback, errors accumulate.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Обратная связь
+Определение: Отношение, заключающееся в получении и использовании информации о результатах
+  для корректировки действий.
+Синонимы: *id001
+Связи:
+- исправление ошибок
+- продуктивность
+- собранность
+Главы:
+- C3

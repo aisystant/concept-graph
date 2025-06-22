@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/неопределенность
+name_ru: Неопределенность
+name_en: Uncertainty
+purpose_ru: Требует подготовки к непредвиденному.
+purpose_en: Requires preparation for the unforeseen.
+conceptType: State
+usageContext_ru: В принятии решений для учета рисков.
+usageContext_en: In decision-making for accounting risks.
+synonyms_ru: &id001
+- Неясность
+synonyms_en:
+- Ambiguity
+not_this_ru: Не является хаосом.
+not_this_en: It is not chaos.
+definition_ru: Состояние, характеризующееся отсутствием полной информации, отличающееся
+  от определенности.
+definition_en: A state characterized by the lack of complete information, distinguished
+  from certainty.
+summary_ru: ''
+summary_en: ''
+example_ru: Неопределенность в будущем требует оптимизма.
+example_en: Uncertainty in the future requires optimism.
+promptHint_ru: Используйте для риск-анализа.
+promptHint_en: Use for risk analysis.
+opposite_ru: Определенность
+opposite_en: Certainty
+metaphor_ru: Как туман на пути.
+metaphor_en: Like fog on the path.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: неожиданность
+- relation: PART_OF
+  target_concept: принцип оптимизма
+- relation: RELATES_TO
+  target_concept: свобода воли
+examples:
+  positive_ru:
+  - Неопределенность в проектах.
+  positive_en:
+  - Uncertainty in projects.
+  negative_ru:
+  - Полная предсказуемость.
+  negative_en:
+  - Complete predictability.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systems Thinking
+  level: L3
+Название: Неопределенность
+Определение: Состояние, характеризующееся отсутствием полной информации, отличающееся
+  от определенности.
+Синонимы: *id001
+Связи:
+- неожиданность
+- принцип оптимизма
+- свобода воли
+Главы:
+- C8

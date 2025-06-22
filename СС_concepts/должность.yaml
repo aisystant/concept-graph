@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L7/concept/должность
+name_ru: должность
+name_en: position
+purpose_ru: Формальная роль в организации.
+purpose_en: Formal role in an organization.
+conceptType: role
+usageContext_ru: В менеджменте.
+usageContext_en: In management.
+synonyms_ru: &id001
+- пост
+synonyms_en:
+- post
+not_this_ru: Не является неформальной ролью.
+not_this_en: It is not an informal role.
+definition_ru: Роль (genus), официально назначенная в структуре (differentia).
+definition_en: A role (genus) officially assigned in a structure (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Должность директора.
+example_en: Position of director.
+promptHint_ru: Определите для организационной структуры.
+promptHint_en: Identify for organizational structure.
+opposite_ru: Неформальная роль.
+opposite_en: Informal role.
+metaphor_ru: Должность как место в иерархии.
+metaphor_en: Position as a place in hierarchy.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: карьера
+- relation: RELATES_TO
+  target_concept: квалификация
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: HAS_EXAMPLE
+  target_concept: директор по развитию
+- relation: ALIGNS_WITH
+  target_concept: менеджмент
+- relation: IS_A
+  target_concept: топ-менеджер
+examples:
+  positive_ru:
+  - Официальная должность.
+  positive_en:
+  - Official position.
+  negative_ru:
+  - Неформальный статус.
+  negative_en:
+  - Informal status.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: должность
+Определение: Роль (genus), официально назначенная в структуре (differentia).
+Синонимы: *id001
+Связи:
+- директор по развитию
+- карьера
+- квалификация
+- менеджмент
+- роль
+- системный менеджмент
+- топ-менеджер
+Главы:
+- C5
+- C7

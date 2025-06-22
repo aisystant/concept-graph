@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L2/concept/дисциплина
+name_ru: дисциплина
+name_en: discipline
+purpose_ru: Предоставляет структурированные знания для освоения областей деятельности.
+purpose_en: Provides structured knowledge for mastering activity areas.
+conceptType: Object
+usageContext_ru: В контексте образования и профессионального обучения.
+usageContext_en: In the context of education and professional training.
+synonyms_ru: &id001
+- наука
+- область знаний
+synonyms_en:
+- science
+- field of knowledge
+not_this_ru: Не является трансдисциплиной.
+not_this_en: Not a transdiscipline.
+definition_ru: Объект, представляющий конкретную область знаний с принципами и методами.
+definition_en: An object representing a specific field of knowledge with principles
+  and methods.
+summary_ru: ''
+summary_en: ''
+example_ru: Дисциплина бухгалтерского учета с понятиями актив и пассив.
+example_en: The discipline of accounting with concepts like assets and liabilities.
+promptHint_ru: Используйте для изучения новых областей.
+promptHint_en: Use for studying new areas.
+opposite_ru: Трансдисциплина
+opposite_en: Transdiscipline
+metaphor_ru: Как инструмент в наборе.
+metaphor_en: Like a tool in a set.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: theory
+- relation: RELATES_TO
+  target_concept: model
+- relation: RELATES_TO
+  target_concept: scientific-worldview
+- relation: IS_A
+  target_concept: трансдисциплина
+- relation: RELATES_TO
+  target_concept: образование
+- relation: HAS_EXAMPLE
+  target_concept: профессионализм
+examples:
+  positive_ru:
+  - Изучение дисциплины для повышения профессионализма.
+  positive_en:
+  - Studying a discipline to increase professionalism.
+  negative_ru:
+  - Игнорирование дисциплины, приводящее к ошибкам.
+  negative_en:
+  - Ignoring discipline leading to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: дисциплина
+Определение: Объект, представляющий конкретную область знаний с принципами и методами.
+Синонимы: *id001
+Связи:
+- model
+- scientific-worldview
+- theory
+- образование
+- профессионализм
+- трансдисциплина
+Главы:
+- C1
+- C2

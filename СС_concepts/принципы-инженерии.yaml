@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/принципы-инженерии
+name_ru: принципы инженерии
+name_en: principles of engineering
+purpose_ru: Основные правила для работы с системами, такие как безмасштабность и непрерывность.
+purpose_en: Fundamental rules for working with systems, such as scalability and continuity.
+conceptType: principles
+usageContext_ru: В инженерии и системном развитии.
+usageContext_en: In engineering and system development.
+synonyms_ru: &id001
+- основы инженерии
+synonyms_en:
+- engineering fundamentals
+not_this_ru: Не являются жесткими правилами без адаптации.
+not_this_en: They are not rigid rules without adaptation.
+definition_ru: Принципы (genus), определяющие универсальность и эволюцию систем, включая
+  применимость на разных уровнях (differentia).
+definition_en: Principles (genus) that define the universality and evolution of systems,
+  including applicability at various levels (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Применение принципа непрерывности в обновлении программного обеспечения.
+example_en: Applying the principle of continuity in software updates.
+promptHint_ru: Используйте принципы для оценки систем.
+promptHint_en: Use principles to evaluate systems.
+opposite_ru: Статичные подходы.
+opposite_en: Static approaches.
+metaphor_ru: Принципы как фундамент здания.
+metaphor_en: Principles as the foundation of a building.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: инженерия
+- relation: RELATES_TO
+  target_concept: безмасштабность и непрерывность
+- relation: HAS_EXAMPLE
+  target_concept: система
+- relation: ALIGNS_WITH
+  target_concept: метод
+- relation: IS_A
+  target_concept: трансдисциплина
+examples:
+  positive_ru:
+  - Безмасштабность в проектировании.
+  positive_en:
+  - Scalability in design.
+  negative_ru:
+  - Ограниченные принципы.
+  negative_en:
+  - Limited principles.
+discipline:
+  name_ru: Инженерия
+  name_en: Engineering
+  level: L3
+Название: принципы инженерии
+Определение: Принципы (genus), определяющие универсальность и эволюцию систем, включая
+  применимость на разных уровнях (differentia).
+Синонимы: *id001
+Связи:
+- безмасштабность и непрерывность
+- инженерия
+- метод
+- система
+- трансдисциплина
+Главы:
+- C7

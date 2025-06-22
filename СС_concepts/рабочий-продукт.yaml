@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/рабочий-продукт
+name_ru: рабочий продукт
+name_en: working-product
+purpose_ru: Результат применения методов.
+purpose_en: Result of applying methods.
+conceptType: object
+usageContext_ru: В практической деятельности.
+usageContext_en: In practical activity.
+synonyms_ru: &id001
+- продукт труда
+synonyms_en:
+- work product
+not_this_ru: Не является методом.
+not_this_en: Not the method.
+definition_ru: Объект, заключающийся в материальном или документированном результате,
+  отличающийся от идей через осязаемость.
+definition_en: An object consisting of a material or documented result, differentiated
+  from ideas by tangibility.
+summary_ru: ''
+summary_en: ''
+example_ru: Рабочий продукт, как отчет.
+example_en: Working product, like a report.
+promptHint_ru: Создавайте для оценки.
+promptHint_en: Create for evaluation.
+opposite_ru: идея
+opposite_en: idea
+metaphor_ru: Плод усилий.
+metaphor_en: Fruit of efforts.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: method
+- relation: RELATES_TO
+  target_concept: method-object
+- relation: RELATES_TO
+  target_concept: mastery
+examples:
+  positive_ru:
+  - Хороший рабочий продукт полезен.
+  positive_en:
+  - Good working product is useful.
+  negative_ru:
+  - Плохой продукт бесполезен.
+  negative_en:
+  - Bad product is useless.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L2
+Название: рабочий продукт
+Определение: Объект, заключающийся в материальном или документированном результате,
+  отличающийся от идей через осязаемость.
+Синонимы: *id001
+Связи:
+- mastery
+- method
+- method-object
+Главы:
+- C1

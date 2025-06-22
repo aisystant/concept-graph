@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L4/concept/эмоциональное-состояние
+name_ru: Эмоциональное состояние
+name_en: Emotional state
+purpose_ru: Оценивать и управлять эмоциями для адаптации.
+purpose_en: To evaluate and manage emotions for adaptation.
+conceptType: object
+usageContext_ru: В психологии и ежедневных практиках.
+usageContext_en: In psychology and daily practices.
+synonyms_ru: &id001
+- Эмоциональный фон
+- Эмоциональное настроение
+synonyms_en:
+- Emotional Background
+- Emotional mood
+not_this_ru: Не является рациональным.
+not_this_en: Not rational.
+definition_ru: Объект, представляющий эмоциональные реакции на стимулы, отличаясь
+  от психологического состояния тем, что фокусируется на кратковременных ответах.
+definition_en: Object representing emotional reactions to stimuli, differing from
+  psychological states by focusing on short-term responses.
+summary_ru: ''
+summary_en: ''
+example_ru: Эмоциональное состояние, как радость, влияет на мотивацию.
+example_en: Emotional state, such as joy, influences motivation.
+promptHint_ru: Используйте для контроля эмоций.
+promptHint_en: Use for controlling emotions.
+opposite_ru: Эмоциональная стабильность
+opposite_en: Emotional stability
+metaphor_ru: Волны чувств
+metaphor_en: Waves of feelings
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: эмоциональные факторы
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: выгорание
+- relation: RELATES_TO
+  target_concept: психологическое состояние
+- relation: PART_OF
+  target_concept: состояния человека
+- relation: HAS_EXAMPLE
+  target_concept: чувства
+examples:
+  positive_ru:
+  - Эмоциональное состояние стимулирует действия.
+  positive_en:
+  - Emotional state stimulates actions.
+  negative_ru:
+  - Эмоциональное состояние не приводит к хаосу.
+  negative_en:
+  - Emotional state does not lead to chaos.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Эмоциональное состояние
+Определение: Объект, представляющий эмоциональные реакции на стимулы, отличаясь от
+  психологического состояния тем, что фокусируется на кратковременных ответах.
+Синонимы: *id001
+Связи:
+- внимание
+- выгорание
+- психологическое состояние
+- состояния человека
+- чувства
+- эмоциональные факторы
+Главы:
+- C3
+- C4

@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L3/concept/гиперфокусировка
+name_ru: Гиперфокусировка
+name_en: Hyperfocus
+purpose_ru: Интенсивно фокусирует внимание.
+purpose_en: Intensely focuses attention.
+conceptType: State
+usageContext_ru: В задачах.
+usageContext_en: In tasks.
+synonyms_ru: &id001
+- Сверхфокус
+synonyms_en:
+- Superfocus
+not_this_ru: Не сбалансированная.
+not_this_en: Not balanced.
+definition_ru: Состояние, заключающееся в чрезмерной концентрации на одном объекте.
+definition_en: A state, characterized by excessive concentration on one object.
+summary_ru: ''
+summary_en: ''
+example_ru: Гиперфокусировка на задаче.
+example_en: Hyperfocus on a task.
+promptHint_ru: Балансируйте гиперфокусировку.
+promptHint_en: Balance hyperfocus.
+opposite_ru: Расфокусировка
+opposite_en: Unfocusing
+metaphor_ru: Как туннельное зрение.
+metaphor_en: Like tunnel vision.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: разобранность
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: креативность
+examples:
+  positive_ru: Информация отсутствует.
+  positive_en: Information absent.
+  negative_ru:
+  - Гиперфокусировка приводит к узости.
+  negative_en:
+  - Hyperfocus leads to narrowness.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Гиперфокусировка
+Определение: Состояние, заключающееся в чрезмерной концентрации на одном объекте.
+Синонимы: *id001
+Связи:
+- креативность
+- разобранность
+- собранность
+Главы:
+- C3

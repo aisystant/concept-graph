@@ -1,0 +1,66 @@
+iri: https://system-school.ru/L4/concept/состояния-системы
+name_ru: Состояния системы
+name_en: System states
+purpose_ru: Описывать изменения в системах для анализа поведения.
+purpose_en: To describe changes in systems for behavior analysis.
+conceptType: object
+usageContext_ru: В анализе личности и переходов между состояниями.
+usageContext_en: In analysis of personality and state transitions.
+synonyms_ru: &id001
+- Состояния систем
+synonyms_en:
+- States of systems
+not_this_ru: Не является статичным описанием.
+not_this_en: Not a static description.
+definition_ru: Объект, представляющий собой временные конфигурации системы, фокусируясь
+  на ролевых, психологических и физических аспектах, отличаясь от постоянных свойств
+  тем, что изменяется под влиянием факторов.
+definition_en: Object representing temporary configurations of a system, focusing
+  on role, psychological, and physical aspects, differing from permanent properties
+  by changing under influences.
+summary_ru: ''
+summary_en: ''
+example_ru: Состояния системы включают эмоциональные переходы в повседневной жизни.
+example_en: System states include emotional transitions in daily life.
+promptHint_ru: Применяйте для отслеживания изменений.
+promptHint_en: Apply for tracking changes.
+opposite_ru: Стабильность
+opposite_en: Stability
+metaphor_ru: Динамика системы
+metaphor_en: System dynamics
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: состояния человека
+- relation: PART_OF
+  target_concept: переходы между состояниями
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональное состояние
+examples:
+  positive_ru:
+  - Состояния системы помогают в адаптации.
+  positive_en:
+  - System states aid in adaptation.
+  negative_ru:
+  - Состояния не остаются неизменными.
+  negative_en:
+  - States are not unchanging.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic thinking
+  level: L3
+Название: Состояния системы
+Определение: Объект, представляющий собой временные конфигурации системы, фокусируясь
+  на ролевых, психологических и физических аспектах, отличаясь от постоянных свойств
+  тем, что изменяется под влиянием факторов.
+Синонимы: *id001
+Связи:
+- переходы между состояниями
+- состояния человека
+- эмоциональное состояние
+Главы:
+- C4

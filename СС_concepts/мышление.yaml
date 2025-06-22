@@ -1,0 +1,84 @@
+iri: https://system-school.ru/L6/concept/мышление
+name_ru: мышление
+name_en: thinking
+purpose_ru: Основывается на понятиях для моделирования мира.
+purpose_en: Based on concepts for modeling the world.
+conceptType: process
+usageContext_ru: В системном мышлении для решения проблем.
+usageContext_en: In systemic thinking for problem-solving.
+synonyms_ru: &id001
+- размышление
+- мышление
+synonyms_en:
+- reflection
+- cognition
+not_this_ru: Не является пассивным знанием.
+not_this_en: Not passive knowledge.
+definition_ru: Процесс, в ходе которого используются понятия для формирования гипотез
+  и решений.
+definition_en: A process through which concepts are used to form hypotheses and solutions.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное мышление для анализа сложных задач.
+example_en: Systemic thinking for analyzing complex tasks.
+promptHint_ru: Применяйте понятия для анализа.
+promptHint_en: Apply concepts for analysis.
+opposite_ru: Интуиция
+opposite_en: Intuition
+metaphor_ru: Инструмент для решения.
+metaphor_en: Tool for solving.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: fast-thinking-s1
+- relation: RELATES_TO
+  target_concept: slow-thinking-s2
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: PART_OF
+  target_concept: спектр-формальности-мышления
+- relation: RELATES_TO
+  target_concept: мыслительное-мастерство
+- relation: HAS_EXAMPLE
+  target_concept: интуитивное-мышление
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: приемы мышления
+- relation: PART_OF
+  target_concept: понятия системного мышления
+examples:
+  positive_ru:
+  - Логическое мышление в проектах.
+  positive_en:
+  - Logical thinking in projects.
+  negative_ru:
+  - Слепое действие без размышлений.
+  negative_en:
+  - Blind action without thinking.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: мышление
+Определение: Процесс, в ходе которого используются понятия для формирования гипотез
+  и решений.
+Синонимы: *id001
+Связи:
+- fast-thinking-s1
+- intellect
+- slow-thinking-s2
+- интуитивное-мышление
+- мыслительное-мастерство
+- понятия системного мышления
+- приемы мышления
+- системное мышление
+- спектр-формальности-мышления
+Главы:
+- C1
+- C2
+- C6

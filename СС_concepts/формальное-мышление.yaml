@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/формальное-мышление
+name_ru: формальное мышление
+name_en: formal thinking
+purpose_ru: Обеспечивает структурированный анализ.
+purpose_en: Provides structured analysis.
+conceptType: Process
+usageContext_ru: В контексте спектра мышления.
+usageContext_en: In the context of thinking spectrum.
+synonyms_ru: &id001
+- структурированное мышление
+synonyms_en:
+- structured thinking
+not_this_ru: Не является интуитивным.
+not_this_en: Not intuitive.
+definition_ru: Процесс, использующий формальные практики для решения задач.
+definition_en: A process using formal practices for problem-solving.
+summary_ru: ''
+summary_en: ''
+example_ru: Формальное мышление в математике.
+example_en: Formal thinking in mathematics.
+promptHint_ru: Используйте для точных решений.
+promptHint_en: Use for precise solutions.
+opposite_ru: Интуитивное мышление
+opposite_en: Intuitive thinking
+metaphor_ru: Как логическая схема.
+metaphor_en: Like a logical scheme.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: спектр-формальности-мышления
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: модели-обучения
+examples:
+  positive_ru:
+  - Формальное мышление в сложных задачах.
+  positive_en:
+  - Formal thinking in complex tasks.
+  negative_ru:
+  - Злоупотребление формальностью.
+  negative_en:
+  - Overuse of formality.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: формальное мышление
+Определение: Процесс, использующий формальные практики для решения задач.
+Синонимы: *id001
+Связи:
+- модели-обучения
+- мышление
+- спектр-формальности-мышления
+Главы:
+- C2

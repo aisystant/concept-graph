@@ -1,0 +1,92 @@
+iri: https://system-school.ru/L8/concept/корпоративная-культура
+name_ru: Корпоративная культура
+name_en: Corporate Culture
+purpose_ru: Определяет нормы и этические принципы в организации.
+purpose_en: Defines norms and ethical principles in an organization.
+conceptType: System
+usageContext_ru: В бизнесе для установления этических стандартов.
+usageContext_en: In business for establishing ethical standards.
+synonyms_ru: &id001
+- организационная культура
+- корпоративные методы
+- Оргкультура
+synonyms_en:
+- organizational culture
+- corporate methods
+- Org Culture
+not_this_ru: Не является формальными правилами.
+not_this_en: It is not formal rules.
+definition_ru: Система, заключающаяся в неформальных нормах поведения, отличающаяся
+  от законов.
+definition_en: A system consisting of informal behavioral norms, distinguished from
+  laws.
+summary_ru: ''
+summary_en: ''
+example_ru: Корпоративная культура включает этический подход к решениям.
+example_en: Corporate culture includes an ethical approach to decisions.
+promptHint_ru: Используйте для анализа организационных норм.
+promptHint_en: Use for analyzing organizational norms.
+opposite_ru: Анархия
+opposite_en: Anarchy
+metaphor_ru: Как невидимые правила.
+metaphor_en: Like invisible rules.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: культура
+- relation: RELATES_TO
+  target_concept: методы-ученика
+- relation: HAS_EXAMPLE
+  target_concept: мышление-письмом
+- relation: RELATES_TO
+  target_concept: директор по развитию
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: HAS_EXAMPLE
+  target_concept: методы корпоративной культуры
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: роль
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: роль
+examples:
+  positive_ru:
+  - Этическая корпоративная культура.
+  positive_en:
+  - Ethical corporate culture.
+  negative_ru:
+  - Неэтичные нормы в организации.
+  negative_en:
+  - Unethical norms in an organization.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: Корпоративная культура
+Определение: Система, заключающаяся в неформальных нормах поведения, отличающаяся
+  от законов.
+Синонимы: *id001
+Связи:
+- директор по развитию
+- инженерия
+- культура
+- методы корпоративной культуры
+- методы-ученика
+- мышление-письмом
+- роль
+- системное мышление
+- системный менеджмент
+- этика
+Главы:
+- C2
+- C7
+- C8

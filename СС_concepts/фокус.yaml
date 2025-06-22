@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/фокус
+name_ru: Фокус
+name_en: Focus
+purpose_ru: Направляет внимание.
+purpose_en: Directs attention.
+conceptType: Process
+usageContext_ru: В задачах.
+usageContext_en: In tasks.
+synonyms_ru: &id001
+- Сосредоточение
+synonyms_en:
+- Concentration
+not_this_ru: Не рассеянность.
+not_this_en: Not distraction.
+definition_ru: Процесс, заключающийся в фиксации внимания на объекте.
+definition_en: A process, characterized by fixing attention on an object.
+summary_ru: ''
+summary_en: ''
+example_ru: Фокус на цели для достижения.
+example_en: Focus on goals for achievement.
+promptHint_ru: Сохраняйте фокус на важном.
+promptHint_en: Maintain focus on the important.
+opposite_ru: Расфокус
+opposite_en: Unfocus
+metaphor_ru: Как луч света.
+metaphor_en: Like a beam of light.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: наведение внимания
+examples:
+  positive_ru:
+  - Фокус улучшает результаты.
+  positive_en:
+  - Focus improves results.
+  negative_ru:
+  - Потеря фокуса приводит к неудачам.
+  negative_en:
+  - Loss of focus leads to failures.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Фокус
+Определение: Процесс, заключающийся в фиксации внимания на объекте.
+Синонимы: *id001
+Связи:
+- внимание
+- наведение внимания
+- собранность
+Главы:
+- C3

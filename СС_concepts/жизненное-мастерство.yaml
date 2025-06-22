@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L8/concept/жизненное-мастерство
+name_ru: Жизненное мастерство
+name_en: Life Mastery
+purpose_ru: Объединяет способности для достижения успеха и устранения неудовлетворенностей.
+purpose_en: Combines abilities for achieving success and eliminating dissatisfactions.
+conceptType: Process
+usageContext_ru: В саморазвитии для описания навыков.
+usageContext_en: In self-development to describe skills.
+synonyms_ru: &id001
+- жизненные навыки
+- Навыки жизни
+synonyms_en:
+- life skills
+- Life Skills
+not_this_ru: Не является пассивным знанием.
+not_this_en: It is not passive knowledge.
+definition_ru: Процесс, в ходе которого развиваются способности, такие как интеллект
+  и прикладные навыки, отличающийся от теоретических знаний.
+definition_en: A process in which abilities like intelligence and practical skills
+  are developed, distinguished from theoretical knowledge.
+summary_ru: ''
+summary_en: ''
+example_ru: Жизненное мастерство включает мыслительное и прикладное мастерство.
+example_en: Life mastery includes intellectual and practical mastery.
+promptHint_ru: Применяйте для планирования развития.
+promptHint_en: Apply for planning development.
+opposite_ru: Недостаток навыков
+opposite_en: Lack of skills
+metaphor_ru: Как набор инструментов для жизни.
+metaphor_en: Like a set of tools for life.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: professional-mastery
+- relation: PART_OF
+  target_concept: self-development
+- relation: IS_A
+  target_concept: мастерство
+- relation: PART_OF
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: интеллект
+examples:
+  positive_ru:
+  - Развитие навыков для успеха.
+  positive_en:
+  - Developing skills for success.
+  negative_ru:
+  - Отсутствие мастерства, приводящее к выгоранию.
+  negative_en:
+  - Lack of mastery leading to burnout.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-Development
+  level: L3
+Название: Жизненное мастерство
+Определение: Процесс, в ходе которого развиваются способности, такие как интеллект
+  и прикладные навыки, отличающийся от теоретических знаний.
+Синонимы: *id001
+Связи:
+- intellect
+- professional-mastery
+- self-development
+- бесконечное развитие
+- интеллект
+- мастерство
+Главы:
+- C1
+- C8

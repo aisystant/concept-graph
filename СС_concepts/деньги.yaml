@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L2/concept/деньги
+name_ru: деньги
+name_en: money
+purpose_ru: Служат средством обмена и ресурсом для достижения целей.
+purpose_en: Serves as a medium of exchange and resource for achieving goals.
+conceptType: Object
+usageContext_ru: В контексте управления ресурсами и инвестиций.
+usageContext_en: In the context of resource management and investments.
+synonyms_ru: &id001
+- финансы
+- валюта
+synonyms_en:
+- finances
+- currency
+not_this_ru: Не является бесполезным ресурсом.
+not_this_en: Not a useless resource.
+definition_ru: Объект, представляющий ценность для обмена на товары и услуги.
+definition_en: An object representing value for exchange of goods and services.
+summary_ru: ''
+summary_en: ''
+example_ru: Использование денег для инвестирования в образование.
+example_en: Using money to invest in education.
+promptHint_ru: Используйте в планировании бюджета.
+promptHint_en: Use in budget planning.
+opposite_ru: Бесполезность
+opposite_en: Uselessness
+metaphor_ru: Как топливо для проектов.
+metaphor_en: Like fuel for projects.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: ресурсы
+- relation: HAS_EXAMPLE
+  target_concept: инвестирование-времени
+examples:
+  positive_ru:
+  - Эффективное управление деньгами для саморазвития.
+  positive_en:
+  - Effective money management for self-development.
+  negative_ru:
+  - Бесцельная трата денег.
+  negative_en:
+  - Pointless spending of money.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: деньги
+Определение: Объект, представляющий ценность для обмена на товары и услуги.
+Синонимы: *id001
+Связи:
+- время
+- инвестирование-времени
+- ресурсы
+Главы:
+- C2

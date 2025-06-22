@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L3/concept/осознанная-постановка-практик-саморазвития
+name_ru: Осознанная постановка практик саморазвития
+name_en: Conscious Setting of Self-Development Practices
+purpose_ru: Организует самоулучшение.
+purpose_en: Organizes self-improvement.
+conceptType: Process
+usageContext_ru: В саморазвитии.
+usageContext_en: In self-development.
+synonyms_ru: &id001
+- Целенаправленное внедрение практик
+synonyms_en:
+- Purposeful Implementation of Practices
+not_this_ru: Не случайное.
+not_this_en: Not random.
+definition_ru: Процесс, заключающийся в deliberate внедрении практик для роста.
+definition_en: A process, characterized by deliberate implementation of practices
+  for growth.
+summary_ru: ''
+summary_en: ''
+example_ru: Постановка практик для собранности.
+example_en: Setting practices for collectedness.
+promptHint_ru: Постановьте практики осознанно.
+promptHint_en: Set practices consciously.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как установка фундамента.
+metaphor_en: Like laying a foundation.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: практики саморазвития
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: методы обучения
+examples:
+  positive_ru:
+  - Осознанная постановка ускоряет развитие.
+  positive_en:
+  - Conscious setting accelerates development.
+  negative_ru:
+  - Неосознанная приводит к неэффективности.
+  negative_en:
+  - Unconscious leads to inefficiency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Осознанная постановка практик саморазвития
+Определение: Процесс, заключающийся в deliberate внедрении практик для роста.
+Синонимы: *id001
+Связи:
+- методы обучения
+- практики саморазвития
+- собранность
+Главы:
+- C3

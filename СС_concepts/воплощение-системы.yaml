@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/воплощение-системы
+name_ru: воплощение системы
+name_en: system embodiment
+purpose_ru: Представляет систему в физическом мире.
+purpose_en: Represents a system in the physical world.
+conceptType: object
+usageContext_ru: В системном мышлении для отличия от описаний.
+usageContext_en: In systemic thinking to distinguish from descriptions.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является описанием или документацией.
+not_this_en: Not a description or documentation.
+definition_ru: Физический объект, являющийся системой, отличающийся материальным присутствием
+  в пространстве-времени.
+definition_en: A physical object that is a system, distinguished by its material presence
+  in space-time.
+summary_ru: ''
+summary_en: ''
+example_ru: Автомобиль как воплощение системы в реальности.
+example_en: A car as the embodiment of a system in reality.
+promptHint_ru: Используйте для фокусировки на физических аспектах.
+promptHint_en: Use for focusing on physical aspects.
+opposite_ru: Описание системы
+opposite_en: System description
+metaphor_ru: Тело системы в мире.
+metaphor_en: The body of the system in the world.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: документация системы
+- relation: PART_OF
+  target_concept: физичность системы
+examples:
+  positive_ru:
+  - Физический автомобиль.
+  positive_en:
+  - Physical car.
+  negative_ru:
+  - Только описание автомобиля.
+  negative_en:
+  - Only a description of the car.
+discipline:
+  name_ru: Онтологика
+  name_en: Ontologics
+  level: L3
+Название: воплощение системы
+Определение: Физический объект, являющийся системой, отличающийся материальным присутствием
+  в пространстве-времени.
+Синонимы: *id001
+Связи:
+- документация системы
+- система
+- физичность системы
+Главы:
+- C6

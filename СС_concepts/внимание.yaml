@@ -1,0 +1,84 @@
+iri: https://system-school.ru/L4/concept/внимание
+name_ru: Внимание
+name_en: Attention
+purpose_ru: Направлять фокус на значимые стимулы.
+purpose_en: To direct focus on significant stimuli.
+conceptType: process
+usageContext_ru: В практиках саморазвития и психологии.
+usageContext_en: In self-development practices and psychology.
+synonyms_ru: &id001
+- концентрация
+- Фокус
+- Концентрация
+synonyms_en:
+- concentration
+- Focus
+- Concentration
+not_this_ru: Не является рассеянным.
+not_this_en: Not scattered.
+definition_ru: Процесс, в ходе которого фокусируется на объектах, отличаясь от отвлечения
+  тем, что улучшает осознанность.
+definition_en: Process through which focus is directed at objects, differing from
+  distraction by improving awareness.
+summary_ru: ''
+summary_en: ''
+example_ru: Внимание помогает в обучении.
+example_en: Attention aids in learning.
+promptHint_ru: Контролируйте для продуктивности.
+promptHint_en: Control for productivity.
+opposite_ru: Рассеянность
+opposite_en: Distraction
+metaphor_ru: Лучик света
+metaphor_en: Beam of light
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: social-environment
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: PART_OF
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: собранность
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: наведение внимания
+- relation: PART_OF
+  target_concept: практики саморазвития
+- relation: HAS_EXAMPLE
+  target_concept: эмоции
+examples:
+  positive_ru:
+  - Внимание повышает эффективность.
+  positive_en:
+  - Attention increases efficiency.
+  negative_ru:
+  - Внимание не распыляется.
+  negative_en:
+  - Attention is not scattered.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Внимание
+Определение: Процесс, в ходе которого фокусируется на объектах, отличаясь от отвлечения
+  тем, что улучшает осознанность.
+Синонимы: *id001
+Связи:
+- intellect
+- self-development
+- social-environment
+- наведение внимания
+- практики саморазвития
+- собранность
+- управление вниманием
+- эмоции
+Главы:
+- C1
+- C3
+- C4

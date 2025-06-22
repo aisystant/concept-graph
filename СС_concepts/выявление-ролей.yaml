@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/выявление-ролей
+name_ru: выявление ролей
+name_en: role identification
+purpose_ru: Помогает распознавать роли в ситуациях для лучшего управления поведением.
+purpose_en: Helps recognize roles in situations for better behavior management.
+conceptType: Процесс
+usageContext_ru: В ролевом мастерстве для анализа контекстов.
+usageContext_en: In role mastery for context analysis.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является исполнением роли.
+not_this_en: Not role performance.
+definition_ru: Процесс, в ходе которого идентифицируются роли в проекте или жизни,
+  отличающийся анализом поведения и интересов.
+definition_en: A process in which roles in a project or life are identified, distinguished
+  by analysis of behavior and interests.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Выявление ролей в команде: менеджер, инженер.'
+example_en: 'Identifying roles in a team: manager, engineer.'
+promptHint_ru: Используйте для лучшего понимания ситуаций.
+promptHint_en: Use for better situation understanding.
+opposite_ru: Игнорирование ролей
+opposite_en: Ignoring roles
+metaphor_ru: Распознавание актеров в пьесе.
+metaphor_en: Recognizing actors in a play.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: деятельностный кругозор
+examples:
+  positive_ru:
+  - Выявление ролей в проекте.
+  positive_en:
+  - Identifying roles in a project.
+  negative_ru:
+  - Неопределенность ролей в хаотичной ситуации.
+  negative_en:
+  - Uncertainty of roles in a chaotic situation.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: выявление ролей
+Определение: Процесс, в ходе которого идентифицируются роли в проекте или жизни, отличающийся
+  анализом поведения и интересов.
+Синонимы: *id001
+Связи:
+- деятельностный кругозор
+- ролевое мастерство
+- роль
+Главы:
+- C5

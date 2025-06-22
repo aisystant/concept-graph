@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L6/concept/слово
+name_ru: слово
+name_en: word
+purpose_ru: Обозначает понятия или термины.
+purpose_en: Denotes concepts or terms.
+conceptType: object
+usageContext_ru: В коммуникации для выражения идей.
+usageContext_en: In communication for expressing ideas.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является самим понятием.
+not_this_en: Not the concept itself.
+definition_ru: Символ, представляющий понятие или термин, отличающийся от их значений.
+definition_en: A symbol representing a concept or term, distinguished from their meanings.
+summary_ru: ''
+summary_en: ''
+example_ru: Слово 'система' как обозначение понятия.
+example_en: Word 'system' as a designation of a concept.
+promptHint_ru: Используйте осторожно в общении.
+promptHint_en: Use carefully in communication.
+opposite_ru: Понятие
+opposite_en: Concept
+metaphor_ru: Обертка для смысла.
+metaphor_en: Wrapper for meaning.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: понятие
+- relation: RELATES_TO
+  target_concept: термин
+- relation: PART_OF
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Слова в описаниях.
+  positive_en:
+  - Words in descriptions.
+  negative_ru:
+  - Слова без значений.
+  negative_en:
+  - Words without meanings.
+discipline:
+  name_ru: Лингвистика
+  name_en: Linguistics
+  level: L2
+Название: слово
+Определение: Символ, представляющий понятие или термин, отличающийся от их значений.
+Синонимы: *id001
+Связи:
+- мышление
+- понятие
+- термин
+Главы:
+- C6

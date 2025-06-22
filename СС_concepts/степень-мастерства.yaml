@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/степень-мастерства
+name_ru: Степень мастерства
+name_en: Degree of mastery
+purpose_ru: Оценивать навыки для решения задач.
+purpose_en: To evaluate skills for task resolution.
+conceptType: property
+usageContext_ru: В саморазвитии и профессиональном росте.
+usageContext_en: In self-development and professional growth.
+synonyms_ru: &id001
+- Уровень мастерства
+synonyms_en:
+- Level of mastery
+not_this_ru: Не является врожденным.
+not_this_en: Not innate.
+definition_ru: Свойство, указывающее на уровень навыков, отличаясь от базовых характеристик
+  тем, что развивается через практику.
+definition_en: Property indicating the level of skills, differing from basic characteristics
+  by being developed through practice.
+summary_ru: ''
+summary_en: ''
+example_ru: Степень мастерства в вождении улучшается с опытом.
+example_en: Degree of mastery in driving improves with experience.
+promptHint_ru: Развивайте через обучение.
+promptHint_en: Develop through learning.
+opposite_ru: Новичок
+opposite_en: Novice
+metaphor_ru: Уровень экспертизы
+metaphor_en: Level of expertise
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: инженерия человека
+- relation: PART_OF
+  target_concept: калибр личности
+- relation: HAS_EXAMPLE
+  target_concept: ресурсность
+examples:
+  positive_ru:
+  - Степень мастерства повышает эффективность.
+  positive_en:
+  - Degree of mastery increases efficiency.
+  negative_ru:
+  - Степень не остается неизменной.
+  negative_en:
+  - Degree is not unchanging.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Степень мастерства
+Определение: Свойство, указывающее на уровень навыков, отличаясь от базовых характеристик
+  тем, что развивается через практику.
+Синонимы: *id001
+Связи:
+- инженерия человека
+- калибр личности
+- ресурсность
+Главы:
+- C4

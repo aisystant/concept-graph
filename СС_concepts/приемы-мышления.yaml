@@ -1,0 +1,71 @@
+iri: https://system-school.ru/L6/concept/приемы-мышления
+name_ru: приемы мышления
+name_en: thinking techniques
+purpose_ru: Связывают понятия для решения задач.
+purpose_en: Connect concepts for task resolution.
+conceptType: method
+usageContext_ru: В системном мышлении для анализа.
+usageContext_en: In systemic thinking for analysis.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не являются изолированными идеями.
+not_this_en: Not isolated ideas.
+definition_ru: Методы, в которых понятия связываются для формирования моделей, отличающиеся
+  практическим применением.
+definition_en: Methods in which concepts are linked to form models, distinguished
+  by practical application.
+summary_ru: ''
+summary_en: ''
+example_ru: Приемы для выделения систем в проектах.
+example_en: Techniques for identifying systems in projects.
+promptHint_ru: Практикуйте для навыков.
+promptHint_en: Practice for skills.
+opposite_ru: Пассивное мышление
+opposite_en: Passive thinking
+metaphor_ru: Мосты между идеями.
+metaphor_en: Bridges between ideas.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: интеллект-стек
+- relation: RELATES_TO
+  target_concept: понятия
+- relation: RELATES_TO
+  target_concept: трансдисциплина
+- relation: IS_A
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: системное мышление
+- relation: PART_OF
+  target_concept: понятия системного мышления
+examples:
+  positive_ru:
+  - Связывание понятий в моделях.
+  positive_en:
+  - Linking concepts in models.
+  negative_ru:
+  - Отдельные понятия без связей.
+  negative_en:
+  - Separate concepts without links.
+discipline:
+  name_ru: Когнитивная наука
+  name_en: Cognitive Science
+  level: L3
+Название: приемы мышления
+Определение: Методы, в которых понятия связываются для формирования моделей, отличающиеся
+  практическим применением.
+Синонимы: *id001
+Связи:
+- интеллект-стек
+- мышление
+- понятия
+- понятия системного мышления
+- системное мышление
+- трансдисциплина
+Главы:
+- C5
+- C6

@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/системный-менеджмент
+name_ru: системный менеджмент
+name_en: systemic management
+purpose_ru: Управление организациями с системным подходом.
+purpose_en: Management of organizations with a systems approach.
+conceptType: process
+usageContext_ru: В менеджменте.
+usageContext_en: In management.
+synonyms_ru: &id001
+- системное управление
+synonyms_en:
+- systemic management
+not_this_ru: Не является традиционным.
+not_this_en: It is not traditional.
+definition_ru: Процесс (genus), основанный на инженерии для развития организационных
+  систем (differentia).
+definition_en: A process (genus) based on engineering for developing organizational
+  systems (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Системный менеджмент команды.
+example_en: Systemic management of a team.
+promptHint_ru: Применяйте для организационного развития.
+promptHint_en: Apply for organizational development.
+opposite_ru: Несистемный подход.
+opposite_en: Non-systemic approach.
+metaphor_ru: Как системное управление организмом.
+metaphor_en: As systemic management of an organism.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: менеджмент
+- relation: RELATES_TO
+  target_concept: инженерия
+- relation: HAS_EXAMPLE
+  target_concept: операционный менеджер
+- relation: ALIGNS_WITH
+  target_concept: принципы инженерии
+- relation: PART_OF
+  target_concept: система
+examples:
+  positive_ru:
+  - Эффективный системный менеджмент.
+  positive_en:
+  - Effective systemic management.
+  negative_ru:
+  - Беспорядочное управление.
+  negative_en:
+  - Disorganized management.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: системный менеджмент
+Определение: Процесс (genus), основанный на инженерии для развития организационных
+  систем (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- менеджмент
+- операционный менеджер
+- принципы инженерии
+- система
+Главы:
+- C7

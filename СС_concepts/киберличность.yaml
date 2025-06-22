@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/киберличность
+name_ru: Киберличность
+name_en: Cyberpersonality
+purpose_ru: Расширяет человеческую психику.
+purpose_en: Extends human psyche.
+conceptType: System
+usageContext_ru: В технологиях.
+usageContext_en: In technologies.
+synonyms_ru: &id001
+- Цифровая личность
+synonyms_en:
+- Digital Personality
+not_this_ru: Не чисто биологическая.
+not_this_en: Not purely biological.
+definition_ru: Система, заключающаяся в интеграции технологий с человеческой психикой.
+definition_en: A system, characterized by integrating technologies with human psyche.
+summary_ru: ''
+summary_en: ''
+example_ru: Киберличность с экзокортексом.
+example_en: Cyberpersonality with exocortex.
+promptHint_ru: Развивайте киберличность осознанно.
+promptHint_en: Develop cyberpersonality consciously.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как гибрид человека и машины.
+metaphor_en: Like a human-machine hybrid.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: адаптация к изменениям
+- relation: HAS_EXAMPLE
+  target_concept: внимание
+examples:
+  positive_ru:
+  - Киберличность расширяет возможности.
+  positive_en:
+  - Cyberpersonality expands capabilities.
+  negative_ru:
+  - Без баланса приводит к проблемам.
+  negative_en:
+  - Without balance, leads to problems.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Киберличность
+Определение: Система, заключающаяся в интеграции технологий с человеческой психикой.
+Синонимы: *id001
+Связи:
+- адаптация к изменениям
+- внимание
+- экзокортекс
+Главы:
+- C3

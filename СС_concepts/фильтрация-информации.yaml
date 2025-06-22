@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/фильтрация-информации
+name_ru: Фильтрация информации
+name_en: Information Filtering
+purpose_ru: Отсеивает ненужное.
+purpose_en: Screens out unnecessary information.
+conceptType: Process
+usageContext_ru: В переработке данных.
+usageContext_en: In data processing.
+synonyms_ru: &id001
+- Отбор информации
+synonyms_en:
+- Information Selection
+not_this_ru: Не полный прием.
+not_this_en: Not full acceptance.
+definition_ru: Процесс, заключающийся в selective обработке информации.
+definition_en: A process, characterized by selective information processing.
+summary_ru: ''
+summary_en: ''
+example_ru: Фильтрация для минимизации перегрузки.
+example_en: Filtering to minimize overload.
+promptHint_ru: Фильтруйте для ясности.
+promptHint_en: Filter for clarity.
+opposite_ru: Без фильтрации
+opposite_en: Unfiltered
+metaphor_ru: Как сито для зерна.
+metaphor_en: Like a sieve for grain.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: информационная перегрузка
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: отвлечения
+examples:
+  positive_ru:
+  - Фильтрация улучшает обработку.
+  positive_en:
+  - Filtering improves processing.
+  negative_ru:
+  - Без фильтрации возникает хаос.
+  negative_en:
+  - Without filtering, chaos ensues.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Фильтрация информации
+Определение: Процесс, заключающийся в selective обработке информации.
+Синонимы: *id001
+Связи:
+- информационная перегрузка
+- отвлечения
+- управление вниманием
+Главы:
+- C3

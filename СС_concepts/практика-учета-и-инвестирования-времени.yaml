@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/практика-учета-и-инвестирования-времени
+name_ru: Практика учета и инвестирования времени
+name_en: Time Investment Practice
+purpose_ru: Помогает эффективно управлять временем для развития.
+purpose_en: Helps effectively manage time for development.
+conceptType: Practice
+usageContext_ru: В саморазвитии для продуктивности.
+usageContext_en: In self-development for productivity.
+synonyms_ru: &id001
+- Учет времени
+synonyms_en:
+- Time Tracking
+not_this_ru: Не является тратами времени.
+not_this_en: It is not time wasting.
+definition_ru: Практика, заключающаяся в планировании и инвестировании времени, отличающаяся
+  от бесцельного использования.
+definition_en: A practice consisting of planning and investing time, distinguished
+  from aimless use.
+summary_ru: ''
+summary_en: ''
+example_ru: Практика учета времени предотвращает выгорание.
+example_en: Time investment practice prevents burnout.
+promptHint_ru: Используйте для управления временем.
+promptHint_en: Use for time management.
+opposite_ru: Бесцельное времяпрепровождение
+opposite_en: Aimless time spending
+metaphor_ru: Как инвестиция в будущее.
+metaphor_en: Like an investment in the future.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: выгорание
+- relation: PART_OF
+  target_concept: жизненное мастерство
+- relation: RELATES_TO
+  target_concept: знания
+examples:
+  positive_ru:
+  - Ежедневное инвестирование времени в обучение.
+  positive_en:
+  - Daily time investment in learning.
+  negative_ru:
+  - Трата времени на бесполезные занятия.
+  negative_en:
+  - Wasting time on useless activities.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-Development
+  level: L2
+Название: Практика учета и инвестирования времени
+Определение: Практика, заключающаяся в планировании и инвестировании времени, отличающаяся
+  от бесцельного использования.
+Синонимы: *id001
+Связи:
+- выгорание
+- жизненное мастерство
+- знания
+Главы:
+- C8

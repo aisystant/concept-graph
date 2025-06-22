@@ -1,0 +1,109 @@
+iri: https://system-school.ru/L9/concept/ресурсы
+name_ru: ресурсы
+name_en: resources
+purpose_ru: Поддерживают реализацию проектов.
+purpose_en: Support project implementation.
+conceptType: object
+usageContext_ru: В управлении.
+usageContext_en: In management.
+synonyms_ru: &id001
+- активы
+- Средства
+- Ресурсы
+- средства
+synonyms_en:
+- assets
+- Means
+- Assets
+- means
+not_this_ru: Не являются бесконечными.
+not_this_en: Not infinite.
+definition_ru: Объект, включающий материальные и нематериальные средства, отличающийся
+  от других объектов их ограниченностью.
+definition_en: An object including material and immaterial means, distinguished from
+  other objects by their limitations.
+summary_ru: ''
+summary_en: ''
+example_ru: Ресурсы, такие как время, необходимы для саморазвития.
+example_en: Resources like time are necessary for self-development.
+promptHint_ru: Управляйте эффективно.
+promptHint_en: Manage effectively.
+opposite_ru: дефицит
+opposite_en: deficit
+metaphor_ru: Топливо для машины.
+metaphor_en: Fuel for the machine.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: деньги
+- relation: PART_OF
+  target_concept: время
+- relation: HAS_EXAMPLE
+  target_concept: инвестирование-времени
+- relation: RELATES_TO
+  target_concept: Full Kitting
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: утечки ресурса собранности
+- relation: RELATES_TO
+  target_concept: ресурсность
+- relation: PART_OF
+  target_concept: характеристика человека
+- relation: HAS_EXAMPLE
+  target_concept: мотивация
+- relation: IS_A
+  target_concept: экзотело
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: желания
+- relation: RELATES_TO
+  target_concept: успех
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: элита
+examples:
+  positive_ru:
+  - Достаточные ресурсы ведут к целям.
+  positive_en:
+  - Sufficient resources lead to goals.
+  negative_ru:
+  - Их недостаток препятствует.
+  negative_en:
+  - Their lack hinders.
+discipline:
+  name_ru: Экономика
+  name_en: Economics
+  level: L2
+Название: ресурсы
+Определение: Объект, включающий материальные и нематериальные средства, отличающийся
+  от других объектов их ограниченностью.
+Синонимы: *id001
+Связи:
+- Full Kitting
+- агент
+- время
+- деньги
+- желания
+- инвестирование-времени
+- мастерство
+- мотивация
+- ресурсность
+- управление вниманием
+- успех
+- утечки ресурса собранности
+- характеристика человека
+- экзотело
+- элита
+Главы:
+- C2
+- C3
+- C4
+- C8
+- C9

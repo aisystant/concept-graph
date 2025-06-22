@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/психотерапия
+name_ru: психотерапия
+name_en: psychotherapy
+purpose_ru: Помогает решать личные проблемы.
+purpose_en: Helps solve personal problems.
+conceptType: process
+usageContext_ru: В лечении.
+usageContext_en: In treatment.
+synonyms_ru: &id001
+- психологическая помощь
+synonyms_en:
+- psychological help
+not_this_ru: Не является самообманом.
+not_this_en: Not self-deception.
+definition_ru: Процесс помощи в эмоциональных проблемах, отличающийся от других процессов
+  профессиональностью.
+definition_en: A process of helping with emotional problems, distinguished from other
+  processes by professionalism.
+summary_ru: ''
+summary_en: ''
+example_ru: Психотерапия используется в проекте саморазвития.
+example_en: Psychotherapy is used in self-development projects.
+promptHint_ru: Ищите при необходимости.
+promptHint_en: Seek when necessary.
+opposite_ru: самоизоляция
+opposite_en: self-isolation
+metaphor_ru: Целительный разговор.
+metaphor_en: Healing conversation.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: неудовлетворенности
+- relation: RELATES_TO
+  target_concept: счастье
+examples:
+  positive_ru:
+  - Психотерапия устраняет проблемы.
+  positive_en:
+  - Psychotherapy eliminates problems.
+  negative_ru:
+  - Ее игнорирование усугубляет.
+  negative_en:
+  - Ignoring it worsens.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: психотерапия
+Определение: Процесс помощи в эмоциональных проблемах, отличающийся от других процессов
+  профессиональностью.
+Синонимы: *id001
+Связи:
+- неудовлетворенности
+- саморазвитие
+- счастье
+Главы:
+- C9

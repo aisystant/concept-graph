@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/временные-масштабы-обучения
+name_ru: Временные масштабы обучения
+name_en: Learning Time Scales
+purpose_ru: Организует обучение во времени.
+purpose_en: Organizes learning over time.
+conceptType: System
+usageContext_ru: В образовании.
+usageContext_en: In education.
+synonyms_ru: &id001
+- Масштабы обучения
+synonyms_en:
+- Learning Scales
+not_this_ru: Не мгновенное.
+not_this_en: Not instantaneous.
+definition_ru: Система, заключающаяся в распределении обучения по временным периодам.
+definition_en: A system, characterized by distributing learning across time periods.
+summary_ru: ''
+summary_en: ''
+example_ru: Обучение на разных временных масштабах.
+example_en: Learning on various time scales.
+promptHint_ru: Адаптируйте обучение к масштабам.
+promptHint_en: Adapt learning to scales.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как этапы путешествия.
+metaphor_en: Like stages of a journey.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: временные масштабы внимания
+- relation: PART_OF
+  target_concept: методы обучения
+- relation: HAS_EXAMPLE
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Масштабы обучения повышают эффективность.
+  positive_en:
+  - Learning scales increase efficiency.
+  negative_ru:
+  - Игнорирование приводит к неравномерности.
+  negative_en:
+  - Ignoring leads to inconsistency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Временные масштабы обучения
+Определение: Система, заключающаяся в распределении обучения по временным периодам.
+Синонимы: *id001
+Связи:
+- временные масштабы внимания
+- методы обучения
+- системное мышление
+Главы:
+- C3

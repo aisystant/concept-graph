@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L5/concept/стадии-жизнедеятельности-потребление-информации
+name_ru: стадии жизнедеятельности – потребление информации
+name_en: stages of life activity – information consumption
+purpose_ru: Собирает знания.
+purpose_en: Gathers knowledge.
+conceptType: Процесс
+usageContext_ru: В общих стадиях.
+usageContext_en: In general stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является размышлением.
+not_this_en: Not reflection.
+definition_ru: Процесс, входящий в стадии жизнедеятельности, отличающийся сбором информации.
+definition_en: A process within life stages, distinguished by information gathering.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Стадия: чтение книг.'
+example_en: 'Stage: reading books.'
+promptHint_ru: Интегрируйте в рутину.
+promptHint_en: Integrate into routine.
+opposite_ru: Игнорирование информации
+opposite_en: Ignoring information
+metaphor_ru: Сбор урожая.
+metaphor_en: Harvesting.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: размышления
+- relation: RELATES_TO
+  target_concept: кругозор
+examples:
+  positive_ru:
+  - Регулярное потребление.
+  positive_en:
+  - Regular consumption.
+  negative_ru:
+  - Избирательное игнорирование.
+  negative_en:
+  - Selective ignoring.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: стадии жизнедеятельности – потребление информации
+Определение: Процесс, входящий в стадии жизнедеятельности, отличающийся сбором информации.
+Синонимы: *id001
+Связи:
+- кругозор
+- размышления
+- стадии жизнедеятельности
+Главы:
+- C5

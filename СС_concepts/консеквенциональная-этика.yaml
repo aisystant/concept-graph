@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/консеквенциональная-этика
+name_ru: Консеквенциональная этика
+name_en: Consequential Ethics
+purpose_ru: Оценивает действия по их последствиям.
+purpose_en: Evaluates actions based on their consequences.
+conceptType: Method
+usageContext_ru: В этике для анализа результатов.
+usageContext_en: In ethics for analyzing outcomes.
+synonyms_ru: &id001
+- Этика последствий
+synonyms_en:
+- Ethics of Consequences
+not_this_ru: Не фокусируется на средствах.
+not_this_en: It does not focus on means.
+definition_ru: Метод этического рассмотрения, заключающийся в оценке действий по их
+  результатам, отличающийся от подходов, основанных на правилах.
+definition_en: A method of ethical consideration, consisting of evaluating actions
+  by their results, distinguished from rule-based approaches.
+summary_ru: ''
+summary_en: ''
+example_ru: Консеквенциональная этика оправдывает средства, если цель блага.
+example_en: Consequential ethics justifies means if the end is good.
+promptHint_ru: Используйте для оценки последствий.
+promptHint_en: Use for evaluating consequences.
+opposite_ru: Деонтологическая этика
+opposite_en: Deontological Ethics
+metaphor_ru: Как взвешивание результатов.
+metaphor_en: Like weighing results.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: ответственность
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Решение, основанное на положительных последствиях.
+  positive_en:
+  - Decision based on positive consequences.
+  negative_ru:
+  - Игнорирование последствий в пользу правил.
+  negative_en:
+  - Ignoring consequences in favor of rules.
+discipline:
+  name_ru: Этика
+  name_en: Ethics
+  level: L3
+Название: Консеквенциональная этика
+Определение: Метод этического рассмотрения, заключающийся в оценке действий по их
+  результатам, отличающийся от подходов, основанных на правилах.
+Синонимы: *id001
+Связи:
+- ответственность
+- сострадание
+- этика
+Главы:
+- C8

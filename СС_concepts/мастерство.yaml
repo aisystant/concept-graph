@@ -1,0 +1,121 @@
+iri: https://system-school.ru/L9/concept/мастерство
+name_ru: мастерство
+name_en: mastery
+purpose_ru: Обеспечивает компетентность в действиях.
+purpose_en: Ensures competence in actions.
+conceptType: property
+usageContext_ru: В профессиональной и личной сфере.
+usageContext_en: In professional and personal spheres.
+synonyms_ru: &id001
+- экспертиза
+- профессионализм
+- Навык
+- Экспертиза
+- навыки
+synonyms_en:
+- expertise
+- professionalism
+- Skill
+- Expertise
+- skills
+not_this_ru: Не является инстинктом.
+not_this_en: Not instinct.
+definition_ru: Свойство, включающее навыки и знания, отличающееся от других свойств
+  приобретенностью.
+definition_en: A property including skills and knowledge, distinguished from other
+  properties by being acquired.
+summary_ru: ''
+summary_en: ''
+example_ru: Жизненное мастерство помогает в ролях.
+example_en: Life mastery helps in roles.
+promptHint_ru: Развивайте через практику.
+promptHint_en: Develop through practice.
+opposite_ru: неспособность
+opposite_en: inability
+metaphor_ru: Острое оружие.
+metaphor_en: Sharp weapon.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: life-mastery
+- relation: RELATES_TO
+  target_concept: professional-mastery
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: прикладное-профессиональное-мастерство
+- relation: PART_OF
+  target_concept: образованность
+- relation: HAS_EXAMPLE
+  target_concept: умение-делать
+- relation: IS_A
+  target_concept: собранность
+- relation: RELATES_TO
+  target_concept: продуктивность
+- relation: PART_OF
+  target_concept: трансдисциплина
+- relation: RELATES_TO
+  target_concept: квалификация
+- relation: RELATES_TO
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: инвестирование времени
+- relation: IS_A
+  target_concept: жизненное мастерство
+- relation: PART_OF
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: интеллект
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: роли
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Мастерство приводит к потоковым переживаниям.
+  positive_en:
+  - Mastery leads to flow experiences.
+  negative_ru:
+  - Его отсутствие вызывает неудачи.
+  negative_en:
+  - Its absence causes failures.
+discipline:
+  name_ru: Образование
+  name_en: Education
+  level: L2
+Название: мастерство
+Определение: Свойство, включающее навыки и знания, отличающееся от других свойств
+  приобретенностью.
+Синонимы: *id001
+Связи:
+- life-mastery
+- professional-mastery
+- self-development
+- жизненное мастерство
+- инвестирование времени
+- интеллект
+- квалификация
+- личность
+- образованность
+- прикладное-профессиональное-мастерство
+- продуктивность
+- ролевое мастерство
+- роли
+- саморазвитие
+- собранность
+- трансдисциплина
+- умение-делать
+- успех
+Главы:
+- C1
+- C2
+- C3
+- C5
+- C8
+- C9

@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L8/concept/интеллект
+name_ru: Интеллект
+name_en: Intelligence
+purpose_ru: Обеспечивает обработку информации и принятие решений.
+purpose_en: Provides information processing and decision-making.
+conceptType: Property
+usageContext_ru: В контексте личности и ИИ для анализа мышления.
+usageContext_en: In the context of personality and AI for analyzing thinking.
+synonyms_ru: &id001
+- мыслительное мастерство
+- Разум
+synonyms_en:
+- thinking mastery
+- Mind
+not_this_ru: Не является только знаниями.
+not_this_en: It is not just knowledge.
+definition_ru: Свойство, заключающееся в способности к мышлению и адаптации, отличающееся
+  у человека и ИИ.
+definition_en: A property consisting of the ability for thinking and adaptation, differing
+  between humans and AI.
+summary_ru: ''
+summary_en: ''
+example_ru: Интеллект помогает в принятии решений для устранения неудовлетворенностей.
+example_en: Intelligence aids in decision-making to eliminate dissatisfactions.
+promptHint_ru: Используйте для оценки когнитивных способностей.
+promptHint_en: Use for evaluating cognitive abilities.
+opposite_ru: Глупость
+opposite_en: Stupidity
+metaphor_ru: Как компьютерный процессор.
+metaphor_en: Like a computer processor.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: life-mastery
+- relation: RELATES_TO
+  target_concept: agency
+- relation: IS_A
+  target_concept: жизненное мастерство
+- relation: PART_OF
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: познание
+examples:
+  positive_ru:
+  - Высокий интеллект для решения проблем.
+  positive_en:
+  - High intelligence for problem-solving.
+  negative_ru:
+  - Низкий интеллект, приводящий к ошибкам.
+  negative_en:
+  - Low intelligence leading to errors.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Интеллект
+Определение: Свойство, заключающееся в способности к мышлению и адаптации, отличающееся
+  у человека и ИИ.
+Синонимы: *id001
+Связи:
+- agency
+- life-mastery
+- thinking
+- жизненное мастерство
+- личность
+- познание
+Главы:
+- C1
+- C8

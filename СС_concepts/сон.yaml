@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/сон
+name_ru: сон
+name_en: sleep
+purpose_ru: Восстанавливает силы и здоровье.
+purpose_en: Restores energy and health.
+conceptType: Process
+usageContext_ru: В контексте повседневной жизни.
+usageContext_en: In the context of daily life.
+synonyms_ru: &id001
+- отдых
+synonyms_en:
+- rest
+not_this_ru: Не является бодрствованием.
+not_this_en: Not wakefulness.
+definition_ru: Процесс восстановления организма через фазы сна.
+definition_en: A process of organism restoration through sleep phases.
+summary_ru: ''
+summary_en: ''
+example_ru: Регулярный сон для продуктивности.
+example_en: Regular sleep for productivity.
+promptHint_ru: Используйте в расписании.
+promptHint_en: Use in scheduling.
+opposite_ru: Бессонница
+opposite_en: Insomnia
+metaphor_ru: Как перезагрузка.
+metaphor_en: Like a reboot.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: здоровье
+- relation: PART_OF
+  target_concept: досуг
+- relation: HAS_EXAMPLE
+  target_concept: отдых
+examples:
+  positive_ru:
+  - Здоровый сон для восстановления.
+  positive_en:
+  - Healthy sleep for restoration.
+  negative_ru:
+  - Недосыпание, влияющее на производительность.
+  negative_en:
+  - Sleep deprivation affecting performance.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: сон
+Определение: Процесс восстановления организма через фазы сна.
+Синонимы: *id001
+Связи:
+- досуг
+- здоровье
+- отдых
+Главы:
+- C2

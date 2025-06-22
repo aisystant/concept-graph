@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/сверхзадача
+name_ru: сверхзадача
+name_en: super task
+purpose_ru: Вызывает вызов и рост.
+purpose_en: Provokes challenge and growth.
+conceptType: object
+usageContext_ru: В амбициозных целях.
+usageContext_en: In ambitious goals.
+synonyms_ru: &id001
+- вызов
+synonyms_en:
+- challenge
+not_this_ru: Не является рутинной.
+not_this_en: Not routine.
+definition_ru: Объект, представляющий сложную задачу, отличающийся от других объектов
+  своей новизной.
+definition_en: An object representing a complex task, distinguished from other objects
+  by its novelty.
+summary_ru: ''
+summary_en: ''
+example_ru: Сверхзадача требует полной мобилизации.
+example_en: A super task requires full mobilization.
+promptHint_ru: Берите для теста.
+promptHint_en: Take for testing.
+opposite_ru: простая задача
+opposite_en: simple task
+metaphor_ru: Гора для восхождения.
+metaphor_en: Mountain for climbing.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: задачи
+- relation: RELATES_TO
+  target_concept: сверхцель
+- relation: RELATES_TO
+  target_concept: агентность
+examples:
+  positive_ru:
+  - Сверхзадача развивает мастерство.
+  positive_en:
+  - Super task develops mastery.
+  negative_ru:
+  - Ее избегание приводит к застою.
+  negative_en:
+  - Avoiding it leads to stagnation.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: сверхзадача
+Определение: Объект, представляющий сложную задачу, отличающийся от других объектов
+  своей новизной.
+Синонимы: *id001
+Связи:
+- агентность
+- задачи
+- сверхцель
+Главы:
+- C9

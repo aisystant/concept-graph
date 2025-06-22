@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/трата-времени
+name_ru: трата времени
+name_en: time spending
+purpose_ru: Включает расход времени на активности.
+purpose_en: Involves spending time on activities.
+conceptType: Process
+usageContext_ru: В контексте повседневной жизни.
+usageContext_en: In the context of daily life.
+synonyms_ru: &id001
+- расход времени
+synonyms_en:
+- time expenditure
+not_this_ru: Не является инвестированием.
+not_this_en: Not investment.
+definition_ru: Процесс, где время тратится без долгосрочной выгоды.
+definition_en: A process where time is spent without long-term benefit.
+summary_ru: ''
+summary_en: ''
+example_ru: Трата времени на развлечения.
+example_en: Spending time on entertainment.
+promptHint_ru: Избегайте неэффективной траты.
+promptHint_en: Avoid inefficient spending.
+opposite_ru: Инвестирование времени
+opposite_en: Time investment
+metaphor_ru: Как расход топлива.
+metaphor_en: Like fuel consumption.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: потеря-времени
+- relation: HAS_EXAMPLE
+  target_concept: работа
+examples:
+  positive_ru:
+  - Осознанная трата времени на отдых.
+  positive_en:
+  - Conscious spending of time on rest.
+  negative_ru:
+  - Бесполезная трата, приводящая к сожалениям.
+  negative_en:
+  - Useless spending leading to regrets.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: трата времени
+Определение: Процесс, где время тратится без долгосрочной выгоды.
+Синонимы: *id001
+Связи:
+- время
+- потеря-времени
+- работа
+Главы:
+- C2

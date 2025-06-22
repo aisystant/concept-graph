@@ -1,0 +1,78 @@
+iri: https://system-school.ru/L7/concept/деятельность
+name_ru: деятельность
+name_en: activity
+purpose_ru: Процесс создания или использования систем.
+purpose_en: The process of creating or using systems.
+conceptType: process
+usageContext_ru: В инженерии и повседневной жизни.
+usageContext_en: In engineering and daily life.
+synonyms_ru: &id001
+- работа
+- процесс
+synonyms_en:
+- work
+- process
+not_this_ru: Не является пассивным состоянием.
+not_this_en: It is not a passive state.
+definition_ru: Процесс (genus), включающий целенаправленные действия для изменения
+  систем (differentia).
+definition_en: A process (genus) that involves deliberate actions to change systems
+  (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Инженерная деятельность по разработке продукта.
+example_en: Engineering activity in product development.
+promptHint_ru: Опишите деятельность для планирования задач.
+promptHint_en: Describe the activity for task planning.
+opposite_ru: Бездействие.
+opposite_en: Inaction.
+metaphor_ru: Деятельность как поток действий.
+metaphor_en: Activity as a flow of actions.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: метод
+- relation: RELATES_TO
+  target_concept: система
+- relation: PART_OF
+  target_concept: инженерия
+- relation: HAS_EXAMPLE
+  target_concept: инженер
+- relation: ALIGNS_WITH
+  target_concept: трансдисциплина
+- relation: IS_A
+  target_concept: системные уровни
+examples:
+  positive_ru:
+  - Целенаправленная инженерная деятельность.
+  positive_en:
+  - Deliberate engineering activity.
+  negative_ru:
+  - Случайные действия.
+  negative_en:
+  - Random actions.
+discipline:
+  name_ru: Деятельность
+  name_en: Activity
+  level: L2
+Название: деятельность
+Определение: Процесс (genus), включающий целенаправленные действия для изменения систем
+  (differentia).
+Синонимы: *id001
+Связи:
+- инженер
+- инженерия
+- метод
+- роль
+- система
+- системные уровни
+- трансдисциплина
+Главы:
+- C5
+- C7

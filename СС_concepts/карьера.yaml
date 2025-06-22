@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/карьера
+name_ru: карьера
+name_en: career
+purpose_ru: Описывает профессиональный и должностной рост.
+purpose_en: Describes professional and positional growth.
+conceptType: Процесс
+usageContext_ru: В личном развитии.
+usageContext_en: In personal development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является случайным продвижением.
+not_this_en: Not random advancement.
+definition_ru: Процесс, включающий рост в профессии и должности, отличающийся освоением
+  методов и созданием систем.
+definition_en: A process involving growth in profession and position, distinguished
+  by mastering methods and creating systems.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Карьера: от специалиста к директору.'
+example_en: 'Career: from specialist to director.'
+promptHint_ru: Планируйте для достижения целей.
+promptHint_en: Plan to achieve goals.
+opposite_ru: Статичная позиция
+opposite_en: Static position
+metaphor_ru: Восхождение по лестнице.
+metaphor_en: Climbing a ladder.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: должность
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: мастерство
+examples:
+  positive_ru:
+  - Успешная карьера через обучение.
+  positive_en:
+  - Successful career through learning.
+  negative_ru:
+  - Карьера без навыков.
+  negative_en:
+  - Career without skills.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: карьера
+Определение: Процесс, включающий рост в профессии и должности, отличающийся освоением
+  методов и созданием систем.
+Синонимы: *id001
+Связи:
+- должность
+- мастерство
+- роль
+Главы:
+- C5

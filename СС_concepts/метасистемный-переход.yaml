@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/метасистемный-переход
+name_ru: метасистемный переход
+name_en: metasystem transition
+purpose_ru: Описывает переход между системными уровнями.
+purpose_en: Describes the transition between systemic levels.
+conceptType: process
+usageContext_ru: В системном мышлении для анализа эмерджентности.
+usageContext_en: In systemic thinking for analyzing emergence.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является статичным состоянием.
+not_this_en: Not a static state.
+definition_ru: Процесс перехода с одного системного уровня на другой, отличающийся
+  появлением новых свойств.
+definition_en: A process of transitioning from one systemic level to another, distinguished
+  by the emergence of new properties.
+summary_ru: ''
+summary_en: ''
+example_ru: Переход от мотора к автомобилю как метасистемный переход.
+example_en: Transition from engine to car as a metasystem transition.
+promptHint_ru: Используйте для изучения иерархии.
+promptHint_en: Use for studying hierarchy.
+opposite_ru: Статичность
+opposite_en: Staticness
+metaphor_ru: Лестница уровней.
+metaphor_en: Staircase of levels.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: эмерджентность
+- relation: RELATES_TO
+  target_concept: системные уровни
+- relation: PART_OF
+  target_concept: система
+examples:
+  positive_ru:
+  - Переход в автомобиле.
+  positive_en:
+  - Transition in a car.
+  negative_ru:
+  - Оставаться на одном уровне.
+  negative_en:
+  - Remaining on one level.
+discipline:
+  name_ru: Системология
+  name_en: Systemology
+  level: L3
+Название: метасистемный переход
+Определение: Процесс перехода с одного системного уровня на другой, отличающийся появлением
+  новых свойств.
+Синонимы: *id001
+Связи:
+- система
+- системные уровни
+- эмерджентность
+Главы:
+- C6

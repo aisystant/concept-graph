@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L9/concept/итерация
+name_ru: итерация
+name_en: iteration
+purpose_ru: Позволяет тестировать и улучшать.
+purpose_en: Allows testing and improving.
+conceptType: process
+usageContext_ru: В развитии и проектировании.
+usageContext_en: In development and design.
+synonyms_ru: &id001
+- Цикл
+- повторение
+synonyms_en:
+- Cycle
+- repetition
+not_this_ru: Не является статичным.
+not_this_en: Not static.
+definition_ru: Процесс повторных действий для улучшения, отличающийся от других процессов
+  цикличностью.
+definition_en: A process of repeated actions for improvement, distinguished from other
+  processes by its cyclical nature.
+summary_ru: ''
+summary_en: ''
+example_ru: Итерация в разработке продукта приводит к инкрементам.
+example_en: Iteration in product development leads to increments.
+promptHint_ru: Используйте для экспериментов.
+promptHint_en: Use for experiments.
+opposite_ru: одноразовое действие
+opposite_en: one-time action
+metaphor_ru: Круговорот улучшений.
+metaphor_en: Cycle of improvements.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: инкремент
+- relation: PART_OF
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: жизненное мастерство
+- relation: RELATES_TO
+  target_concept: инкремент
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Итерация ускоряет успех.
+  positive_en:
+  - Iteration accelerates success.
+  negative_ru:
+  - Без итерации возникают ошибки.
+  negative_en:
+  - Without iteration, errors occur.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: итерация
+Определение: Процесс повторных действий для улучшения, отличающийся от других процессов
+  цикличностью.
+Синонимы: *id001
+Связи:
+- бесконечное развитие
+- жизненное мастерство
+- инкремент
+- саморазвитие
+Главы:
+- C8
+- C9

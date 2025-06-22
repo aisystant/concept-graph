@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/связь-психологии-и-системного-мышления
+name_ru: связь психологии и системного мышления
+name_en: connection of psychology and systemic thinking
+purpose_ru: Интегрирует подходы для развития.
+purpose_en: Integrates approaches for development.
+conceptType: Объект
+usageContext_ru: В анализе неудовлетворенностей.
+usageContext_en: In dissatisfaction analysis.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является изолированным подходом.
+not_this_en: Not an isolated approach.
+definition_ru: Объект, связывающий психологию и системное мышление, отличающийся использованием
+  ролей для устранения проблем.
+definition_en: An object linking psychology and systemic thinking, distinguished by
+  using roles to eliminate problems.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Связь: устранение неудовлетворенностей через роли.'
+example_en: 'Connection: eliminating dissatisfactions through roles.'
+promptHint_ru: Применяйте для комплексного анализа.
+promptHint_en: Apply for comprehensive analysis.
+opposite_ru: Отдельные дисциплины
+opposite_en: Separate disciplines
+metaphor_ru: Слияние потоков.
+metaphor_en: Merging streams.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Интегрированная связь в развитии.
+  positive_en:
+  - Integrated connection in development.
+  negative_ru:
+  - Изолированное использование психологии.
+  negative_en:
+  - isolated use of psychology.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: связь психологии и системного мышления
+Определение: Объект, связывающий психологию и системное мышление, отличающийся использованием
+  ролей для устранения проблем.
+Синонимы: *id001
+Связи:
+- неудовлетворенность
+- роль
+- системное мышление
+Главы:
+- C5

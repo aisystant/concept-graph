@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/предпочтения
+name_ru: Предпочтения
+name_en: Preferences
+purpose_ru: Определяют выборы в ролях.
+purpose_en: Determine choices in roles.
+conceptType: Property
+usageContext_ru: В принятии решений для ролей.
+usageContext_en: In decision-making for roles.
+synonyms_ru: &id001
+- Выборы
+synonyms_en:
+- Choices
+not_this_ru: Не являются универсальными.
+not_this_en: They are not universal.
+definition_ru: Свойство, заключающееся в индивидуальных склонностях, влияющих на роли,
+  отличающееся от общих интересов.
+definition_en: A property consisting of individual inclinations influencing roles,
+  distinguished from general interests.
+summary_ru: ''
+summary_en: ''
+example_ru: Предпочтения определяют ролевые интересы.
+example_en: Preferences determine role interests.
+promptHint_ru: Используйте для анализа выборов.
+promptHint_en: Use for analyzing choices.
+opposite_ru: Отсутствие предпочтений
+opposite_en: Lack of preferences
+metaphor_ru: Как личный фильтр.
+metaphor_en: Like a personal filter.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: роль
+- relation: PART_OF
+  target_concept: ролевой интерес
+- relation: RELATES_TO
+  target_concept: желания
+examples:
+  positive_ru:
+  - Личные предпочтения в ролях.
+  positive_en:
+  - Personal preferences in roles.
+  negative_ru:
+  - Игнорирование предпочтений.
+  negative_en:
+  - Ignoring preferences.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: Предпочтения
+Определение: Свойство, заключающееся в индивидуальных склонностях, влияющих на роли,
+  отличающееся от общих интересов.
+Синонимы: *id001
+Связи:
+- желания
+- ролевой интерес
+- роль
+Главы:
+- C8

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/образование
+name_ru: образование
+name_en: education
+purpose_ru: Развивает интеллект через трансдисциплины.
+purpose_en: Develops intelligence through transdisciplines.
+conceptType: Process
+usageContext_ru: В контексте личностного роста.
+usageContext_en: In the context of personal growth.
+synonyms_ru: &id001
+- обучение
+synonyms_en:
+- training
+not_this_ru: Не является профессиональным обучением.
+not_this_en: Not professional training.
+definition_ru: Процесс, направленный на освоение трансдисциплин для усиления интеллекта.
+definition_en: A process aimed at mastering transdisciplines to enhance intelligence.
+summary_ru: ''
+summary_en: ''
+example_ru: Образование в Мастерской инженеров-менеджеров.
+example_en: Education in the Workshop of Engineers-Managers.
+promptHint_ru: Используйте для планирования обучения.
+promptHint_en: Use for planning learning.
+opposite_ru: Незнание
+opposite_en: Ignorance
+metaphor_ru: Как строительство фундамента.
+metaphor_en: Like building a foundation.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: интеллект-стек
+- relation: PART_OF
+  target_concept: образованность
+- relation: HAS_EXAMPLE
+  target_concept: мыслительное-мастерство
+examples:
+  positive_ru:
+  - Получение образования для карьерного роста.
+  positive_en:
+  - Getting education for career growth.
+  negative_ru:
+  - Отсутствие образования, ограничивающее возможности.
+  negative_en:
+  - Lack of education limiting opportunities.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: образование
+Определение: Процесс, направленный на освоение трансдисциплин для усиления интеллекта.
+Синонимы: *id001
+Связи:
+- интеллект-стек
+- мыслительное-мастерство
+- образованность
+Главы:
+- C2

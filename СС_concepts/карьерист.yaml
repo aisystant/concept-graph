@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/карьерист
+name_ru: карьерист
+name_en: careerist
+purpose_ru: Фокусируется на личном продвижении.
+purpose_en: Focuses on personal advancement.
+conceptType: Объект
+usageContext_ru: В противопоставлении создателю.
+usageContext_en: In contrast to creator.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является создателем.
+not_this_en: Not a creator.
+definition_ru: Объект, представляющий человека, ориентированного на личные цели, отличающийся
+  игнорированием системных изменений.
+definition_en: An object representing a person oriented toward personal goals, distinguished
+  by ignoring systemic changes.
+summary_ru: ''
+summary_en: ''
+example_ru: Карьерист, стремящийся к власти.
+example_en: Careerist striving for power.
+promptHint_ru: Избегайте в пользу создания.
+promptHint_en: Avoid in favor of creation.
+opposite_ru: Создатель
+opposite_en: Creator
+metaphor_ru: Лестничник без цели.
+metaphor_en: Ladder climber without purpose.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: карьера
+- relation: RELATES_TO
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+examples:
+  positive_ru:
+  - Карьерист в корпоративной среде.
+  positive_en:
+  - Careerist in corporate environment.
+  negative_ru:
+  - Человек, фокусирующийся на изменениях.
+  negative_en:
+  - Person focusing on changes.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: карьерист
+Определение: Объект, представляющий человека, ориентированного на личные цели, отличающийся
+  игнорированием системных изменений.
+Синонимы: *id001
+Связи:
+- карьера
+- неудовлетворенность
+- создатель
+Главы:
+- C5

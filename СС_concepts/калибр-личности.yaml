@@ -1,0 +1,81 @@
+iri: https://system-school.ru/L9/concept/калибр-личности
+name_ru: калибр личности
+name_en: personality caliber
+purpose_ru: Определяет масштаб амбиций и влияния.
+purpose_en: Determines the scale of ambitions and influence.
+conceptType: property
+usageContext_ru: В самооценке и развитии.
+usageContext_en: In self-assessment and development.
+synonyms_ru: &id001
+- масштаб личности
+- Масштаб личности
+- уровень личности
+synonyms_en:
+- scale of personality
+- Scale of personality
+- personality level
+not_this_ru: Не является поверхностным успехом.
+not_this_en: Not superficial success.
+definition_ru: Свойство личности, отражающее способность к большим целям, отличающееся
+  от других свойств глубиной и масштабом.
+definition_en: A property of personality reflecting the ability for great goals, distinguished
+  from other properties by depth and scale.
+summary_ru: ''
+summary_en: ''
+example_ru: Высокий калибр личности позволяет ставить великие идеи.
+example_en: High personality caliber allows setting great ideas.
+promptHint_ru: Оценивайте для роста.
+promptHint_en: Evaluate for growth.
+opposite_ru: низкий калибр
+opposite_en: low caliber
+metaphor_ru: Глубина океана.
+metaphor_en: Depth of the ocean.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: личность
+- relation: HAS_EXAMPLE
+  target_concept: кругозор
+- relation: PART_OF
+  target_concept: характеристика человека
+- relation: HAS_EXAMPLE
+  target_concept: системные уровни
+- relation: RELATES_TO
+  target_concept: сверхцель
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Высокий калибр приводит к изменениям мира.
+  positive_en:
+  - High caliber leads to world changes.
+  negative_ru:
+  - Низкий калибр ограничивает достижения.
+  negative_en:
+  - Low caliber limits achievements.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: калибр личности
+Определение: Свойство личности, отражающее способность к большим целям, отличающееся
+  от других свойств глубиной и масштабом.
+Синонимы: *id001
+Связи:
+- агентность
+- кругозор
+- личность
+- сверхцель
+- системные уровни
+- успех
+- характеристика человека
+Главы:
+- C2
+- C4
+- C9

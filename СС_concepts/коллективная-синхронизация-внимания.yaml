@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/коллективная-синхронизация-внимания
+name_ru: Коллективная синхронизация внимания
+name_en: Collective Attention Synchronization
+purpose_ru: Координирует внимание группы.
+purpose_en: Coordinates group attention.
+conceptType: Process
+usageContext_ru: В командах.
+usageContext_en: In teams.
+synonyms_ru: &id001
+- Групповая синхронизация
+synonyms_en:
+- Group Synchronization
+not_this_ru: Не индивидуальное.
+not_this_en: Not individual.
+definition_ru: Процесс, заключающийся в совместном фокусировании внимания членов группы.
+definition_en: A process, characterized by joint focusing of group members' attention.
+summary_ru: ''
+summary_en: ''
+example_ru: Синхронизация в командной работе.
+example_en: Synchronization in team work.
+promptHint_ru: Синхронизируйте внимание в группах.
+promptHint_en: Synchronize attention in groups.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как оркестр в унисон.
+metaphor_en: Like an orchestra in unison.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: трансдисциплина
+- relation: HAS_EXAMPLE
+  target_concept: экзокортекс
+examples:
+  positive_ru:
+  - Синхронизация улучшает командную работу.
+  positive_en:
+  - Synchronization improves team work.
+  negative_ru:
+  - Отсутствие приводит к разногласиям.
+  negative_en:
+  - Absence leads to disagreements.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Коллективная синхронизация внимания
+Определение: Процесс, заключающийся в совместном фокусировании внимания членов группы.
+Синонимы: *id001
+Связи:
+- внимание
+- трансдисциплина
+- экзокортекс
+Главы:
+- C3

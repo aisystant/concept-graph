@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L6/concept/системное-описание
+name_ru: системное описание
+name_en: systemic description
+purpose_ru: Создает полное описание системы.
+purpose_en: Creates a complete description of the system.
+conceptType: description
+usageContext_ru: В системном мышлении для проектирования.
+usageContext_en: In systemic thinking for designing.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является частичным описанием.
+not_this_en: Not a partial description.
+definition_ru: Описание, охватывающее все аспекты системы, отличающееся от неполных.
+definition_en: A description covering all aspects of the system, distinguished from
+  incomplete ones.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное описание проекта.
+example_en: Systemic description of a project.
+promptHint_ru: Создавайте для успеха.
+promptHint_en: Create for success.
+opposite_ru: Частичное описание
+opposite_en: Partial description
+metaphor_ru: Полная картина.
+metaphor_en: Complete picture.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: модель системы
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: PART_OF
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Описание с учетом всех интересов.
+  positive_en:
+  - Description considering all interests.
+  negative_ru:
+  - Описание без ключевых элементов.
+  negative_en:
+  - Description without key elements.
+discipline:
+  name_ru: Моделирование
+  name_en: Modeling
+  level: L3
+Название: системное описание
+Определение: Описание, охватывающее все аспекты системы, отличающееся от неполных.
+Синонимы: *id001
+Связи:
+- модель системы
+- системное мышление
+- успешная система
+Главы:
+- C6

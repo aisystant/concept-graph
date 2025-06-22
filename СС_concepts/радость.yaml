@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/радость
+name_ru: радость
+name_en: joy
+purpose_ru: Улучшает эмоциональное благополучие.
+purpose_en: Improves emotional well-being.
+conceptType: property
+usageContext_ru: В эмоциональных переживаниях.
+usageContext_en: In emotional experiences.
+synonyms_ru: &id001
+- счастье
+synonyms_en:
+- happiness
+not_this_ru: Не является постоянным.
+not_this_en: Not permanent.
+definition_ru: Свойство переживаний, вызывающее положительные эмоции, отличающееся
+  от других свойств своей интенсивностью.
+definition_en: A property of experiences causing positive emotions, distinguished
+  from other properties by its intensity.
+summary_ru: ''
+summary_en: ''
+example_ru: Радость от создания систем мотивирует.
+example_en: Joy from creating systems motivates.
+promptHint_ru: Ищите в деятельности.
+promptHint_en: Seek in activities.
+opposite_ru: грусть
+opposite_en: sadness
+metaphor_ru: Солнечный свет.
+metaphor_en: Sunlight.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: впечатления
+- relation: RELATES_TO
+  target_concept: счастье
+- relation: RELATES_TO
+  target_concept: переживания
+examples:
+  positive_ru:
+  - Радость укрепляет.
+  positive_en:
+  - Joy strengthens.
+  negative_ru:
+  - Ее отсутствие ослабляет.
+  negative_en:
+  - Its absence weakens.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: радость
+Определение: Свойство переживаний, вызывающее положительные эмоции, отличающееся от
+  других свойств своей интенсивностью.
+Синонимы: *id001
+Связи:
+- впечатления
+- переживания
+- счастье
+Главы:
+- C9

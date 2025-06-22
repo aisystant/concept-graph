@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/эшелонированный-досуг
+name_ru: Эшелонированный досуг
+name_en: Echeloned Leisure
+purpose_ru: Обеспечивает восстановление.
+purpose_en: Provides restoration.
+conceptType: Process
+usageContext_ru: В отдыхе.
+usageContext_en: In rest.
+synonyms_ru: &id001
+- Ступенчатый отдых
+synonyms_en:
+- Staggered Rest
+not_this_ru: Не пассивный.
+not_this_en: Not passive.
+definition_ru: Процесс, заключающийся в чередовании видов отдыха на разных масштабах.
+definition_en: A process, characterized by alternating rest types on different scales.
+summary_ru: ''
+summary_en: ''
+example_ru: Эшелонированный досуг включает перерывы и долгосрочный отдых.
+example_en: Echeloned leisure includes breaks and long-term rest.
+promptHint_ru: Организуйте досуг эшелонированно.
+promptHint_en: Organize leisure echelonedly.
+opposite_ru: Нерасчлененный отдых
+opposite_en: Unstructured Rest
+metaphor_ru: Как многоуровневая защита.
+metaphor_en: Like multi-level protection.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: временные масштабы внимания
+examples:
+  positive_ru:
+  - Эшелонированный досуг предотвращает выгорание.
+  positive_en:
+  - Echeloned leisure prevents burnout.
+  negative_ru:
+  - Отсутствие досуга приводит к усталости.
+  negative_en:
+  - Lack of leisure leads to fatigue.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Эшелонированный досуг
+Определение: Процесс, заключающийся в чередовании видов отдыха на разных масштабах.
+Синонимы: *id001
+Связи:
+- внимание
+- временные масштабы внимания
+- управление вниманием
+Главы:
+- C3

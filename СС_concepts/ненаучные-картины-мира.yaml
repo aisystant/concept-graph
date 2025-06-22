@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/ненаучные-картины-мира
+name_ru: ненаучные картины мира
+name_en: non-scientific-worldview
+purpose_ru: Обеспечивает эмоциональную поддержку.
+purpose_en: Provides emotional support.
+conceptType: model
+usageContext_ru: В повседневной жизни и культуре.
+usageContext_en: In everyday life and culture.
+synonyms_ru: &id001
+- мифы
+synonyms_en:
+- myths
+not_this_ru: Не является проверенной.
+not_this_en: Not verified.
+definition_ru: Модель, заключающаяся в неформальных объяснениях, отличающаяся от научных
+  через отсутствие проверки.
+definition_en: A model consisting of informal explanations, differentiated from scientific
+  by lack of verification.
+summary_ru: ''
+summary_en: ''
+example_ru: Ненаучные картины мира, как мифы, помогают справляться с беспокойством.
+example_en: Non-scientific worldviews, like myths, help cope with anxiety.
+promptHint_ru: Используйте осторожно.
+promptHint_en: Use with caution.
+opposite_ru: научные картины мира
+opposite_en: scientific-worldview
+metaphor_ru: Утешительная иллюзия.
+metaphor_en: Comforting illusion.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: OPPOSITE_OF
+  target_concept: scientific-worldview
+- relation: RELATES_TO
+  target_concept: world-picture
+- relation: RELATES_TO
+  target_concept: culture
+examples:
+  positive_ru:
+  - Ненаучные картины мира успокаивают.
+  positive_en:
+  - Non-scientific worldviews soothe.
+  negative_ru:
+  - Они могут вводить в заблуждение.
+  negative_en:
+  - They can mislead.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L2
+Название: ненаучные картины мира
+Определение: Модель, заключающаяся в неформальных объяснениях, отличающаяся от научных
+  через отсутствие проверки.
+Синонимы: *id001
+Связи:
+- culture
+- scientific-worldview
+- world-picture
+Главы:
+- C1

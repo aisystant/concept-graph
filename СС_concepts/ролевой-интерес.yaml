@@ -1,0 +1,85 @@
+iri: https://system-school.ru/L8/concept/ролевой-интерес
+name_ru: Ролевой интерес
+name_en: Role Interest
+purpose_ru: Связан с предпочтениями в ролях.
+purpose_en: Related to preferences in roles.
+conceptType: Property
+usageContext_ru: В системах для мотивации.
+usageContext_en: In systems for motivation.
+synonyms_ru: &id001
+- интерес к системе
+- Интерес к роли
+synonyms_en:
+- interest in system
+- Interest in Role
+not_this_ru: Не является личным интересом.
+not_this_en: It is not personal interest.
+definition_ru: Свойство, заключающееся в интересах, связанных с ролью, отличающееся
+  от агентных неудовлетворенностей.
+definition_en: A property consisting of interests related to a role, distinguished
+  from agent dissatisfactions.
+summary_ru: ''
+summary_en: ''
+example_ru: Ролевой интерес одинаков для разных агентов.
+example_en: Role interest is the same for different agents.
+promptHint_ru: Используйте для анализа мотиваций ролей.
+promptHint_en: Use for analyzing role motivations.
+opposite_ru: Безразличие к роли
+opposite_en: Indifference to role
+metaphor_ru: Как фокус роли.
+metaphor_en: Like the focus of a role.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: проектная роль
+- relation: RELATES_TO
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: IS_A
+  target_concept: проектные роли
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: PART_OF
+  target_concept: системное описание
+- relation: IS_A
+  target_concept: роль
+- relation: PART_OF
+  target_concept: предпочтения
+- relation: RELATES_TO
+  target_concept: агентность
+examples:
+  positive_ru:
+  - Интерес, мотивирующий роль.
+  positive_en:
+  - Interest motivating a role.
+  negative_ru:
+  - Отсутствие интереса к роли.
+  negative_en:
+  - Lack of interest in a role.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systems Thinking
+  level: L3
+Название: Ролевой интерес
+Определение: Свойство, заключающееся в интересах, связанных с ролью, отличающееся
+  от агентных неудовлетворенностей.
+Синонимы: *id001
+Связи:
+- агентность
+- неудовлетворенность
+- предпочтения
+- проектная роль
+- проектные роли
+- роль
+- система
+- системное описание
+- успешная система
+Главы:
+- C5
+- C6
+- C8

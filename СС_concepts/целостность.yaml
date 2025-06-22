@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/целостность
+name_ru: целостность
+name_en: integrity
+purpose_ru: Обеспечивает единство системы.
+purpose_en: Ensures unity of the system.
+conceptType: property
+usageContext_ru: В системном подходе для границ.
+usageContext_en: In systemic approach for boundaries.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является разрозненностью.
+not_this_en: Not fragmentation.
+definition_ru: Свойство системы, заключающееся в сильных связях частей, отличающееся
+  от изолированных.
+definition_en: A property of the system, consisting of strong part connections, distinguished
+  from isolated.
+summary_ru: ''
+summary_en: ''
+example_ru: Целостность автомобиля.
+example_en: Integrity of a car.
+promptHint_ru: Проверяйте в анализе.
+promptHint_en: Check in analysis.
+opposite_ru: Раздробленность
+opposite_en: Fragmentation
+metaphor_ru: Единый организм.
+metaphor_en: Unified organism.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: свойства системы
+- relation: RELATES_TO
+  target_concept: система
+- relation: PART_OF
+  target_concept: вложенность
+examples:
+  positive_ru:
+  - Единая система.
+  positive_en:
+  - Unified system.
+  negative_ru:
+  - Разрозненные части.
+  negative_en:
+  - Scattered parts.
+discipline:
+  name_ru: Системология
+  name_en: Systemology
+  level: L3
+Название: целостность
+Определение: Свойство системы, заключающееся в сильных связях частей, отличающееся
+  от изолированных.
+Синонимы: *id001
+Связи:
+- вложенность
+- свойства системы
+- система
+Главы:
+- C6

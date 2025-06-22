@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L9/concept/успех
+name_ru: успех
+name_en: success
+purpose_ru: Достигается через создание систем.
+purpose_en: Achieved through creating systems.
+conceptType: property
+usageContext_ru: В достижениях.
+usageContext_en: In achievements.
+synonyms_ru: &id001
+- Достижение
+- достижение
+synonyms_en:
+- Achievement
+- achievement
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Свойство результата, означающее удовлетворение интересов, отличающееся
+  от других свойств своей внешней оценкой.
+definition_en: A property of result meaning interest satisfaction, distinguished from
+  other properties by its external evaluation.
+summary_ru: ''
+summary_en: ''
+example_ru: Успех как счастье для других.
+example_en: Success as happiness for others.
+promptHint_ru: Стремитесь этично.
+promptHint_en: Strive ethically.
+opposite_ru: неудача
+opposite_en: failure
+metaphor_ru: Вершина горы.
+metaphor_en: Mountain peak.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: проблема
+- relation: PART_OF
+  target_concept: мотивация
+- relation: HAS_EXAMPLE
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: RELATES_TO
+  target_concept: счастье
+- relation: RELATES_TO
+  target_concept: интересная жизнь
+examples:
+  positive_ru:
+  - Успех мотивирует.
+  positive_en:
+  - Success motivates.
+  negative_ru:
+  - Его отсутствие разочаровывает.
+  negative_en:
+  - Its absence disappoints.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: успех
+Определение: Свойство результата, означающее удовлетворение интересов, отличающееся
+  от других свойств своей внешней оценкой.
+Синонимы: *id001
+Связи:
+- агентность
+- интересная жизнь
+- мотивация
+- проблема
+- счастье
+- успешная система
+Главы:
+- C4
+- C9

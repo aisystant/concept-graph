@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/намерение
+name_ru: Намерение
+name_en: Intention
+purpose_ru: Задавать направление действий.
+purpose_en: To set direction for actions.
+conceptType: object
+usageContext_ru: В мотивации и планировании.
+usageContext_en: In motivation and planning.
+synonyms_ru: &id001
+- Цель
+synonyms_en:
+- Goal
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Объект, представляющий структурированное стремление, отличаясь от мотивации
+  тем, что включает конкретные шаги.
+definition_en: Object representing structured aspiration, differing from motivation
+  by including specific steps.
+summary_ru: ''
+summary_en: ''
+example_ru: Намерение приводит к выполнению задач.
+example_en: Intention leads to task completion.
+promptHint_ru: Формулируйте четко.
+promptHint_en: Formulate clearly.
+opposite_ru: Случайность
+opposite_en: Randomness
+metaphor_ru: Компас действий
+metaphor_en: Compass of actions
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: мотивация
+- relation: PART_OF
+  target_concept: убеждения
+- relation: HAS_EXAMPLE
+  target_concept: неудовлетворенность
+examples:
+  positive_ru:
+  - Намерение направляет усилия.
+  positive_en:
+  - Intention directs efforts.
+  negative_ru:
+  - Намерение не хаотично.
+  negative_en:
+  - Intention is not chaotic.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Намерение
+Определение: Объект, представляющий структурированное стремление, отличаясь от мотивации
+  тем, что включает конкретные шаги.
+Синонимы: *id001
+Связи:
+- мотивация
+- неудовлетворенность
+- убеждения
+Главы:
+- C4

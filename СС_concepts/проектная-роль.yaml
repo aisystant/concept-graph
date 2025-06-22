@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L5/concept/проектная-роль
+name_ru: проектная роль
+name_en: project role
+purpose_ru: Определяет роли в проектах.
+purpose_en: Defines roles in projects.
+conceptType: Объект
+usageContext_ru: В системном мышлении.
+usageContext_en: In systemic thinking.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является личной ролью.
+not_this_en: Not a personal role.
+definition_ru: Объект, представляющий роль в проекте, отличающийся влиянием на систему.
+definition_en: An object representing a role in a project, distinguished by influence
+  on the system.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Проектная роль: менеджер в команде.'
+example_en: 'Project role: manager in the team.'
+promptHint_ru: Анализируйте для проектного управления.
+promptHint_en: Analyze for project management.
+opposite_ru: Внепроектная роль
+opposite_en: Non-project role
+metaphor_ru: Роль в спектакле.
+metaphor_en: Role in a play.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: внешние и внутренние проектная роль
+- relation: RELATES_TO
+  target_concept: интерес к системе
+examples:
+  positive_ru:
+  - Проектная роль инженера.
+  positive_en:
+  - Project role of engineer.
+  negative_ru:
+  - Личная роль в быту.
+  negative_en:
+  - Personal role in daily life.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: проектная роль
+Определение: Объект, представляющий роль в проекте, отличающийся влиянием на систему.
+Синонимы: *id001
+Связи:
+- внешние и внутренние проектная роль
+- интерес к системе
+- роль
+Главы:
+- C5

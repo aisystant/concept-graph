@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/машинное-мышление
+name_ru: машинное мышление
+name_en: machine thinking
+purpose_ru: Обеспечивает точные вычисления и автоматизированные процессы.
+purpose_en: Provides precise calculations and automated processes.
+conceptType: Process
+usageContext_ru: В контексте ИИ и технологий.
+usageContext_en: In the context of AI and technologies.
+synonyms_ru: &id001
+- компьютерное мышление
+synonyms_en:
+- computer thinking
+not_this_ru: Не является человеческим мышлением.
+not_this_en: Not human thinking.
+definition_ru: Процесс, состоящий из бинарных операций для решения задач.
+definition_en: A process consisting of binary operations for problem-solving.
+summary_ru: ''
+summary_en: ''
+example_ru: Машинное обучение в ИИ.
+example_en: Machine learning in AI.
+promptHint_ru: Используйте для анализа технологий.
+promptHint_en: Use for analyzing technologies.
+opposite_ru: Интуитивное мышление
+opposite_en: Intuitive thinking
+metaphor_ru: Как точный механизм.
+metaphor_en: Like a precise mechanism.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: спектр-формальности-мышления
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: интеллект-стек
+examples:
+  positive_ru:
+  - Использование машинного мышления в алгоритмах.
+  positive_en:
+  - Using machine thinking in algorithms.
+  negative_ru:
+  - Зависимость от машинного мышления без человеческого контроля.
+  negative_en:
+  - Reliance on machine thinking without human oversight.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: машинное мышление
+Определение: Процесс, состоящий из бинарных операций для решения задач.
+Синонимы: *id001
+Связи:
+- интеллект-стек
+- мышление
+- спектр-формальности-мышления
+Главы:
+- C2

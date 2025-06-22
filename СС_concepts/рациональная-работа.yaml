@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/рациональная-работа
+name_ru: Рациональная работа
+name_en: Rational Work
+purpose_ru: Обеспечивает эффективное применение знаний для достижения целей.
+purpose_en: Ensures effective application of knowledge to achieve goals.
+conceptType: Process
+usageContext_ru: В профессиональной деятельности и обучении.
+usageContext_en: In professional activities and learning.
+synonyms_ru: &id001
+- Осознанная работа
+synonyms_en:
+- Conscious Work
+not_this_ru: Не основана на эмоциях, а на логике и фактах.
+not_this_en: Not based on emotions, but on logic and facts.
+definition_ru: Процесс выполнения задач, заключающийся в использовании моделей и логики
+  для обоснованных решений.
+definition_en: A process of task execution, characterized by using models and logic
+  for justified decisions.
+summary_ru: ''
+summary_en: ''
+example_ru: Рациональная работа включает моделирование для планирования задач.
+example_en: Rational work involves modeling for task planning.
+promptHint_ru: Применяйте рациональную работу для анализа проблем.
+promptHint_en: Apply rational work for problem analysis.
+opposite_ru: Иррациональная работа
+opposite_en: Irrational Work
+metaphor_ru: Как инженерный проект, построенный на расчетах.
+metaphor_en: Like an engineering project built on calculations.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: рациональность
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: онтологика
+examples:
+  positive_ru:
+  - Рациональная работа минимизирует риски.
+  positive_en:
+  - Rational work minimizes risks.
+  negative_ru:
+  - Иррациональная работа приводит к ошибкам.
+  negative_en:
+  - Irrational work leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Рациональная работа
+Определение: Процесс выполнения задач, заключающийся в использовании моделей и логики
+  для обоснованных решений.
+Синонимы: *id001
+Связи:
+- онтологика
+- рациональность
+- собранность
+Главы:
+- C3

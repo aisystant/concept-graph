@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L9/concept/инкремент
+name_ru: инкремент
+name_en: increment
+purpose_ru: Обеспечивает постепенное улучшение.
+purpose_en: Ensures gradual improvement.
+conceptType: object
+usageContext_ru: В итерациях и развитии.
+usageContext_en: In iterations and development.
+synonyms_ru: &id001
+- Улучшение
+- улучшение
+synonyms_en:
+- Improvement
+- improvement
+not_this_ru: Не является радикальным изменением.
+not_this_en: Not a radical change.
+definition_ru: Объект, представляющий небольшое улучшение, отличающийся от других
+  объектов накопительным эффектом.
+definition_en: An object representing a small improvement, distinguished from other
+  objects by its cumulative effect.
+summary_ru: ''
+summary_en: ''
+example_ru: Инкремент в итерации приводит к лучшему продукту.
+example_en: An increment in iteration leads to a better product.
+promptHint_ru: Используйте для пошагового прогресса.
+promptHint_en: Use for step-by-step progress.
+opposite_ru: регресс
+opposite_en: regress
+metaphor_ru: Малый шаг в длинном пути.
+metaphor_en: Small step in a long journey.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: итерация
+- relation: PART_OF
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: жизненное мастерство
+- relation: PART_OF
+  target_concept: итерация
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Инкремент улучшает систему.
+  positive_en:
+  - Increment improves the system.
+  negative_ru:
+  - Отсутствие инкремента тормозит прогресс.
+  negative_en:
+  - Lack of increment hinders progress.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: инкремент
+Определение: Объект, представляющий небольшое улучшение, отличающийся от других объектов
+  накопительным эффектом.
+Синонимы: *id001
+Связи:
+- бесконечное развитие
+- жизненное мастерство
+- итерация
+- саморазвитие
+Главы:
+- C8
+- C9

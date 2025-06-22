@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/переживания
+name_ru: переживания
+name_en: experiences
+purpose_ru: Влияют на эмоциональное состояние.
+purpose_en: Influence emotional state.
+conceptType: property
+usageContext_ru: В эмоциональной жизни.
+usageContext_en: In emotional life.
+synonyms_ru: &id001
+- эмоции
+synonyms_en:
+- emotions
+not_this_ru: Не являются изолированными.
+not_this_en: Not isolated.
+definition_ru: Свойство событий, вызывающее эмоции, отличающееся от других свойств
+  их субъективностью.
+definition_en: A property of events causing emotions, distinguished from other properties
+  by their subjectivity.
+summary_ru: ''
+summary_en: ''
+example_ru: Переживания от действий влияют на счастье.
+example_en: Experiences from actions influence happiness.
+promptHint_ru: Обрабатывайте для баланса.
+promptHint_en: Process for balance.
+opposite_ru: отсутствие переживаний
+opposite_en: lack of experiences
+metaphor_ru: Волны эмоций.
+metaphor_en: Waves of emotions.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: впечатления
+- relation: RELATES_TO
+  target_concept: радость
+- relation: RELATES_TO
+  target_concept: осознанная жизнь
+examples:
+  positive_ru:
+  - Позитивные переживания укрепляют.
+  positive_en:
+  - Positive experiences strengthen.
+  negative_ru:
+  - Отрицательные ослабляют.
+  negative_en:
+  - Negative weaken.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: переживания
+Определение: Свойство событий, вызывающее эмоции, отличающееся от других свойств их
+  субъективностью.
+Синонимы: *id001
+Связи:
+- впечатления
+- осознанная жизнь
+- радость
+Главы:
+- C9

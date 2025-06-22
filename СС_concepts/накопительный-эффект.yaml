@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/накопительный-эффект
+name_ru: накопительный эффект
+name_en: cumulative effect
+purpose_ru: Демонстрирует влияние систематических действий со временем.
+purpose_en: Demonstrates the impact of systematic actions over time.
+conceptType: Process
+usageContext_ru: В контексте инвестирования времени.
+usageContext_en: In the context of time investment.
+synonyms_ru: &id001
+- эффект накопления
+synonyms_en:
+- accumulation effect
+not_this_ru: Не является мгновенным.
+not_this_en: Not instantaneous.
+definition_ru: Процесс, где малые различия приводят к значительным результатам через
+  время.
+definition_en: A process where small differences lead to significant results over
+  time.
+summary_ru: ''
+summary_en: ''
+example_ru: Накопление навыков через 10000 часов практики.
+example_en: Accumulation of skills through 10000 hours of practice.
+promptHint_ru: Используйте для мотивации.
+promptHint_en: Use for motivation.
+opposite_ru: Мгновенный эффект
+opposite_en: Instant effect
+metaphor_ru: Как снежный ком.
+metaphor_en: Like a snowball.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: инвестирование-времени
+- relation: PART_OF
+  target_concept: мастерство
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Систематическое обучение с накопительным эффектом.
+  positive_en:
+  - Systematic learning with cumulative effect.
+  negative_ru:
+  - Нерегулярные усилия без эффекта.
+  negative_en:
+  - Irregular efforts without effect.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: накопительный эффект
+Определение: Процесс, где малые различия приводят к значительным результатам через
+  время.
+Синонимы: *id001
+Связи:
+- инвестирование-времени
+- мастерство
+- мышление
+Главы:
+- C2

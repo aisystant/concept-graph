@@ -1,0 +1,97 @@
+iri: https://system-school.ru/L9/concept/создатель
+name_ru: создатель
+name_en: creator
+purpose_ru: Изменяет мир к лучшему через создание систем.
+purpose_en: Changes the world for the better by creating systems.
+conceptType: object
+usageContext_ru: В саморазвитии и профессиональной деятельности.
+usageContext_en: In self-development and professional activities.
+synonyms_ru: &id001
+- инженер
+- Творец
+- деятель
+synonyms_en:
+- engineer
+- Maker
+- doer
+not_this_ru: Не является пассивным наблюдателем.
+not_this_en: Not a passive observer.
+definition_ru: Объект, представляющий личность, способную создавать системы, отличающуюся
+  от других объектов высокой агентностью и мастерством.
+definition_en: An object representing a personality capable of creating systems, distinguished
+  from other objects by high agency and mastery.
+summary_ru: ''
+summary_en: ''
+example_ru: Создатель разрабатывает проект саморазвития для изменения мира.
+example_en: A creator develops a self-development project to change the world.
+promptHint_ru: Используйте для самоидентификации.
+promptHint_en: Use for self-identification.
+opposite_ru: потребитель
+opposite_en: consumer
+metaphor_ru: Архитектор реальности.
+metaphor_en: Architect of reality.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: agent
+- relation: RELATES_TO
+  target_concept: engineering
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: ресурсы
+- relation: IS_A
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: системные изменения
+- relation: RELATES_TO
+  target_concept: роль
+- relation: IS_A
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: успех
+- relation: RELATES_TO
+  target_concept: траектория жизни
+examples:
+  positive_ru:
+  - Создатель создает успешные системы.
+  positive_en:
+  - A creator builds successful systems.
+  negative_ru:
+  - Несоздатель игнорирует возможности.
+  negative_en:
+  - A non-creator ignores opportunities.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: создатель
+Определение: Объект, представляющий личность, способную создавать системы, отличающуюся
+  от других объектов высокой агентностью и мастерством.
+Синонимы: *id001
+Связи:
+- agent
+- engineering
+- self-development
+- агент
+- агентность
+- личность
+- ресурсы
+- роль
+- системное мышление
+- системные изменения
+- траектория жизни
+- успех
+Главы:
+- C1
+- C4
+- C5
+- C9

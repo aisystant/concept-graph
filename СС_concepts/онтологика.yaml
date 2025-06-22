@@ -1,0 +1,72 @@
+iri: https://system-school.ru/L6/concept/онтологика
+name_ru: онтологика
+name_en: ontologics
+purpose_ru: Учит разделять физический мир и ментальное пространство.
+purpose_en: Teaches to separate the physical world and mental space.
+conceptType: discipline
+usageContext_ru: В системном мышлении для точности описаний.
+usageContext_en: In systemic thinking for accuracy of descriptions.
+synonyms_ru: &id001
+- Онтологическое моделирование
+synonyms_en:
+- Ontological Modeling
+not_this_ru: Не является общей логикой.
+not_this_en: Not general logic.
+definition_ru: Дисциплина, фокусирующаяся на принципах описания реальности, отличающаяся
+  от стандартной семантики.
+definition_en: A discipline focusing on principles of reality description, distinguished
+  from standard semantics.
+summary_ru: ''
+summary_en: ''
+example_ru: Онтологика для разделения воплощения и описания системы.
+example_en: Ontologics for separating system embodiment and description.
+promptHint_ru: Применяйте для ясности в коммуникации.
+promptHint_en: Apply for clarity in communication.
+opposite_ru: Семантика
+opposite_en: Semantics
+metaphor_ru: Карта реальности.
+metaphor_en: Map of reality.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: рациональность
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: понятия
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: понятие
+- relation: PART_OF
+  target_concept: термин
+examples:
+  positive_ru:
+  - Использование в описаниях систем.
+  positive_en:
+  - Use in system descriptions.
+  negative_ru:
+  - Смешение миров в описаниях.
+  negative_en:
+  - Mixing worlds in descriptions.
+discipline:
+  name_ru: Онтология
+  name_en: Ontology
+  level: L3
+Название: онтологика
+Определение: Дисциплина, фокусирующаяся на принципах описания реальности, отличающаяся
+  от стандартной семантики.
+Синонимы: *id001
+Связи:
+- понятие
+- понятия
+- рациональность
+- системное мышление
+- термин
+Главы:
+- C3
+- C6

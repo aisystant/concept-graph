@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L5/concept/изменения
+name_ru: изменения
+name_en: changes
+purpose_ru: Описывает системные изменения в мире.
+purpose_en: Describes systemic changes in the world.
+conceptType: Процесс
+usageContext_ru: В контексте создателя и карьерного роста.
+usageContext_en: In the context of creator and career growth.
+synonyms_ru: &id001
+- системные изменения
+synonyms_en:
+- systemic changes
+not_this_ru: Не является случайными изменениями.
+not_this_en: Not random changes.
+definition_ru: Процесс, в ходе которого создаются новые системы, отличающийся осознанностью
+  и использованием системных понятий.
+definition_en: A process in which new systems are created, distinguished by awareness
+  and use of systemic concepts.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Изменения: внедрение новой технологии.'
+example_en: 'Changes: implementing new technology.'
+promptHint_ru: Фокусируйтесь на для карьерного развития.
+promptHint_en: Focus on for career development.
+opposite_ru: Статичность
+opposite_en: Stasis
+metaphor_ru: Поток эволюции.
+metaphor_en: Stream of evolution.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: метод
+examples:
+  positive_ru:
+  - Осознанные системные изменения.
+  positive_en:
+  - Conscious systemic changes.
+  negative_ru:
+  - Случайные события.
+  negative_en:
+  - Random events.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: изменения
+Определение: Процесс, в ходе которого создаются новые системы, отличающийся осознанностью
+  и использованием системных понятий.
+Синонимы: *id001
+Связи:
+- метод
+- система
+- создатель
+Главы:
+- C5

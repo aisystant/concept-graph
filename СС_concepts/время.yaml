@@ -1,0 +1,74 @@
+iri: https://system-school.ru/L3/concept/время
+name_ru: Время
+name_en: Time
+purpose_ru: Структурирует деятельность.
+purpose_en: Structures activity.
+conceptType: Object
+usageContext_ru: В планировании.
+usageContext_en: In planning.
+synonyms_ru: &id001
+- период
+- ресурс
+- Временной ресурс
+synonyms_en:
+- period
+- resource
+- Temporal Resource
+not_this_ru: Не бесконечное.
+not_this_en: Not infinite.
+definition_ru: Объект, заключающийся в измеряемом ресурсе для организации действий.
+definition_en: An object, characterized by a measurable resource for organizing actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Время как фактор в управлении вниманием.
+example_en: Time as a factor in attention management.
+promptHint_ru: Учитывайте время в планах.
+promptHint_en: Consider time in plans.
+opposite_ru: Вневременность
+opposite_en: Timelessness
+metaphor_ru: Как река, несущая события.
+metaphor_en: Like a river carrying events.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: инвестирование-времени
+- relation: PART_OF
+  target_concept: осознанное-управление-временем
+- relation: HAS_EXAMPLE
+  target_concept: досуг
+- relation: RELATES_TO
+  target_concept: временные масштабы внимания
+- relation: PART_OF
+  target_concept: учет времени
+- relation: HAS_EXAMPLE
+  target_concept: инвестирование времени
+examples:
+  positive_ru:
+  - Эффективное использование времени повышает продуктивность.
+  positive_en:
+  - Efficient time use increases productivity.
+  negative_ru:
+  - Потеря времени снижает результаты.
+  negative_en:
+  - Time loss reduces results.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Время
+Определение: Объект, заключающийся в измеряемом ресурсе для организации действий.
+Синонимы: *id001
+Связи:
+- временные масштабы внимания
+- досуг
+- инвестирование времени
+- инвестирование-времени
+- осознанное-управление-временем
+- учет времени
+Главы:
+- C2
+- C3

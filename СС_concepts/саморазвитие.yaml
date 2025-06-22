@@ -1,0 +1,71 @@
+iri: https://system-school.ru/L9/concept/саморазвитие
+name_ru: саморазвитие
+name_en: self-development
+purpose_ru: Улучшает личность.
+purpose_en: Improves personality.
+conceptType: process
+usageContext_ru: В личной жизни.
+usageContext_en: In personal life.
+synonyms_ru: &id001
+- самосовершенствование
+synonyms_en:
+- self-improvement
+not_this_ru: Не является пассивным.
+not_this_en: Not passive.
+definition_ru: Процесс личного роста, отличающийся от других процессов его добровольностью.
+definition_en: A process of personal growth, distinguished from other processes by
+  its voluntariness.
+summary_ru: ''
+summary_en: ''
+example_ru: Саморазвитие включает проекты и привычки.
+example_en: Self-development includes projects and habits.
+promptHint_ru: Практикуйте регулярно.
+promptHint_en: Practice regularly.
+opposite_ru: стагнация
+opposite_en: stagnation
+metaphor_ru: Лестница роста.
+metaphor_en: Ladder of growth.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: agency
+- relation: RELATES_TO
+  target_concept: progress
+- relation: RELATES_TO
+  target_concept: проект системного саморазвития личности
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+examples:
+  positive_ru:
+  - Саморазвитие приводит к успеху.
+  positive_en:
+  - Self-development leads to success.
+  negative_ru:
+  - Его отсутствие тормозит.
+  negative_en:
+  - Its absence hinders.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: саморазвитие
+Определение: Процесс личного роста, отличающийся от других процессов его добровольностью.
+Синонимы: *id001
+Связи:
+- agency
+- intellect
+- progress
+- бесконечное развитие
+- мастерство
+- проект системного саморазвития личности
+Главы:
+- C1
+- C9

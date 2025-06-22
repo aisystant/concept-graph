@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L5/concept/выход-из-роли
+name_ru: выход из роли
+name_en: exit from role
+purpose_ru: Позволяет человеку переключаться между ролями для управления поведением.
+purpose_en: Allows a person to switch between roles to manage behavior.
+conceptType: Процесс
+usageContext_ru: В ролевом мастерстве для осознанного завершения роли.
+usageContext_en: In role mastery for conscious role completion.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является игрой роли.
+not_this_en: Not role playing.
+definition_ru: Процесс, в ходе которого человек прекращает исполнение роли, отличающийся
+  возвратом к состоянию без роли.
+definition_en: A process in which a person stops performing a role, distinguished
+  by returning to a state without a role.
+summary_ru: ''
+summary_en: ''
+example_ru: После работы человек выходит из роли менеджера и переключается на роль
+  родителя.
+example_en: After work, a person exits the manager role and switches to the parent
+  role.
+promptHint_ru: Применяйте для предотвращения слияния ролей.
+promptHint_en: Apply to prevent role merging.
+opposite_ru: Вход в роль
+opposite_en: Entry into role
+metaphor_ru: Снятие маски в театре.
+metaphor_en: Removing a mask in theater.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: вход в роль
+- relation: RELATES_TO
+  target_concept: самоконтроль
+examples:
+  positive_ru:
+  - Выход из роли после завершения задачи.
+  positive_en:
+  - Exiting a role after task completion.
+  negative_ru:
+  - Продолжение роли в неподходящее время.
+  negative_en:
+  - Continuing a role at an inappropriate time.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: выход из роли
+Определение: Процесс, в ходе которого человек прекращает исполнение роли, отличающийся
+  возвратом к состоянию без роли.
+Синонимы: *id001
+Связи:
+- вход в роль
+- ролевое мастерство
+- самоконтроль
+Главы:
+- C5

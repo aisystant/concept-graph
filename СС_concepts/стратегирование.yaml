@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L6/concept/стратегирование
+name_ru: стратегирование
+name_en: strategizing
+purpose_ru: Планирует цели через системы.
+purpose_en: Plans goals through systems.
+conceptType: process
+usageContext_ru: В системном мышлении для личного развития.
+usageContext_en: In systemic thinking for personal development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является тактикой.
+not_this_en: Not tactics.
+definition_ru: Процесс формулировки целей как систем, отличающийся от тактических
+  действий.
+definition_en: A process of formulating goals as systems, distinguished from tactical
+  actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Стратегирование для создания целевой системы.
+example_en: Strategizing for creating a target system.
+promptHint_ru: Интегрируйте системные понятия.
+promptHint_en: Integrate systemic concepts.
+opposite_ru: Тактика
+opposite_en: Tactics
+metaphor_ru: Долгосрочный план.
+metaphor_en: Long-term plan.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: проект
+- relation: RELATES_TO
+  target_concept: целевая система
+- relation: PART_OF
+  target_concept: личность
+examples:
+  positive_ru:
+  - Стратегирование в жизни.
+  positive_en:
+  - Strategizing in life.
+  negative_ru:
+  - Без плана действия.
+  negative_en:
+  - Without a plan of action.
+discipline:
+  name_ru: Стратегия
+  name_en: Strategy
+  level: L3
+Название: стратегирование
+Определение: Процесс формулировки целей как систем, отличающийся от тактических действий.
+Синонимы: *id001
+Связи:
+- личность
+- проект
+- целевая система
+Главы:
+- C6

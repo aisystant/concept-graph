@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/умение-делать
+name_ru: умение делать
+name_en: ability to do
+purpose_ru: Позволяет реализовывать практические задачи.
+purpose_en: Enables implementation of practical tasks.
+conceptType: Property
+usageContext_ru: В контексте профессионализма.
+usageContext_en: In the context of professionalism.
+synonyms_ru: &id001
+- практическое умение
+synonyms_en:
+- practical ability
+not_this_ru: Не является теоретическим.
+not_this_en: Not theoretical.
+definition_ru: Свойство, позволяющее создавать реальные продукты через навыки.
+definition_en: A property enabling the creation of real products through skills.
+summary_ru: ''
+summary_en: ''
+example_ru: Умение делать в профессиональной роли.
+example_en: Ability to do in a professional role.
+promptHint_ru: Используйте для применения навыков.
+promptHint_en: Use for applying skills.
+opposite_ru: Неспособность
+opposite_en: Inability
+metaphor_ru: Как практическое действие.
+metaphor_en: Like practical action.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: прикладное-профессиональное-мастерство
+- relation: PART_OF
+  target_concept: мастерство
+- relation: HAS_EXAMPLE
+  target_concept: работа
+examples:
+  positive_ru:
+  - Умение делать, приводящее к успеху.
+  positive_en:
+  - Ability to do leading to success.
+  negative_ru:
+  - Отсутствие умения, вызывающее неудачи.
+  negative_en:
+  - Lack of ability causing failures.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: умение делать
+Определение: Свойство, позволяющее создавать реальные продукты через навыки.
+Синонимы: *id001
+Связи:
+- мастерство
+- прикладное-профессиональное-мастерство
+- работа
+Главы:
+- C2

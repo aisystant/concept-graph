@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/минимизация-отвлечений
+name_ru: Минимизация отвлечений
+name_en: Distraction Minimization
+purpose_ru: Снижает потери внимания для повышения эффективности.
+purpose_en: Reduces attention losses to increase efficiency.
+conceptType: Process
+usageContext_ru: В работе и обучении.
+usageContext_en: In work and learning.
+synonyms_ru: &id001
+- Сокращение отвлечений
+synonyms_en:
+- Distraction Reduction
+not_this_ru: Не полное устранение, а минимизация.
+not_this_en: Not complete elimination, but minimization.
+definition_ru: Процесс управления, заключающийся в уменьшении внешних и внутренних
+  факторов, отвлекающих от задачи.
+definition_en: A management process, characterized by reducing external and internal
+  factors distracting from the task.
+summary_ru: ''
+summary_en: ''
+example_ru: Использование методов для минимизации цифровых отвлечений.
+example_en: Using methods to minimize digital distractions.
+promptHint_ru: Применяйте минимизацию отвлечений в повседневной рутине.
+promptHint_en: Apply distraction minimization in daily routines.
+opposite_ru: Увеличение отвлечений
+opposite_en: Distraction Increase
+metaphor_ru: Как барьер, защищающий от шума.
+metaphor_en: Like a barrier protecting from noise.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: фильтрация информации
+examples:
+  positive_ru:
+  - Минимизация отвлечений повышает концентрацию.
+  positive_en:
+  - Distraction minimization increases concentration.
+  negative_ru:
+  - Много отвлечений снижает продуктивность.
+  negative_en:
+  - Many distractions reduce productivity.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Минимизация отвлечений
+Определение: Процесс управления, заключающийся в уменьшении внешних и внутренних факторов,
+  отвлекающих от задачи.
+Синонимы: *id001
+Связи:
+- внимание
+- управление вниманием
+- фильтрация информации
+Главы:
+- C3

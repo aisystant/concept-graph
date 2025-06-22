@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/мультимодальное-внимание
+name_ru: Мультимодальное внимание
+name_en: Multimodal Attention
+purpose_ru: Обеспечивает фокус в нескольких режимах.
+purpose_en: Provides focus in multiple modes.
+conceptType: Process
+usageContext_ru: В сложных задачах.
+usageContext_en: In complex tasks.
+synonyms_ru: &id001
+- Многорежимное внимание
+synonyms_en:
+- Multimode Attention
+not_this_ru: Не однобокое.
+not_this_en: Not one-sided.
+definition_ru: Процесс, заключающийся в одновременном использовании нескольких типов
+  внимания.
+definition_en: A process, characterized by simultaneous use of multiple attention
+  types.
+summary_ru: ''
+summary_en: ''
+example_ru: Мультимодальное внимание в творческой работе.
+example_en: Multimodal attention in creative work.
+promptHint_ru: Интегрируйте мультимодальное внимание в анализ.
+promptHint_en: Integrate multimodal attention in analysis.
+opposite_ru: Одномодальное внимание
+opposite_en: Unimodal Attention
+metaphor_ru: Как оркестр с разными инструментами.
+metaphor_en: Like an orchestra with different instruments.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: виды внимания
+examples:
+  positive_ru:
+  - Мультимодальное внимание расширяет возможности.
+  positive_en:
+  - Multimodal attention expands capabilities.
+  negative_ru:
+  - Ограниченное внимание ограничивает эффективность.
+  negative_en:
+  - Limited attention restricts efficiency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Мультимодальное внимание
+Определение: Процесс, заключающийся в одновременном использовании нескольких типов
+  внимания.
+Синонимы: *id001
+Связи:
+- виды внимания
+- внимание
+- управление вниманием
+Главы:
+- C3

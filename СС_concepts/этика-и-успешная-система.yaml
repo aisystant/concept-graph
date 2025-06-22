@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L8/concept/этика-и-успешная-система
+name_ru: Этика и успешная система
+name_en: Ethics and Successful System
+purpose_ru: Связывает этику с созданием систем.
+purpose_en: Links ethics to system creation.
+conceptType: Relation
+usageContext_ru: В системном мышлении для успеха.
+usageContext_en: In systems thinking for success.
+synonyms_ru: &id001
+- Этика в системах
+synonyms_en:
+- Ethics in Systems
+not_this_ru: Не является отдельной от этики.
+not_this_en: It is not separate from ethics.
+definition_ru: Отношение, в котором этика обеспечивает учет интересов для успешной
+  системы.
+definition_en: A relation in which ethics ensures interest accounting for a successful
+  system.
+summary_ru: ''
+summary_en: ''
+example_ru: Этика помогает создавать системы, учитывающие интересы.
+example_en: Ethics helps create systems accounting for interests.
+promptHint_ru: Используйте для системного дизайна.
+promptHint_en: Use for system design.
+opposite_ru: Неэтичные системы
+opposite_en: Unethical Systems
+metaphor_ru: Как фундамент успеха.
+metaphor_en: Like the foundation of success.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: ролевой интерес
+examples:
+  positive_ru:
+  - Системы с этическим подходом.
+  positive_en:
+  - Systems with an ethical approach.
+  negative_ru:
+  - Системы, игнорирующие этику.
+  negative_en:
+  - Systems ignoring ethics.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: Этика и успешная система
+Определение: Отношение, в котором этика обеспечивает учет интересов для успешной системы.
+Синонимы: *id001
+Связи:
+- ролевой интерес
+- системное мышление
+- этика
+Главы:
+- C8

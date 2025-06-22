@@ -1,0 +1,102 @@
+iri: https://system-school.ru/L9/concept/инженерия
+name_ru: инженерия
+name_en: engineering
+purpose_ru: Создает системы для решения проблем.
+purpose_en: Creates systems to solve problems.
+conceptType: process
+usageContext_ru: В создании систем и саморазвитии.
+usageContext_en: In system creation and self-development.
+synonyms_ru: &id001
+- проектирование
+- инженерный подход
+synonyms_en:
+- designing
+- design
+- engineering approach
+not_this_ru: Не является случайным творчеством.
+not_this_en: Not random creativity.
+definition_ru: Процесс систематического создания, отличающийся от других процессов
+  использованием методов для устранения неудовлетворенностей.
+definition_en: A process of systematic creation, distinguished from other processes
+  by using methods to eliminate dissatisfactions.
+summary_ru: ''
+summary_en: ''
+example_ru: Инженерия применяется к счастью через системное мышление.
+example_en: Engineering is applied to happiness through systemic thinking.
+promptHint_ru: Применяйте для решения сложных проблем.
+promptHint_en: Apply for solving complex problems.
+opposite_ru: хаотическое создание
+opposite_en: chaotic creation
+metaphor_ru: Строительство моста.
+metaphor_en: Bridge building.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: creator
+- relation: RELATES_TO
+  target_concept: techno-evolution
+- relation: RELATES_TO
+  target_concept: system-creation-mastery
+- relation: RELATES_TO
+  target_concept: обучение
+- relation: PART_OF
+  target_concept: интеллект-стек
+- relation: HAS_EXAMPLE
+  target_concept: дисциплина
+- relation: IS_A
+  target_concept: трансдисциплина
+- relation: PART_OF
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: метод
+- relation: HAS_EXAMPLE
+  target_concept: инженер
+- relation: ALIGNS_WITH
+  target_concept: принципы инженерии
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: культура МИМ
+examples:
+  positive_ru:
+  - Инженерия приводит к успешным системам.
+  positive_en:
+  - Engineering leads to successful systems.
+  negative_ru:
+  - Без инженерии возникают неудачи.
+  negative_en:
+  - Without engineering, failures occur.
+discipline:
+  name_ru: Инженерия
+  name_en: Engineering
+  level: L3
+Название: инженерия
+Определение: Процесс систематического создания, отличающийся от других процессов использованием
+  методов для устранения неудовлетворенностей.
+Синонимы: *id001
+Связи:
+- creator
+- system-creation-mastery
+- techno-evolution
+- дисциплина
+- инженер
+- интеллект-стек
+- культура МИМ
+- метод
+- обучение
+- принципы инженерии
+- саморазвитие
+- система
+- трансдисциплина
+- успешная система
+Главы:
+- C1
+- C2
+- C7
+- C9

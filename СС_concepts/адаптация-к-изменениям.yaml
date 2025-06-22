@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/адаптация-к-изменениям
+name_ru: Адаптация к изменениям
+name_en: Adaptation to Changes
+purpose_ru: Обеспечивает гибкость.
+purpose_en: Ensures flexibility.
+conceptType: Process
+usageContext_ru: В динамичных условиях.
+usageContext_en: In dynamic conditions.
+synonyms_ru: &id001
+- Приспособление
+synonyms_en:
+- Adaptation
+not_this_ru: Не ригидность.
+not_this_en: Not rigidity.
+definition_ru: Процесс, заключающийся в перестройке под новые условия.
+definition_en: A process, characterized by restructuring under new conditions.
+summary_ru: ''
+summary_en: ''
+example_ru: Адаптация с экзокортексом.
+example_en: Adaptation with exocortex.
+promptHint_ru: Адаптируйтесь быстро.
+promptHint_en: Adapt quickly.
+opposite_ru: Сопротивление изменениям
+opposite_en: Resistance to Changes
+metaphor_ru: Как эволюция.
+metaphor_en: Like evolution.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: киберличность
+- relation: HAS_EXAMPLE
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Адаптация повышает выживаемость.
+  positive_en:
+  - Adaptation increases survivability.
+  negative_ru:
+  - Отсутствие приводит к неудачам.
+  negative_en:
+  - Absence leads to failures.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Адаптация к изменениям
+Определение: Процесс, заключающийся в перестройке под новые условия.
+Синонимы: *id001
+Связи:
+- киберличность
+- системное мышление
+- экзокортекс
+Главы:
+- C3

@@ -1,0 +1,71 @@
+iri: https://system-school.ru/L9/concept/удержание-внимания
+name_ru: удержание внимания
+name_en: attention holding
+purpose_ru: Поддерживает фокус на важном.
+purpose_en: Maintains focus on the important.
+conceptType: process
+usageContext_ru: В осознанной жизни.
+usageContext_en: In conscious life.
+synonyms_ru: &id001
+- концентрация
+synonyms_en:
+- concentration
+not_this_ru: Не является рассеянностью.
+not_this_en: Not distraction.
+definition_ru: Процесс фиксации внимания, отличающийся от других процессов своей устойчивостью.
+definition_en: A process of fixing attention, distinguished from other processes by
+  its stability.
+summary_ru: ''
+summary_en: ''
+example_ru: Удержание внимания на понятиях улучшает осознанность.
+example_en: Holding attention on concepts improves awareness.
+promptHint_ru: Тренируйте для эффективности.
+promptHint_en: Train for effectiveness.
+opposite_ru: рассеянность
+opposite_en: distraction
+metaphor_ru: Фокус луча.
+metaphor_en: Beam focus.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: attention
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: осознанная жизнь
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: привычки
+examples:
+  positive_ru:
+  - Удержание внимания повышает продуктивность.
+  positive_en:
+  - Holding attention increases productivity.
+  negative_ru:
+  - Его потеря приводит к ошибкам.
+  negative_en:
+  - Its loss leads to errors.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: удержание внимания
+Определение: Процесс фиксации внимания, отличающийся от других процессов своей устойчивостью.
+Синонимы: *id001
+Связи:
+- attention
+- self-development
+- thinking
+- осознанная жизнь
+- привычки
+- саморазвитие
+Главы:
+- C1
+- C9

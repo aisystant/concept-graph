@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/задачи
+name_ru: задачи
+name_en: tasks
+purpose_ru: Помогают организовать повседневную деятельность.
+purpose_en: Help organize everyday activities.
+conceptType: object
+usageContext_ru: В планировании и проектах.
+usageContext_en: In planning and projects.
+synonyms_ru: &id001
+- действия
+synonyms_en:
+- actions
+not_this_ru: Не являются целями.
+not_this_en: Not goals.
+definition_ru: Объект, представляющий конкретные действия, отличающийся от других
+  объектов простотой и непосредственным выполнением.
+definition_en: An object representing specific actions, distinguished from other objects
+  by simplicity and direct execution.
+summary_ru: ''
+summary_en: ''
+example_ru: Задачи включают подготовку резюме в повседневной работе.
+example_en: Tasks include preparing a resume in everyday work.
+promptHint_ru: Используйте для ежедневного планирования.
+promptHint_en: Use for daily planning.
+opposite_ru: цели
+opposite_en: goals
+metaphor_ru: Шаги на лестнице.
+metaphor_en: Steps on a ladder.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: приоритетные проекты
+- relation: RELATES_TO
+  target_concept: личные цели
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Выполнение задач приводит к прогрессу.
+  positive_en:
+  - Completing tasks leads to progress.
+  negative_ru:
+  - Игнорирование задач приводит к хаосу.
+  negative_en:
+  - Ignoring tasks leads to chaos.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: задачи
+Определение: Объект, представляющий конкретные действия, отличающийся от других объектов
+  простотой и непосредственным выполнением.
+Синонимы: *id001
+Связи:
+- личные цели
+- приоритетные проекты
+- саморазвитие
+Главы:
+- C9

@@ -1,0 +1,85 @@
+iri: https://system-school.ru/L5/concept/неудовлетворенность
+name_ru: неудовлетворенность
+name_en: dissatisfaction
+purpose_ru: Мотивирует к действиям для устранения.
+purpose_en: Motivates actions to eliminate.
+conceptType: Объект
+usageContext_ru: В психологии и системном мышлении.
+usageContext_en: In psychology and systemic thinking.
+synonyms_ru: &id001
+- дефицит
+- Дефицит
+synonyms_en:
+- deficit
+- Deficit
+not_this_ru: Не является ролевым интересом.
+not_this_en: Not role interest.
+definition_ru: Объект, представляющий внутренние проблемы, отличающийся связью с ролями
+  для устранения.
+definition_en: An object representing internal problems, distinguished by connection
+  to roles for elimination.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Неудовлетворенность: желание изменить работу.'
+example_en: 'Dissatisfaction: desire to change job.'
+promptHint_ru: Анализируйте для мотивации.
+promptHint_en: Analyze for motivation.
+opposite_ru: Удовлетворенность
+opposite_en: Satisfaction
+metaphor_ru: Двигатель изменений.
+metaphor_en: Engine of changes.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: desires
+- relation: RELATES_TO
+  target_concept: agency
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: мотивация
+- relation: PART_OF
+  target_concept: агентность
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональное состояние
+- relation: RELATES_TO
+  target_concept: ролевой интерес
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: системные изменения
+examples:
+  positive_ru:
+  - Личная неудовлетворенность, ведущая к действию.
+  positive_en:
+  - Personal dissatisfaction leading to action.
+  negative_ru:
+  - Ролевой интерес без личного аспекта.
+  negative_en:
+  - Role interest without personal aspect.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: неудовлетворенность
+Определение: Объект, представляющий внутренние проблемы, отличающийся связью с ролями
+  для устранения.
+Синонимы: *id001
+Связи:
+- agency
+- desires
+- self-development
+- агентность
+- мотивация
+- ролевой интерес
+- роль
+- системные изменения
+- эмоциональное состояние
+Главы:
+- C1
+- C4
+- C5

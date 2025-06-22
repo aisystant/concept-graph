@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/ролевое-мастерство
+name_ru: ролевое мастерство
+name_en: role mastery
+purpose_ru: Управляет исполнением ролей.
+purpose_en: Manages role performance.
+conceptType: Объект
+usageContext_ru: В личном и профессиональном развитии.
+usageContext_en: In personal and professional development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является общим мастерством.
+not_this_en: Not general mastery.
+definition_ru: Объект, включающий навыки для работы с ролями, отличающийся практиками
+  выявления и переключения.
+definition_en: An object including skills for working with roles, distinguished by
+  practices of identification and switching.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Ролевое мастерство: быстрое переключение ролей.'
+example_en: 'Role mastery: quick role switching.'
+promptHint_ru: Тренируйте для адаптации.
+promptHint_en: Train for adaptation.
+opposite_ru: Неумелое исполнение
+opposite_en: Inexpert performance
+metaphor_ru: Актерское искусство.
+metaphor_en: Acting art.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: методы ролевого мастерства
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: самоконтроль
+examples:
+  positive_ru:
+  - Высокое ролевое мастерство в команде.
+  positive_en:
+  - High role mastery in a team.
+  negative_ru:
+  - Сложности с ролями.
+  negative_en:
+  - Difficulties with roles.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: ролевое мастерство
+Определение: Объект, включающий навыки для работы с ролями, отличающийся практиками
+  выявления и переключения.
+Синонимы: *id001
+Связи:
+- методы ролевого мастерства
+- роль
+- самоконтроль
+Главы:
+- C5

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/характеристики-системы
+name_ru: Характеристики системы
+name_en: System characteristics
+purpose_ru: Описывать свойства систем для их анализа и развития.
+purpose_en: To describe properties of systems for their analysis and development.
+conceptType: property
+usageContext_ru: В системном мышлении и инженерии.
+usageContext_en: In systemic thinking and engineering.
+synonyms_ru: &id001
+- Свойства систем
+synonyms_en:
+- Properties of systems
+not_this_ru: Не является изолированным, а связано с другими характеристиками.
+not_this_en: Not isolated, but connected to other characteristics.
+definition_ru: Свойство системы, включающее параметры, такие как скорость и безопасность,
+  отличаясь от человеческих характеристик тем, что применяется к неживым системам.
+definition_en: Property of a system including parameters such as speed and safety,
+  differing from human characteristics by applying to non-living systems.
+summary_ru: ''
+summary_en: ''
+example_ru: Характеристики системы, как скорость автомобиля, влияют на его использование.
+example_en: System characteristics, such as car speed, affect its use.
+promptHint_ru: Применяйте для оценки систем.
+promptHint_en: Apply for evaluating systems.
+opposite_ru: Недостатки
+opposite_en: Drawbacks
+metaphor_ru: Параметры эффективности
+metaphor_en: Efficiency parameters
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: характеристика человека
+- relation: PART_OF
+  target_concept: системные уровни
+- relation: HAS_EXAMPLE
+  target_concept: ресурсность
+examples:
+  positive_ru:
+  - Характеристики системы улучшают производительность.
+  positive_en:
+  - System characteristics improve performance.
+  negative_ru:
+  - Характеристики не игнорируют баланс.
+  negative_en:
+  - Characteristics do not ignore balance.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic thinking
+  level: L3
+Название: Характеристики системы
+Определение: Свойство системы, включающее параметры, такие как скорость и безопасность,
+  отличаясь от человеческих характеристик тем, что применяется к неживым системам.
+Синонимы: *id001
+Связи:
+- ресурсность
+- системные уровни
+- характеристика человека
+Главы:
+- C4

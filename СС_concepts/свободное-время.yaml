@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/свободное-время
+name_ru: свободное время
+name_en: free-time
+purpose_ru: Используется для развития.
+purpose_en: Used for development.
+conceptType: resource
+usageContext_ru: В саморазвитии и отдыхе.
+usageContext_en: In self-development and rest.
+synonyms_ru: &id001
+- досуг
+synonyms_en:
+- leisure
+not_this_ru: Не является вынужденным.
+not_this_en: Not forced.
+definition_ru: Ресурс, заключающийся в незаполненном временем, отличающийся от работы
+  через добровольность.
+definition_en: A resource consisting of unoccupied time, differentiated from work
+  by voluntariness.
+summary_ru: ''
+summary_en: ''
+example_ru: Свободное время тратится на обучение.
+example_en: Free time is spent on learning.
+promptHint_ru: Инвестируйте мудро.
+promptHint_en: Invest wisely.
+opposite_ru: занятое время
+opposite_en: occupied time
+metaphor_ru: Пространство для роста.
+metaphor_en: Space for growth.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: progress
+- relation: RELATES_TO
+  target_concept: cognition
+examples:
+  positive_ru:
+  - Свободное время развивает.
+  positive_en:
+  - Free time develops.
+  negative_ru:
+  - Потраченное впустую, оно бесполезно.
+  negative_en:
+  - Wasted, it is useless.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L2
+Название: свободное время
+Определение: Ресурс, заключающийся в незаполненном временем, отличающийся от работы
+  через добровольность.
+Синонимы: *id001
+Связи:
+- cognition
+- progress
+- self-development
+Главы:
+- C1

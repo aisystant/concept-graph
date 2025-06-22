@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/самоконтроль
+name_ru: самоконтроль
+name_en: self-control
+purpose_ru: Управляет поведением в ролях.
+purpose_en: Manages behavior in roles.
+conceptType: Процесс
+usageContext_ru: В ролевом мастерстве.
+usageContext_en: In role mastery.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является внешним контролем.
+not_this_en: Not external control.
+definition_ru: Процесс, в ходе которого человек регулирует свои действия, отличающийся
+  осознанностью.
+definition_en: A process in which a person regulates their actions, distinguished
+  by awareness.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Самоконтроль: управление эмоциями в роли.'
+example_en: 'Self-control: managing emotions in a role.'
+promptHint_ru: Практикуйте для стабильности.
+promptHint_en: Practice for stability.
+opposite_ru: Импульсивность
+opposite_en: Impulsiveness
+metaphor_ru: Руль в руках.
+metaphor_en: Steering wheel in hand.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: внимание в моменте
+- relation: RELATES_TO
+  target_concept: собранность
+examples:
+  positive_ru:
+  - Эффективный самоконтроль в стрессах.
+  positive_en:
+  - Effective self-control in stresses.
+  negative_ru:
+  - Потеря контроля.
+  negative_en:
+  - Loss of control.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: самоконтроль
+Определение: Процесс, в ходе которого человек регулирует свои действия, отличающийся
+  осознанностью.
+Синонимы: *id001
+Связи:
+- внимание в моменте
+- ролевое мастерство
+- собранность
+Главы:
+- C5

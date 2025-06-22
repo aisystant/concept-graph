@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/принцип-оптимизма
+name_ru: Принцип оптимизма
+name_en: Optimism Principle
+purpose_ru: Мотивирует к познанию для преодоления проблем.
+purpose_en: Motivates cognition to overcome problems.
+conceptType: Principle
+usageContext_ru: В философии для установки на развитие.
+usageContext_en: In philosophy for a development mindset.
+synonyms_ru: &id001
+- Концепция оптимизма
+synonyms_en:
+- Optimism Concept
+not_this_ru: Не является наивностью.
+not_this_en: It is not naivety.
+definition_ru: Принцип, заключающийся в объяснении зла недостатком знаний, отличающийся
+  от пессимизма.
+definition_en: A principle consisting of explaining evil as a lack of knowledge, distinguished
+  from pessimism.
+summary_ru: ''
+summary_en: ''
+example_ru: Принцип оптимизма побуждает к обучению.
+example_en: Optimism principle encourages learning.
+promptHint_ru: Используйте для мотивации.
+promptHint_en: Use for motivation.
+opposite_ru: Пессимизм
+opposite_en: Pessimism
+metaphor_ru: Как свет в темноте.
+metaphor_en: Like light in darkness.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: познание
+- relation: PART_OF
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: неожиданность
+examples:
+  positive_ru:
+  - Оптимизм как способ объяснения неудач.
+  positive_en:
+  - Optimism as a way to explain failures.
+  negative_ru:
+  - Пессимистическое восприятие проблем.
+  negative_en:
+  - Pessimistic perception of problems.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: Принцип оптимизма
+Определение: Принцип, заключающийся в объяснении зла недостатком знаний, отличающийся
+  от пессимизма.
+Синонимы: *id001
+Связи:
+- бесконечное развитие
+- неожиданность
+- познание
+Главы:
+- C8

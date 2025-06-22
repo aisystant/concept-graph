@@ -1,0 +1,64 @@
+iri: https://system-school.ru/L6/concept/4d
+name_ru: 4D
+name_en: 4D
+purpose_ru: Описывает измерения систем в физическом мире, включая пространство и время.
+purpose_en: Describes the dimensions of systems in the physical world, including space
+  and time.
+conceptType: property
+usageContext_ru: В системном мышлении для описания физичности систем.
+usageContext_en: In systemic thinking for describing the physicality of systems.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является трехмерным пространством без времени.
+not_this_en: Not a three-dimensional space without time.
+definition_ru: 'Свойство системы, заключающееся в представлении в четырех измерениях:
+  трех пространственных и одного временного.'
+definition_en: 'A property of systems, consisting of representation in four dimensions:
+  three spatial and one temporal.'
+summary_ru: ''
+summary_en: ''
+example_ru: Системы, такие как часы, существуют в 4D, включая их физическое размещение
+  и временные изменения.
+example_en: Systems like clocks exist in 4D, including their physical placement and
+  temporal changes.
+promptHint_ru: Используйте для анализа физической реальности систем.
+promptHint_en: Use for analyzing the physical reality of systems.
+opposite_ru: ''
+opposite_en: ''
+metaphor_ru: Матрешка в пространстве-времени.
+metaphor_en: Matryoshka in space-time.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: физичность системы
+- relation: PART_OF
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: вложенность
+examples:
+  positive_ru:
+  - Системы в 4D, как автомобиль в пространстве и времени.
+  positive_en:
+  - Systems in 4D, like a car in space and time.
+  negative_ru:
+  - Трехмерный объект без учета времени.
+  negative_en:
+  - A three-dimensional object without considering time.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: 4D
+Определение: 'Свойство системы, заключающееся в представлении в четырех измерениях:
+  трех пространственных и одного временного.'
+Синонимы: *id001
+Связи:
+- вложенность
+- система
+- физичность системы
+Главы:
+- C6

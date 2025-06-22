@@ -1,0 +1,76 @@
+iri: https://system-school.ru/L8/concept/выгорание
+name_ru: Выгорание
+name_en: Burnout
+purpose_ru: Описывает состояние эмоционального истощения, связанное с несоответствием
+  желаний, способностей и ресурсов.
+purpose_en: Describes a state of emotional exhaustion related to the mismatch of desires,
+  abilities, and resources.
+conceptType: State
+usageContext_ru: В психологии и саморазвитии для анализа причин и предотвращения истощения.
+usageContext_en: In psychology and self-development to analyze causes and prevent
+  exhaustion.
+synonyms_ru: &id001
+- Эмоциональное истощение
+synonyms_en:
+- Emotional Exhaustion
+not_this_ru: Не является временной усталостью.
+not_this_en: It is not temporary fatigue.
+definition_ru: Состояние, возникающее из-за несоответствия желаний, способностей и
+  ресурсов, отличающееся от обычной усталости.
+definition_en: A state arising from the mismatch of desires, abilities, and resources,
+  distinguished from ordinary fatigue.
+summary_ru: ''
+summary_en: ''
+example_ru: Выгорание происходит, когда человек игнорирует практику досуга.
+example_en: Burnout occurs when a person ignores leisure practices.
+promptHint_ru: Используйте для оценки баланса в жизни.
+promptHint_en: Use for assessing life balance.
+opposite_ru: Энергичность
+opposite_en: Energy
+metaphor_ru: Как сгоревшая свеча.
+metaphor_en: Like a burned-out candle.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: продуктивность
+- relation: PART_OF
+  target_concept: эмоциональные факторы
+- relation: HAS_EXAMPLE
+  target_concept: эшелонированный досуг
+- relation: IS_A
+  target_concept: неудовлетворенности
+- relation: PART_OF
+  target_concept: жизненное мастерство
+- relation: RELATES_TO
+  target_concept: практика организации досуга
+examples:
+  positive_ru:
+  - Истощение от несбалансированной жизни.
+  positive_en:
+  - Exhaustion from an unbalanced life.
+  negative_ru:
+  - Регулярный отдых, предотвращающий выгорание.
+  negative_en:
+  - Regular rest preventing burnout.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Выгорание
+Определение: Состояние, возникающее из-за несоответствия желаний, способностей и ресурсов,
+  отличающееся от обычной усталости.
+Синонимы: *id001
+Связи:
+- жизненное мастерство
+- неудовлетворенности
+- практика организации досуга
+- продуктивность
+- эмоциональные факторы
+- эшелонированный досуг
+Главы:
+- C3
+- C8

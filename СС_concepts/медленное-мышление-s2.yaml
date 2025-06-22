@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/медленное-мышление-s2
+name_ru: медленное мышление (S2)
+name_en: slow-thinking-s2
+purpose_ru: Позволяет проводить глубокий анализ для сложных решений.
+purpose_en: Enables deep analysis for complex decisions.
+conceptType: process
+usageContext_ru: Используется в ситуациях, требующих осознанного размышления.
+usageContext_en: Used in situations requiring conscious reflection.
+synonyms_ru: &id001
+- осознанное мышление
+synonyms_en:
+- deliberate thinking
+not_this_ru: Не является автоматическим, а требует усилий.
+not_this_en: Not automatic, but requires effort.
+definition_ru: Процесс когнитивной деятельности, заключающийся в сознательном, тщательном
+  анализе, отличающийся от быстрого мышления необходимостью сосредоточения и времени.
+definition_en: A cognitive process consisting of conscious, thorough analysis, differentiated
+  from fast thinking by the need for focus and time.
+summary_ru: ''
+summary_en: ''
+example_ru: Медленное мышление используется для решения, как 17x42.
+example_en: Slow thinking is used for solving, like 17x42.
+promptHint_ru: Применяйте для глубокого анализа проблем.
+promptHint_en: Apply for in-depth problem analysis.
+opposite_ru: быстрое мышление
+opposite_en: fast thinking
+metaphor_ru: Тщательное обдумывание, как шахматная стратегия.
+metaphor_en: Thorough consideration, like a chess strategy.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: OPPOSITE_OF
+  target_concept: fast-thinking-s1
+examples:
+  positive_ru:
+  - Медленное мышление помогает в сложных решениях.
+  positive_en:
+  - Slow thinking aids in complex decisions.
+  negative_ru:
+  - Медленное мышление может быть неэффективным в срочных ситуациях.
+  negative_en:
+  - Slow thinking can be ineffective in urgent situations.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: медленное мышление (S2)
+Определение: Процесс когнитивной деятельности, заключающийся в сознательном, тщательном
+  анализе, отличающийся от быстрого мышления необходимостью сосредоточения и времени.
+Синонимы: *id001
+Связи:
+- fast-thinking-s1
+- intellect
+- thinking
+Главы:
+- C1

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/модель-личности
+name_ru: Модель личности
+name_en: Personality Model
+purpose_ru: Описывает структуру личности как часть агента.
+purpose_en: Describes the structure of personality as part of an agent.
+conceptType: Model
+usageContext_ru: В психологии для анализа черт.
+usageContext_en: In psychology for analyzing traits.
+synonyms_ru: &id001
+- Модель характера
+synonyms_en:
+- Character Model
+not_this_ru: Не является биологической моделью.
+not_this_en: It is not a biological model.
+definition_ru: Модель, представляющая личность как совокупность способностей и эмоций,
+  отличающаяся от физической структуры.
+definition_en: A model representing personality as a set of abilities and emotions,
+  distinguished from physical structure.
+summary_ru: ''
+summary_en: ''
+example_ru: Модель личности включает организм и эмоциональную часть.
+example_en: Personality model includes organism and emotional part.
+promptHint_ru: Используйте для понимания поведения.
+promptHint_en: Use for understanding behavior.
+opposite_ru: Простая модель
+opposite_en: Simple model
+metaphor_ru: Как карта психики.
+metaphor_en: Like a map of the psyche.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: личность
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: мозг
+examples:
+  positive_ru:
+  - Комплексная модель личности.
+  positive_en:
+  - Comprehensive personality model.
+  negative_ru:
+  - Упрощенная модель без эмоций.
+  negative_en:
+  - Simplified model without emotions.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Модель личности
+Определение: Модель, представляющая личность как совокупность способностей и эмоций,
+  отличающаяся от физической структуры.
+Синонимы: *id001
+Связи:
+- агент
+- личность
+- мозг
+Главы:
+- C8

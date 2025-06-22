@@ -1,0 +1,67 @@
+iri: https://system-school.ru/L7/concept/менеджер-оргразвития
+name_ru: менеджер оргразвития
+name_en: manager of organizational development
+purpose_ru: Менеджер, развивающий организации.
+purpose_en: Manager who develops organizations.
+conceptType: role
+usageContext_ru: В менеджменте.
+usageContext_en: In management.
+synonyms_ru: &id001
+- организатор
+synonyms_en:
+- organizer
+not_this_ru: Не является операционным.
+not_this_en: It is not operational.
+definition_ru: Роль (genus), фокусирующаяся на стратегическом развитии организаций
+  (differentia).
+definition_en: A role (genus) focused on strategic organizational development (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Менеджер, улучшающий процессы.
+example_en: Manager improving processes.
+promptHint_ru: Применяйте для изменений.
+promptHint_en: Apply for changes.
+opposite_ru: Операционный менеджер.
+opposite_en: Operational manager.
+metaphor_ru: Как архитектор организации.
+metaphor_en: As an organizational architect.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: RELATES_TO
+  target_concept: менеджмент
+- relation: HAS_EXAMPLE
+  target_concept: лидер
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: роль
+examples:
+  positive_ru:
+  - Успешный менеджер оргразвития.
+  positive_en:
+  - Successful manager of organizational development.
+  negative_ru:
+  - Статичный подход.
+  negative_en:
+  - Static approach.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: менеджер оргразвития
+Определение: Роль (genus), фокусирующаяся на стратегическом развитии организаций (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- лидер
+- менеджмент
+- роль
+- системный менеджмент
+Главы:
+- C7

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L5/concept/вход-в-роль
+name_ru: вход в роль
+name_en: entry into role
+purpose_ru: Начинает исполнение роли.
+purpose_en: Begins role performance.
+conceptType: Процесс
+usageContext_ru: В ролевом мастерстве.
+usageContext_en: In role mastery.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является выходом.
+not_this_en: Not exit.
+definition_ru: Процесс, в ходе которого человек начинает играть роль, отличающийся
+  подготовкой.
+definition_en: A process in which a person begins to play a role, distinguished by
+  preparation.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Вход в роль: подготовка к выступлению.'
+example_en: 'Entry into role: preparation for performance.'
+promptHint_ru: Подготовьтесь перед началом.
+promptHint_en: Prepare before starting.
+opposite_ru: Выход из роли
+opposite_en: Exit from role
+metaphor_ru: Надевать костюм.
+metaphor_en: Putting on a costume.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: выход из роли
+- relation: RELATES_TO
+  target_concept: самоконтроль
+examples:
+  positive_ru:
+  - Успешный вход в роль.
+  positive_en:
+  - Successful entry into role.
+  negative_ru:
+  - Неудачная подготовка.
+  negative_en:
+  - Unsuccessful preparation.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: вход в роль
+Определение: Процесс, в ходе которого человек начинает играть роль, отличающийся подготовкой.
+Синонимы: *id001
+Связи:
+- выход из роли
+- ролевое мастерство
+- самоконтроль
+Главы:
+- C5

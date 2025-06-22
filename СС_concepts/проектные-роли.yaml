@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L6/concept/проектные-роли
+name_ru: проектные роли
+name_en: project roles
+purpose_ru: Определяют функции в проекте.
+purpose_en: Define functions in a project.
+conceptType: role
+usageContext_ru: В системном мышлении для координации.
+usageContext_en: In systemic thinking for coordination.
+synonyms_ru: &id001
+- заинтересованные лица
+synonyms_en:
+- stakeholders
+not_this_ru: Не являются общими ролями.
+not_this_en: Not general roles.
+definition_ru: Роли в проекте, отличающиеся от личных ролей.
+definition_en: Roles in a project, distinguished from personal roles.
+summary_ru: ''
+summary_en: ''
+example_ru: Менеджер как проектная роль.
+example_en: Manager as a project role.
+promptHint_ru: Определите для командной работы.
+promptHint_en: Define for team work.
+opposite_ru: Личные роли
+opposite_en: Personal roles
+metaphor_ru: Части команды.
+metaphor_en: Parts of the team.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: проект
+- relation: PART_OF
+  target_concept: системное лидерство
+examples:
+  positive_ru:
+  - Роли в проекте автомобиля.
+  positive_en:
+  - Roles in a car project.
+  negative_ru:
+  - Общие роли вне проекта.
+  negative_en:
+  - General roles outside the project.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: проектные роли
+Определение: Роли в проекте, отличающиеся от личных ролей.
+Синонимы: *id001
+Связи:
+- проект
+- роль
+- системное лидерство
+Главы:
+- C6

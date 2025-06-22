@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/базы-знаний
+name_ru: Базы знаний
+name_en: Knowledge Bases
+purpose_ru: Хранят и организуют знания.
+purpose_en: Store and organize knowledge.
+conceptType: System
+usageContext_ru: В обучении.
+usageContext_en: In learning.
+synonyms_ru: &id001
+- Банки знаний
+synonyms_en:
+- Knowledge Banks
+not_this_ru: Не хаотичные.
+not_this_en: Not chaotic.
+definition_ru: Система, заключающаяся в структурированных хранилищах информации.
+definition_en: A system, characterized by structured information repositories.
+summary_ru: ''
+summary_en: ''
+example_ru: Базы знаний в экзокортексе.
+example_en: Knowledge bases in exocortex.
+promptHint_ru: Используйте базы для доступа.
+promptHint_en: Use bases for access.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как библиотека.
+metaphor_en: Like a library.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: адаптация к изменениям
+examples:
+  positive_ru:
+  - Базы знаний облегчают обучение.
+  positive_en:
+  - Knowledge bases facilitate learning.
+  negative_ru:
+  - Плохая организация затрудняет доступ.
+  negative_en:
+  - Poor organization hinders access.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Базы знаний
+Определение: Система, заключающаяся в структурированных хранилищах информации.
+Синонимы: *id001
+Связи:
+- адаптация к изменениям
+- системное мышление
+- экзокортекс
+Главы:
+- C3

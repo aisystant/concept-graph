@@ -1,0 +1,88 @@
+iri: https://system-school.ru/L4/concept/практики-саморазвития
+name_ru: Практики саморазвития
+name_en: Self-development practices
+purpose_ru: Тренировать навыки для работы с неудовлетворенностями и мотивацией.
+purpose_en: To train skills for working with dissatisfaction and motivation.
+conceptType: process
+usageContext_ru: В системном саморазвитии и ежедневных практиках.
+usageContext_en: In systemic self-development and daily practices.
+synonyms_ru: &id001
+- методы саморазвития
+- Методы саморазвития
+- Практики развития
+synonyms_en:
+- self-improvement methods
+- Self-Improvement Methods
+- Development practices
+not_this_ru: Не являются пассивными занятиями.
+not_this_en: Not passive activities.
+definition_ru: Процесс, включающий регулярные упражнения для осознания и изменения
+  состояний, отличаясь от случайных действий тем, что структурирован для долгосрочного
+  роста.
+definition_en: Process involving regular exercises for awareness and change of states,
+  differing from random actions by being structured for long-term growth.
+summary_ru: ''
+summary_en: ''
+example_ru: Практики саморазвития включают рефлексию для управления эмоциями.
+example_en: Self-development practices include reflection for managing emotions.
+promptHint_ru: Используйте для ежедневного улучшения.
+promptHint_en: Use for daily improvement.
+opposite_ru: Бездействие
+opposite_en: Inaction
+metaphor_ru: Ежедневная тренировка
+metaphor_en: Daily workout
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: методы-ученика
+- relation: PART_OF
+  target_concept: роль-ученика
+- relation: HAS_EXAMPLE
+  target_concept: осознанное-обучение
+- relation: RELATES_TO
+  target_concept: методы обучения
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: экзокортекс
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: PART_OF
+  target_concept: мотивация
+- relation: HAS_EXAMPLE
+  target_concept: внимание
+examples:
+  positive_ru:
+  - Практики саморазвития ведут к прогрессу.
+  positive_en:
+  - Self-development practices lead to progress.
+  negative_ru:
+  - Практики не игнорируют проблемы.
+  negative_en:
+  - Practices do not ignore problems.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-development
+  level: L2
+Название: Практики саморазвития
+Определение: Процесс, включающий регулярные упражнения для осознания и изменения состояний,
+  отличаясь от случайных действий тем, что структурирован для долгосрочного роста.
+Синонимы: *id001
+Связи:
+- внимание
+- методы обучения
+- методы-ученика
+- мотивация
+- неудовлетворенность
+- осознанное-обучение
+- роль-ученика
+- собранность
+- экзокортекс
+Главы:
+- C2
+- C3
+- C4

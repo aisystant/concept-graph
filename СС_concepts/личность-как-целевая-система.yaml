@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/личность-как-целевая-система
+name_ru: личность как целевая система
+name_en: personality as target system
+purpose_ru: Цель для саморазвития.
+purpose_en: Goal for self-development.
+conceptType: object
+usageContext_ru: В проектах саморазвития.
+usageContext_en: In self-development projects.
+synonyms_ru: &id001
+- личность как цель
+synonyms_en:
+- personality as goal
+not_this_ru: Не является средством.
+not_this_en: Not a means.
+definition_ru: Объект, представляющий личность как конечную цель, отличающийся от
+  других объектов фокусом на развитии.
+definition_en: An object representing personality as an end goal, distinguished from
+  other objects by a focus on development.
+summary_ru: ''
+summary_en: ''
+example_ru: Личность как целевая система улучшается через проект саморазвития.
+example_en: Personality as a target system improves through self-development projects.
+promptHint_ru: Ставьте в центр проектов.
+promptHint_en: Place at the center of projects.
+opposite_ru: личность как инструмент
+opposite_en: personality as tool
+metaphor_ru: Конечный продукт.
+metaphor_en: End product.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: проект системного саморазвития личности
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Развитие личности как целевой системы приводит к гармонии.
+  positive_en:
+  - Developing personality as a target system leads to harmony.
+  negative_ru:
+  - Игнорирование приводит к дисбалансу.
+  negative_en:
+  - Ignoring leads to imbalance.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: личность как целевая система
+Определение: Объект, представляющий личность как конечную цель, отличающийся от других
+  объектов фокусом на развитии.
+Синонимы: *id001
+Связи:
+- личность
+- проект системного саморазвития личности
+- успех
+Главы:
+- C9

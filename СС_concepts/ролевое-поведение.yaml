@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/ролевое-поведение
+name_ru: ролевое поведение
+name_en: role behavior
+purpose_ru: Описывает действия в роли.
+purpose_en: Describes actions in a role.
+conceptType: Процесс
+usageContext_ru: В анализе ролей.
+usageContext_en: In role analysis.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является личным поведением.
+not_this_en: Not personal behavior.
+definition_ru: Процесс, в ходе которого человек действует по роли, отличающийся использованием
+  методов.
+definition_en: A process in which a person acts according to a role, distinguished
+  by method use.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Ролевое поведение: менеджер координирует команду.'
+example_en: 'Role behavior: manager coordinates team.'
+promptHint_ru: Наблюдайте для улучшения.
+promptHint_en: Observe for improvement.
+opposite_ru: Неадаптированное поведение
+opposite_en: Uadapted behavior
+metaphor_ru: Сценарий в театре.
+metaphor_en: Script in theater.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: метод
+- relation: RELATES_TO
+  target_concept: ролевое мастерство
+examples:
+  positive_ru:
+  - Эффективное ролевое поведение.
+  positive_en:
+  - Effective role behavior.
+  negative_ru:
+  - Плохое ролевое поведение.
+  negative_en:
+  - Poor role behavior.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: ролевое поведение
+Определение: Процесс, в ходе которого человек действует по роли, отличающийся использованием
+  методов.
+Синонимы: *id001
+Связи:
+- метод
+- ролевое мастерство
+- роль
+Главы:
+- C5

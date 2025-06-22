@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/намерения
+name_ru: Намерения
+name_en: Intentions
+purpose_ru: Связывают мотивации с действиями.
+purpose_en: Link motivations to actions.
+conceptType: Process
+usageContext_ru: В принятии решений для планирования.
+usageContext_en: In decision-making for planning.
+synonyms_ru: &id001
+- Цели
+synonyms_en:
+- Goals
+not_this_ru: Не являются случайными.
+not_this_en: They are not random.
+definition_ru: Процесс, в ходе которого формируются планы на основе мотиваций, отличающийся
+  от импульсивных действий.
+definition_en: A process in which plans are formed based on motivations, distinguished
+  from impulsive actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Намерения помогают устранить неудовлетворенности.
+example_en: Intentions help eliminate dissatisfactions.
+promptHint_ru: Используйте для стратегического планирования.
+promptHint_en: Use for strategic planning.
+opposite_ru: Бездействие
+opposite_en: Inaction
+metaphor_ru: Как мост к целям.
+metaphor_en: Like a bridge to goals.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: желания
+- relation: PART_OF
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: принятие решений
+examples:
+  positive_ru:
+  - Намерения для достижения успеха.
+  positive_en:
+  - Intentions for achieving success.
+  negative_ru:
+  - Отсутствие намерений, приводящее к пассивности.
+  negative_en:
+  - Lack of intentions leading to passivity.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: Намерения
+Определение: Процесс, в ходе которого формируются планы на основе мотиваций, отличающийся
+  от импульсивных действий.
+Синонимы: *id001
+Связи:
+- агентность
+- желания
+- принятие решений
+Главы:
+- C8

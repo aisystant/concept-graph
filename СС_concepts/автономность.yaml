@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L8/concept/автономность
+name_ru: Автономность
+name_en: Autonomy
+purpose_ru: Позволяет агенту действовать независимо от внешнего управления и не отвлекаться
+  на окружающую среду.
+purpose_en: Enables an agent to perform tasks independently without external control
+  and without distraction from the environment.
+conceptType: Property
+usageContext_ru: В контексте агентов, таких как люди или ИИ, для описания способности
+  к самостоятельным действиям.
+usageContext_en: In the context of agents, such as humans or AI, to describe the ability
+  for independent actions.
+synonyms_ru: &id001
+- Самостоятельность
+synonyms_en:
+- Independence
+not_this_ru: Не является полной независимостью от всех факторов, так как агент может
+  зависеть от ресурсов.
+not_this_en: It is not complete independence from all factors, as the agent may still
+  depend on resources.
+definition_ru: Свойство агента, заключающееся в способности выполнять задачи без внешнего
+  управления и устойчивости к воздействию окружающей среды, как у высокоинтеллектуальных
+  агентов.
+definition_en: A property of an agent, consisting of the ability to perform tasks
+  without external control and resistance to environmental influences, as in highly
+  intelligent agents.
+summary_ru: ''
+summary_en: ''
+example_ru: Высокоинтеллектуальный ИИ демонстрирует автономность, когда самостоятельно
+  исследует границы своего влияния.
+example_en: A highly intelligent AI demonstrates autonomy by independently exploring
+  the boundaries of its influence.
+promptHint_ru: Используйте для описания систем, где агент действует без постоянного
+  контроля.
+promptHint_en: Use to describe systems where an agent operates without constant supervision.
+opposite_ru: Зависимость
+opposite_en: Dependence
+metaphor_ru: Как робот, действующий без пульта управления.
+metaphor_en: Like a robot operating without a remote control.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: свобода воли
+examples:
+  positive_ru:
+  - ИИ, который самостоятельно выполняет задачи.
+  positive_en:
+  - AI that performs tasks independently.
+  negative_ru:
+  - Агент, требующий постоянного внешнего управления.
+  negative_en:
+  - An agent requiring constant external control.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systems Thinking
+  level: L3
+Название: Автономность
+Определение: Свойство агента, заключающееся в способности выполнять задачи без внешнего
+  управления и устойчивости к воздействию окружающей среды, как у высокоинтеллектуальных
+  агентов.
+Синонимы: *id001
+Связи:
+- агент
+- агентность
+- свобода воли
+Главы:
+- C8

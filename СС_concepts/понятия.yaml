@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L5/concept/понятия
+name_ru: понятия
+name_en: concepts
+purpose_ru: Обеспечивают основу для мышления.
+purpose_en: Provide foundation for thinking.
+conceptType: Объект
+usageContext_ru: В трансдисциплинах.
+usageContext_en: In transdisciplines.
+synonyms_ru: &id001
+- Концепции
+synonyms_en:
+- Concepts
+not_this_ru: Не являются случайными терминами.
+not_this_en: Not random terms.
+definition_ru: Объект, представляющий ключевые идеи, отличающийся использованием в
+  анализе ситуаций.
+definition_en: An object representing key ideas, distinguished by use in situation
+  analysis.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Понятия: роль, метод.'
+example_en: 'Concepts: role, method.'
+promptHint_ru: Изучайте для глубокого понимания.
+promptHint_en: Study for deep understanding.
+opposite_ru: Абстрактные идеи
+opposite_en: Abstract ideas
+metaphor_ru: Кирпичи в здании.
+metaphor_en: Bricks in a building.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: понятийное внимание
+- relation: PART_OF
+  target_concept: онтологика
+- relation: HAS_EXAMPLE
+  target_concept: системность
+- relation: RELATES_TO
+  target_concept: интеллект-стек
+- relation: RELATES_TO
+  target_concept: трансдисциплина
+- relation: RELATES_TO
+  target_concept: приемы мышления
+examples:
+  positive_ru:
+  - Ключевые понятия в системном мышлении.
+  positive_en:
+  - Key concepts in systemic thinking.
+  negative_ru:
+  - Неопределенные термины.
+  negative_en:
+  - Undefined terms.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: понятия
+Определение: Объект, представляющий ключевые идеи, отличающийся использованием в анализе
+  ситуаций.
+Синонимы: *id001
+Связи:
+- интеллект-стек
+- онтологика
+- понятийное внимание
+- приемы мышления
+- системность
+- трансдисциплина
+Главы:
+- C3
+- C5

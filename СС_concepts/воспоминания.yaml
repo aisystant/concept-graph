@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/воспоминания
+name_ru: Воспоминания
+name_en: Memories
+purpose_ru: Хранить опыт для будущего.
+purpose_en: To store experience for the future.
+conceptType: object
+usageContext_ru: В психологии и саморазвитии.
+usageContext_en: In psychology and self-development.
+synonyms_ru: &id001
+- Память о прошлом
+synonyms_en:
+- Past memories
+not_this_ru: Не является реальностью.
+not_this_en: Not reality.
+definition_ru: Объект, фиксирующий прошлые события, отличаясь от впечатлений тем,
+  что подвергается интерпретации.
+definition_en: Object fixing past events, differing from impressions by being subject
+  to interpretation.
+summary_ru: ''
+summary_en: ''
+example_ru: Воспоминания влияют на убеждения.
+example_en: Memories influence beliefs.
+promptHint_ru: Анализируйте для роста.
+promptHint_en: Analyze for growth.
+opposite_ru: Забвение
+opposite_en: Oblivion
+metaphor_ru: Фильм в уме
+metaphor_en: Film in the mind
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: память
+- relation: PART_OF
+  target_concept: убеждения
+- relation: HAS_EXAMPLE
+  target_concept: эмоции
+examples:
+  positive_ru:
+  - Воспоминания обогащают опыт.
+  positive_en:
+  - Memories enrich experience.
+  negative_ru:
+  - Воспоминания не искажаются.
+  negative_en:
+  - Memories are not distorted.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Воспоминания
+Определение: Объект, фиксирующий прошлые события, отличаясь от впечатлений тем, что
+  подвергается интерпретации.
+Синонимы: *id001
+Связи:
+- память
+- убеждения
+- эмоции
+Главы:
+- C4

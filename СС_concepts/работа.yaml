@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/работа
+name_ru: работа
+name_en: work
+purpose_ru: Производит ценность через усилия.
+purpose_en: Produces value through effort.
+conceptType: Process
+usageContext_ru: В контексте карьеры и экономики.
+usageContext_en: In the context of career and economy.
+synonyms_ru: &id001
+- труд
+synonyms_en:
+- labor
+not_this_ru: Не является досугом.
+not_this_en: Not leisure.
+definition_ru: Процесс, направленный на создание продуктов с фокусом на результат.
+definition_en: A process aimed at creating products with a focus on results.
+summary_ru: ''
+summary_en: ''
+example_ru: Работа на проекте для компании.
+example_en: Working on a project for a company.
+promptHint_ru: Используйте для планирования задач.
+promptHint_en: Use for planning tasks.
+opposite_ru: Бездействие
+opposite_en: Inaction
+metaphor_ru: Как двигатель прогресса.
+metaphor_en: Like an engine of progress.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: досуг
+- relation: PART_OF
+  target_concept: цикл-работа-досуг
+- relation: HAS_EXAMPLE
+  target_concept: ресурсы
+examples:
+  positive_ru:
+  - Продуктивная работа для роста.
+  positive_en:
+  - Productive work for growth.
+  negative_ru:
+  - Неэффективная работа без результатов.
+  negative_en:
+  - Ineffective work without results.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: работа
+Определение: Процесс, направленный на создание продуктов с фокусом на результат.
+Синонимы: *id001
+Связи:
+- досуг
+- ресурсы
+- цикл-работа-досуг
+Главы:
+- C2

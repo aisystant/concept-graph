@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/воспитание
+name_ru: воспитание
+name_en: upbringing
+purpose_ru: Формирует мировоззрение и навыки для будущего развития.
+purpose_en: Forms worldview and skills for future development.
+conceptType: process
+usageContext_ru: В семье и образовании.
+usageContext_en: In family and education.
+synonyms_ru: &id001
+- воспитание детей
+synonyms_en:
+- child upbringing
+not_this_ru: Не является только наказанием.
+not_this_en: Not just punishment.
+definition_ru: Процесс передачи знаний и ценностей, отличающийся от других процессов
+  фокусом на формировании личности.
+definition_en: A process of transmitting knowledge and values, distinguished from
+  other processes by a focus on personality formation.
+summary_ru: ''
+summary_en: ''
+example_ru: Воспитание включает передачу принципов мышления в семье.
+example_en: Upbringing includes transmitting thinking principles in the family.
+promptHint_ru: Применяйте для анализа семейных практик.
+promptHint_en: Apply for analyzing family practices.
+opposite_ru: запущенность
+opposite_en: neglect
+metaphor_ru: Садоводство души.
+metaphor_en: Gardening of the soul.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: семья
+- relation: RELATES_TO
+  target_concept: мировоззрение
+- relation: RELATES_TO
+  target_concept: агентность
+examples:
+  positive_ru:
+  - Эффективное воспитание развивает агентность.
+  positive_en:
+  - Effective upbringing develops agency.
+  negative_ru:
+  - Плохое воспитание приводит к неудовлетворенностям.
+  negative_en:
+  - Poor upbringing leads to dissatisfactions.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: воспитание
+Определение: Процесс передачи знаний и ценностей, отличающийся от других процессов
+  фокусом на формировании личности.
+Синонимы: *id001
+Связи:
+- агентность
+- мировоззрение
+- семья
+Главы:
+- C9

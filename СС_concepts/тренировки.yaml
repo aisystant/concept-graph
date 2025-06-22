@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L9/concept/тренировки
+name_ru: тренировки
+name_en: trainings
+purpose_ru: Улучшают навыки.
+purpose_en: Improve skills.
+conceptType: process
+usageContext_ru: В развитии.
+usageContext_en: In development.
+synonyms_ru: &id001
+- упражнения
+synonyms_en:
+- exercises
+not_this_ru: Не являются отдыхом.
+not_this_en: Not rest.
+definition_ru: Процесс регулярных практик, отличающийся от других процессов своей
+  целенаправленностью.
+definition_en: A process of regular practices, distinguished from other processes
+  by its purposefulness.
+summary_ru: ''
+summary_en: ''
+example_ru: Тренировки в саморазвитии включают ежедневные привычки.
+example_en: Trainings in self-development include daily habits.
+promptHint_ru: Проводите регулярно.
+promptHint_en: Conduct regularly.
+opposite_ru: бездействие
+opposite_en: inaction
+metaphor_ru: Повторяющиеся шаги.
+metaphor_en: Repeating steps.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: привычки
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Тренировки укрепляют.
+  positive_en:
+  - Trainings strengthen.
+  negative_ru:
+  - Их отсутствие ослабляет.
+  negative_en:
+  - Their absence weakens.
+discipline:
+  name_ru: Спорт
+  name_en: Sports
+  level: L2
+Название: тренировки
+Определение: Процесс регулярных практик, отличающийся от других процессов своей целенаправленностью.
+Синонимы: *id001
+Связи:
+- мастерство
+- привычки
+- саморазвитие
+Главы:
+- C9

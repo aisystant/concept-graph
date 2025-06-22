@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/этапы-постановки-привычки
+name_ru: этапы постановки привычки
+name_en: habit establishment stages
+purpose_ru: Описывают формирование привычек.
+purpose_en: Describe habit formation.
+conceptType: Model
+usageContext_ru: В контексте саморазвития.
+usageContext_en: In the context of self-development.
+synonyms_ru: &id001
+- стадии привычки
+synonyms_en:
+- habit stages
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Модель, включающая этапы от 'Надо или Любопытно' до 'Не могу не'.
+definition_en: A model including stages from 'Need or Curiosity' to 'Can't Not'.
+summary_ru: ''
+summary_en: ''
+example_ru: Постановка привычки через последовательные этапы.
+example_en: Establishing a habit through sequential stages.
+promptHint_ru: Используйте для формирования рутины.
+promptHint_en: Use for forming routines.
+opposite_ru: Разовые действия
+opposite_en: One-time actions
+metaphor_ru: Как лестница привычки.
+metaphor_en: Like a habit ladder.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: модели-обучения
+- relation: RELATES_TO
+  target_concept: привычка
+- relation: HAS_EXAMPLE
+  target_concept: практики-саморазвития
+examples:
+  positive_ru:
+  - Успешные этапы для новой привычки.
+  positive_en:
+  - Successful stages for a new habit.
+  negative_ru:
+  - Пропуск этапов, приводящий к неудаче.
+  negative_en:
+  - Skipping stages leading to failure.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: этапы постановки привычки
+Определение: Модель, включающая этапы от 'Надо или Любопытно' до 'Не могу не'.
+Синонимы: *id001
+Связи:
+- модели-обучения
+- практики-саморазвития
+- привычка
+Главы:
+- C2

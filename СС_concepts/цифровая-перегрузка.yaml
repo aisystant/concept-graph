@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/цифровая-перегрузка
+name_ru: Цифровая перегрузка
+name_en: Digital Overload
+purpose_ru: Выявляет цифровые избытки.
+purpose_en: Identifies digital excesses.
+conceptType: State
+usageContext_ru: В цифровой среде.
+usageContext_en: In digital environments.
+synonyms_ru: &id001
+- Цифровой хаос
+synonyms_en:
+- Digital Chaos
+not_this_ru: Не полезный поток.
+not_this_en: Not useful stream.
+definition_ru: Состояние, заключающееся в избытке цифровой информации.
+definition_en: A state, characterized by excess digital information.
+summary_ru: ''
+summary_en: ''
+example_ru: Перегрузка от социальных сетей.
+example_en: Overload from social media.
+promptHint_ru: Снижайте цифровую перегрузку.
+promptHint_en: Reduce digital overload.
+opposite_ru: Цифровой баланс
+opposite_en: Digital Balance
+metaphor_ru: Как информационный шторм.
+metaphor_en: Like an information storm.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: информационная перегрузка
+- relation: PART_OF
+  target_concept: экзокортекс
+- relation: HAS_EXAMPLE
+  target_concept: планирование задач
+examples:
+  positive_ru:
+  - Управление перегрузкой улучшает фокус.
+  positive_en:
+  - Managing overload improves focus.
+  negative_ru:
+  - Перегрузка снижает эффективность.
+  negative_en:
+  - Overload reduces efficiency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Цифровая перегрузка
+Определение: Состояние, заключающееся в избытке цифровой информации.
+Синонимы: *id001
+Связи:
+- информационная перегрузка
+- планирование задач
+- экзокортекс
+Главы:
+- C3

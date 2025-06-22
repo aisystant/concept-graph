@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L6/concept/сложные-проблемы
+name_ru: сложные проблемы
+name_en: complex problems
+purpose_ru: Требуют системного мышления.
+purpose_en: Require systemic thinking.
+conceptType: problem
+usageContext_ru: В системном мышлении для решения.
+usageContext_en: In systemic thinking for solving.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не являются простыми.
+not_this_en: Not simple.
+definition_ru: Проблемы, включающие множество интересов, отличающиеся от рутинных.
+definition_en: Problems involving multiple interests, distinguished from routine ones.
+summary_ru: ''
+summary_en: ''
+example_ru: Глобальные проблемы, как климатические изменения.
+example_en: Global problems, like climate change.
+promptHint_ru: Анализируйте системно.
+promptHint_en: Analyze systemically.
+opposite_ru: Простые проблемы
+opposite_en: Simple problems
+metaphor_ru: Запутанный клубок.
+metaphor_en: Tangled ball.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: неустроенности
+- relation: PART_OF
+  target_concept: системный подход 3.0
+examples:
+  positive_ru:
+  - Проблемы с множеством факторов.
+  positive_en:
+  - Problems with multiple factors.
+  negative_ru:
+  - Легкие задачи.
+  negative_en:
+  - Easy tasks.
+discipline:
+  name_ru: Проблемное решение
+  name_en: Problem Solving
+  level: L3
+Название: сложные проблемы
+Определение: Проблемы, включающие множество интересов, отличающиеся от рутинных.
+Синонимы: *id001
+Связи:
+- неустроенности
+- системное мышление
+- системный подход 3.0
+Главы:
+- C6

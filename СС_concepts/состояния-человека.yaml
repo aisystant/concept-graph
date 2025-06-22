@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/состояния-человека
+name_ru: Состояния человека
+name_en: Human states
+purpose_ru: Описывать эмоциональные, ролевые и физические состояния для самоуправления.
+purpose_en: To describe emotional, role, and physical states for self-management.
+conceptType: object
+usageContext_ru: В психологии и системном подходе.
+usageContext_en: In psychology and systemic approach.
+synonyms_ru: &id001
+- Состояния личности
+synonyms_en:
+- States of personality
+not_this_ru: Не является неизменным.
+not_this_en: Not unchanging.
+definition_ru: Объект, охватывающий ролевые, психологические и физические состояния
+  человека, отличаясь от системных состояний тем, что включает внутренние реакции.
+definition_en: Object encompassing role, psychological, and physical states of a human,
+  differing from system states by including internal reactions.
+summary_ru: ''
+summary_en: ''
+example_ru: Состояния человека включают переходы от усталости к бодрости.
+example_en: Human states include transitions from fatigue to alertness.
+promptHint_ru: Используйте для анализа личных изменений.
+promptHint_en: Use for analyzing personal changes.
+opposite_ru: Стабильность
+opposite_en: Stability
+metaphor_ru: Поток изменений
+metaphor_en: Stream of changes
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: состояния системы
+- relation: PART_OF
+  target_concept: переходы между состояниями
+- relation: HAS_EXAMPLE
+  target_concept: эмоции
+examples:
+  positive_ru:
+  - Состояния человека помогают в адаптации.
+  positive_en:
+  - Human states aid in adaptation.
+  negative_ru:
+  - Состояния не игнорируют эмоции.
+  negative_en:
+  - States do not ignore emotions.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Состояния человека
+Определение: Объект, охватывающий ролевые, психологические и физические состояния
+  человека, отличаясь от системных состояний тем, что включает внутренние реакции.
+Синонимы: *id001
+Связи:
+- переходы между состояниями
+- состояния системы
+- эмоции
+Главы:
+- C4

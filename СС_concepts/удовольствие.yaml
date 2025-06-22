@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/удовольствие
+name_ru: Удовольствие
+name_en: Pleasure
+purpose_ru: Предоставлять вознаграждение за действия.
+purpose_en: To provide reward for actions.
+conceptType: object
+usageContext_ru: В мотивации и эмоциях.
+usageContext_en: In motivation and emotions.
+synonyms_ru: &id001
+- Наслаждение
+synonyms_en:
+- Enjoyment
+not_this_ru: Не является постоянным.
+not_this_en: Not permanent.
+definition_ru: Объект, представляющий положительное ощущение, отличаясь от боли тем,
+  что стимулирует повторение поведения.
+definition_en: Object representing positive sensation, differing from pain by stimulating
+  repeated behavior.
+summary_ru: ''
+summary_en: ''
+example_ru: Удовольствие от успеха мотивирует.
+example_en: Pleasure from success motivates.
+promptHint_ru: Ищите в повседневности.
+promptHint_en: Seek in daily life.
+opposite_ru: Боль
+opposite_en: Pain
+metaphor_ru: Награда за усилия
+metaphor_en: Reward for efforts
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: мотивация
+- relation: PART_OF
+  target_concept: эмоции
+- relation: HAS_EXAMPLE
+  target_concept: чувства
+examples:
+  positive_ru:
+  - Удовольствие укрепляет привычки.
+  positive_en:
+  - Pleasure strengthens habits.
+  negative_ru:
+  - Удовольствие не вредит.
+  negative_en:
+  - Pleasure does not harm.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Удовольствие
+Определение: Объект, представляющий положительное ощущение, отличаясь от боли тем,
+  что стимулирует повторение поведения.
+Синонимы: *id001
+Связи:
+- мотивация
+- чувства
+- эмоции
+Главы:
+- C4

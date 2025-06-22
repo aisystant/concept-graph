@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/эстетика
+name_ru: эстетика
+name_en: aesthetics
+purpose_ru: Улучшает восприятие и выражение.
+purpose_en: Improves perception and expression.
+conceptType: Process
+usageContext_ru: В контексте культуры и дизайна.
+usageContext_en: In the context of culture and design.
+synonyms_ru: &id001
+- красота
+synonyms_en:
+- beauty
+not_this_ru: Не является утилитарностью.
+not_this_en: Not utilitarianism.
+definition_ru: Процесс, фокусирующийся на эстетических аспектах для самовыражения.
+definition_en: A process focusing on aesthetic aspects for self-expression.
+summary_ru: ''
+summary_en: ''
+example_ru: Эстетика в одежде и искусстве.
+example_en: Aesthetics in clothing and art.
+promptHint_ru: Используйте для творчества.
+promptHint_en: Use for creativity.
+opposite_ru: Утилитаризм
+opposite_en: Utilitarianism
+metaphor_ru: Как искусство жизни.
+metaphor_en: Like the art of life.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: искусство
+- relation: PART_OF
+  target_concept: культура
+- relation: HAS_EXAMPLE
+  target_concept: тело
+examples:
+  positive_ru:
+  - Эстетика, улучшающая образ.
+  positive_en:
+  - Aesthetics improving image.
+  negative_ru:
+  - Игнорирование эстетики.
+  negative_en:
+  - Ignoring aesthetics.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: эстетика
+Определение: Процесс, фокусирующийся на эстетических аспектах для самовыражения.
+Синонимы: *id001
+Связи:
+- искусство
+- культура
+- тело
+Главы:
+- C2

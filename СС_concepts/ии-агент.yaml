@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/ии-агент
+name_ru: ИИ-агент
+name_en: AI Agent
+purpose_ru: Представляет ИИ как самостоятельного исполнителя ролей в системах.
+purpose_en: Represents AI as an independent performer of roles in systems.
+conceptType: Object
+usageContext_ru: В системном мышлении для интеграции ИИ в команды.
+usageContext_en: In systems thinking for integrating AI into teams.
+synonyms_ru: &id001
+- ИИ-исполнитель
+synonyms_en:
+- AI Executor
+not_this_ru: Не является простым инструментом.
+not_this_en: It is not a simple tool.
+definition_ru: Объект, являющийся ИИ с автономностью и способностью к действиям, отличающийся
+  от традиционных программ.
+definition_en: An object that is AI with autonomy and action capability, distinguished
+  from traditional programs.
+summary_ru: ''
+summary_en: ''
+example_ru: ИИ-агент может выполнять роли в команде, как переводчик.
+example_en: An AI agent can perform roles in a team, such as a translator.
+promptHint_ru: Используйте для проектирования систем с ИИ.
+promptHint_en: Use for designing systems with AI.
+opposite_ru: Пассивный ИИ
+opposite_en: Passive AI
+metaphor_ru: Как робот-помощник.
+metaphor_en: Like a robot assistant.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: агент
+- relation: PART_OF
+  target_concept: искусственный интеллект как часть личности
+- relation: RELATES_TO
+  target_concept: автономность
+examples:
+  positive_ru:
+  - ИИ, самостоятельно выполняющий задачи.
+  positive_en:
+  - AI performing tasks independently.
+  negative_ru:
+  - ИИ без способности к самостоятельным действиям.
+  negative_en:
+  - AI without the ability for independent actions.
+discipline:
+  name_ru: ИИ и системное мышление
+  name_en: AI and Systems Thinking
+  level: L3
+Название: ИИ-агент
+Определение: Объект, являющийся ИИ с автономностью и способностью к действиям, отличающийся
+  от традиционных программ.
+Синонимы: *id001
+Связи:
+- автономность
+- агент
+- искусственный интеллект как часть личности
+Главы:
+- C8

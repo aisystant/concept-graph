@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L6/concept/безмасштабность
+name_ru: безмасштабность
+name_en: scalefree
+purpose_ru: Позволяет применять системное мышление к различным масштабам систем.
+purpose_en: Allows application of systemic thinking to various scales of systems.
+conceptType: property
+usageContext_ru: В системном подходе 3.0 для универсальности.
+usageContext_en: In systemic approach 3.0 for universality.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является ограничением масштабом.
+not_this_en: Not limited by scale.
+definition_ru: Свойство систем, заключающееся в применимости без учета размера или
+  уровня.
+definition_en: A property of systems, consisting of applicability regardless of size
+  or level.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное мышление 3.0 применяется к ИИ и глобальным проблемам одинаково.
+example_en: Systemic thinking 3.0 applies to AI and global problems equally.
+promptHint_ru: Используйте для анализа больших систем.
+promptHint_en: Use for analyzing large systems.
+opposite_ru: Масштабируемость
+opposite_en: Scalability
+metaphor_ru: Универсальный ключ для замков разных размеров.
+metaphor_en: Universal key for locks of different sizes.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системный подход 3.0
+- relation: RELATES_TO
+  target_concept: система
+- relation: PART_OF
+  target_concept: вложенность
+examples:
+  positive_ru:
+  - Применение к разным системам без изменений.
+  positive_en:
+  - Application to different systems without changes.
+  negative_ru:
+  - Ограничение только малыми системами.
+  negative_en:
+  - Limitation to only small systems.
+discipline:
+  name_ru: Системология
+  name_en: Systemology
+  level: L3
+Название: безмасштабность
+Определение: Свойство систем, заключающееся в применимости без учета размера или уровня.
+Синонимы: *id001
+Связи:
+- вложенность
+- система
+- системный подход 3.0
+Главы:
+- C6

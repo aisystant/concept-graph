@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/фатальная-ошибка
+name_ru: Фатальная ошибка
+name_en: Fatal Error
+purpose_ru: Может прервать развитие.
+purpose_en: Can interrupt development.
+conceptType: Event
+usageContext_ru: В решениях для избежания.
+usageContext_en: In decisions for avoidance.
+synonyms_ru: &id001
+- Критическая ошибка
+synonyms_en:
+- Critical Error
+not_this_ru: Не является мелкой.
+not_this_en: It is not minor.
+definition_ru: Событие, приводящее к необратимым последствиям, отличающееся от обычных
+  ошибок.
+definition_en: An event leading to irreversible consequences, distinguished from ordinary
+  errors.
+summary_ru: ''
+summary_en: ''
+example_ru: Фатальная ошибка из-за неучета этики.
+example_en: Fatal error due to ignoring ethics.
+promptHint_ru: Используйте для риск-оценки.
+promptHint_en: Use for risk assessment.
+opposite_ru: Успех
+opposite_en: Success
+metaphor_ru: Как конец игры.
+metaphor_en: Like the end of the game.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: ответственность
+- relation: PART_OF
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: удача
+examples:
+  positive_ru:
+  - Ошибка, приводящая к краху.
+  positive_en:
+  - Error leading to collapse.
+  negative_ru:
+  - Избежание ошибок через осторожность.
+  negative_en:
+  - Avoiding errors through caution.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: Фатальная ошибка
+Определение: Событие, приводящее к необратимым последствиям, отличающееся от обычных
+  ошибок.
+Синонимы: *id001
+Связи:
+- бесконечное развитие
+- ответственность
+- удача
+Главы:
+- C8

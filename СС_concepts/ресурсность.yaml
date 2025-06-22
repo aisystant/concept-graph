@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/ресурсность
+name_ru: Ресурсность
+name_en: Resourcefulness
+purpose_ru: Обеспечивать наличие ресурсов для действий.
+purpose_en: To ensure availability of resources for actions.
+conceptType: property
+usageContext_ru: В анализе личностных характеристик.
+usageContext_en: In analysis of personal characteristics.
+synonyms_ru: &id001
+- Доступность ресурсов
+synonyms_en:
+- Availability of resources
+not_this_ru: Не является бесконечной.
+not_this_en: Not infinite.
+definition_ru: Свойство, включающее наличие необходимых ресурсов, отличаясь от других
+  характеристик тем, что фокусируется на практической поддержке действий.
+definition_en: Property including the presence of necessary resources, differing from
+  other characteristics by focusing on practical support for actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Ресурсность позволяет использовать инструменты для задач.
+example_en: Resourcefulness allows using tools for tasks.
+promptHint_ru: Управляйте для эффективности.
+promptHint_en: Manage for efficiency.
+opposite_ru: Дефицит ресурсов
+opposite_en: Resource deficit
+metaphor_ru: Запас сил
+metaphor_en: Reserve of strength
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: характеристика человека
+- relation: PART_OF
+  target_concept: агентность
+- relation: HAS_EXAMPLE
+  target_concept: мотивация
+examples:
+  positive_ru:
+  - Ресурсность способствует успеху.
+  positive_en:
+  - Resourcefulness contributes to success.
+  negative_ru:
+  - Ресурсность не игнорирует ограничения.
+  negative_en:
+  - Resourcefulness does not ignore limitations.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Ресурсность
+Определение: Свойство, включающее наличие необходимых ресурсов, отличаясь от других
+  характеристик тем, что фокусируется на практической поддержке действий.
+Синонимы: *id001
+Связи:
+- агентность
+- мотивация
+- характеристика человека
+Главы:
+- C4

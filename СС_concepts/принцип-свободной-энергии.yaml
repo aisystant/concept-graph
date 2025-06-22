@@ -1,0 +1,66 @@
+iri: https://system-school.ru/L4/concept/принцип-свободной-энергии
+name_ru: Принцип свободной энергии
+name_en: Principle of free energy
+purpose_ru: Объяснять, как агент минимизирует разрыв между ожиданиями и реальностью.
+purpose_en: To explain how an agent minimizes the gap between expectations and reality.
+conceptType: principle
+usageContext_ru: В теориях активного вывода для анализа мотивации.
+usageContext_en: In active inference theories for motivation analysis.
+synonyms_ru: &id001
+- Принцип свободной энергии
+synonyms_en:
+- Free energy principle
+not_this_ru: Не является физическим законом, а применяется в психологии.
+not_this_en: Not a physical law, but applied in psychology.
+definition_ru: Принцип, описывающий стремление системы уменьшить неопределенность,
+  отличаясь от других теорий тем, что фокусируется на предсказаниях и корректировке
+  действий.
+definition_en: Principle that describes a system's drive to reduce uncertainty, differing
+  from other theories by focusing on predictions and action adjustments.
+summary_ru: ''
+summary_en: ''
+example_ru: Принцип свободной энергии объясняет, почему человек корректирует поведение
+  для минимизации разрыва между ожиданиями и реальностью.
+example_en: The principle of free energy explains why a person adjusts behavior to
+  minimize the gap between expectations and reality.
+promptHint_ru: Применяйте для анализа мотивационных процессов.
+promptHint_en: Apply for analyzing motivational processes.
+opposite_ru: Максимализация неопределенности
+opposite_en: Maximization of uncertainty
+metaphor_ru: Баланс предсказаний
+metaphor_en: Balance of predictions
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: PART_OF
+  target_concept: мотивация
+- relation: HAS_EXAMPLE
+  target_concept: убеждения
+examples:
+  positive_ru:
+  - Принцип свободной энергии помогает в адаптации.
+  positive_en:
+  - Principle of free energy aids in adaptation.
+  negative_ru:
+  - Принцип не игнорирует изменения.
+  negative_en:
+  - Principle does not ignore changes.
+discipline:
+  name_ru: Теории активного вывода
+  name_en: Active inference theories
+  level: L3
+Название: Принцип свободной энергии
+Определение: Принцип, описывающий стремление системы уменьшить неопределенность, отличаясь
+  от других теорий тем, что фокусируется на предсказаниях и корректировке действий.
+Синонимы: *id001
+Связи:
+- мотивация
+- неудовлетворенность
+- убеждения
+Главы:
+- C4

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/обучение
+name_ru: обучение
+name_en: learning
+purpose_ru: Развивает навыки через инженерию личности.
+purpose_en: Develops skills through personality engineering.
+conceptType: Process
+usageContext_ru: В контексте образования и роста.
+usageContext_en: In the context of education and growth.
+synonyms_ru: &id001
+- изучение
+synonyms_en:
+- study
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Процесс инженерии, направленный на создание мастерства в личности.
+definition_en: A process of engineering aimed at creating mastery in personality.
+summary_ru: ''
+summary_en: ''
+example_ru: Обучение как инженерия для развития агентности.
+example_en: Learning as engineering for developing agency.
+promptHint_ru: Используйте для планирования роста.
+promptHint_en: Use for planning growth.
+opposite_ru: Незнание
+opposite_en: Ignorance
+metaphor_ru: Как строительство навыков.
+metaphor_en: Like building skills.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: инженерия
+- relation: PART_OF
+  target_concept: образование
+- relation: HAS_EXAMPLE
+  target_concept: осознанное-и-неосознанное-обучение
+examples:
+  positive_ru:
+  - Эффективное обучение для мастерства.
+  positive_en:
+  - Effective learning for mastery.
+  negative_ru:
+  - Неэффективное обучение без результатов.
+  negative_en:
+  - Ineffective learning without results.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: обучение
+Определение: Процесс инженерии, направленный на создание мастерства в личности.
+Синонимы: *id001
+Связи:
+- инженерия
+- образование
+- осознанное-и-неосознанное-обучение
+Главы:
+- C2

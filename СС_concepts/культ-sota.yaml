@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/культ-sota
+name_ru: культ SoTA
+name_en: SOTA cult
+purpose_ru: Стимулирует стремление к передовым знаниям.
+purpose_en: Stimulates pursuit of advanced knowledge.
+conceptType: process
+usageContext_ru: В обучении и развитии.
+usageContext_en: In learning and development.
+synonyms_ru: &id001
+- культ современности
+synonyms_en:
+- modernity cult
+not_this_ru: Не является слепым следованием.
+not_this_en: Not blind following.
+definition_ru: Процесс ориентации на передовые методы, отличающийся от других процессов
+  осознанным выбором.
+definition_en: A process of orientation to advanced methods, distinguished from other
+  processes by conscious choice.
+summary_ru: ''
+summary_en: ''
+example_ru: Культ SoTA побуждает к изучению новых трансдисциплин.
+example_en: SOTA cult encourages studying new transdisciplines.
+promptHint_ru: Применяйте для обновления знаний.
+promptHint_en: Apply for updating knowledge.
+opposite_ru: консерватизм
+opposite_en: conservatism
+metaphor_ru: Преследование горизонта.
+metaphor_en: Pursuit of the horizon.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: культура обучения
+examples:
+  positive_ru:
+  - Культ SoTA ускоряет прогресс.
+  positive_en:
+  - SOTA cult accelerates progress.
+  negative_ru:
+  - Отсутствие приводит к отставанию.
+  negative_en:
+  - Absence leads to lagging.
+discipline:
+  name_ru: Образование
+  name_en: Education
+  level: L3
+Название: культ SoTA
+Определение: Процесс ориентации на передовые методы, отличающийся от других процессов
+  осознанным выбором.
+Синонимы: *id001
+Связи:
+- бесконечное развитие
+- культура обучения
+- саморазвитие
+Главы:
+- C9

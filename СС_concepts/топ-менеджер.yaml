@@ -1,0 +1,66 @@
+iri: https://system-school.ru/L7/concept/топ-менеджер
+name_ru: топ-менеджер
+name_en: top manager
+purpose_ru: Руководитель, совмещающий роли в организации.
+purpose_en: Leader who combines roles in an organization.
+conceptType: role
+usageContext_ru: В высшем менеджменте.
+usageContext_en: In senior management.
+synonyms_ru: &id001
+- высший менеджер
+synonyms_en:
+- senior manager
+not_this_ru: Не является низшим менеджером.
+not_this_en: It is not a junior manager.
+definition_ru: Роль (genus), включающая стратегическое и тактическое управление (differentia).
+definition_en: A role (genus) that includes strategic and tactical management (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Топ-менеджер компании.
+example_en: Top manager of a company.
+promptHint_ru: Используйте для общего руководства.
+promptHint_en: Use for overall leadership.
+opposite_ru: Младший менеджер.
+opposite_en: Junior manager.
+metaphor_ru: Топ-менеджер как CEO.
+metaphor_en: Top manager as CEO.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: RELATES_TO
+  target_concept: лидер
+- relation: HAS_EXAMPLE
+  target_concept: директор по развитию
+- relation: ALIGNS_WITH
+  target_concept: менеджмент
+- relation: IS_A
+  target_concept: роль
+examples:
+  positive_ru:
+  - Успешный топ-менеджер.
+  positive_en:
+  - Successful top manager.
+  negative_ru:
+  - Неэффективное лидерство.
+  negative_en:
+  - Ineffective leadership.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: топ-менеджер
+Определение: Роль (genus), включающая стратегическое и тактическое управление (differentia).
+Синонимы: *id001
+Связи:
+- директор по развитию
+- лидер
+- менеджмент
+- роль
+- системный менеджмент
+Главы:
+- C7

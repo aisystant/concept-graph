@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/инженерия-целевой-системы
+name_ru: инженерия целевой системы
+name_en: engineering of target system
+purpose_ru: Разработка конкретных систем, таких как продукты.
+purpose_en: Development of specific systems, such as products.
+conceptType: process
+usageContext_ru: В инженерии проектов.
+usageContext_en: In engineering projects.
+synonyms_ru: &id001
+- разработка продукта
+synonyms_en:
+- product development
+not_this_ru: Не является общим управлением.
+not_this_en: It is not general management.
+definition_ru: Процесс (genus), направленный на проектирование и реализацию целевых
+  систем (differentia).
+definition_en: A process (genus) aimed at designing and implementing target systems
+  (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Инженерия целевой системы для самолета.
+example_en: Engineering of target system for an airplane.
+promptHint_ru: Фокусируйтесь на технической реализации.
+promptHint_en: Focus on technical implementation.
+opposite_ru: Абстрактное планирование.
+opposite_en: Abstract planning.
+metaphor_ru: Как строительство продукта.
+metaphor_en: As building a product.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: инженерия
+- relation: RELATES_TO
+  target_concept: инженер
+- relation: HAS_EXAMPLE
+  target_concept: система
+- relation: ALIGNS_WITH
+  target_concept: принципы инженерии
+- relation: IS_A
+  target_concept: менеджмент
+examples:
+  positive_ru:
+  - Успешная инженерия целевой системы.
+  positive_en:
+  - Successful engineering of target system.
+  negative_ru:
+  - Неэффективная разработка.
+  negative_en:
+  - Ineffective development.
+discipline:
+  name_ru: Инженерия
+  name_en: Engineering
+  level: L3
+Название: инженерия целевой системы
+Определение: Процесс (genus), направленный на проектирование и реализацию целевых
+  систем (differentia).
+Синонимы: *id001
+Связи:
+- инженер
+- инженерия
+- менеджмент
+- принципы инженерии
+- система
+Главы:
+- C7

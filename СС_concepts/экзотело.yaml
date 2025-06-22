@@ -1,0 +1,92 @@
+iri: https://system-school.ru/L8/concept/экзотело
+name_ru: Экзотело
+name_en: Exobody
+purpose_ru: Расширяет тело агента.
+purpose_en: Extends the body of an agent.
+conceptType: Object
+usageContext_ru: В системах для дополнения.
+usageContext_en: In systems for supplementation.
+synonyms_ru: &id001
+- Внешнее тело
+synonyms_en:
+- External Body
+not_this_ru: Не является основным телом.
+not_this_en: It is not the main body.
+definition_ru: Объект, являющийся расширением тела, включая ресурсы, отличающийся
+  от биологического.
+definition_en: An object that is an extension of the body, including resources, distinguished
+  from the biological one.
+summary_ru: ''
+summary_en: ''
+example_ru: Экзотело включает одежду и инструменты.
+example_en: Exobody includes clothing and tools.
+promptHint_ru: Используйте для анализа расширений.
+promptHint_en: Use for analyzing extensions.
+opposite_ru: Без экзотела
+opposite_en: Without Exobody
+metaphor_ru: Как дополнение к телу.
+metaphor_en: Like an addition to the body.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: techno-evolution
+- relation: RELATES_TO
+  target_concept: exocortex
+- relation: RELATES_TO
+  target_concept: human
+- relation: RELATES_TO
+  target_concept: тело
+- relation: PART_OF
+  target_concept: экзокортекс
+- relation: HAS_EXAMPLE
+  target_concept: долголетие
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: инженерия человека
+- relation: HAS_EXAMPLE
+  target_concept: память
+- relation: IS_A
+  target_concept: организм
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: ресурсы
+examples:
+  positive_ru:
+  - Экзотело для улучшения функций.
+  positive_en:
+  - Exobody for improving functions.
+  negative_ru:
+  - Отсутствие экзотела, ограничивающее.
+  negative_en:
+  - Lack of exobody limiting.
+discipline:
+  name_ru: Биология
+  name_en: Biology
+  level: L2
+Название: Экзотело
+Определение: Объект, являющийся расширением тела, включая ресурсы, отличающийся от
+  биологического.
+Синонимы: *id001
+Связи:
+- exocortex
+- human
+- techno-evolution
+- агент
+- долголетие
+- инженерия человека
+- организм
+- память
+- ресурсы
+- тело
+- экзокортекс
+Главы:
+- C1
+- C2
+- C4
+- C8

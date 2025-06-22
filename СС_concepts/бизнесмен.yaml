@@ -1,0 +1,67 @@
+iri: https://system-school.ru/L7/concept/бизнесмен
+name_ru: бизнесмен
+name_en: businessman
+purpose_ru: Роль, оценивающая прибыльность и рыночную ценность.
+purpose_en: A role that evaluates profitability and market value.
+conceptType: role
+usageContext_ru: В бизнесе.
+usageContext_en: In business.
+synonyms_ru: &id001
+- предприниматель
+synonyms_en:
+- entrepreneur
+not_this_ru: Не является только инвестором.
+not_this_en: It is not just an investor.
+definition_ru: Роль (genus), фокусирующаяся на анализе эффективности организаций (differentia).
+definition_en: A role (genus) focused on analyzing the efficiency of organizations
+  (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Бизнесмен, оценивающий компанию.
+example_en: Businessman evaluating a company.
+promptHint_ru: Применяйте для финансового анализа.
+promptHint_en: Apply for financial analysis.
+opposite_ru: Неэффективный менеджер.
+opposite_en: Ineffective manager.
+metaphor_ru: Бизнесмен как аналитик.
+metaphor_en: Businessman as an analyst.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: предпринимательство
+- relation: RELATES_TO
+  target_concept: визионер
+- relation: HAS_EXAMPLE
+  target_concept: стратег
+- relation: ALIGNS_WITH
+  target_concept: техноэволюция
+- relation: IS_A
+  target_concept: роль
+examples:
+  positive_ru:
+  - Успешный бизнесмен.
+  positive_en:
+  - Successful businessman.
+  negative_ru:
+  - Неэффективный инвестор.
+  negative_en:
+  - Ineffective investor.
+discipline:
+  name_ru: Предпринимательство
+  name_en: Entrepreneurship
+  level: L3
+Название: бизнесмен
+Определение: Роль (genus), фокусирующаяся на анализе эффективности организаций (differentia).
+Синонимы: *id001
+Связи:
+- визионер
+- предпринимательство
+- роль
+- стратег
+- техноэволюция
+Главы:
+- C7

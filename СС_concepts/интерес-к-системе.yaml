@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L5/concept/интерес-к-системе
+name_ru: интерес к системе
+name_en: interest in system
+purpose_ru: Определяет фокус внимания ролей на системе.
+purpose_en: Defines the focus of roles on the system.
+conceptType: Объект
+usageContext_ru: В анализе ролевых интересов.
+usageContext_en: In analyzing role interests.
+synonyms_ru: &id001
+- ролевой интерес
+synonyms_en:
+- role interest
+not_this_ru: Не является личной неудовлетворенностью.
+not_this_en: Not personal dissatisfaction.
+definition_ru: Объект, представляющий характеристику системы для ролей, отличающийся
+  спецификой, такой как стоимость или производительность.
+definition_en: An object representing a system characteristic for roles, distinguished
+  by specifics like cost or performance.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Интерес к системе: производительность для пользователя.'
+example_en: 'Interest in system: performance for the user.'
+promptHint_ru: Учитывайте для системного дизайна.
+promptHint_en: Consider for system design.
+opposite_ru: Личная неудовлетворенность
+opposite_en: Personal dissatisfaction
+metaphor_ru: Линза, через которую смотрят на систему.
+metaphor_en: Lens through which the system is viewed.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: проектная роль
+- relation: RELATES_TO
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+examples:
+  positive_ru:
+  - Интерес к цене системы.
+  positive_en:
+  - Interest in system price.
+  negative_ru:
+  - Личные эмоции, не связанные с системой.
+  negative_en:
+  - Personal emotions not related to the system.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: интерес к системе
+Определение: Объект, представляющий характеристику системы для ролей, отличающийся
+  спецификой, такой как стоимость или производительность.
+Синонимы: *id001
+Связи:
+- неудовлетворенность
+- проектная роль
+- система
+Главы:
+- C5

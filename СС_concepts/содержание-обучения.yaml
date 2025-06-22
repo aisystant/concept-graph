@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/содержание-обучения
+name_ru: содержание обучения
+name_en: learning content
+purpose_ru: Определяет, чему учиться.
+purpose_en: Defines what to learn.
+conceptType: Object
+usageContext_ru: В контексте образования.
+usageContext_en: In the context of education.
+synonyms_ru: &id001
+- материал обучения
+synonyms_en:
+- learning material
+not_this_ru: Не является формой.
+not_this_en: Not form.
+definition_ru: Объект, включающий знания и навыки, передаваемые в обучении.
+definition_en: An object including knowledge and skills transmitted in learning.
+summary_ru: ''
+summary_en: ''
+example_ru: Содержание — трансдисциплины в образовании.
+example_en: Content — transdisciplines in education.
+promptHint_ru: Используйте для выбора тем.
+promptHint_en: Use for selecting topics.
+opposite_ru: Форма обучения
+opposite_en: Learning form
+metaphor_ru: Как ядро курса.
+metaphor_en: Like the core of a course.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: форма-обучения
+- relation: PART_OF
+  target_concept: обучение
+- relation: HAS_EXAMPLE
+  target_concept: умение-думать
+examples:
+  positive_ru:
+  - Релевантное содержание для роста.
+  positive_en:
+  - Relevant content for growth.
+  negative_ru:
+  - Несоответствующее содержание.
+  negative_en:
+  - Irrelevant content.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: содержание обучения
+Определение: Объект, включающий знания и навыки, передаваемые в обучении.
+Синонимы: *id001
+Связи:
+- обучение
+- умение-думать
+- форма-обучения
+Главы:
+- C2

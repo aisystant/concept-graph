@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/вероятность-предсказания
+name_ru: вероятность предсказания
+name_en: predictive-probability
+purpose_ru: Оценивает точность теорий в предсказании событий.
+purpose_en: Evaluates the accuracy of theories in predicting events.
+conceptType: property
+usageContext_ru: Применяется в сравнении научных и ненаучных теорий.
+usageContext_en: Applied in comparing scientific and non-scientific theories.
+synonyms_ru: &id001
+- предсказательная сила
+synonyms_en:
+- predictive power
+not_this_ru: Не является гарантией, а лишь вероятностью.
+not_this_en: Not a guarantee, but merely a probability.
+definition_ru: Свойство теории, заключающееся в степени вероятности правильного предсказания,
+  отличающееся от случайности через эмпирическую проверку.
+definition_en: A property of a theory, consisting of the degree of likelihood for
+  accurate prediction, differentiated from randomness by empirical verification.
+summary_ru: ''
+summary_en: ''
+example_ru: Научные теории имеют высокую вероятность предсказания, как прогнозы метеорологов.
+example_en: Scientific theories have high predictive probability, like weather forecasts.
+promptHint_ru: Используйте для оценки надежности моделей.
+promptHint_en: Use to evaluate model reliability.
+opposite_ru: случайность
+opposite_en: randomness
+metaphor_ru: Компас в неопределенности.
+metaphor_en: A compass in uncertainty.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: theory
+- relation: RELATES_TO
+  target_concept: scientific-worldview
+- relation: RELATES_TO
+  target_concept: non-scientific-worldview
+examples:
+  positive_ru:
+  - Высокая вероятность предсказания в научных теориях.
+  positive_en:
+  - High predictive probability in scientific theories.
+  negative_ru:
+  - Низкая вероятность в ненаучных моделях.
+  negative_en:
+  - Low predictive probability in non-scientific models.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: вероятность предсказания
+Определение: Свойство теории, заключающееся в степени вероятности правильного предсказания,
+  отличающееся от случайности через эмпирическую проверку.
+Синонимы: *id001
+Связи:
+- non-scientific-worldview
+- scientific-worldview
+- theory
+Главы:
+- C1

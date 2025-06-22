@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/эмоции
+name_ru: Эмоции
+name_en: Emotions
+purpose_ru: Реагировать на стимулы для адаптации.
+purpose_en: To react to stimuli for adaptation.
+conceptType: object
+usageContext_ru: В психологии и эмоциональном мастерстве.
+usageContext_en: In psychology and emotional mastery.
+synonyms_ru: &id001
+- Чувства
+synonyms_en:
+- Feelings
+not_this_ru: Не является долговременным.
+not_this_en: Not long-term.
+definition_ru: Объект, представляющий кратковременные реакции на стимулы, отличаясь
+  от чувств тем, что фокусируется на немедленных ответах.
+definition_en: Object representing short-term reactions to stimuli, differing from
+  feelings by focusing on immediate responses.
+summary_ru: ''
+summary_en: ''
+example_ru: Эмоции, как страх, направляют внимание.
+example_en: Emotions, such as fear, direct attention.
+promptHint_ru: Управляйте для лучшей адаптации.
+promptHint_en: Manage for better adaptation.
+opposite_ru: Эмоциональная стабильность
+opposite_en: Emotional stability
+metaphor_ru: Быстрые вспышки
+metaphor_en: Quick flashes
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: чувства
+- relation: PART_OF
+  target_concept: эмоциональное состояние
+- relation: HAS_EXAMPLE
+  target_concept: мотивация
+examples:
+  positive_ru:
+  - Эмоции помогают в реакции.
+  positive_en:
+  - Emotions help in reaction.
+  negative_ru:
+  - Эмоции не подавляют.
+  negative_en:
+  - Emotions do not suppress.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Эмоции
+Определение: Объект, представляющий кратковременные реакции на стимулы, отличаясь
+  от чувств тем, что фокусируется на немедленных ответах.
+Синонимы: *id001
+Связи:
+- мотивация
+- чувства
+- эмоциональное состояние
+Главы:
+- C4

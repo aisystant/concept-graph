@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L6/concept/системные-навыки
+name_ru: системные навыки
+name_en: systemic skills
+purpose_ru: Развивают способность работать с системами.
+purpose_en: Develop ability to work with systems.
+conceptType: skill set
+usageContext_ru: В системном мышлении для практики.
+usageContext_en: In systemic thinking for practice.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не являются общими навыками.
+not_this_en: Not general skills.
+definition_ru: Навыки, включающие выделение систем, отличающиеся от стандартных.
+definition_en: Skills including system identification, distinguished from standard
+  ones.
+summary_ru: ''
+summary_en: ''
+example_ru: Навыки для описания систем.
+example_en: Skills for describing systems.
+promptHint_ru: Тренируйте регулярно.
+promptHint_en: Train regularly.
+opposite_ru: Несистемные навыки
+opposite_en: Non-systemic skills
+metaphor_ru: Инструменты системного мастера.
+metaphor_en: Tools of the systemic master.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: приемы мышления
+- relation: RELATES_TO
+  target_concept: системное мышление
+- relation: PART_OF
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Навыки в проектах.
+  positive_en:
+  - Skills in projects.
+  negative_ru:
+  - Отсутствие навыков.
+  negative_en:
+  - Lack of skills.
+discipline:
+  name_ru: Обучение
+  name_en: Training
+  level: L2
+Название: системные навыки
+Определение: Навыки, включающие выделение систем, отличающиеся от стандартных.
+Синонимы: *id001
+Связи:
+- мышление
+- приемы мышления
+- системное мышление
+Главы:
+- C6

@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L2/concept/искусство
+name_ru: искусство
+name_en: art
+purpose_ru: Выражает человеческий опыт и эмоции через творческие методы.
+purpose_en: Expresses human experience and emotions through creative methods.
+conceptType: Process
+usageContext_ru: В контексте культуры и самовыражения.
+usageContext_en: In the context of culture and self-expression.
+synonyms_ru: &id001
+- творчество
+synonyms_en:
+- creativity
+not_this_ru: Не является утилитарным производством.
+not_this_en: Not utilitarian production.
+definition_ru: Процесс создания произведений, отражающих мир через эстетические методы.
+definition_en: A process of creating works that reflect the world through aesthetic
+  methods.
+summary_ru: ''
+summary_en: ''
+example_ru: Создание картин или музыки.
+example_en: Creating paintings or music.
+promptHint_ru: Используйте для вдохновения.
+promptHint_en: Use for inspiration.
+opposite_ru: Утилитарность
+opposite_en: Utilitarianism
+metaphor_ru: Как зеркало души.
+metaphor_en: Like a mirror of the soul.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: культура
+- relation: PART_OF
+  target_concept: эстетика
+- relation: HAS_EXAMPLE
+  target_concept: методы
+examples:
+  positive_ru:
+  - Искусство как выражение эмоций.
+  positive_en:
+  - Art as expression of emotions.
+  negative_ru:
+  - Искусство, игнорирующее эстетику.
+  negative_en:
+  - Art ignoring aesthetics.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: искусство
+Определение: Процесс создания произведений, отражающих мир через эстетические методы.
+Синонимы: *id001
+Связи:
+- культура
+- методы
+- эстетика
+Главы:
+- C2

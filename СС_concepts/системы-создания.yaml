@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/системы-создания
+name_ru: Системы создания
+name_en: Creation systems
+purpose_ru: Реализовывать методы для переходов между состояниями.
+purpose_en: To implement methods for transitions between states.
+conceptType: object
+usageContext_ru: В системном подходе и саморазвитии.
+usageContext_en: In systemic approach and self-development.
+synonyms_ru: &id001
+- Системы переходов
+synonyms_en:
+- Transition systems
+not_this_ru: Не является пассивным.
+not_this_en: Not passive.
+definition_ru: Объект, представляющий системы, которые вызывают изменения состояний,
+  отличаясь от простых инструментов тем, что включают комплексные методы.
+definition_en: Object representing systems that cause state changes, differing from
+  simple tools by including complex methods.
+summary_ru: ''
+summary_en: ''
+example_ru: Системы создания, как гамак и море, переводят в состояние расслабления.
+example_en: Creation systems, such as a hammock and sea, transition to a relaxed state.
+promptHint_ru: Применяйте для индукции изменений.
+promptHint_en: Apply for inducing changes.
+opposite_ru: Системы стабильности
+opposite_en: Stability systems
+metaphor_ru: Катализаторы перемен
+metaphor_en: Catalysts of change
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: переходы между состояниями
+- relation: PART_OF
+  target_concept: состояния человека
+- relation: HAS_EXAMPLE
+  target_concept: ресурсы
+examples:
+  positive_ru:
+  - Системы создания облегчают переходы.
+  positive_en:
+  - Creation systems facilitate transitions.
+  negative_ru:
+  - Системы не препятствуют изменениям.
+  negative_en:
+  - Systems do not hinder changes.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic thinking
+  level: L3
+Название: Системы создания
+Определение: Объект, представляющий системы, которые вызывают изменения состояний,
+  отличаясь от простых инструментов тем, что включают комплексные методы.
+Синонимы: *id001
+Связи:
+- переходы между состояниями
+- ресурсы
+- состояния человека
+Главы:
+- C4

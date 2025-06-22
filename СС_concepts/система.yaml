@@ -1,0 +1,93 @@
+iri: https://system-school.ru/L7/concept/система
+name_ru: система
+name_en: system
+purpose_ru: Объект, который создается для улучшения жизни, такой как автомобили или
+  организации.
+purpose_en: An object created to improve life, such as cars or organizations.
+conceptType: object
+usageContext_ru: В инженерии, менеджменте и предпринимательстве для анализа и создания.
+usageContext_en: In engineering, management, and entrepreneurship for analysis and
+  creation.
+synonyms_ru: &id001
+- структура
+- механизм
+synonyms_en:
+- structure
+- mechanism
+not_this_ru: Не является изолированным элементом без связей.
+not_this_en: It is not an isolated element without connections.
+definition_ru: Объект (genus), состоящий из компонентов и связей, целенаправленно
+  создаваемый для выполнения функций, таких как улучшение жизни (differentia).
+definition_en: An object (genus) consisting of components and connections, deliberately
+  created to perform functions such as improving life (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Автомобиль как система, созданная для транспорта.
+example_en: A car as a system created for transportation.
+promptHint_ru: Анализируйте систему для выявления ее компонентов и улучшений.
+promptHint_en: Analyze the system to identify its components and improvements.
+opposite_ru: Изолированный элемент.
+opposite_en: An isolated element.
+metaphor_ru: Система как организм с частями.
+metaphor_en: System as an organism with parts.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: интерес к системе
+- relation: RELATES_TO
+  target_concept: изменения
+- relation: IS_A
+  target_concept: целевая система
+- relation: RELATES_TO
+  target_concept: надсистема
+- relation: PART_OF
+  target_concept: системный подход 1.0
+- relation: PART_OF
+  target_concept: инженерия
+- relation: RELATES_TO
+  target_concept: создатель системы
+- relation: HAS_EXAMPLE
+  target_concept: инженер
+- relation: ALIGNS_WITH
+  target_concept: принципы инженерии
+- relation: IS_A
+  target_concept: успешная система
+examples:
+  positive_ru:
+  - Эффективная команда в организации.
+  positive_en:
+  - An effective team in an organization.
+  negative_ru:
+  - Неустойчивая система без адаптации.
+  negative_en:
+  - An unstable system without adaptation.
+discipline:
+  name_ru: Системный подход
+  name_en: Systems approach
+  level: L2
+Название: система
+Определение: Объект (genus), состоящий из компонентов и связей, целенаправленно создаваемый
+  для выполнения функций, таких как улучшение жизни (differentia).
+Синонимы: *id001
+Связи:
+- изменения
+- инженер
+- инженерия
+- интерес к системе
+- надсистема
+- принципы инженерии
+- роль
+- системный подход 1.0
+- создатель системы
+- успешная система
+- целевая система
+Главы:
+- C5
+- C6
+- C7

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/сострадание
+name_ru: Сострадание
+name_en: Compassion
+purpose_ru: Помогает видеть страдания других.
+purpose_en: Helps see the sufferings of others.
+conceptType: Property
+usageContext_ru: В этике для эмпатии.
+usageContext_en: In ethics for empathy.
+synonyms_ru: &id001
+- Эмпатия
+synonyms_en:
+- Empathy
+not_this_ru: Не является равнодушием.
+not_this_en: It is not indifference.
+definition_ru: Свойство, заключающееся в способности чувствовать чужие страдания,
+  отличающееся от эгоизма.
+definition_en: A property consisting of the ability to feel others' sufferings, distinguished
+  from egoism.
+summary_ru: ''
+summary_en: ''
+example_ru: Сострадание мотивирует создавать системы для помощи.
+example_en: Compassion motivates creating systems for help.
+promptHint_ru: Используйте для этических размышлений.
+promptHint_en: Use for ethical reflections.
+opposite_ru: Безразличие
+opposite_en: Indifference
+metaphor_ru: Как мост empathy.
+metaphor_en: Like a bridge of empathy.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: системное лидерство
+- relation: RELATES_TO
+  target_concept: неудовлетворенности
+examples:
+  positive_ru:
+  - Сострадание к нуждающимся.
+  positive_en:
+  - Compassion for those in need.
+  negative_ru:
+  - Отсутствие сострадания, игнорирующее проблемы.
+  negative_en:
+  - Lack of compassion ignoring problems.
+discipline:
+  name_ru: Этика
+  name_en: Ethics
+  level: L3
+Название: Сострадание
+Определение: Свойство, заключающееся в способности чувствовать чужие страдания, отличающееся
+  от эгоизма.
+Синонимы: *id001
+Связи:
+- неудовлетворенности
+- системное лидерство
+- этика
+Главы:
+- C8

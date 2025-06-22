@@ -1,0 +1,72 @@
+iri: https://system-school.ru/L9/concept/культура-обучения
+name_ru: культура обучения
+name_en: learning culture
+purpose_ru: Стимулирует непрерывное образование.
+purpose_en: Stimulates continuous education.
+conceptType: process
+usageContext_ru: В образовании.
+usageContext_en: In education.
+synonyms_ru: &id001
+- культура образования
+- культура знаний
+synonyms_en:
+- education culture
+- knowledge culture
+not_this_ru: Не является формальным.
+not_this_en: Not formal.
+definition_ru: Процесс интеграции обучения в жизнь, отличающийся от других процессов
+  ежедневностью.
+definition_en: A process of integrating learning into life, distinguished from other
+  processes by its daily nature.
+summary_ru: ''
+summary_en: ''
+example_ru: Культура обучения включает ежедневные тренировки.
+example_en: Learning culture includes daily training.
+promptHint_ru: Развивайте для роста.
+promptHint_en: Develop for growth.
+opposite_ru: анти-обучение
+opposite_en: anti-learning
+metaphor_ru: Постоянный поток знаний.
+metaphor_en: Constant stream of knowledge.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: культура
+- relation: RELATES_TO
+  target_concept: новая-грамотность
+- relation: HAS_EXAMPLE
+  target_concept: роль-ученика
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: культ SoTA
+examples:
+  positive_ru:
+  - Культура обучения улучшает навыки.
+  positive_en:
+  - Learning culture improves skills.
+  negative_ru:
+  - Ее отсутствие приводит к отставанию.
+  negative_en:
+  - Its absence leads to lagging.
+discipline:
+  name_ru: Образование
+  name_en: Education
+  level: L2
+Название: культура обучения
+Определение: Процесс интеграции обучения в жизнь, отличающийся от других процессов
+  ежедневностью.
+Синонимы: *id001
+Связи:
+- культ SoTA
+- культура
+- новая-грамотность
+- роль-ученика
+- саморазвитие
+Главы:
+- C2
+- C9

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/факты
+name_ru: факты
+name_en: facts
+purpose_ru: Предоставляют основу для знаний.
+purpose_en: Provide the basis for knowledge.
+conceptType: Object
+usageContext_ru: В контексте информации.
+usageContext_en: In the context of information.
+synonyms_ru: &id001
+- данные
+synonyms_en:
+- data
+not_this_ru: Не являются интерпретацией.
+not_this_en: Not interpretation.
+definition_ru: Объект, представляющий конкретную информацию о событиях или объектах.
+definition_en: An object representing specific information about events or objects.
+summary_ru: ''
+summary_en: ''
+example_ru: Факты о исторических событиях.
+example_en: Facts about historical events.
+promptHint_ru: Используйте для верификации.
+promptHint_en: Use for verification.
+opposite_ru: Мнение
+opposite_en: Opinion
+metaphor_ru: Как building blocks.
+metaphor_en: Like building blocks.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: информация
+- relation: RELATES_TO
+  target_concept: знания
+- relation: HAS_EXAMPLE
+  target_concept: мировоззрение
+examples:
+  positive_ru:
+  - Использование фактов в анализе.
+  positive_en:
+  - Using facts in analysis.
+  negative_ru:
+  - Игнорирование фактов.
+  negative_en:
+  - Ignoring facts.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: факты
+Определение: Объект, представляющий конкретную информацию о событиях или объектах.
+Синонимы: *id001
+Связи:
+- знания
+- информация
+- мировоззрение
+Главы:
+- C2

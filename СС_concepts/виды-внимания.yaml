@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/виды-внимания
+name_ru: Виды внимания
+name_en: Types of Attention
+purpose_ru: Классифицирует внимание для лучшего понимания.
+purpose_en: Classifies attention for better understanding.
+conceptType: System
+usageContext_ru: В когнитивной психологии.
+usageContext_en: In cognitive psychology.
+synonyms_ru: &id001
+- Формы внимания
+synonyms_en:
+- Forms of Attention
+not_this_ru: Не единый тип.
+not_this_en: Not a single type.
+definition_ru: Система, заключающаяся в классификации внимания на S1 и S2 для различения
+  скоростей и глубины.
+definition_en: A system, characterized by classifying attention into S1 and S2 for
+  distinguishing speed and depth.
+summary_ru: ''
+summary_en: ''
+example_ru: Виды внимания включают быстрое S1 и медленное S2.
+example_en: Types of attention include fast S1 and slow S2.
+promptHint_ru: Выбирайте вид внимания по задаче.
+promptHint_en: Choose attention type per task.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как разные скорости в движении.
+metaphor_en: Like different speeds in motion.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: первая сигнальная система
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: вторая сигнальная система
+examples:
+  positive_ru:
+  - Понимание видов внимания улучшает управление.
+  positive_en:
+  - Understanding attention types improves management.
+  negative_ru:
+  - Смешение видов приводит к неэффективности.
+  negative_en:
+  - Mixing types leads to inefficiency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Виды внимания
+Определение: Система, заключающаяся в классификации внимания на S1 и S2 для различения
+  скоростей и глубины.
+Синонимы: *id001
+Связи:
+- внимание
+- вторая сигнальная система
+- первая сигнальная система
+Главы:
+- C3

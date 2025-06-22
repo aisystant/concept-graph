@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/когнитивные-перегрузки
+name_ru: Когнитивные перегрузки
+name_en: Cognitive Overloads
+purpose_ru: Выявляет перегрузки для их снижения.
+purpose_en: Identifies overloads for reduction.
+conceptType: State
+usageContext_ru: В когнитивной работе.
+usageContext_en: In cognitive work.
+synonyms_ru: &id001
+- Перегрузки мозга
+synonyms_en:
+- Brain Overloads
+not_this_ru: Не нормальная нагрузка.
+not_this_en: Not normal load.
+definition_ru: Состояние, заключающееся в чрезмерной нагрузке на когнитивные ресурсы.
+definition_en: A state, characterized by excessive load on cognitive resources.
+summary_ru: ''
+summary_en: ''
+example_ru: Когнитивные перегрузки от информационного хаоса.
+example_en: Cognitive overloads from information chaos.
+promptHint_ru: Снижайте перегрузки через фильтрацию.
+promptHint_en: Reduce overloads through filtering.
+opposite_ru: Когнитивный баланс
+opposite_en: Cognitive Balance
+metaphor_ru: Как перегруженный провод.
+metaphor_en: Like an overloaded wire.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: информационная перегрузка
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональные факторы
+examples:
+  positive_ru:
+  - Управление перегрузками повышает производительность.
+  positive_en:
+  - Managing overloads increases productivity.
+  negative_ru:
+  - Перегрузки вызывают ошибки.
+  negative_en:
+  - Overloads cause errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Когнитивные перегрузки
+Определение: Состояние, заключающееся в чрезмерной нагрузке на когнитивные ресурсы.
+Синонимы: *id001
+Связи:
+- внимание
+- информационная перегрузка
+- эмоциональные факторы
+Главы:
+- C3

@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/модель-системы
+name_ru: модель системы
+name_en: system model
+purpose_ru: Представляет описание системы для анализа.
+purpose_en: Represents a system description for analysis.
+conceptType: object
+usageContext_ru: В системном мышлении для создания успешных систем.
+usageContext_en: In systemic thinking for creating successful systems.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является самой системой.
+not_this_en: Not the system itself.
+definition_ru: Представление системы в упрощенной форме, отличающееся от физического
+  воплощения.
+definition_en: A representation of the system in a simplified form, distinguished
+  from physical embodiment.
+summary_ru: ''
+summary_en: ''
+example_ru: Модель автомобиля для проектирования.
+example_en: Car model for designing.
+promptHint_ru: Создавайте для планирования.
+promptHint_en: Create for planning.
+opposite_ru: Физическая система
+opposite_en: Physical system
+metaphor_ru: Схема системы.
+metaphor_en: Blueprint of the system.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: описание системы
+- relation: RELATES_TO
+  target_concept: документация системы
+- relation: PART_OF
+  target_concept: системное описание
+examples:
+  positive_ru:
+  - Модель для анализа.
+  positive_en:
+  - Model for analysis.
+  negative_ru:
+  - Полное воплощение без модели.
+  negative_en:
+  - Full embodiment without a model.
+discipline:
+  name_ru: Моделирование
+  name_en: Modeling
+  level: L3
+Название: модель системы
+Определение: Представление системы в упрощенной форме, отличающееся от физического
+  воплощения.
+Синонимы: *id001
+Связи:
+- документация системы
+- описание системы
+- системное описание
+Главы:
+- C6

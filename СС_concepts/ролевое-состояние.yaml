@@ -1,0 +1,65 @@
+iri: https://system-school.ru/L4/concept/ролевое-состояние
+name_ru: Ролевое состояние
+name_en: Role state
+purpose_ru: Определять действия в конкретных ситуациях.
+purpose_en: To determine actions in specific situations.
+conceptType: object
+usageContext_ru: В анализе поведения и систем.
+usageContext_en: In analysis of behavior and systems.
+synonyms_ru: &id001
+- Состояние роли
+synonyms_en:
+- State of role
+not_this_ru: Не является постоянным.
+not_this_en: Not permanent.
+definition_ru: Объект, представляющий собой временную роль в системе, фокусируясь
+  на действиях, отличаясь от психологического состояния тем, что подчеркивает внешние
+  функции.
+definition_en: Object representing a temporary role in a system, focusing on actions,
+  differing from psychological states by emphasizing external functions.
+summary_ru: ''
+summary_en: ''
+example_ru: Ролевое состояние менеджера включает координацию команды.
+example_en: Role state of a manager includes coordinating a team.
+promptHint_ru: Используйте для описания ролей.
+promptHint_en: Use for describing roles.
+opposite_ru: Личное состояние
+opposite_en: Personal state
+metaphor_ru: Маска роли
+metaphor_en: Role mask
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: состояния человека
+- relation: PART_OF
+  target_concept: переходы между состояниями
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональное состояние
+examples:
+  positive_ru:
+  - Ролевое состояние улучшает взаимодействие.
+  positive_en:
+  - Role state improves interaction.
+  negative_ru:
+  - Ролевое состояние не ограничивается эмоциями.
+  negative_en:
+  - Role state is not limited to emotions.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Ролевое состояние
+Определение: Объект, представляющий собой временную роль в системе, фокусируясь на
+  действиях, отличаясь от психологического состояния тем, что подчеркивает внешние
+  функции.
+Синонимы: *id001
+Связи:
+- переходы между состояниями
+- состояния человека
+- эмоциональное состояние
+Главы:
+- C4

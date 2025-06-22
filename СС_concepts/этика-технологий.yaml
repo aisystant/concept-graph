@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/этика-технологий
+name_ru: Этика технологий
+name_en: Ethics of Technology
+purpose_ru: Рассматривает моральные аспекты технологий.
+purpose_en: Examines moral aspects of technology.
+conceptType: Discipline
+usageContext_ru: В ИИ и инновациях.
+usageContext_en: In AI and innovations.
+synonyms_ru: &id001
+- Технологическая этика
+synonyms_en:
+- Tech Ethics
+not_this_ru: Не является чистой этикой.
+not_this_en: It is not pure ethics.
+definition_ru: Дисциплина, изучающая этические вопросы технологий, отличающаяся от
+  общей этики.
+definition_en: A discipline studying ethical issues of technology, distinguished from
+  general ethics.
+summary_ru: ''
+summary_en: ''
+example_ru: Этика технологий обсуждает ИИ.
+example_en: Ethics of technology discusses AI.
+promptHint_ru: Используйте для технологических дебатов.
+promptHint_en: Use for technological debates.
+opposite_ru: Неэтичные технологии
+opposite_en: Unethical Technologies
+metaphor_ru: Как мораль для машин.
+metaphor_en: Like morality for machines.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: консьюмеризм
+- relation: RELATES_TO
+  target_concept: ИИ-агент
+examples:
+  positive_ru:
+  - Этичное использование ИИ.
+  positive_en:
+  - Ethical use of AI.
+  negative_ru:
+  - Неэтичные технологии.
+  negative_en:
+  - Unethical technologies.
+discipline:
+  name_ru: Этика
+  name_en: Ethics
+  level: L3
+Название: Этика технологий
+Определение: Дисциплина, изучающая этические вопросы технологий, отличающаяся от общей
+  этики.
+Синонимы: *id001
+Связи:
+- ИИ-агент
+- консьюмеризм
+- этика
+Главы:
+- C8

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/вторая-сигнальная-система-медленное-мышление-внимание-s2
+name_ru: Вторая сигнальная система (медленное мышление, внимание S2)
+name_en: Second Signaling System (Slow Thinking, Attention S2)
+purpose_ru: Обеспечивает глубокий анализ.
+purpose_en: Provides deep analysis.
+conceptType: Process
+usageContext_ru: В сложных задачах.
+usageContext_en: In complex tasks.
+synonyms_ru: &id001
+- Медленное внимание
+synonyms_en:
+- Slow Attention
+not_this_ru: Не быстрое.
+not_this_en: Not fast.
+definition_ru: Процесс, заключающийся в медленном, осознанном анализе информации.
+definition_en: A process, characterized by slow, conscious information analysis.
+summary_ru: ''
+summary_en: ''
+example_ru: S2 внимание в стратегическом планировании.
+example_en: S2 attention in strategic planning.
+promptHint_ru: Используйте S2 для глубоких решений.
+promptHint_en: Use S2 for deep decisions.
+opposite_ru: Первая сигнальная система
+opposite_en: First Signaling System
+metaphor_ru: Как тщательное исследование.
+metaphor_en: Like thorough investigation.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: виды внимания
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: понятийное внимание
+examples:
+  positive_ru:
+  - S2 обеспечивает точность.
+  positive_en:
+  - S2 ensures accuracy.
+  negative_ru:
+  - Злоупотребление S2 приводит к усталости.
+  negative_en:
+  - Overuse of S2 leads to fatigue.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Вторая сигнальная система (медленное мышление, внимание S2)
+Определение: Процесс, заключающийся в медленном, осознанном анализе информации.
+Синонимы: *id001
+Связи:
+- виды внимания
+- внимание
+- понятийное внимание
+Главы:
+- C3

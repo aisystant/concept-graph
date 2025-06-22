@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/осознанное-времяпрепровождение
+name_ru: осознанное времяпрепровождение
+name_en: conscious time management
+purpose_ru: Организует время для баланса и развития.
+purpose_en: Organizes time for balance and development.
+conceptType: Process
+usageContext_ru: В контексте повседневной жизни.
+usageContext_en: In the context of daily life.
+synonyms_ru: &id001
+- осознанное использование времени
+synonyms_en:
+- conscious use of time
+not_this_ru: Не является хаотичным.
+not_this_en: Not chaotic.
+definition_ru: Процесс, включающий планирование досуга и инвестиций для эффективного
+  использования времени.
+definition_en: A process involving planning of leisure and investments for effective
+  time use.
+summary_ru: ''
+summary_en: ''
+example_ru: Планирование досуга для восстановления.
+example_en: Planning leisure for restoration.
+promptHint_ru: Используйте для ежедневного планирования.
+promptHint_en: Use for daily planning.
+opposite_ru: Неосознанное времяпрепровождение
+opposite_en: Unconscious time management
+metaphor_ru: Как стратегия дня.
+metaphor_en: Like a daily strategy.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: осознанное-управление-временем
+- relation: HAS_EXAMPLE
+  target_concept: досуг
+examples:
+  positive_ru:
+  - Эффективное осознанное времяпрепровождение.
+  positive_en:
+  - Effective conscious time management.
+  negative_ru:
+  - Бесцельное времяпрепровождение.
+  negative_en:
+  - Aimless time management.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: осознанное времяпрепровождение
+Определение: Процесс, включающий планирование досуга и инвестиций для эффективного
+  использования времени.
+Синонимы: *id001
+Связи:
+- время
+- досуг
+- осознанное-управление-временем
+Главы:
+- C2

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/систематические-изменения
+name_ru: систематические изменения
+name_en: systematic changes
+purpose_ru: Обеспечивают устойчивый прогресс.
+purpose_en: Ensure sustainable progress.
+conceptType: process
+usageContext_ru: В развитии.
+usageContext_en: In development.
+synonyms_ru: &id001
+- постепенные изменения
+synonyms_en:
+- gradual changes
+not_this_ru: Не являются хаотичными.
+not_this_en: Not chaotic.
+definition_ru: Процесс организованных изменений, отличающийся от других процессов
+  своей структурой.
+definition_en: A process of organized changes, distinguished from other processes
+  by its structure.
+summary_ru: ''
+summary_en: ''
+example_ru: Систематические изменения включают привычки.
+example_en: Systematic changes include habits.
+promptHint_ru: Внедряйте постепенно.
+promptHint_en: Implement gradually.
+opposite_ru: спонтанные изменения
+opposite_en: spontaneous changes
+metaphor_ru: Постепенное восхождение.
+metaphor_en: Gradual ascent.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: привычки
+- relation: RELATES_TO
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: тренировки
+examples:
+  positive_ru:
+  - Систематические изменения приводят к успеху.
+  positive_en:
+  - Systematic changes lead to success.
+  negative_ru:
+  - Их отсутствие вызывает неудачи.
+  negative_en:
+  - Their absence causes failures.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: систематические изменения
+Определение: Процесс организованных изменений, отличающийся от других процессов своей
+  структурой.
+Синонимы: *id001
+Связи:
+- привычки
+- саморазвитие
+- тренировки
+Главы:
+- C9

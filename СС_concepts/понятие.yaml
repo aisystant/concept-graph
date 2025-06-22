@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/понятие
+name_ru: понятие
+name_en: concept
+purpose_ru: Обобщает признаки для понимания реальности.
+purpose_en: Generalizes features for understanding reality.
+conceptType: object
+usageContext_ru: В системном мышлении для формирования знаний.
+usageContext_en: In systemic thinking for forming knowledge.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является термином.
+not_this_en: Not a term.
+definition_ru: Абстрактное представление, собирающее признаки, отличающееся от конкретных
+  определений.
+definition_en: An abstract representation gathering features, distinguished from specific
+  definitions.
+summary_ru: ''
+summary_en: ''
+example_ru: Понятие 'система' как обобщение свойств.
+example_en: Concept 'system' as a generalization of properties.
+promptHint_ru: Используйте для обобщения идей.
+promptHint_en: Use for generalizing ideas.
+opposite_ru: Термин
+opposite_en: Term
+metaphor_ru: Корзина для сходств.
+metaphor_en: Basket for similarities.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: понятия системного мышления
+- relation: RELATES_TO
+  target_concept: термин
+- relation: PART_OF
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Понятие 'роль' в системном мышлении.
+  positive_en:
+  - Concept 'role' in systemic thinking.
+  negative_ru:
+  - Точный термин без обобщения.
+  negative_en:
+  - Precise term without generalization.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L2
+Название: понятие
+Определение: Абстрактное представление, собирающее признаки, отличающееся от конкретных
+  определений.
+Синонимы: *id001
+Связи:
+- мышление
+- понятия системного мышления
+- термин
+Главы:
+- C6

@@ -1,0 +1,108 @@
+iri: https://system-school.ru/L8/concept/экзокортекс
+name_ru: Экзокортекс
+name_en: Exocortex
+purpose_ru: Расширяет возможности мозга.
+purpose_en: Extends brain capabilities.
+conceptType: Object
+usageContext_ru: В технологиях для усиления.
+usageContext_en: In technology for enhancement.
+synonyms_ru: &id001
+- второй мозг
+- внешний мозг
+- Внешний мозг
+- Внешний кортекс
+synonyms_en:
+- second brain
+- external brain
+- External Brain
+- External cortex
+- External Cortex
+not_this_ru: Не является мозгом.
+not_this_en: It is not the brain.
+definition_ru: Объект, являющийся внешним расширением мозга, отличающийся от биологического.
+definition_en: An object that is an external extension of the brain, distinguished
+  from the biological one.
+summary_ru: ''
+summary_en: ''
+example_ru: Экзокортекс, как смартфон, улучшает мощность.
+example_en: Exocortex, like a smartphone, improves power.
+promptHint_ru: Используйте для анализа усилений.
+promptHint_en: Use for analyzing enhancements.
+opposite_ru: Без экзокортекса
+opposite_en: Without Exocortex
+metaphor_ru: Как дополнительный мозг.
+metaphor_en: Like an additional brain.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: exotelo
+- relation: RELATES_TO
+  target_concept: techno-evolution
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: биологический-интеллект
+- relation: PART_OF
+  target_concept: интеллект-стек
+- relation: HAS_EXAMPLE
+  target_concept: тело
+- relation: RELATES_TO
+  target_concept: трансдисциплина
+- relation: PART_OF
+  target_concept: киберличность
+- relation: HAS_EXAMPLE
+  target_concept: адаптация к изменениям
+- relation: RELATES_TO
+  target_concept: инженерия человека
+- relation: PART_OF
+  target_concept: степень мастерства
+- relation: HAS_EXAMPLE
+  target_concept: память
+- relation: IS_A
+  target_concept: вычислительная мощность
+- relation: PART_OF
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: мозг
+examples:
+  positive_ru:
+  - Экзокортекс для усиления интеллекта.
+  positive_en:
+  - Exocortex for enhancing intelligence.
+  negative_ru:
+  - Отсутствие экзокортекса, ограничивающее возможности.
+  negative_en:
+  - Lack of exocortex limiting possibilities.
+discipline:
+  name_ru: Технологии
+  name_en: Technology
+  level: L3
+Название: Экзокортекс
+Определение: Объект, являющийся внешним расширением мозга, отличающийся от биологического.
+Синонимы: *id001
+Связи:
+- exotelo
+- techno-evolution
+- thinking
+- адаптация к изменениям
+- биологический-интеллект
+- вычислительная мощность
+- инженерия человека
+- интеллект-стек
+- киберличность
+- личность
+- мозг
+- память
+- степень мастерства
+- тело
+- трансдисциплина
+Главы:
+- C1
+- C2
+- C3
+- C4
+- C8

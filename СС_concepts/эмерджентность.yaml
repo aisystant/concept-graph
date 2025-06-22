@@ -1,0 +1,71 @@
+iri: https://system-school.ru/L6/concept/эмерджентность
+name_ru: эмерджентность
+name_en: emergence
+purpose_ru: Описывает новые свойства системы.
+purpose_en: Describes new properties of a system.
+conceptType: property
+usageContext_ru: В системном мышлении для эффектов.
+usageContext_en: In systemic thinking for effects.
+synonyms_ru: &id001
+- Возникновение
+synonyms_en:
+- Emergence
+not_this_ru: Не является суммой частей.
+not_this_en: Not the sum of parts.
+definition_ru: Свойство системы, возникающее на уровне целого, отличающееся от индивидуальных.
+definition_en: A property of the system arising at the whole level, distinguished
+  from individual.
+summary_ru: ''
+summary_en: ''
+example_ru: Эмерджентность функции автомобиля.
+example_en: Emergence of car function.
+promptHint_ru: Ищите в системах.
+promptHint_en: Look for in systems.
+opposite_ru: Сумма частей
+opposite_en: Sum of parts
+metaphor_ru: Синергия.
+metaphor_en: Synergy.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: системность
+- relation: PART_OF
+  target_concept: понятийное внимание
+- relation: HAS_EXAMPLE
+  target_concept: причинность
+- relation: IS_A
+  target_concept: свойства системы
+- relation: RELATES_TO
+  target_concept: метасистемный переход
+- relation: PART_OF
+  target_concept: система
+examples:
+  positive_ru:
+  - Новые свойства в системах.
+  positive_en:
+  - New properties in systems.
+  negative_ru:
+  - Отсутствие эмерджентности.
+  negative_en:
+  - Absence of emergence.
+discipline:
+  name_ru: Системология
+  name_en: Systemology
+  level: L3
+Название: эмерджентность
+Определение: Свойство системы, возникающее на уровне целого, отличающееся от индивидуальных.
+Синонимы: *id001
+Связи:
+- метасистемный переход
+- понятийное внимание
+- причинность
+- свойства системы
+- система
+- системность
+Главы:
+- C3
+- C6

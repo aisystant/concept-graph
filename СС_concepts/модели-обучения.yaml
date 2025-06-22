@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L2/concept/модели-обучения
+name_ru: модели обучения
+name_en: learning models
+purpose_ru: Объясняют процесс обучения для эффективного развития.
+purpose_en: Explain the learning process for effective development.
+conceptType: Model
+usageContext_ru: В контексте образования.
+usageContext_en: In the context of education.
+synonyms_ru: &id001
+- модели развития
+synonyms_en:
+- development models
+not_this_ru: Не являются универсальными.
+not_this_en: Not universal.
+definition_ru: Модель, описывающая этапы и аспекты обучения, такие как квадрант компетенций.
+definition_en: A model describing stages and aspects of learning, such as the competence
+  quadrant.
+summary_ru: ''
+summary_en: ''
+example_ru: Использование моделей для анализа обучения.
+example_en: Using models to analyze learning.
+promptHint_ru: Используйте для самоанализа.
+promptHint_en: Use for self-analysis.
+opposite_ru: Неструктурированное обучение
+opposite_en: Unstructured learning
+metaphor_ru: Как карта обучения.
+metaphor_en: Like a learning map.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: квадрант-компетенций
+- relation: PART_OF
+  target_concept: осознанное-обучение
+- relation: HAS_EXAMPLE
+  target_concept: спектр-формальности-мышления
+examples:
+  positive_ru:
+  - Применение моделей для улучшения обучения.
+  positive_en:
+  - Applying models to improve learning.
+  negative_ru:
+  - Игнорирование моделей, приводящее к неэффективности.
+  negative_en:
+  - Ignoring models leading to inefficiency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: модели обучения
+Определение: Модель, описывающая этапы и аспекты обучения, такие как квадрант компетенций.
+Синонимы: *id001
+Связи:
+- квадрант-компетенций
+- осознанное-обучение
+- спектр-формальности-мышления
+Главы:
+- C2

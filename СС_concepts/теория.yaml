@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/теория
+name_ru: теория
+name_en: theory
+purpose_ru: Объясняет закономерности.
+purpose_en: Explains patterns.
+conceptType: model
+usageContext_ru: В науке и практике.
+usageContext_en: In science and practice.
+synonyms_ru: &id001
+- гипотеза
+synonyms_en:
+- hypothesis
+not_this_ru: Не является практикой.
+not_this_en: Not practice.
+definition_ru: Модель, заключающаяся в систематизированных объяснениях, отличающаяся
+  от эмпирии через обобщение.
+definition_en: A model consisting of systematized explanations, differentiated from
+  empiricism by generalization.
+summary_ru: ''
+summary_en: ''
+example_ru: Теория эволюции объясняет развитие.
+example_en: Evolution theory explains development.
+promptHint_ru: Изучайте для основ.
+promptHint_en: Study for foundations.
+opposite_ru: практика
+opposite_en: practice
+metaphor_ru: Каркас знаний.
+metaphor_en: Framework of knowledge.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: model
+- relation: RELATES_TO
+  target_concept: discipline
+- relation: RELATES_TO
+  target_concept: sota
+examples:
+  positive_ru:
+  - Теория улучшает понимание.
+  positive_en:
+  - Theory improves understanding.
+  negative_ru:
+  - Ошибочная теория вводит в заблуждение.
+  negative_en:
+  - Erroneous theory misleads.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: теория
+Определение: Модель, заключающаяся в систематизированных объяснениях, отличающаяся
+  от эмпирии через обобщение.
+Синонимы: *id001
+Связи:
+- discipline
+- model
+- sota
+Главы:
+- C1

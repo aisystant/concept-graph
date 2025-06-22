@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L5/concept/размышления
+name_ru: размышления
+name_en: reflections
+purpose_ru: Формирует идеи из мыслей.
+purpose_en: Forms ideas from thoughts.
+conceptType: Процесс
+usageContext_ru: В стадиях жизнедеятельности.
+usageContext_en: In life stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является потреблением.
+not_this_en: Not consumption.
+definition_ru: Процесс, в ходе которого мысли преобразуются в идеи, отличающийся анализом.
+definition_en: A process in which thoughts are transformed into ideas, distinguished
+  by analysis.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Размышления: мышление письмом.'
+example_en: 'Reflections: thinking in writing.'
+promptHint_ru: Практикуйте для генерации идей.
+promptHint_en: Practice for idea generation.
+opposite_ru: Пассивное мышление
+opposite_en: Passive thinking
+metaphor_ru: Связи в сети.
+metaphor_en: Connections in a network.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: потребление информации
+- relation: RELATES_TO
+  target_concept: личное стратегирование
+examples:
+  positive_ru:
+  - Глубокие размышления над проблемой.
+  positive_en:
+  - Deep reflections on a problem.
+  negative_ru:
+  - Поверхностные мысли.
+  negative_en:
+  - Superficial thoughts.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: размышления
+Определение: Процесс, в ходе которого мысли преобразуются в идеи, отличающийся анализом.
+Синонимы: *id001
+Связи:
+- личное стратегирование
+- потребление информации
+- стадии жизнедеятельности
+Главы:
+- C5

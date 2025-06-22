@@ -1,0 +1,100 @@
+iri: https://system-school.ru/L9/concept/системные-уровни
+name_ru: системные уровни
+name_en: system levels
+purpose_ru: Помогают понять масштаб систем.
+purpose_en: Help understand the scale of systems.
+conceptType: object
+usageContext_ru: В системном мышлении.
+usageContext_en: In systemic thinking.
+synonyms_ru: &id001
+- Уровни систем
+- уровни систем
+synonyms_en:
+- Levels of systems
+- levels of systems
+not_this_ru: Не являются линейными.
+not_this_en: Not linear.
+definition_ru: Объект, представляющий иерархию систем, отличающийся от других объектов
+  своей многоуровневостью.
+definition_en: An object representing a hierarchy of systems, distinguished from other
+  objects by its multi-level nature.
+summary_ru: ''
+summary_en: ''
+example_ru: Системные уровни от личности до человечества.
+example_en: System levels from personality to humanity.
+promptHint_ru: Анализируйте для контекста.
+promptHint_en: Analyze for context.
+opposite_ru: плоские уровни
+opposite_en: flat levels
+metaphor_ru: Этажный дом.
+metaphor_en: Multi-story building.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: HAS_EXAMPLE
+  target_concept: калибр личности
+- relation: IS_A
+  target_concept: вложенность
+- relation: RELATES_TO
+  target_concept: система
+- relation: PART_OF
+  target_concept: метасистемный переход
+- relation: RELATES_TO
+  target_concept: инженерия
+- relation: PART_OF
+  target_concept: система
+- relation: HAS_EXAMPLE
+  target_concept: инженер
+- relation: ALIGNS_WITH
+  target_concept: принципы инженерии
+- relation: IS_A
+  target_concept: менеджмент
+- relation: RELATES_TO
+  target_concept: общество
+- relation: RELATES_TO
+  target_concept: человечество
+- relation: RELATES_TO
+  target_concept: элита
+examples:
+  positive_ru:
+  - Понимание уровней улучшает мышление.
+  positive_en:
+  - Understanding levels improves thinking.
+  negative_ru:
+  - Их игнорирование приводит к ошибкам.
+  negative_en:
+  - Ignoring them leads to errors.
+discipline:
+  name_ru: Системология
+  name_en: Systemology
+  level: L3
+Название: системные уровни
+Определение: Объект, представляющий иерархию систем, отличающийся от других объектов
+  своей многоуровневостью.
+Синонимы: *id001
+Связи:
+- агентность
+- вложенность
+- инженер
+- инженерия
+- калибр личности
+- менеджмент
+- метасистемный переход
+- общество
+- принципы инженерии
+- система
+- системное мышление
+- человечество
+- элита
+Главы:
+- C4
+- C6
+- C7
+- C9

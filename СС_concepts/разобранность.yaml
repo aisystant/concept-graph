@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/разобранность
+name_ru: Разобранность
+name_en: Disarray
+purpose_ru: Указывает на хаос.
+purpose_en: Indicates chaos.
+conceptType: State
+usageContext_ru: В развитии.
+usageContext_en: In development.
+synonyms_ru: &id001
+- Хаос
+synonyms_en:
+- Chaos
+not_this_ru: Не собранность.
+not_this_en: Not collectedness.
+definition_ru: Состояние, заключающееся в отсутствии организации.
+definition_en: A state, characterized by lack of organization.
+summary_ru: ''
+summary_en: ''
+example_ru: Разобранность перед достижением собранности.
+example_en: Disarray before achieving collectedness.
+promptHint_ru: Преодолевайте разобранность практиками.
+promptHint_en: Overcome disarray with practices.
+opposite_ru: Собранность
+opposite_en: Collectedness
+metaphor_ru: Как беспорядок в комнате.
+metaphor_en: Like disorder in a room.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: собранность
+- relation: PART_OF
+  target_concept: хаос
+- relation: HAS_EXAMPLE
+  target_concept: гиперфокусировка
+examples:
+  positive_ru:
+  - Преодоление разобранности приводит к росту.
+  positive_en:
+  - Overcoming disarray leads to growth.
+  negative_ru:
+  - Разобранность блокирует прогресс.
+  negative_en:
+  - Disarray blocks progress.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Разобранность
+Определение: Состояние, заключающееся в отсутствии организации.
+Синонимы: *id001
+Связи:
+- гиперфокусировка
+- собранность
+- хаос
+Главы:
+- C3

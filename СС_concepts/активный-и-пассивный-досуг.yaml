@@ -1,0 +1,67 @@
+iri: https://system-school.ru/L2/concept/активный-и-пассивный-досуг
+name_ru: активный и пассивный досуг
+name_en: active and passive leisure
+purpose_ru: Обеспечивает восстановление сил и получение удовольствия, с акцентом на
+  активность для развития.
+purpose_en: Provides restoration of energy and enjoyment, with a focus on activity
+  for development.
+conceptType: Process
+usageContext_ru: В контексте осознанного времяпрепровождения и баланса между работой
+  и отдыхом.
+usageContext_en: In the context of conscious time management and balance between work
+  and rest.
+synonyms_ru: &id001
+- активный и пассивный отдых
+synonyms_en:
+- active and passive rest
+not_this_ru: Не является работой или принудительной деятельностью.
+not_this_en: Not work or forced activity.
+definition_ru: Процесс, включающий активности для восстановления, где активный досуг
+  развивает мастерство, а пассивный — обеспечивает расслабление.
+definition_en: A process involving activities for restoration, where active leisure
+  develops skills and passive leisure ensures relaxation.
+summary_ru: ''
+summary_en: ''
+example_ru: Активный досуг — спорт, пассивный — просмотр ТВ.
+example_en: Active leisure — sports, passive — watching TV.
+promptHint_ru: Используйте для планирования досуга в цикле работа-досуг.
+promptHint_en: Use for planning leisure in the work-leisure cycle.
+opposite_ru: Рабочая деятельность
+opposite_en: Work activity
+metaphor_ru: Как перезарядка батареи.
+metaphor_en: Like recharging a battery.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: осознанное-времяпрепровождение
+- relation: RELATES_TO
+  target_concept: досуг
+- relation: HAS_EXAMPLE
+  target_concept: отдых
+examples:
+  positive_ru:
+  - Занятия спортом как активный досуг.
+  positive_en:
+  - Engaging in sports as active leisure.
+  negative_ru:
+  - Чрезмерный пассивный досуг, приводящий к скуке.
+  negative_en:
+  - Excessive passive leisure leading to boredom.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: активный и пассивный досуг
+Определение: Процесс, включающий активности для восстановления, где активный досуг
+  развивает мастерство, а пассивный — обеспечивает расслабление.
+Синонимы: *id001
+Связи:
+- досуг
+- осознанное-времяпрепровождение
+- отдых
+Главы:
+- C2

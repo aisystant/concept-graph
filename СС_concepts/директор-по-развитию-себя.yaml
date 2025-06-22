@@ -1,0 +1,66 @@
+iri: https://system-school.ru/L7/concept/директор-по-развитию-себя
+name_ru: директор по развитию себя
+name_en: director of self-development
+purpose_ru: Внутренняя роль для личного роста.
+purpose_en: Internal role for personal growth.
+conceptType: role
+usageContext_ru: В саморазвитии.
+usageContext_en: In self-development.
+synonyms_ru: &id001
+- саморазвивающийся директор
+synonyms_en:
+- self-developing director
+not_this_ru: Не является внешней должностью.
+not_this_en: It is not an external position.
+definition_ru: Роль (genus), фокусирующаяся на личных изменениях и развитии (differentia).
+definition_en: A role (genus) focused on personal changes and development (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Директор по развитию себя в повседневной жизни.
+example_en: Director of self-development in daily life.
+promptHint_ru: Развивайте себя системно.
+promptHint_en: Develop yourself systematically.
+opposite_ru: Пассивность.
+opposite_en: Passivity.
+metaphor_ru: Как внутренний наставник.
+metaphor_en: As an inner mentor.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: директор по развитию
+- relation: RELATES_TO
+  target_concept: роль
+- relation: HAS_EXAMPLE
+  target_concept: системный менеджмент
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: менеджмент
+examples:
+  positive_ru:
+  - Эффективный директор по развитию себя.
+  positive_en:
+  - Effective director of self-development.
+  negative_ru:
+  - Безразвитие.
+  negative_en:
+  - No development.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-development
+  level: L2
+Название: директор по развитию себя
+Определение: Роль (genus), фокусирующаяся на личных изменениях и развитии (differentia).
+Синонимы: *id001
+Связи:
+- директор по развитию
+- инженерия
+- менеджмент
+- роль
+- системный менеджмент
+Главы:
+- C7

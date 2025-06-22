@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L8/concept/этика
+name_ru: Этика
+name_en: Ethics
+purpose_ru: Изучает нормы поведения.
+purpose_en: Studies behavioral norms.
+conceptType: Discipline
+usageContext_ru: В философии для морали.
+usageContext_en: In philosophy for morality.
+synonyms_ru: &id001
+- Моральная философия
+synonyms_en:
+- Moral Philosophy
+not_this_ru: Не является моралью.
+not_this_en: It is not morality.
+definition_ru: Дисциплина, изучающая моральные нормы, отличающаяся от практической
+  морали.
+definition_en: A discipline studying moral norms, distinguished from practical morality.
+summary_ru: ''
+summary_en: ''
+example_ru: Этика помогает в принятии этичных решений.
+example_en: Ethics aids in making ethical decisions.
+promptHint_ru: Используйте для этических дебатов.
+promptHint_en: Use for ethical debates.
+opposite_ru: Аморализм
+opposite_en: Amoralism
+metaphor_ru: Как руководство для жизни.
+metaphor_en: Like a guide for life.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: мораль
+- relation: PART_OF
+  target_concept: этика и успешная система
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Изучение этики для решений.
+  positive_en:
+  - Studying ethics for decisions.
+  negative_ru:
+  - Игнорирование этики.
+  negative_en:
+  - Ignoring ethics.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: Этика
+Определение: Дисциплина, изучающая моральные нормы, отличающаяся от практической морали.
+Синонимы: *id001
+Связи:
+- мораль
+- сострадание
+- этика и успешная система
+Главы:
+- C8

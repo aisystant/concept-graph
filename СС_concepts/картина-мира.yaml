@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/картина-мира
+name_ru: картина мира
+name_en: world-picture
+purpose_ru: Формирует восприятие реальности.
+purpose_en: Forms perception of reality.
+conceptType: model
+usageContext_ru: В ментальном пространстве для объяснения событий.
+usageContext_en: In mental space for explaining events.
+synonyms_ru: &id001
+- мировоззрение
+synonyms_en:
+- worldview
+not_this_ru: Не является статичной.
+not_this_en: Not static.
+definition_ru: Модель, заключающаяся в субъективном представлении реальности, отличающаяся
+  от объективной через влияние опыта и теорий.
+definition_en: A model consisting of a subjective representation of reality, differentiated
+  from the objective by influence of experience and theories.
+summary_ru: ''
+summary_en: ''
+example_ru: Картина мира обновляется через новые знания.
+example_en: World picture is updated through new knowledge.
+promptHint_ru: Анализируйте для самопознания.
+promptHint_en: Analyze for self-knowledge.
+opposite_ru: иллюзия
+opposite_en: illusion
+metaphor_ru: Личный атлас.
+metaphor_en: Personal atlas.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: mental-space
+- relation: RELATES_TO
+  target_concept: theory
+- relation: RELATES_TO
+  target_concept: scientific-worldview
+examples:
+  positive_ru:
+  - Точная картина мира улучшает решения.
+  positive_en:
+  - Accurate world picture improves decisions.
+  negative_ru:
+  - Ошибочная картина мира приводит к ошибкам.
+  negative_en:
+  - Erroneous world picture leads to errors.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: картина мира
+Определение: Модель, заключающаяся в субъективном представлении реальности, отличающаяся
+  от объективной через влияние опыта и теорий.
+Синонимы: *id001
+Связи:
+- mental-space
+- scientific-worldview
+- theory
+Главы:
+- C1

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/осознанное-управление-временем
+name_ru: осознанное управление временем
+name_en: conscious time management
+purpose_ru: Организует время для оптимального использования.
+purpose_en: Organizes time for optimal use.
+conceptType: Process
+usageContext_ru: В контексте повседневной жизни.
+usageContext_en: In the context of daily life.
+synonyms_ru: &id001
+- управление временем
+synonyms_en:
+- time management
+not_this_ru: Не является хаотичным.
+not_this_en: Not chaotic.
+definition_ru: Процесс, включающий принципы инвестирования, времяпрепровождения и
+  продления жизни.
+definition_en: A process involving principles of investment, time spending, and life
+  extension.
+summary_ru: ''
+summary_en: ''
+example_ru: Планирование времени для саморазвития.
+example_en: Planning time for self-development.
+promptHint_ru: Используйте для ежедневного плана.
+promptHint_en: Use for daily planning.
+opposite_ru: Неосознанное управление
+opposite_en: Unconscious management
+metaphor_ru: Как стратегия ресурсов.
+metaphor_en: Like a resource strategy.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: осознанное-времяпрепровождение
+- relation: HAS_EXAMPLE
+  target_concept: инвестирование-времени
+examples:
+  positive_ru:
+  - Эффективное управление временем.
+  positive_en:
+  - Effective time management.
+  negative_ru:
+  - Беспорядочное использование времени.
+  negative_en:
+  - Disorganized use of time.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: осознанное управление временем
+Определение: Процесс, включающий принципы инвестирования, времяпрепровождения и продления
+  жизни.
+Синонимы: *id001
+Связи:
+- время
+- инвестирование-времени
+- осознанное-времяпрепровождение
+Главы:
+- C2

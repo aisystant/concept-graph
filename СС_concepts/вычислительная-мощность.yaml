@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/вычислительная-мощность
+name_ru: Вычислительная мощность
+name_en: Computational Power
+purpose_ru: Определяет способность мозга или экзокортекса обрабатывать информацию.
+purpose_en: Defines the ability of the brain or exocortex to process information.
+conceptType: Property
+usageContext_ru: В контексте личности и ИИ для описания обработки данных.
+usageContext_en: In the context of personality and AI for describing data processing.
+synonyms_ru: &id001
+- Мощность вычислений
+synonyms_en:
+- Processing Power
+not_this_ru: Не является физической силой.
+not_this_en: It is not physical strength.
+definition_ru: Свойство системы, заключающееся в скорости и объеме обработки информации,
+  отличающееся у человека и ИИ.
+definition_en: A property of a system, consisting of the speed and volume of information
+  processing, differing between humans and AI.
+summary_ru: ''
+summary_en: ''
+example_ru: Вычислительная мощность мозга улучшается за счет экзокортекса, как смартфоны.
+example_en: Computational power of the brain is enhanced by exocortex, such as smartphones.
+promptHint_ru: Применяйте для анализа интеллектуальных систем.
+promptHint_en: Apply for analyzing intellectual systems.
+opposite_ru: Медленная обработка
+opposite_en: Slow processing
+metaphor_ru: Как мощный компьютер.
+metaphor_en: Like a powerful computer.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: интеллект
+- relation: PART_OF
+  target_concept: экзокортекс
+- relation: RELATES_TO
+  target_concept: мозг
+examples:
+  positive_ru:
+  - Быстрая обработка данных ИИ.
+  positive_en:
+  - Fast data processing by AI.
+  negative_ru:
+  - Медленные вычисления без инструментов.
+  negative_en:
+  - Slow computations without tools.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systems Thinking
+  level: L3
+Название: Вычислительная мощность
+Определение: Свойство системы, заключающееся в скорости и объеме обработки информации,
+  отличающееся у человека и ИИ.
+Синонимы: *id001
+Связи:
+- интеллект
+- мозг
+- экзокортекс
+Главы:
+- C8

@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L6/concept/системный-подход-30
+name_ru: системный подход 3.0
+name_en: systemic approach 3.0
+purpose_ru: Решает глобальные проблемы через эволюцию.
+purpose_en: Solves global problems through evolution.
+conceptType: approach
+usageContext_ru: В современном мире для вызовов.
+usageContext_en: In the modern world for challenges.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не антропоцентричен.
+not_this_en: Not anthropocentric.
+definition_ru: Подход, интегрирующий эволюционные теории, отличающийся универсальностью.
+definition_en: An approach integrating evolutionary theories, distinguished by universality.
+summary_ru: ''
+summary_en: ''
+example_ru: Применение к ИИ и экосистемам.
+example_en: Application to AI and ecosystems.
+promptHint_ru: Используйте для глобальных решений.
+promptHint_en: Use for global solutions.
+opposite_ru: Системный подход 1.0
+opposite_en: Systemic approach 1.0
+metaphor_ru: Эволюционный инструмент.
+metaphor_en: Evolutionary tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: неустроенности
+- relation: PART_OF
+  target_concept: сложные проблемы
+examples:
+  positive_ru:
+  - Подход к глобальным изменениям.
+  positive_en:
+  - Approach to global changes.
+  negative_ru:
+  - Устаревшие методы.
+  negative_en:
+  - Outdated methods.
+discipline:
+  name_ru: Эволюционная системология
+  name_en: Evolutionary Systemology
+  level: L3
+Название: системный подход 3.0
+Определение: Подход, интегрирующий эволюционные теории, отличающийся универсальностью.
+Синонимы: *id001
+Связи:
+- неустроенности
+- системное мышление
+- сложные проблемы
+Главы:
+- C6

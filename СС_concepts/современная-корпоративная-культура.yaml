@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/современная-корпоративная-культура
+name_ru: современная корпоративная культура
+name_en: modern corporate culture
+purpose_ru: Культура, основанная на инженерных принципах.
+purpose_en: Culture based on engineering principles.
+conceptType: culture
+usageContext_ru: В современных компаниях.
+usageContext_en: In modern companies.
+synonyms_ru: &id001
+- инженерная культура
+synonyms_en:
+- engineering culture
+not_this_ru: Не является традиционной.
+not_this_en: It is not traditional.
+definition_ru: Культура (genus), включающая непрерывность и безмасштабность для развития
+  (differentia).
+definition_en: A culture (genus) that includes continuity and scalability for development
+  (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Современная культура в IT-компании.
+example_en: Modern culture in an IT company.
+promptHint_ru: Стремитесь к ней.
+promptHint_en: Strive for it.
+opposite_ru: Устаревшая культура.
+opposite_en: Outdated culture.
+metaphor_ru: Как динамичная экосистема.
+metaphor_en: As a dynamic ecosystem.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: корпоративная культура
+- relation: RELATES_TO
+  target_concept: методы корпоративной культуры
+- relation: HAS_EXAMPLE
+  target_concept: директор по развитию
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: системный менеджмент
+examples:
+  positive_ru:
+  - Инженерная корпоративная культура.
+  positive_en:
+  - Engineering corporate culture.
+  negative_ru:
+  - Сопротивление изменениям.
+  negative_en:
+  - Resistance to change.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: современная корпоративная культура
+Определение: Культура (genus), включающая непрерывность и безмасштабность для развития
+  (differentia).
+Синонимы: *id001
+Связи:
+- директор по развитию
+- инженерия
+- корпоративная культура
+- методы корпоративной культуры
+- системный менеджмент
+Главы:
+- C7

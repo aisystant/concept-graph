@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/инноватор
+name_ru: инноватор
+name_en: innovator
+purpose_ru: Роль, создающая новые методы и системы.
+purpose_en: A role that creates new methods and systems.
+conceptType: role
+usageContext_ru: В инновациях.
+usageContext_en: In innovations.
+synonyms_ru: &id001
+- новатор
+synonyms_en:
+- innovator
+not_this_ru: Не является копировщиком.
+not_this_en: It is not a copier.
+definition_ru: Роль (genus), включающая разработку уникальных способов решения проблем
+  (differentia).
+definition_en: A role (genus) that involves developing unique ways to solve problems
+  (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Инноватор, создающий новый продукт.
+example_en: Innovator creating a new product.
+promptHint_ru: Используйте для генерации инноваций.
+promptHint_en: Use for generating innovations.
+opposite_ru: Традиционалист.
+opposite_en: Traditionalist.
+metaphor_ru: Инноватор как изобретатель.
+metaphor_en: Innovator as an inventor.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: предпринимательство
+- relation: RELATES_TO
+  target_concept: визионер
+- relation: HAS_EXAMPLE
+  target_concept: техноэволюция
+- relation: ALIGNS_WITH
+  target_concept: система
+- relation: IS_A
+  target_concept: роль
+examples:
+  positive_ru:
+  - Инноватор в технологиях.
+  positive_en:
+  - Innovator in technologies.
+  negative_ru:
+  - Копирование идей.
+  negative_en:
+  - Copying ideas.
+discipline:
+  name_ru: Предпринимательство
+  name_en: Entrepreneurship
+  level: L3
+Название: инноватор
+Определение: Роль (genus), включающая разработку уникальных способов решения проблем
+  (differentia).
+Синонимы: *id001
+Связи:
+- визионер
+- предпринимательство
+- роль
+- система
+- техноэволюция
+Главы:
+- C7

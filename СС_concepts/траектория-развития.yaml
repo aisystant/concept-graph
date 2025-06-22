@@ -1,0 +1,67 @@
+iri: https://system-school.ru/L7/concept/траектория-развития
+name_ru: траектория развития
+name_en: development trajectory
+purpose_ru: Путь личного роста.
+purpose_en: Path of personal growth.
+conceptType: process
+usageContext_ru: В саморазвитии.
+usageContext_en: In self-development.
+synonyms_ru: &id001
+- путь развития
+synonyms_en:
+- path of development
+not_this_ru: Не является случайным.
+not_this_en: It is not random.
+definition_ru: Процесс (genus), включающий этапы от интеграции до изменения мира (differentia).
+definition_en: A process (genus) that includes stages from integration to changing
+  the world (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Траектория от студента к создателю.
+example_en: Trajectory from student to creator.
+promptHint_ru: Планируйте свою траекторию.
+promptHint_en: Plan your trajectory.
+opposite_ru: Статичность.
+opposite_en: Static nature.
+metaphor_ru: Траектория как путь в космосе.
+metaphor_en: Trajectory as a path in space.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: директор по развитию себя
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: HAS_EXAMPLE
+  target_concept: корпоративная культура
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: деятельность
+examples:
+  positive_ru:
+  - Осознанная траектория.
+  positive_en:
+  - Conscious trajectory.
+  negative_ru:
+  - Безплановое развитие.
+  negative_en:
+  - Planless development.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-development
+  level: L3
+Название: траектория развития
+Определение: Процесс (genus), включающий этапы от интеграции до изменения мира (differentia).
+Синонимы: *id001
+Связи:
+- деятельность
+- директор по развитию себя
+- инженерия
+- корпоративная культура
+- системный менеджмент
+Главы:
+- C7

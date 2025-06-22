@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/психологическое-состояние
+name_ru: Психологическое состояние
+name_en: Psychological state
+purpose_ru: Анализировать внутренние реакции для адаптации.
+purpose_en: To analyze internal reactions for adaptation.
+conceptType: object
+usageContext_ru: В психологии и саморазвитии.
+usageContext_en: In psychology and self-development.
+synonyms_ru: &id001
+- Психическое состояние
+synonyms_en:
+- Mental state
+not_this_ru: Не является физическим.
+not_this_en: Not physical.
+definition_ru: Объект, охватывающий эмоциональные и когнитивные реакции, отличаясь
+  от ролевого состояния тем, что фокусируется на внутренних стимулах.
+definition_en: Object encompassing emotional and cognitive reactions, differing from
+  role states by focusing on internal stimuli.
+summary_ru: ''
+summary_en: ''
+example_ru: Психологическое состояние включает эмоции, как страх перед публичным выступлением.
+example_en: Psychological state includes emotions, such as fear of public speaking.
+promptHint_ru: Применяйте для понимания эмоций.
+promptHint_en: Apply for understanding emotions.
+opposite_ru: Физическое состояние
+opposite_en: Physical state
+metaphor_ru: Внутренняя буря
+metaphor_en: Inner storm
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: эмоциональное состояние
+- relation: PART_OF
+  target_concept: состояния человека
+- relation: HAS_EXAMPLE
+  target_concept: переходы между состояниями
+examples:
+  positive_ru:
+  - Психологическое состояние помогает в адаптации.
+  positive_en:
+  - Psychological state aids in adaptation.
+  negative_ru:
+  - Психологическое состояние не игнорирует внешние факторы.
+  negative_en:
+  - Psychological state does not ignore external factors.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Психологическое состояние
+Определение: Объект, охватывающий эмоциональные и когнитивные реакции, отличаясь от
+  ролевого состояния тем, что фокусируется на внутренних стимулах.
+Синонимы: *id001
+Связи:
+- переходы между состояниями
+- состояния человека
+- эмоциональное состояние
+Главы:
+- C4

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/досуг-и-отдых
+name_ru: досуг и отдых
+name_en: leisure and rest
+purpose_ru: Способствует восстановлению сил и балансу в жизни.
+purpose_en: Promotes restoration of energy and life balance.
+conceptType: Process
+usageContext_ru: В контексте ежедневного и долгосрочного планирования.
+usageContext_en: In the context of daily and long-term planning.
+synonyms_ru: &id001
+- отдых и развлечения
+synonyms_en:
+- rest and entertainment
+not_this_ru: Не является работой или стрессом.
+not_this_en: Not work or stress.
+definition_ru: Процесс, сочетающий досуг для удовольствия и отдых для восстановления.
+definition_en: A process combining leisure for enjoyment and rest for restoration.
+summary_ru: ''
+summary_en: ''
+example_ru: Досуг — хобби, отдых — сон.
+example_en: Leisure — hobbies, rest — sleep.
+promptHint_ru: Используйте для организации досуга.
+promptHint_en: Use for organizing leisure.
+opposite_ru: Рабочая рутина
+opposite_en: Work routine
+metaphor_ru: Как зарядка батареи.
+metaphor_en: Like charging a battery.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: осознанное-времяпрепровождение
+- relation: RELATES_TO
+  target_concept: досуг
+- relation: HAS_EXAMPLE
+  target_concept: активный-и-пассивный-досуг
+examples:
+  positive_ru:
+  - Баланс досуга и отдыха для здоровья.
+  positive_en:
+  - Balance of leisure and rest for health.
+  negative_ru:
+  - Переутомление от отсутствия отдыха.
+  negative_en:
+  - Burnout from lack of rest.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: досуг и отдых
+Определение: Процесс, сочетающий досуг для удовольствия и отдых для восстановления.
+Синонимы: *id001
+Связи:
+- активный-и-пассивный-досуг
+- досуг
+- осознанное-времяпрепровождение
+Главы:
+- C2

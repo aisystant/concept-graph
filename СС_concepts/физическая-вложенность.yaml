@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/физическая-вложенность
+name_ru: физическая вложенность
+name_en: physical nesting
+purpose_ru: Определяет физическое включение систем.
+purpose_en: Defines physical inclusion of systems.
+conceptType: relation
+usageContext_ru: В системном мышлении для структуры.
+usageContext_en: In systemic thinking for structure.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является абстрактной.
+not_this_en: Not abstract.
+definition_ru: Отношение, в котором системы физически входят друг в друга, отличающееся
+  от ментального.
+definition_en: A relation where systems physically enter each other, distinguished
+  from mental.
+summary_ru: ''
+summary_en: ''
+example_ru: Вложенность мотора в автомобиль.
+example_en: Nesting of engine in car.
+promptHint_ru: Анализируйте физически.
+promptHint_en: Analyze physically.
+opposite_ru: Ментальная вложенность
+opposite_en: Mental nesting
+metaphor_ru: Физическая иерархия.
+metaphor_en: Physical hierarchy.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: вложенность
+- relation: RELATES_TO
+  target_concept: система
+- relation: PART_OF
+  target_concept: системные уровни
+examples:
+  positive_ru:
+  - Физическая структура систем.
+  positive_en:
+  - Physical structure of systems.
+  negative_ru:
+  - Абстрактные связи.
+  negative_en:
+  - Abstract connections.
+discipline:
+  name_ru: Физика
+  name_en: Physics
+  level: L3
+Название: физическая вложенность
+Определение: Отношение, в котором системы физически входят друг в друга, отличающееся
+  от ментального.
+Синонимы: *id001
+Связи:
+- вложенность
+- система
+- системные уровни
+Главы:
+- C6

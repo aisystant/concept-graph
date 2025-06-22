@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/квадрант-компетенций
+name_ru: квадрант компетенций
+name_en: competence quadrant
+purpose_ru: Описывает этапы обучения от неосознанности к мастерству.
+purpose_en: Describes stages of learning from unawareness to mastery.
+conceptType: Model
+usageContext_ru: В контексте моделей обучения.
+usageContext_en: In the context of learning models.
+synonyms_ru: &id001
+- квадрат компетенций
+synonyms_en:
+- competence square
+not_this_ru: Не является линейной моделью.
+not_this_en: Not a linear model.
+definition_ru: Модель, классифицирующая уровни компетенции через четыре стадии.
+definition_en: A model classifying levels of competence through four stages.
+summary_ru: ''
+summary_en: ''
+example_ru: Переход от неосознанной некомпетентности к неосознанной компетентности.
+example_en: Transition from unconscious incompetence to unconscious competence.
+promptHint_ru: Используйте для самооценки обучения.
+promptHint_en: Use for self-assessment of learning.
+opposite_ru: Случайное обучение
+opposite_en: Random learning
+metaphor_ru: Как карта пути.
+metaphor_en: Like a map of the path.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: модели-обучения
+- relation: RELATES_TO
+  target_concept: осознанное-обучение
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Использование квадранта для развития навыков.
+  positive_en:
+  - Using the quadrant for skill development.
+  negative_ru:
+  - Игнорирование стадий, приводящее к неудачам.
+  negative_en:
+  - Ignoring stages leading to failures.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: квадрант компетенций
+Определение: Модель, классифицирующая уровни компетенции через четыре стадии.
+Синонимы: *id001
+Связи:
+- модели-обучения
+- мышление
+- осознанное-обучение
+Главы:
+- C2

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/спектр-формальности-мышления
+name_ru: спектр формальности мышления
+name_en: spectrum of formality of thinking
+purpose_ru: Классифицирует типы мышления от инстинктивного к формальному.
+purpose_en: Classifies types of thinking from instinctive to formal.
+conceptType: Model
+usageContext_ru: В контексте моделей обучения.
+usageContext_en: In the context of learning models.
+synonyms_ru: &id001
+- спектр мышления
+synonyms_en:
+- thinking spectrum
+not_this_ru: Не является линейным.
+not_this_en: Not linear.
+definition_ru: Модель, описывающая вариации мышления от животного до машинного.
+definition_en: A model describing variations of thinking from animal to machine.
+summary_ru: ''
+summary_en: ''
+example_ru: Переход от интуитивного к формальному мышлению.
+example_en: Transition from intuitive to formal thinking.
+promptHint_ru: Используйте для анализа процессов.
+promptHint_en: Use for analyzing processes.
+opposite_ru: Единый тип мышления
+opposite_en: Single type of thinking
+metaphor_ru: Как палитра мыслей.
+metaphor_en: Like a palette of thoughts.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: модели-обучения
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: животное-мышление
+examples:
+  positive_ru:
+  - Применение спектра для лучшего понимания.
+  positive_en:
+  - Applying the spectrum for better understanding.
+  negative_ru:
+  - Игнорирование спектра, ограничивающее мышление.
+  negative_en:
+  - Ignoring the spectrum limiting thinking.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: спектр формальности мышления
+Определение: Модель, описывающая вариации мышления от животного до машинного.
+Синонимы: *id001
+Связи:
+- животное-мышление
+- модели-обучения
+- мышление
+Главы:
+- C2

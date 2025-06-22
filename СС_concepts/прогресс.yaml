@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/прогресс
+name_ru: прогресс
+name_en: progress
+purpose_ru: Ведет к улучшениям.
+purpose_en: Leads to improvements.
+conceptType: process
+usageContext_ru: В цивилизации и технологиях.
+usageContext_en: In civilization and technologies.
+synonyms_ru: &id001
+- развитие
+synonyms_en:
+- development
+not_this_ru: Не является регрессом.
+not_this_en: Not regression.
+definition_ru: Процесс, заключающийся в изменениях к лучшему, отличающийся от статуса
+  кво через инновации.
+definition_en: A process consisting of changes for the better, differentiated from
+  status quo by innovations.
+summary_ru: ''
+summary_en: ''
+example_ru: Прогресс включает технические революции.
+example_en: Progress includes technical revolutions.
+promptHint_ru: Стремитесь к нему.
+promptHint_en: Strive for it.
+opposite_ru: регресс
+opposite_en: regress
+metaphor_ru: Восхождение.
+metaphor_en: Ascension.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: techno-evolution
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: culture
+examples:
+  positive_ru:
+  - Прогресс улучшает жизнь.
+  positive_en:
+  - Progress improves life.
+  negative_ru:
+  - Неуправляемый прогресс создает проблемы.
+  negative_en:
+  - Unchecked progress creates problems.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: прогресс
+Определение: Процесс, заключающийся в изменениях к лучшему, отличающийся от статуса
+  кво через инновации.
+Синонимы: *id001
+Связи:
+- culture
+- self-development
+- techno-evolution
+Главы:
+- C1

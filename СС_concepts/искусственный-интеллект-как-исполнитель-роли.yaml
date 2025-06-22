@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/искусственный-интеллект-как-исполнитель-роли
+name_ru: Искусственный интеллект как исполнитель роли
+name_en: Artificial Intelligence as Role Performer
+purpose_ru: Позволяет ИИ выполнять роли в системах, как часть команды.
+purpose_en: Allows AI to perform roles in systems as part of a team.
+conceptType: Role
+usageContext_ru: В системном мышлении для интеграции ИИ в проекты.
+usageContext_en: In systems thinking for integrating AI into projects.
+synonyms_ru: &id001
+- ИИ-ролевик
+synonyms_en:
+- AI Role Player
+not_this_ru: Не является основным агентом.
+not_this_en: It is not the primary agent.
+definition_ru: Роль, в которой ИИ действует как исполнитель задач, отличающаяся от
+  его интеграции в личность.
+definition_en: A role in which AI acts as a task performer, distinguished from its
+  integration into personality.
+summary_ru: ''
+summary_en: ''
+example_ru: ИИ как исполнитель роли переводчика в команде.
+example_en: AI as a role performer of a translator in a team.
+promptHint_ru: Используйте для распределения ролей.
+promptHint_en: Use for role distribution.
+opposite_ru: Пассивная роль
+opposite_en: Passive role
+metaphor_ru: Как актер в пьесе.
+metaphor_en: Like an actor in a play.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: роль
+- relation: PART_OF
+  target_concept: ИИ-агент
+- relation: RELATES_TO
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - ИИ, выполняющий роль в проекте.
+  positive_en:
+  - AI performing a role in a project.
+  negative_ru:
+  - ИИ без назначенной роли.
+  negative_en:
+  - AI without an assigned role.
+discipline:
+  name_ru: ИИ
+  name_en: AI
+  level: L3
+Название: Искусственный интеллект как исполнитель роли
+Определение: Роль, в которой ИИ действует как исполнитель задач, отличающаяся от его
+  интеграции в личность.
+Синонимы: *id001
+Связи:
+- ИИ-агент
+- роль
+- системное мышление
+Главы:
+- C8

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/интеграция-технологий
+name_ru: Интеграция технологий
+name_en: Technology Integration
+purpose_ru: Объединяет технологии в систему.
+purpose_en: Unites technologies into a system.
+conceptType: Process
+usageContext_ru: В развитии.
+usageContext_en: In development.
+synonyms_ru: &id001
+- Слияние технологий
+synonyms_en:
+- Technology Merger
+not_this_ru: Не изоляция.
+not_this_en: Not isolation.
+definition_ru: Процесс, заключающийся в объединении технологий для усиления возможностей.
+definition_en: A process, characterized by combining technologies to enhance capabilities.
+summary_ru: ''
+summary_en: ''
+example_ru: Интеграция в экзокортекс.
+example_en: Integration in exocortex.
+promptHint_ru: Интегрируйте технологии мудро.
+promptHint_en: Integrate technologies wisely.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как сборка пазла.
+metaphor_en: Like assembling a puzzle.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: киберличность
+- relation: HAS_EXAMPLE
+  target_concept: адаптация к изменениям
+examples:
+  positive_ru:
+  - Интеграция улучшает системы.
+  positive_en:
+  - Integration improves systems.
+  negative_ru:
+  - Плохая интеграция вызывает проблемы.
+  negative_en:
+  - Poor integration causes problems.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Интеграция технологий
+Определение: Процесс, заключающийся в объединении технологий для усиления возможностей.
+Синонимы: *id001
+Связи:
+- адаптация к изменениям
+- киберличность
+- экзокортекс
+Главы:
+- C3

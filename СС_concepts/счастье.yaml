@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/счастье
+name_ru: счастье
+name_en: happiness
+purpose_ru: Достигается через устранение неудовлетворенностей.
+purpose_en: Achieved by eliminating dissatisfactions.
+conceptType: property
+usageContext_ru: В эмоциональной жизни.
+usageContext_en: In emotional life.
+synonyms_ru: &id001
+- блаженство
+synonyms_en:
+- bliss
+not_this_ru: Не является внешним.
+not_this_en: Not external.
+definition_ru: Свойство состояния, возникающее при гармонии, отличающееся от других
+  свойств своей внутренней природой.
+definition_en: A property of state arising from harmony, distinguished from other
+  properties by its internal nature.
+summary_ru: ''
+summary_en: ''
+example_ru: Счастье как устранение личных неудовлетворенностей.
+example_en: Happiness as eliminating personal dissatisfactions.
+promptHint_ru: Стремитесь через баланс.
+promptHint_en: Strive through balance.
+opposite_ru: несчастье
+opposite_en: unhappiness
+metaphor_ru: Внутренний мир.
+metaphor_en: Inner peace.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: сбалансированность
+- relation: RELATES_TO
+  target_concept: радость
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Счастье приводит к продуктивности.
+  positive_en:
+  - Happiness leads to productivity.
+  negative_ru:
+  - Его отсутствие вызывает страдания.
+  negative_en:
+  - Its absence causes suffering.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: счастье
+Определение: Свойство состояния, возникающее при гармонии, отличающееся от других
+  свойств своей внутренней природой.
+Синонимы: *id001
+Связи:
+- радость
+- сбалансированность
+- успех
+Главы:
+- C9

@@ -1,0 +1,66 @@
+iri: https://system-school.ru/L7/concept/стратег
+name_ru: стратег
+name_en: strategist
+purpose_ru: Роль, определяющая методы достижения целей.
+purpose_en: A role that determines methods for achieving goals.
+conceptType: role
+usageContext_ru: В предпринимательстве и менеджменте.
+usageContext_en: In entrepreneurship and management.
+synonyms_ru: &id001
+- стратег
+synonyms_en:
+- strategist
+not_this_ru: Не является тактиком.
+not_this_en: It is not a tactician.
+definition_ru: Роль (genus), включающая планирование долгосрочных методов (differentia).
+definition_en: A role (genus) that involves planning long-term methods (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Стратег в бизнесе.
+example_en: Strategist in business.
+promptHint_ru: Используйте для планирования.
+promptHint_en: Use for planning.
+opposite_ru: Тактик.
+opposite_en: Tactician.
+metaphor_ru: Стратег как полководец.
+metaphor_en: Strategist as a general.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: предпринимательство
+- relation: RELATES_TO
+  target_concept: бизнесмен
+- relation: HAS_EXAMPLE
+  target_concept: визионер
+- relation: ALIGNS_WITH
+  target_concept: менеджмент
+- relation: IS_A
+  target_concept: роль
+examples:
+  positive_ru:
+  - Эффективный стратег.
+  positive_en:
+  - Effective strategist.
+  negative_ru:
+  - Безплановый подход.
+  negative_en:
+  - Planless approach.
+discipline:
+  name_ru: Предпринимательство
+  name_en: Entrepreneurship
+  level: L3
+Название: стратег
+Определение: Роль (genus), включающая планирование долгосрочных методов (differentia).
+Синонимы: *id001
+Связи:
+- бизнесмен
+- визионер
+- менеджмент
+- предпринимательство
+- роль
+Главы:
+- C7

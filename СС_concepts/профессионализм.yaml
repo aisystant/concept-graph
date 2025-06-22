@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/профессионализм
+name_ru: профессионализм
+name_en: professionalism
+purpose_ru: Обеспечивает высокое качество в прикладных навыках.
+purpose_en: Ensures high quality in applied skills.
+conceptType: Property
+usageContext_ru: В контексте карьеры и работы.
+usageContext_en: In the context of career and work.
+synonyms_ru: &id001
+- экспертиза
+synonyms_en:
+- expertise
+not_this_ru: Не является любительством.
+not_this_en: Not amateurism.
+definition_ru: Свойство, характеризующее мастерство в создании рабочих продуктов.
+definition_en: A property characterizing skill in creating working products.
+summary_ru: ''
+summary_en: ''
+example_ru: Профессионализм в бухгалтерии.
+example_en: Professionalism in accounting.
+promptHint_ru: Используйте для оценки работы.
+promptHint_en: Use for evaluating work.
+opposite_ru: Любительский уровень
+opposite_en: Amateur level
+metaphor_ru: Как отточенное мастерство.
+metaphor_en: Like honed skill.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: прикладное-профессиональное-мастерство
+- relation: PART_OF
+  target_concept: мастерство
+- relation: HAS_EXAMPLE
+  target_concept: дисциплина
+examples:
+  positive_ru:
+  - Профессионализм, ускоряющий создание продуктов.
+  positive_en:
+  - Professionalism accelerating product creation.
+  negative_ru:
+  - Низкий профессионализм, приводящий к ошибкам.
+  negative_en:
+  - Low professionalism leading to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: профессионализм
+Определение: Свойство, характеризующее мастерство в создании рабочих продуктов.
+Синонимы: *id001
+Связи:
+- дисциплина
+- мастерство
+- прикладное-профессиональное-мастерство
+Главы:
+- C2

@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L5/concept/стадии-жизнедеятельности-бесконечно-развивающегося-создателя
+name_ru: стадии жизнедеятельности бесконечно-развивающегося создателя
+name_en: stages of life activity of the infinitely developing creator
+purpose_ru: Структурирует деятельность для развития.
+purpose_en: Structures activity for development.
+conceptType: Объект
+usageContext_ru: В саморазвитии.
+usageContext_en: In self-development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является линейным процессом.
+not_this_en: Not a linear process.
+definition_ru: Объект, включающий этапы как потребление информации, отличающийся цикличностью.
+definition_en: An object including stages like information consumption, distinguished
+  by cyclicity.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Стадии: от потребления к реализации.'
+example_en: 'Stages: from consumption to implementation.'
+promptHint_ru: Следуйте для баланса.
+promptHint_en: Follow for balance.
+opposite_ru: Хаотичная жизнь
+opposite_en: Chaotic life
+metaphor_ru: Цикл сезонов.
+metaphor_en: Cycle of seasons.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: потребление информации
+- relation: RELATES_TO
+  target_concept: размышления
+- relation: RELATES_TO
+  target_concept: реализация
+examples:
+  positive_ru:
+  - Циклическое прохождение стадий.
+  positive_en:
+  - Cyclic passage of stages.
+  negative_ru:
+  - Прерывистая деятельность.
+  negative_en:
+  - Intermittent activity.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: стадии жизнедеятельности бесконечно-развивающегося создателя
+Определение: Объект, включающий этапы как потребление информации, отличающийся цикличностью.
+Синонимы: *id001
+Связи:
+- потребление информации
+- размышления
+- реализация
+Главы:
+- C5

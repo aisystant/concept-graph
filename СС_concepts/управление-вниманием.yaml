@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L6/concept/управление-вниманием
+name_ru: управление вниманием
+name_en: attention management
+purpose_ru: Выделяет важное в системах.
+purpose_en: Highlights important in systems.
+conceptType: process
+usageContext_ru: В системном мышлении для фокуса.
+usageContext_en: In systemic thinking for focus.
+synonyms_ru: &id001
+- Контроль внимания
+synonyms_en:
+- Attention Control
+not_this_ru: Не является пассивным наблюдением.
+not_this_en: Not passive observation.
+definition_ru: Процесс, в ходе которого внимание направляется на системные уровни,
+  отличающийся от хаотичного.
+definition_en: A process through which attention is directed to systemic levels, distinguished
+  from chaotic.
+summary_ru: ''
+summary_en: ''
+example_ru: Управление вниманием к системным уровням.
+example_en: Attention management to systemic levels.
+promptHint_ru: Практикуйте для эффективности.
+promptHint_en: Practice for effectiveness.
+opposite_ru: Рассеянность
+opposite_en: Distraction
+metaphor_ru: Фокусный луч.
+metaphor_en: Focused beam.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: фильтрация информации
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: системные уровни
+- relation: PART_OF
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Фокус на важном.
+  positive_en:
+  - Focus on the important.
+  negative_ru:
+  - Беспорядочное внимание.
+  negative_en:
+  - Disordered attention.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: управление вниманием
+Определение: Процесс, в ходе которого внимание направляется на системные уровни, отличающийся
+  от хаотичного.
+Синонимы: *id001
+Связи:
+- внимание
+- мышление
+- системное мышление
+- системные уровни
+- собранность
+- фильтрация информации
+Главы:
+- C3
+- C6

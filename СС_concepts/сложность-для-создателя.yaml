@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/сложность-для-создателя
+name_ru: сложность для создателя
+name_en: creator-complexity
+purpose_ru: Требует усилий для инноваций.
+purpose_en: Requires effort for innovations.
+conceptType: property
+usageContext_ru: В создании продуктов.
+usageContext_en: In product creation.
+synonyms_ru: &id001
+- творческая сложность
+synonyms_en:
+- creative complexity
+not_this_ru: Не является простотой.
+not_this_en: Not simplicity.
+definition_ru: Свойство, заключающееся в сложности задач для создателей, отличающееся
+  от пользовательской простоты через глубину.
+definition_en: A property consisting of task complexity for creators, differentiated
+  from user simplicity by depth.
+summary_ru: ''
+summary_en: ''
+example_ru: Сложность для создателя в разработке технологий.
+example_en: Complexity for creator in technology development.
+promptHint_ru: Преодолевайте для роста.
+promptHint_en: Overcome for growth.
+opposite_ru: простота для пользователя
+opposite_en: user-simplicity
+metaphor_ru: Глубокий колодец.
+metaphor_en: Deep well.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: OPPOSITE_OF
+  target_concept: user-simplicity
+- relation: RELATES_TO
+  target_concept: progress
+- relation: RELATES_TO
+  target_concept: creator
+examples:
+  positive_ru:
+  - Сложность стимулирует мастерство.
+  positive_en:
+  - Complexity stimulates mastery.
+  negative_ru:
+  - Избыточная сложность подавляет.
+  negative_en:
+  - Excessive complexity suppresses.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: сложность для создателя
+Определение: Свойство, заключающееся в сложности задач для создателей, отличающееся
+  от пользовательской простоты через глубину.
+Синонимы: *id001
+Связи:
+- creator
+- progress
+- user-simplicity
+Главы:
+- C1

@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L9/concept/впечатления
+name_ru: впечатления
+name_en: impressions
+purpose_ru: Формируют эмоциональное состояние и влияют на развитие.
+purpose_en: Shape emotional state and influence development.
+conceptType: property
+usageContext_ru: В повседневной жизни и саморазвитии.
+usageContext_en: In everyday life and self-development.
+synonyms_ru: &id001
+- Восприятия
+- переживания
+synonyms_en:
+- Perceptions
+- experiences
+not_this_ru: Не являются только негативными.
+not_this_en: Not just negative.
+definition_ru: Свойство событий, оставляющее след в сознании, отличающееся от других
+  свойств эмоциональной окраской.
+definition_en: A property of events leaving a trace in consciousness, distinguished
+  from other properties by emotional coloring.
+summary_ru: ''
+summary_en: ''
+example_ru: Положительные впечатления от создания систем приводят к счастью.
+example_en: Positive impressions from creating systems lead to happiness.
+promptHint_ru: Анализируйте для улучшения качества жизни.
+promptHint_en: Analyze for improving quality of life.
+opposite_ru: отсутствие впечатлений
+opposite_en: lack of impressions
+metaphor_ru: Краски на холсте жизни.
+metaphor_en: Paints on the canvas of life.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: воспоминания
+- relation: PART_OF
+  target_concept: память
+- relation: HAS_EXAMPLE
+  target_concept: убеждения
+- relation: RELATES_TO
+  target_concept: счастье
+- relation: RELATES_TO
+  target_concept: радость
+- relation: RELATES_TO
+  target_concept: осознанная жизнь
+examples:
+  positive_ru:
+  - Сильные впечатления мотивируют развитие.
+  positive_en:
+  - Strong impressions motivate development.
+  negative_ru:
+  - Отрицательные впечатления вызывают страдания.
+  negative_en:
+  - Negative impressions cause suffering.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: впечатления
+Определение: Свойство событий, оставляющее след в сознании, отличающееся от других
+  свойств эмоциональной окраской.
+Синонимы: *id001
+Связи:
+- воспоминания
+- осознанная жизнь
+- память
+- радость
+- счастье
+- убеждения
+Главы:
+- C4
+- C9

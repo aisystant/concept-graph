@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/ощущения
+name_ru: Ощущения
+name_en: Sensations
+purpose_ru: Воспринимать стимулы для реакции.
+purpose_en: To perceive stimuli for reaction.
+conceptType: object
+usageContext_ru: В психологии и восприятии.
+usageContext_en: In psychology and perception.
+synonyms_ru: &id001
+- Чувствительные сигналы
+synonyms_en:
+- Sensory signals
+not_this_ru: Не является интерпретацией.
+not_this_en: Not interpretation.
+definition_ru: Объект, представляющий базовое восприятие стимулов, отличаясь от эмоций
+  тем, что является первичным уровнем реакции.
+definition_en: Object representing basic perception of stimuli, differing from emotions
+  by being the primary level of reaction.
+summary_ru: ''
+summary_en: ''
+example_ru: Ощущения, как тепло, вызывают реакции.
+example_en: Sensations, such as warmth, cause reactions.
+promptHint_ru: Используйте для анализа восприятия.
+promptHint_en: Use for analyzing perception.
+opposite_ru: Абстрактные понятия
+opposite_en: Abstract concepts
+metaphor_ru: Датчики тела
+metaphor_en: Body sensors
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: эмоции
+- relation: PART_OF
+  target_concept: чувства
+- relation: HAS_EXAMPLE
+  target_concept: внимание
+examples:
+  positive_ru:
+  - Ощущения запускают адаптацию.
+  positive_en:
+  - Sensations initiate adaptation.
+  negative_ru:
+  - Ощущения не игнорируют стимулы.
+  negative_en:
+  - Sensations do not ignore stimuli.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Ощущения
+Определение: Объект, представляющий базовое восприятие стимулов, отличаясь от эмоций
+  тем, что является первичным уровнем реакции.
+Синонимы: *id001
+Связи:
+- внимание
+- чувства
+- эмоции
+Главы:
+- C4

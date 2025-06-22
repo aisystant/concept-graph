@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/ментальное-пространство
+name_ru: ментальное пространство
+name_en: mental-space
+purpose_ru: Позволяет моделировать реальность.
+purpose_en: Allows modeling of reality.
+conceptType: space
+usageContext_ru: В познании и общении.
+usageContext_en: In cognition and communication.
+synonyms_ru: &id001
+- психическое пространство
+synonyms_en:
+- psychic space
+not_this_ru: Не является физическим.
+not_this_en: Not physical.
+definition_ru: Пространство, заключающееся в абстрактных представлениях, отличающееся
+  от физического мира через знаковую природу.
+definition_en: A space consisting of abstract representations, differentiated from
+  the physical world by its symbolic nature.
+summary_ru: ''
+summary_en: ''
+example_ru: Ментальное пространство используется для планирования.
+example_en: Mental space is used for planning.
+promptHint_ru: Развивайте для творчества.
+promptHint_en: Develop for creativity.
+opposite_ru: физический мир
+opposite_en: physical world
+metaphor_ru: Внутренняя вселенная.
+metaphor_en: Inner universe.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: physical-world
+- relation: RELATES_TO
+  target_concept: world-picture
+- relation: RELATES_TO
+  target_concept: theory
+examples:
+  positive_ru:
+  - Ментальное пространство обогащает мышление.
+  positive_en:
+  - Mental space enriches thinking.
+  negative_ru:
+  - Ограниченное пространство ограничивает идеи.
+  negative_en:
+  - Limited space limits ideas.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: ментальное пространство
+Определение: Пространство, заключающееся в абстрактных представлениях, отличающееся
+  от физического мира через знаковую природу.
+Синонимы: *id001
+Связи:
+- physical-world
+- theory
+- world-picture
+Главы:
+- C1

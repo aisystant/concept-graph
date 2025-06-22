@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/характеристика-человека
+name_ru: Характеристика человека
+name_en: Human characteristic
+purpose_ru: Описывать параметры личности для развития как создателя систем.
+purpose_en: To describe parameters of personality for development as a system creator.
+conceptType: property
+usageContext_ru: В анализе личности и саморазвития.
+usageContext_en: In analysis of personality and self-development.
+synonyms_ru: &id001
+- Свойство личности
+synonyms_en:
+- Personality property
+not_this_ru: Не является фиксированным, а может развиваться.
+not_this_en: Not fixed, but can be developed.
+definition_ru: Свойство человека, отражающее параметры, такие как агентность и ресурсность,
+  отличаясь от статичных черт тем, что поддается улучшению через системный подход.
+definition_en: Property of a human reflecting parameters such as agency and resourcefulness,
+  differing from static traits by being improvable through a systemic approach.
+summary_ru: ''
+summary_en: ''
+example_ru: Характеристика человека, как агентность, помогает в принятии решений.
+example_en: Human characteristic, such as agency, aids in decision-making.
+promptHint_ru: Используйте для оценки личностных параметров.
+promptHint_en: Use for evaluating personal parameters.
+opposite_ru: Статичность
+opposite_en: Static nature
+metaphor_ru: Строительные блоки личности
+metaphor_en: Building blocks of personality
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: калибр личности
+- relation: HAS_EXAMPLE
+  target_concept: ресурсность
+examples:
+  positive_ru:
+  - Характеристика человека способствует росту.
+  positive_en:
+  - Human characteristic promotes growth.
+  negative_ru:
+  - Характеристика не остается неизменной.
+  negative_en:
+  - Characteristic is not unchanging.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Характеристика человека
+Определение: Свойство человека, отражающее параметры, такие как агентность и ресурсность,
+  отличаясь от статичных черт тем, что поддается улучшению через системный подход.
+Синонимы: *id001
+Связи:
+- агентность
+- калибр личности
+- ресурсность
+Главы:
+- C4

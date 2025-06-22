@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/вложенность
+name_ru: вложенность
+name_en: nesting
+purpose_ru: Описывает иерархическую структуру систем.
+purpose_en: Describes the hierarchical structure of systems.
+conceptType: relation
+usageContext_ru: В системном мышлении для анализа уровней.
+usageContext_en: In systemic thinking for analyzing levels.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является линейной связью.
+not_this_en: Not a linear connection.
+definition_ru: Отношение, в котором одна система входит в другую, отличающееся физической
+  иерархией.
+definition_en: A relation where one system is contained within another, distinguished
+  by physical hierarchy.
+summary_ru: ''
+summary_en: ''
+example_ru: Система мотора вложена в систему автомобиля.
+example_en: The engine system is nested within the car system.
+promptHint_ru: Применяйте для выявления подсистем.
+promptHint_en: Apply for identifying subsystems.
+opposite_ru: Изоляция
+opposite_en: Isolation
+metaphor_ru: Матрешка.
+metaphor_en: Matryoshka doll.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: системные уровни
+- relation: PART_OF
+  target_concept: свойства системы
+examples:
+  positive_ru:
+  - Вложенность в автомобиле.
+  positive_en:
+  - Nesting in a car.
+  negative_ru:
+  - Отдельные, не связанные системы.
+  negative_en:
+  - Separate, unrelated systems.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: вложенность
+Определение: Отношение, в котором одна система входит в другую, отличающееся физической
+  иерархией.
+Синонимы: *id001
+Связи:
+- свойства системы
+- система
+- системные уровни
+Главы:
+- C6

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/мемы
+name_ru: мемы
+name_en: memes
+purpose_ru: Передаются идеи и знания.
+purpose_en: Transmit ideas and knowledge.
+conceptType: object
+usageContext_ru: В техноэволюции и культуре.
+usageContext_en: In techno-evolution and culture.
+synonyms_ru: &id001
+- идеи
+synonyms_en:
+- ideas
+not_this_ru: Не являются генами.
+not_this_en: Not genes.
+definition_ru: Объект, заключающийся в единицах культурной информации, отличающийся
+  от генов через ментальную передачу.
+definition_en: An object consisting of units of cultural information, differentiated
+  from genes by mental transmission.
+summary_ru: ''
+summary_en: ''
+example_ru: Мемы, как научные теории, передаются через обучение.
+example_en: Memes, like scientific theories, are passed through learning.
+promptHint_ru: Используйте для распространения знаний.
+promptHint_en: Use for spreading knowledge.
+opposite_ru: гены
+opposite_en: genes
+metaphor_ru: Вирусы идей.
+metaphor_en: Viruses of ideas.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: techno-evolution
+- relation: RELATES_TO
+  target_concept: culture
+- relation: RELATES_TO
+  target_concept: knowledge
+examples:
+  positive_ru:
+  - Мемы улучшают адаптацию.
+  positive_en:
+  - Memes improve adaptation.
+  negative_ru:
+  - Ошибочные мемы дезориентируют.
+  negative_en:
+  - Erroneous memes disorient.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: мемы
+Определение: Объект, заключающийся в единицах культурной информации, отличающийся
+  от генов через ментальную передачу.
+Синонимы: *id001
+Связи:
+- culture
+- knowledge
+- techno-evolution
+Главы:
+- C1

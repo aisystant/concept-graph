@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/отвлечения
+name_ru: Отвлечения
+name_en: Distractions
+purpose_ru: Влияют на внимание.
+purpose_en: Influence attention.
+conceptType: Object
+usageContext_ru: В среде.
+usageContext_en: In environment.
+synonyms_ru: &id001
+- Развлечения
+synonyms_en:
+- Diversions
+not_this_ru: Не полезные.
+not_this_en: Not useful.
+definition_ru: Объекты, заключающиеся в факторах, рассеивающих внимание.
+definition_en: Objects, characterized by factors dispersing attention.
+summary_ru: ''
+summary_en: ''
+example_ru: Отвлечения от уведомлений.
+example_en: Distractions from notifications.
+promptHint_ru: Минимизируйте отвлечения.
+promptHint_en: Minimize distractions.
+opposite_ru: Концентрация
+opposite_en: Concentration
+metaphor_ru: Как помехи в сигнале.
+metaphor_en: Like interference in a signal.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: минимизация отвлечений
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: фильтрация информации
+examples:
+  positive_ru:
+  - Контроль отвлечений повышает эффективность.
+  positive_en:
+  - Controlling distractions increases efficiency.
+  negative_ru:
+  - Много отвлечений снижает продуктивность.
+  negative_en:
+  - Many distractions reduce productivity.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Отвлечения
+Определение: Объекты, заключающиеся в факторах, рассеивающих внимание.
+Синонимы: *id001
+Связи:
+- внимание
+- минимизация отвлечений
+- фильтрация информации
+Главы:
+- C3

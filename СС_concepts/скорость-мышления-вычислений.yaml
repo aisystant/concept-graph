@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/скорость-мышления-вычислений
+name_ru: Скорость мышления (вычислений)
+name_en: Thinking Speed
+purpose_ru: Определяет скорость обработки информации.
+purpose_en: Determines the speed of information processing.
+conceptType: Property
+usageContext_ru: В когниции для анализа.
+usageContext_en: In cognition for analysis.
+synonyms_ru: &id001
+- Скорость вычислений
+synonyms_en:
+- Processing Speed
+not_this_ru: Не является физической скоростью.
+not_this_en: It is not physical speed.
+definition_ru: Свойство, заключающееся в скорости мыслительных процессов, отличающееся
+  у разных агентов.
+definition_en: A property consisting of the speed of thinking processes, differing
+  among agents.
+summary_ru: ''
+summary_en: ''
+example_ru: Скорость мышления улучшается с экзокортексом.
+example_en: Thinking speed improves with exocortex.
+promptHint_ru: Используйте для оценки когнитивных способностей.
+promptHint_en: Use for evaluating cognitive abilities.
+opposite_ru: Медленное мышление
+opposite_en: Slow thinking
+metaphor_ru: Как скорость компьютера.
+metaphor_en: Like computer speed.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: вычислительная мощность
+- relation: PART_OF
+  target_concept: интеллект
+- relation: RELATES_TO
+  target_concept: мозг
+examples:
+  positive_ru:
+  - Быстрая скорость мышления ИИ.
+  positive_en:
+  - Fast thinking speed of AI.
+  negative_ru:
+  - Медленное мышление без инструментов.
+  negative_en:
+  - Slow thinking without tools.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: Скорость мышления (вычислений)
+Определение: Свойство, заключающееся в скорости мыслительных процессов, отличающееся
+  у разных агентов.
+Синонимы: *id001
+Связи:
+- вычислительная мощность
+- интеллект
+- мозг
+Главы:
+- C8

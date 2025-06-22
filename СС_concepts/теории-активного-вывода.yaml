@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/теории-активного-вывода
+name_ru: Теории активного вывода
+name_en: Theories of active inference
+purpose_ru: Объяснять адаптацию через предсказания.
+purpose_en: To explain adaptation through predictions.
+conceptType: theory
+usageContext_ru: В анализе мотивации.
+usageContext_en: In motivation analysis.
+synonyms_ru: &id001
+- Активный вывод
+synonyms_en:
+- Active inference
+not_this_ru: Не является статичной теорией.
+not_this_en: Not a static theory.
+definition_ru: Теория, описывающая, как системы предсказывают и корректируют, отличаясь
+  от других тем, что фокусируется на минимизации энергии.
+definition_en: Theory describing how systems predict and correct, differing from others
+  by focusing on energy minimization.
+summary_ru: ''
+summary_en: ''
+example_ru: Теории активного вывода применяются в понимании неудовлетворенности.
+example_en: Theories of active inference are applied in understanding dissatisfaction.
+promptHint_ru: Используйте для предсказаний.
+promptHint_en: Use for predictions.
+opposite_ru: Пассивные теории
+opposite_en: Passive theories
+metaphor_ru: Предсказательный механизм
+metaphor_en: Predictive mechanism
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: принцип свободной энергии
+- relation: PART_OF
+  target_concept: мотивация
+- relation: HAS_EXAMPLE
+  target_concept: убеждения
+examples:
+  positive_ru:
+  - Теории активного вывода улучшают адаптацию.
+  positive_en:
+  - Theories of active inference improve adaptation.
+  negative_ru:
+  - Теории не игнорируют реальность.
+  negative_en:
+  - Theories do not ignore reality.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Теории активного вывода
+Определение: Теория, описывающая, как системы предсказывают и корректируют, отличаясь
+  от других тем, что фокусируется на минимизации энергии.
+Синонимы: *id001
+Связи:
+- мотивация
+- принцип свободной энергии
+- убеждения
+Главы:
+- C4

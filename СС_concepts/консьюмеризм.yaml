@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/консьюмеризм
+name_ru: Консьюмеризм
+name_en: Consumerism
+purpose_ru: Промотирует потребление как этический подход.
+purpose_en: Promotes consumption as an ethical approach.
+conceptType: System
+usageContext_ru: В этике для анализа культурных норм.
+usageContext_en: In ethics for analyzing cultural norms.
+synonyms_ru: &id001
+- Потребительская культура
+synonyms_en:
+- Consumer Culture
+not_this_ru: Не является этикой самопожертвования.
+not_this_en: It is not an ethics of self-sacrifice.
+definition_ru: Система, заключающаяся в этических принципах, ориентированных на потребление,
+  отличающаяся от религиозной этики.
+definition_en: A system consisting of ethical principles oriented towards consumption,
+  distinguished from religious ethics.
+summary_ru: ''
+summary_en: ''
+example_ru: Консьюмеризм учит потреблению через СМИ.
+example_en: Consumerism teaches consumption through media.
+promptHint_ru: Используйте для критики культурных практик.
+promptHint_en: Use for critiquing cultural practices.
+opposite_ru: Аскетизм
+opposite_en: Asceticism
+metaphor_ru: Как машина потребления.
+metaphor_en: Like a consumption machine.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: мораль
+- relation: RELATES_TO
+  target_concept: этика технологий
+examples:
+  positive_ru:
+  - Потребление как норма.
+  positive_en:
+  - Consumption as a norm.
+  negative_ru:
+  - Отказ от потребления в пользу развития.
+  negative_en:
+  - Refusal of consumption in favor of development.
+discipline:
+  name_ru: Этика
+  name_en: Ethics
+  level: L3
+Название: Консьюмеризм
+Определение: Система, заключающаяся в этических принципах, ориентированных на потребление,
+  отличающаяся от религиозной этики.
+Синонимы: *id001
+Связи:
+- мораль
+- этика
+- этика технологий
+Главы:
+- C8

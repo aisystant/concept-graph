@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L2/concept/осознанная-компетентность
+name_ru: осознанная компетентность
+name_en: conscious competence
+purpose_ru: Достигает навыков с полным осознанием.
+purpose_en: Achieves skills with full awareness.
+conceptType: Stage
+usageContext_ru: В контексте квадранта компетенций.
+usageContext_en: In the context of competence quadrant.
+synonyms_ru: &id001
+- осознанное мастерство
+synonyms_en:
+- conscious mastery
+not_this_ru: Не является неосознанным.
+not_this_en: Not unconscious.
+definition_ru: Стадия, где человек consciously применяет навыки с фокусом на процессе.
+definition_en: A stage where a person consciously applies skills with focus on the
+  process.
+summary_ru: ''
+summary_en: ''
+example_ru: Осознанное вождение с вниманием к дороге.
+example_en: Conscious driving with attention to the road.
+promptHint_ru: Используйте для практики навыков.
+promptHint_en: Use for practicing skills.
+opposite_ru: Неосознанная компетентность
+opposite_en: Unconscious competence
+metaphor_ru: Как контролируемый процесс.
+metaphor_en: Like a controlled process.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: квадрант-компетенций
+- relation: RELATES_TO
+  target_concept: неосознанная-компетентность
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Осознанное применение навыков в работе.
+  positive_en:
+  - Conscious application of skills in work.
+  negative_ru:
+  - Потеря осознанности в рутине.
+  negative_en:
+  - Loss of awareness in routine.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: осознанная компетентность
+Определение: Стадия, где человек consciously применяет навыки с фокусом на процессе.
+Синонимы: *id001
+Связи:
+- квадрант-компетенций
+- мышление
+- неосознанная-компетентность
+Главы:
+- C2

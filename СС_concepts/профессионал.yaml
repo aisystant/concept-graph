@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/профессионал
+name_ru: профессионал
+name_en: professional
+purpose_ru: Решает известные задачи.
+purpose_en: Solves known tasks.
+conceptType: role
+usageContext_ru: В работе и мастерстве.
+usageContext_en: In work and mastery.
+synonyms_ru: &id001
+- специалист
+synonyms_en:
+- specialist
+not_this_ru: Не является интеллектуалом.
+not_this_en: Not an intellectual.
+definition_ru: Роль, заключающаяся в применении навыков для задач, отличающаяся от
+  интеллектуала через фокус на рутине.
+definition_en: A role consisting of applying skills to tasks, differentiated from
+  an intellectual by focus on routine.
+summary_ru: ''
+summary_en: ''
+example_ru: Профессионал, как водитель, выполняет повседневные задачи.
+example_en: Professional, like a driver, performs daily tasks.
+promptHint_ru: Становьтесь в своей области.
+promptHint_en: Become one in your field.
+opposite_ru: любитель
+opposite_en: amateur
+metaphor_ru: Мастер ремесла.
+metaphor_en: Craft master.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: mastery
+- relation: RELATES_TO
+  target_concept: task
+- relation: RELATES_TO
+  target_concept: life-mastery
+examples:
+  positive_ru:
+  - Профессионал эффективен.
+  positive_en:
+  - Professional is effective.
+  negative_ru:
+  - Неопытный совершает ошибки.
+  negative_en:
+  - Inexperienced makes mistakes.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L2
+Название: профессионал
+Определение: Роль, заключающаяся в применении навыков для задач, отличающаяся от интеллектуала
+  через фокус на рутине.
+Синонимы: *id001
+Связи:
+- life-mastery
+- mastery
+- task
+Главы:
+- C1

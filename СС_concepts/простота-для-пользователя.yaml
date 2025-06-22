@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/простота-для-пользователя
+name_ru: простота для пользователя
+name_en: user-simplicity
+purpose_ru: Делает технологии доступными.
+purpose_en: Makes technologies accessible.
+conceptType: property
+usageContext_ru: В дизайне продуктов.
+usageContext_en: In product design.
+synonyms_ru: &id001
+- удобство
+synonyms_en:
+- convenience
+not_this_ru: Не является сложностью.
+not_this_en: Not complexity.
+definition_ru: Свойство, заключающееся в легкости использования, отличающееся от сложности
+  через фокус на пользователе.
+definition_en: A property consisting of ease of use, differentiated from complexity
+  by user focus.
+summary_ru: ''
+summary_en: ''
+example_ru: Простота для пользователя в смартфонах.
+example_en: User simplicity in smartphones.
+promptHint_ru: Стремитесь к ней в дизайне.
+promptHint_en: Strive for it in design.
+opposite_ru: сложность для создателя
+opposite_en: creator-complexity
+metaphor_ru: Гладкий путь.
+metaphor_en: Smooth path.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: OPPOSITE_OF
+  target_concept: complexity-for-creator
+- relation: RELATES_TO
+  target_concept: progress
+- relation: RELATES_TO
+  target_concept: engineering
+examples:
+  positive_ru:
+  - Простота повышает удовлетворенность.
+  positive_en:
+  - Simplicity increases satisfaction.
+  negative_ru:
+  - Сложность отпугивает пользователей.
+  negative_en:
+  - Complexity deters users.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L2
+Название: простота для пользователя
+Определение: Свойство, заключающееся в легкости использования, отличающееся от сложности
+  через фокус на пользователе.
+Синонимы: *id001
+Связи:
+- complexity-for-creator
+- engineering
+- progress
+Главы:
+- C1

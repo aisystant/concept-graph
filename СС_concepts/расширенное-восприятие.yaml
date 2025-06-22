@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/расширенное-восприятие
+name_ru: Расширенное восприятие
+name_en: Expanded perception
+purpose_ru: Расширять осознание через экзокортекс.
+purpose_en: To expand awareness through exocortex.
+conceptType: process
+usageContext_ru: В саморазвитии и системном мышлении.
+usageContext_en: In self-development and systemic thinking.
+synonyms_ru: &id001
+- Расширенное осознание
+synonyms_en:
+- Expanded awareness
+not_this_ru: Информация отсутствует в предоставленных текстах.
+not_this_en: Information absent in provided texts.
+definition_ru: Процесс, в ходе которого восприятие расширяется, но информация отсутствует;
+  отличается от базового восприятия.
+definition_en: Process through which perception is expanded, but information is absent;
+  differing from basic perception.
+summary_ru: ''
+summary_en: ''
+example_ru: Информация отсутствует в предоставленных текстах.
+example_en: Information absent in provided texts.
+promptHint_ru: ''
+promptHint_en: ''
+opposite_ru: ''
+opposite_en: ''
+metaphor_ru: ''
+metaphor_en: ''
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: память
+- relation: HAS_EXAMPLE
+  target_concept: внимание
+examples:
+  positive_ru:
+  - Информация отсутствует.
+  positive_en:
+  - Information absent.
+  negative_ru:
+  - Информация отсутствует.
+  negative_en:
+  - Information absent.
+discipline:
+  name_ru: Информация отсутствует
+  name_en: Information absent
+  level: L3
+Название: Расширенное восприятие
+Определение: Процесс, в ходе которого восприятие расширяется, но информация отсутствует;
+  отличается от базового восприятия.
+Синонимы: *id001
+Связи:
+- внимание
+- память
+- экзокортекс
+Главы:
+- C4

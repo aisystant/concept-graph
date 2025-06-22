@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L6/concept/системное-мировоззрение
+name_ru: системное мировоззрение
+name_en: systemic worldview
+purpose_ru: Помогает понимать новую реальность.
+purpose_en: Helps understand new reality.
+conceptType: worldview
+usageContext_ru: В системном мышлении для предсказаний.
+usageContext_en: In systemic thinking for predictions.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является обычным мировоззрением.
+not_this_en: Not a common worldview.
+definition_ru: Мировоззрение, фокусирующееся на системных понятиях, отличающееся от
+  повседневного.
+definition_en: A worldview focusing on systemic concepts, distinguished from everyday.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное мировоззрение для решения сложных проблем.
+example_en: Systemic worldview for solving complex problems.
+promptHint_ru: Развивайте для адаптации.
+promptHint_en: Develop for adaptation.
+opposite_ru: Бытовое мировоззрение
+opposite_en: Casual worldview
+metaphor_ru: Призма систем.
+metaphor_en: Prism of systems.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: системное мышление
+- relation: PART_OF
+  target_concept: сложные проблемы
+examples:
+  positive_ru:
+  - Системное мировоззрение в жизни.
+  positive_en:
+  - Systemic worldview in life.
+  negative_ru:
+  - Ограниченное мировоззрение.
+  negative_en:
+  - Limited worldview.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: системное мировоззрение
+Определение: Мировоззрение, фокусирующееся на системных понятиях, отличающееся от
+  повседневного.
+Синонимы: *id001
+Связи:
+- мышление
+- системное мышление
+- сложные проблемы
+Главы:
+- C6

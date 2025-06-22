@@ -1,0 +1,66 @@
+iri: https://system-school.ru/L7/concept/операционный-менеджер
+name_ru: операционный менеджер
+name_en: operational manager
+purpose_ru: Менеджер, управляющий текущей деятельностью.
+purpose_en: Manager who handles current activities.
+conceptType: role
+usageContext_ru: В менеджменте.
+usageContext_en: In management.
+synonyms_ru: &id001
+- операционный руководитель
+synonyms_en:
+- operational leader
+not_this_ru: Не является стратегом.
+not_this_en: It is not a strategist.
+definition_ru: Роль (genus), фокусирующаяся на ежедневном выполнении задач (differentia).
+definition_en: A role (genus) focused on daily task execution (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Операционный менеджер в производстве.
+example_en: Operational manager in production.
+promptHint_ru: Используйте для текущих задач.
+promptHint_en: Use for current tasks.
+opposite_ru: Стратегический менеджер.
+opposite_en: Strategic manager.
+metaphor_ru: Как оператор.
+metaphor_en: As an operator.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: RELATES_TO
+  target_concept: менеджмент
+- relation: HAS_EXAMPLE
+  target_concept: менеджер оргразвития
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: роль
+examples:
+  positive_ru:
+  - Эффективный операционный менеджер.
+  positive_en:
+  - Effective operational manager.
+  negative_ru:
+  - Неорганизованный руководитель.
+  negative_en:
+  - Disorganized leader.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: операционный менеджер
+Определение: Роль (genus), фокусирующаяся на ежедневном выполнении задач (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- менеджер оргразвития
+- менеджмент
+- роль
+- системный менеджмент
+Главы:
+- C7

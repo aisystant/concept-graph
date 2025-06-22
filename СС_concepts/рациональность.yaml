@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/рациональность
+name_ru: Рациональность
+name_en: Rationality
+purpose_ru: Обеспечивает принятие обоснованных решений на основе фактов.
+purpose_en: Ensures decision-making based on facts and logic.
+conceptType: Property
+usageContext_ru: В мышлении и планировании.
+usageContext_en: In thinking and planning.
+synonyms_ru: &id001
+- Логичность
+synonyms_en:
+- Logicality
+not_this_ru: Не эмоциональная реакция.
+not_this_en: Not an emotional reaction.
+definition_ru: Свойство мышления, заключающееся в использовании логики и моделей для
+  предсказания результатов.
+definition_en: A property of thinking, characterized by using logic and models to
+  predict outcomes.
+summary_ru: ''
+summary_en: ''
+example_ru: Рациональность проявляется в создании моделей для анализа задач.
+example_en: Rationality is shown in creating models for task analysis.
+promptHint_ru: Применяйте рациональность для оценки решений.
+promptHint_en: Apply rationality for decision evaluation.
+opposite_ru: Иррациональность
+opposite_en: Irrationality
+metaphor_ru: Как компас, указывающий верный путь.
+metaphor_en: Like a compass pointing the right way.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: рациональная работа
+- relation: PART_OF
+  target_concept: онтологика
+- relation: HAS_EXAMPLE
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Рациональность улучшает планирование.
+  positive_en:
+  - Rationality improves planning.
+  negative_ru:
+  - Отсутствие рациональности приводит к хаосу.
+  negative_en:
+  - Lack of rationality leads to chaos.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Рациональность
+Определение: Свойство мышления, заключающееся в использовании логики и моделей для
+  предсказания результатов.
+Синонимы: *id001
+Связи:
+- онтологика
+- рациональная работа
+- системное мышление
+Главы:
+- C3

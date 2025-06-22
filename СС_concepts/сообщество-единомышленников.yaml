@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/сообщество-единомышленников
+name_ru: сообщество единомышленников
+name_en: community of like-minded
+purpose_ru: Поддерживает совместное развитие.
+purpose_en: Supports joint development.
+conceptType: object
+usageContext_ru: В социальных сетях.
+usageContext_en: In social networks.
+synonyms_ru: &id001
+- сообщество
+synonyms_en:
+- community
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Объект, включающий людей с общими целями, отличающийся от других объектов
+  единством.
+definition_en: An object including people with common goals, distinguished from other
+  objects by unity.
+summary_ru: ''
+summary_en: ''
+example_ru: Сообщество единомышленников в МИМ способствует росту.
+example_en: Community of like-minded in MIIM promotes growth.
+promptHint_ru: Присоединяйтесь для поддержки.
+promptHint_en: Join for support.
+opposite_ru: разрозненность
+opposite_en: disunity
+metaphor_ru: Единый организм.
+metaphor_en: Unified organism.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: культура МИМ
+- relation: RELATES_TO
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Сообщество ускоряет изменения.
+  positive_en:
+  - Community accelerates changes.
+  negative_ru:
+  - Его отсутствие изолирует.
+  negative_en:
+  - Its absence isolates.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L2
+Название: сообщество единомышленников
+Определение: Объект, включающий людей с общими целями, отличающийся от других объектов
+  единством.
+Синонимы: *id001
+Связи:
+- культура МИМ
+- создатель
+- успех
+Главы:
+- C9

@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L4/concept/проблема
+name_ru: Проблема
+name_en: Problem
+purpose_ru: Выявлять несоответствия для решения.
+purpose_en: To identify mismatches for resolution.
+conceptType: object
+usageContext_ru: В анализе и развитии.
+usageContext_en: In analysis and development.
+synonyms_ru: &id001
+- вызов
+- Вызов
+synonyms_en:
+- challenge
+- Challenge
+not_this_ru: Не является препятствием без решения.
+not_this_en: Not an obstacle without solution.
+definition_ru: Объект, представляющий несоответствие, требующее изменений, отличаясь
+  от успеха тем, что стимулирует рост.
+definition_en: Object representing a mismatch requiring changes, differing from success
+  by stimulating growth.
+summary_ru: ''
+summary_en: ''
+example_ru: Проблема, как неудовлетворенность, приводит к действиям.
+example_en: Problem, such as dissatisfaction, leads to actions.
+promptHint_ru: Решайте для прогресса.
+promptHint_en: Solve for progress.
+opposite_ru: Успех
+opposite_en: Success
+metaphor_ru: Шанс для роста
+metaphor_en: Opportunity for growth
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: OPPOSITE_OF
+  target_concept: task
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: PART_OF
+  target_concept: мотивация
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональная стабильность
+examples:
+  positive_ru:
+  - Проблема стимулирует изменения.
+  positive_en:
+  - Problem stimulates changes.
+  negative_ru:
+  - Проблема не подавляет.
+  negative_en:
+  - Problem does not suppress.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Проблема
+Определение: Объект, представляющий несоответствие, требующее изменений, отличаясь
+  от успеха тем, что стимулирует рост.
+Синонимы: *id001
+Связи:
+- intellect
+- task
+- thinking
+- мотивация
+- неудовлетворенность
+- эмоциональная стабильность
+Главы:
+- C1
+- C4

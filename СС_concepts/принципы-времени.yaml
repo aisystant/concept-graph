@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/принципы-времени
+name_ru: принципы времени
+name_en: principles of time
+purpose_ru: Руководят эффективным использованием времени.
+purpose_en: Guide effective use of time.
+conceptType: Principle
+usageContext_ru: В контексте управления временем.
+usageContext_en: In the context of time management.
+synonyms_ru: &id001
+- законы времени
+synonyms_en:
+- laws of time
+not_this_ru: Не являются произвольными.
+not_this_en: Not arbitrary.
+definition_ru: Принцип, включающий инвестирование, осознанность и продление жизни
+  через время.
+definition_en: A principle including investment, awareness, and life extension through
+  time.
+summary_ru: ''
+summary_en: ''
+example_ru: Применение принципов для продления жизни.
+example_en: Applying principles for life extension.
+promptHint_ru: Используйте в планировании.
+promptHint_en: Use in planning.
+opposite_ru: Неэффективные принципы
+opposite_en: Ineffective principles
+metaphor_ru: Как основы управления.
+metaphor_en: Like management foundations.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: осознанное-управление-временем
+- relation: HAS_EXAMPLE
+  target_concept: инвестирование-времени
+examples:
+  positive_ru:
+  - Следование принципам для эффективности.
+  positive_en:
+  - Following principles for efficiency.
+  negative_ru:
+  - Нарушение принципов, приводящее к потерям.
+  negative_en:
+  - Violating principles leading to losses.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: принципы времени
+Определение: Принцип, включающий инвестирование, осознанность и продление жизни через
+  время.
+Синонимы: *id001
+Связи:
+- время
+- инвестирование-времени
+- осознанное-управление-временем
+Главы:
+- C2

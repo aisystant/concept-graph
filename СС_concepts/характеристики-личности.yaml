@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/характеристики-личности
+name_ru: характеристики личности
+name_en: personality characteristics
+purpose_ru: Определяют поведение и адаптацию.
+purpose_en: Determine behavior and adaptation.
+conceptType: property
+usageContext_ru: В анализе личности.
+usageContext_en: In personality analysis.
+synonyms_ru: &id001
+- черты характера
+synonyms_en:
+- character traits
+not_this_ru: Не являются фиксированными.
+not_this_en: Not fixed.
+definition_ru: Свойства личности, влияющие на взаимодействие, отличающиеся от других
+  свойств их динамичностью.
+definition_en: Properties of personality influencing interaction, distinguished from
+  other properties by their dynamism.
+summary_ru: ''
+summary_en: ''
+example_ru: Характеристики личности, такие как агентность, влияют на успех.
+example_en: Personality characteristics, such as agency, influence success.
+promptHint_ru: Анализируйте для самосовершенствования.
+promptHint_en: Analyze for self-improvement.
+opposite_ru: несбалансированные характеристики
+opposite_en: imbalanced characteristics
+metaphor_ru: Инструменты в наборе.
+metaphor_en: Tools in a set.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: сбалансированность
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: мастерство
+examples:
+  positive_ru:
+  - Балансированные характеристики приводят к гармонии.
+  positive_en:
+  - Balanced characteristics lead to harmony.
+  negative_ru:
+  - Несбалансированные вызывают проблемы.
+  negative_en:
+  - Imbalanced cause problems.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: характеристики личности
+Определение: Свойства личности, влияющие на взаимодействие, отличающиеся от других
+  свойств их динамичностью.
+Синонимы: *id001
+Связи:
+- агентность
+- мастерство
+- сбалансированность
+Главы:
+- C9

@@ -1,0 +1,65 @@
+iri: https://system-school.ru/L4/concept/мотивация
+name_ru: Мотивация
+name_en: Motivation
+purpose_ru: Стимулировать действия для устранения неудовлетворенностей.
+purpose_en: To stimulate actions for eliminating dissatisfaction.
+conceptType: process
+usageContext_ru: В формировании намерений и поведенческих стратегий.
+usageContext_en: In forming intentions and behavioral strategies.
+synonyms_ru: &id001
+- Движущая сила
+synonyms_en:
+- Driving force
+not_this_ru: Не является случайным импульсом.
+not_this_en: Not a random impulse.
+definition_ru: Процесс, в ходе которого внутренние стремления, обусловленные неудовлетворенностями,
+  приводят к действиям, отличаясь от пассивных состояний тем, что направляет энергию
+  на достижение целей.
+definition_en: Process through which internal drives, caused by dissatisfaction, lead
+  to actions, differing from passive states by directing energy toward goals.
+summary_ru: ''
+summary_en: ''
+example_ru: Мотивация побуждает к обучению для карьерного роста.
+example_en: Motivation prompts learning for career growth.
+promptHint_ru: Применяйте для анализа причин поведения.
+promptHint_en: Apply for analyzing reasons for behavior.
+opposite_ru: Апатичность
+opposite_en: Apathy
+metaphor_ru: Топливо для действий
+metaphor_en: Fuel for actions
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: PART_OF
+  target_concept: агентность
+- relation: HAS_EXAMPLE
+  target_concept: намерение
+examples:
+  positive_ru:
+  - Мотивация ведет к успеху.
+  positive_en:
+  - Motivation leads to success.
+  negative_ru:
+  - Мотивация не вызывает застоя.
+  negative_en:
+  - Motivation does not cause stagnation.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Мотивация
+Определение: Процесс, в ходе которого внутренние стремления, обусловленные неудовлетворенностями,
+  приводят к действиям, отличаясь от пассивных состояний тем, что направляет энергию
+  на достижение целей.
+Синонимы: *id001
+Связи:
+- агентность
+- намерение
+- неудовлетворенность
+Главы:
+- C4

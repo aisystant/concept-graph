@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L9/concept/неудовлетворенности
+name_ru: неудовлетворенности
+name_en: dissatisfactions
+purpose_ru: Мотивируют к изменениям.
+purpose_en: Motivate changes.
+conceptType: property
+usageContext_ru: В самоанализе.
+usageContext_en: In self-analysis.
+synonyms_ru: &id001
+- Недовольства
+- проблемы
+synonyms_en:
+- Discontents
+- problems
+not_this_ru: Не являются постоянными.
+not_this_en: Not permanent.
+definition_ru: Свойство, указывающее на несоответствия, отличающееся от других свойств
+  их побудительной силой.
+definition_en: A property indicating discrepancies, distinguished from other properties
+  by its motivating force.
+summary_ru: ''
+summary_en: ''
+example_ru: Неудовлетворенности стимулируют бесконечное развитие.
+example_en: Dissatisfactions stimulate infinite development.
+promptHint_ru: Идентифицируйте для действий.
+promptHint_en: Identify for actions.
+opposite_ru: удовлетворенность
+opposite_en: satisfaction
+metaphor_ru: Толчок к движению.
+metaphor_en: Push to movement.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: желания
+- relation: PART_OF
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: намерения
+- relation: RELATES_TO
+  target_concept: счастье
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Устранение неудовлетворенностей приводит к радости.
+  positive_en:
+  - Eliminating dissatisfactions leads to joy.
+  negative_ru:
+  - Их игнорирование усугубляет проблемы.
+  negative_en:
+  - Ignoring them worsens problems.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: неудовлетворенности
+Определение: Свойство, указывающее на несоответствия, отличающееся от других свойств
+  их побудительной силой.
+Синонимы: *id001
+Связи:
+- агентность
+- бесконечное развитие
+- желания
+- намерения
+- счастье
+- успех
+Главы:
+- C8
+- C9

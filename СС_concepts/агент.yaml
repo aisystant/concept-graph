@@ -1,0 +1,101 @@
+iri: https://system-school.ru/L8/concept/агент
+name_ru: Агент
+name_en: Agent
+purpose_ru: Представляет самостоятельную систему, способную к целенаправленным действиям
+  и принятию решений.
+purpose_en: Represents an autonomous system capable of purposeful actions and decision-making.
+conceptType: Object
+usageContext_ru: В системном мышлении для описания людей, групп или ИИ как исполнителей
+  ролей.
+usageContext_en: In systems thinking to describe humans, groups, or AI as performers
+  of roles.
+synonyms_ru: &id001
+- Действующее лицо
+- Агент
+- действующий субъект
+- исполнитель роли
+- Исполнитель
+- Субъект
+synonyms_en:
+- Actor
+- Agent
+- acting entity
+- role performer
+- Executor
+- Subject
+not_this_ru: Не является просто объектом без способности к действиям.
+not_this_en: It is not merely an object without the ability to act.
+definition_ru: Объект, являющийся автономной системой с характеристиками, такими как
+  агентность и целенаправленность, отличающийся способностью к самостоятельным решениям.
+definition_en: An object that is an autonomous system with characteristics like agency
+  and purposefulness, distinguished by the ability to make independent decisions.
+summary_ru: ''
+summary_en: ''
+example_ru: Человек как агент может самостоятельно принимать решения для устранения
+  неудовлетворенностей.
+example_en: A human as an agent can independently make decisions to eliminate dissatisfactions.
+promptHint_ru: Используйте для анализа систем, где субъекты взаимодействуют.
+promptHint_en: Use for analyzing systems where subjects interact.
+opposite_ru: Пассивный объект
+opposite_en: Passive object
+metaphor_ru: Как актер на сцене, исполняющий роль.
+metaphor_en: Like an actor on stage performing a role.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: человек
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: HAS_EXAMPLE
+  target_concept: создатель
+- relation: IS_A
+  target_concept: личность
+- relation: HAS_EXAMPLE
+  target_concept: мозг
+- relation: IS_A
+  target_concept: исполнитель роли
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: квалификация
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: автономность
+examples:
+  positive_ru:
+  - Человек, принимающий решения самостоятельно.
+  positive_en:
+  - A human making decisions independently.
+  negative_ru:
+  - Камень, не способный к действиям.
+  negative_en:
+  - A stone, incapable of actions.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systems Thinking
+  level: L3
+Название: Агент
+Определение: Объект, являющийся автономной системой с характеристиками, такими как
+  агентность и целенаправленность, отличающийся способностью к самостоятельным решениям.
+Синонимы: *id001
+Связи:
+- автономность
+- агентность
+- исполнитель роли
+- квалификация
+- личность
+- мозг
+- роль
+- системное мышление
+- создатель
+- человек
+Главы:
+- C1
+- C2
+- C5
+- C8

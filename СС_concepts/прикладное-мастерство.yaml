@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L2/concept/прикладное-мастерство
+name_ru: прикладное мастерство
+name_en: applied mastery
+purpose_ru: Развивает практические навыки в конкретных областях.
+purpose_en: Develops practical skills in specific areas.
+conceptType: Property
+usageContext_ru: В контексте профессионализма.
+usageContext_en: In the context of professionalism.
+synonyms_ru: &id001
+- практическое мастерство
+synonyms_en:
+- practical mastery
+not_this_ru: Не является мыслительным.
+not_this_en: Not intellectual.
+definition_ru: Свойство, полученное через практику, позволяющее создавать рабочие
+  продукты.
+definition_en: A property acquired through practice, enabling the creation of working
+  products.
+summary_ru: ''
+summary_en: ''
+example_ru: Мастерство в бухгалтерии для создания отчетов.
+example_en: Mastery in accounting for creating reports.
+promptHint_ru: Используйте для профессионального роста.
+promptHint_en: Use for professional growth.
+opposite_ru: Теоретическое мастерство
+opposite_en: Theoretical mastery
+metaphor_ru: Как практический инструмент.
+metaphor_en: Like a practical tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: PART_OF
+  target_concept: профессионализм
+- relation: HAS_EXAMPLE
+  target_concept: умение-делать
+examples:
+  positive_ru:
+  - Прикладное мастерство в работе.
+  positive_en:
+  - Applied mastery in work.
+  negative_ru:
+  - Отсутствие практики, не ведущая к мастерству.
+  negative_en:
+  - Lack of practice not leading to mastery.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: прикладное мастерство
+Определение: Свойство, полученное через практику, позволяющее создавать рабочие продукты.
+Синонимы: *id001
+Связи:
+- мастерство
+- профессионализм
+- умение-делать
+Главы:
+- C2

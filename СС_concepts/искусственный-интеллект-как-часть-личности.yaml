@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/искусственный-интеллект-как-часть-личности
+name_ru: Искусственный интеллект как часть личности
+name_en: Artificial Intelligence as Personality Part
+purpose_ru: Усиливает функции личности, как экзокортекс.
+purpose_en: Enhances personality functions, like exocortex.
+conceptType: Component
+usageContext_ru: В контексте саморазвития для интеграции ИИ.
+usageContext_en: In self-development for AI integration.
+synonyms_ru: &id001
+- ИИ как дополнение
+synonyms_en:
+- AI as Augmentation
+not_this_ru: Не является заменой личности.
+not_this_en: It is not a replacement of personality.
+definition_ru: Компонент личности, заключающийся в использовании ИИ для улучшения
+  способностей, отличающийся от автономного ИИ.
+definition_en: A component of personality, consisting of using AI to improve abilities,
+  distinguished from autonomous AI.
+summary_ru: ''
+summary_en: ''
+example_ru: ИИ как часть личности улучшает вычислительную мощность.
+example_en: AI as part of personality enhances computational power.
+promptHint_ru: Используйте для анализа самоусиления.
+promptHint_en: Use for analyzing self-enhancement.
+opposite_ru: Изоляция от ИИ
+opposite_en: Isolation from AI
+metaphor_ru: Как протез для мозга.
+metaphor_en: Like a brain prosthesis.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: личность
+- relation: PART_OF
+  target_concept: экзокортекс
+- relation: RELATES_TO
+  target_concept: интеллект
+examples:
+  positive_ru:
+  - Интеграция ИИ в личность для улучшения.
+  positive_en:
+  - Integrating AI into personality for improvement.
+  negative_ru:
+  - Отказ от ИИ, ограничивающий развитие.
+  negative_en:
+  - Refusing AI, limiting development.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-Development
+  level: L3
+Название: Искусственный интеллект как часть личности
+Определение: Компонент личности, заключающийся в использовании ИИ для улучшения способностей,
+  отличающийся от автономного ИИ.
+Синонимы: *id001
+Связи:
+- интеллект
+- личность
+- экзокортекс
+Главы:
+- C8

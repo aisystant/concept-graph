@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/разделение-труда
+name_ru: разделение труда
+name_en: division of labor
+purpose_ru: Увеличивает эффективность деятельности.
+purpose_en: Increases activity efficiency.
+conceptType: Процесс
+usageContext_ru: В эволюции и деятельности.
+usageContext_en: In evolution and activity.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является единой работой.
+not_this_en: Not unified work.
+definition_ru: Процесс, в ходе которого метод разбивается на части, отличающийся специализацией
+  ролей.
+definition_en: A process in which a method is broken into parts, distinguished by
+  role specialization.
+summary_ru: ''
+summary_en: ''
+example_ru: Разделение труда в медицине на специализации.
+example_en: Division of labor in medicine into specializations.
+promptHint_ru: Применяйте для оптимизации.
+promptHint_en: Apply for optimization.
+opposite_ru: Единое выполнение
+opposite_en: Unified execution
+metaphor_ru: Разделение задачи на подзадачи.
+metaphor_en: Dividing a task into subtasks.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: метод
+- relation: RELATES_TO
+  target_concept: деятельностный кругозор
+examples:
+  positive_ru:
+  - Эффективное разделение труда в команде.
+  positive_en:
+  - Effective division of labor in a team.
+  negative_ru:
+  - Хаотичное выполнение без разделения.
+  negative_en:
+  - Chaotic execution without division.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: разделение труда
+Определение: Процесс, в ходе которого метод разбивается на части, отличающийся специализацией
+  ролей.
+Синонимы: *id001
+Связи:
+- деятельностный кругозор
+- метод
+- роль
+Главы:
+- C5

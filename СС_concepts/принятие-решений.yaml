@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/принятие-решений
+name_ru: Принятие решений
+name_en: Decision Making
+purpose_ru: Включает процесс выбора действий.
+purpose_en: Includes the process of choosing actions.
+conceptType: Process
+usageContext_ru: В системном мышлении для анализа.
+usageContext_en: In systems thinking for analysis.
+synonyms_ru: &id001
+- Выбор
+synonyms_en:
+- Choice
+not_this_ru: Не является случайным.
+not_this_en: It is not random.
+definition_ru: Процесс, в ходе которого агент выбирает действия на основе информации,
+  отличающийся от инстинктивных реакций.
+definition_en: A process in which an agent selects actions based on information, distinguished
+  from instinctive reactions.
+summary_ru: ''
+summary_en: ''
+example_ru: Принятие решений учитывает автономность.
+example_en: Decision-making considers autonomy.
+promptHint_ru: Используйте для стратегического планирования.
+promptHint_en: Use for strategic planning.
+opposite_ru: Бездействие
+opposite_en: Inaction
+metaphor_ru: Как развилка дорог.
+metaphor_en: Like a fork in the road.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: интеллект
+- relation: RELATES_TO
+  target_concept: намерения
+examples:
+  positive_ru:
+  - Эффективное принятие решений.
+  positive_en:
+  - Effective decision-making.
+  negative_ru:
+  - Ошибочные решения без анализа.
+  negative_en:
+  - Erroneous decisions without analysis.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: Принятие решений
+Определение: Процесс, в ходе которого агент выбирает действия на основе информации,
+  отличающийся от инстинктивных реакций.
+Синонимы: *id001
+Связи:
+- агентность
+- интеллект
+- намерения
+Главы:
+- C8

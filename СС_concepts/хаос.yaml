@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L3/concept/хаос
+name_ru: Хаос
+name_en: Chaos
+purpose_ru: Представляет беспорядок.
+purpose_en: Represents disorder.
+conceptType: State
+usageContext_ru: В системах.
+usageContext_en: In systems.
+synonyms_ru: &id001
+- Беспорядок
+synonyms_en:
+- Disorder
+not_this_ru: Не организованность.
+not_this_en: Not organization.
+definition_ru: Состояние, заключающееся в отсутствии структуры.
+definition_en: A state, characterized by lack of structure.
+summary_ru: ''
+summary_en: ''
+example_ru: Хаос в разобранности.
+example_en: Chaos in disarray.
+promptHint_ru: Избегайте хаоса.
+promptHint_en: Avoid chaos.
+opposite_ru: Собранность
+opposite_en: Collectedness
+metaphor_ru: Как буря.
+metaphor_en: Like a storm.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: разобранность
+- relation: PART_OF
+  target_concept: гиперфокусировка
+- relation: HAS_EXAMPLE
+  target_concept: баланс между собранностью и гибкостью
+examples:
+  positive_ru: Информация отсутствует.
+  positive_en: Information absent.
+  negative_ru:
+  - Хаос приводит к ошибкам.
+  negative_en:
+  - Chaos leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Хаос
+Определение: Состояние, заключающееся в отсутствии структуры.
+Синонимы: *id001
+Связи:
+- баланс между собранностью и гибкостью
+- гиперфокусировка
+- разобранность
+Главы:
+- C3

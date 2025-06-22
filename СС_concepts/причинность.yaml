@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/причинность
+name_ru: Причинность
+name_en: Causality
+purpose_ru: Объясняет связи.
+purpose_en: Explains connections.
+conceptType: Relation
+usageContext_ru: В анализе.
+usageContext_en: In analysis.
+synonyms_ru: &id001
+- Причина-следствие
+synonyms_en:
+- Cause-Effect
+not_this_ru: Не случайность.
+not_this_en: Not randomness.
+definition_ru: Отношение, заключающееся в установлении причинно-следственных связей.
+definition_en: A relation, characterized by establishing cause-and-effect links.
+summary_ru: ''
+summary_en: ''
+example_ru: Причинность в моделях.
+example_en: Causality in models.
+promptHint_ru: Анализируйте причинность для прогнозирования.
+promptHint_en: Analyze causality for forecasting.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как цепочка событий.
+metaphor_en: Like a chain of events.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: системность
+- relation: PART_OF
+  target_concept: онтологика
+- relation: HAS_EXAMPLE
+  target_concept: эмерджентность
+examples:
+  positive_ru:
+  - Причинность помогает в прогнозировании.
+  positive_en:
+  - Causality aids in forecasting.
+  negative_ru:
+  - Игнорирование приводит к неожиданностям.
+  negative_en:
+  - Ignoring leads to surprises.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Причинность
+Определение: Отношение, заключающееся в установлении причинно-следственных связей.
+Синонимы: *id001
+Связи:
+- онтологика
+- системность
+- эмерджентность
+Главы:
+- C3

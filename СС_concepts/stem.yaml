@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L6/concept/stem
+name_ru: STEM
+name_en: STEM
+purpose_ru: Усиливает интеллект через трансдисциплины, помогая в решении сложных задач.
+purpose_en: Enhances intelligence through transdisciplines, aiding in solving complex
+  problems.
+conceptType: discipline
+usageContext_ru: В системном мышлении для развития навыков.
+usageContext_en: In systemic thinking for skill development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является прикладными дисциплинами.
+not_this_en: Not applied disciplines.
+definition_ru: Группа трансдисциплин, включающая науку, технологию, инженерию и математику,
+  отличающаяся от прикладных теорий.
+definition_en: A group of transdisciplines including science, technology, engineering,
+  and mathematics, differing from applied theories.
+summary_ru: ''
+summary_en: ''
+example_ru: STEM помогает в быстром освоении новых задач, как в инженерии.
+example_en: STEM aids in quickly mastering new tasks, as in engineering.
+promptHint_ru: Применяйте для расширения знаний в трансдисциплинах.
+promptHint_en: Apply for expanding knowledge in transdisciplines.
+opposite_ru: Прикладные дисциплины
+opposite_en: Applied disciplines
+metaphor_ru: Фундамент здания для прикладных построек.
+metaphor_en: Foundation of a building for applied structures.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: PART_OF
+  target_concept: системный подход 3.0
+examples:
+  positive_ru:
+  - Использование STEM в образовании для решения глобальных проблем.
+  positive_en:
+  - Using STEM in education to solve global problems.
+  negative_ru:
+  - Ограничение знаниями только прикладных дисциплин.
+  negative_en:
+  - Limiting knowledge to only applied disciplines.
+discipline:
+  name_ru: Образование
+  name_en: Education
+  level: L3
+Название: STEM
+Определение: Группа трансдисциплин, включающая науку, технологию, инженерию и математику,
+  отличающаяся от прикладных теорий.
+Синонимы: *id001
+Связи:
+- мышление
+- системное мышление
+- системный подход 3.0
+Главы:
+- C6

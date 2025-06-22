@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/культура-мим
+name_ru: культура МИМ
+name_en: MIIM culture
+purpose_ru: Поддерживает системное мышление.
+purpose_en: Supports systemic thinking.
+conceptType: object
+usageContext_ru: В сообществе МИМ.
+usageContext_en: In the MIIM community.
+synonyms_ru: &id001
+- культура сообщества
+synonyms_en:
+- community culture
+not_this_ru: Не является изолированной.
+not_this_en: Not isolated.
+definition_ru: Объект, включающий ценности МИМ, отличающийся от других объектов фокусом
+  на развитии.
+definition_en: An object including MIIM values, distinguished from other objects by
+  a focus on development.
+summary_ru: ''
+summary_en: ''
+example_ru: Культура МИМ побуждает к бесконечному развитию.
+example_en: MIIM culture encourages infinite development.
+promptHint_ru: Присоединяйтесь для вдохновения.
+promptHint_en: Join for inspiration.
+opposite_ru: традиционная культура
+opposite_en: traditional culture
+metaphor_ru: Общий кодекс.
+metaphor_en: Common code.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: культура
+- relation: RELATES_TO
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: сообщество единомышленников
+examples:
+  positive_ru:
+  - Культура МИМ способствует изменениям.
+  positive_en:
+  - MIIM culture facilitates changes.
+  negative_ru:
+  - Ее игнорирование тормозит рост.
+  negative_en:
+  - Ignoring it hinders growth.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L3
+Название: культура МИМ
+Определение: Объект, включающий ценности МИМ, отличающийся от других объектов фокусом
+  на развитии.
+Синонимы: *id001
+Связи:
+- культура
+- создатель
+- сообщество единомышленников
+Главы:
+- C9

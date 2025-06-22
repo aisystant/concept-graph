@@ -1,0 +1,70 @@
+iri: https://system-school.ru/L2/concept/мыслительное-мастерство
+name_ru: мыслительное мастерство
+name_en: thinking mastery
+purpose_ru: Улучшает способность к анализу и творчеству.
+purpose_en: Improves ability for analysis and creativity.
+conceptType: Property
+usageContext_ru: В контексте интеллекта и решений.
+usageContext_en: In the context of intelligence and decisions.
+synonyms_ru: &id001
+- интеллектуальное мастерство
+synonyms_en:
+- intellectual mastery
+not_this_ru: Не является прикладным мастерством.
+not_this_en: Not applied mastery.
+definition_ru: Свойство, развиваемое через трансдисциплины для эффективного мышления.
+definition_en: A property developed through transdisciplines for effective thinking.
+summary_ru: ''
+summary_en: ''
+example_ru: Мастерство в системном мышлении.
+example_en: Mastery in systems thinking.
+promptHint_ru: Используйте для развития идей.
+promptHint_en: Use for developing ideas.
+opposite_ru: Поверхностное мышление
+opposite_en: Superficial thinking
+metaphor_ru: Как отточенный инструмент.
+metaphor_en: Like a sharpened tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: life-mastery
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: PART_OF
+  target_concept: интеллект-стек
+- relation: HAS_EXAMPLE
+  target_concept: умение-думать
+examples:
+  positive_ru:
+  - Развитие мыслительного мастерства через образование.
+  positive_en:
+  - Developing thinking mastery through education.
+  negative_ru:
+  - Отсутствие мастерства, приводящее к ошибкам.
+  negative_en:
+  - Lack of mastery leading to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: мыслительное мастерство
+Определение: Свойство, развиваемое через трансдисциплины для эффективного мышления.
+Синонимы: *id001
+Связи:
+- intellect
+- life-mastery
+- thinking
+- интеллект-стек
+- мышление
+- умение-думать
+Главы:
+- C1
+- C2

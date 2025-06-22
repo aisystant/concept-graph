@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/распознавание-ошибок
+name_ru: Распознавание ошибок
+name_en: Error Recognition
+purpose_ru: Обнаруживает недочеты для их исправления.
+purpose_en: Detects flaws for correction.
+conceptType: Process
+usageContext_ru: В работе и обучении.
+usageContext_en: In work and learning.
+synonyms_ru: &id001
+- Обнаружение ошибок
+synonyms_en:
+- Error Detection
+not_this_ru: Не игнорирование, а активное выявление.
+not_this_en: Not ignoring, but active detection.
+definition_ru: Процесс анализа, заключающийся в идентификации ошибок до их эскалации.
+definition_en: An analysis process, characterized by identifying errors before escalation.
+summary_ru: ''
+summary_en: ''
+example_ru: Распознавание ошибок в процессе работы для их timely исправления.
+example_en: Error recognition in the work process for timely correction.
+promptHint_ru: Используйте интуицию для распознавания ошибок.
+promptHint_en: Use intuition for error recognition.
+opposite_ru: Игнорирование ошибок
+opposite_en: Error Ignoring
+metaphor_ru: Как радар, обнаруживающий препятствия.
+metaphor_en: Like a radar detecting obstacles.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: исправление ошибок
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: обратная связь
+examples:
+  positive_ru:
+  - Распознавание ошибок предотвращает проблемы.
+  positive_en:
+  - Error recognition prevents problems.
+  negative_ru:
+  - Нераспознанные ошибки приводят к неудачам.
+  negative_en:
+  - Unrecognized errors lead to failures.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Распознавание ошибок
+Определение: Процесс анализа, заключающийся в идентификации ошибок до их эскалации.
+Синонимы: *id001
+Связи:
+- исправление ошибок
+- обратная связь
+- собранность
+Главы:
+- C3

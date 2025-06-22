@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L8/concept/практика-организации-досуга
+name_ru: Практика организации досуга
+name_en: Leisure Organization Practice
+purpose_ru: Помогает предотвратить выгорание через отдых.
+purpose_en: Helps prevent burnout through rest.
+conceptType: Practice
+usageContext_ru: В саморазвитии для баланса.
+usageContext_en: In self-development for balance.
+synonyms_ru: &id001
+- Организация отдыха
+synonyms_en:
+- Rest Organization
+not_this_ru: Не является работой.
+not_this_en: It is not work.
+definition_ru: Практика, заключающаяся в планировании отдыха, отличающаяся от повседневных
+  задач.
+definition_en: A practice consisting of planning rest, distinguished from daily tasks.
+summary_ru: ''
+summary_en: ''
+example_ru: Практика организации досуга включает эшелонированную оборону.
+example_en: Leisure organization practice includes echeloned defense.
+promptHint_ru: Используйте для планирования отдыха.
+promptHint_en: Use for planning rest.
+opposite_ru: Перегрузка
+opposite_en: Overload
+metaphor_ru: Как перерыв в работе.
+metaphor_en: Like a break from work.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: выгорание
+- relation: PART_OF
+  target_concept: жизненное мастерство
+- relation: RELATES_TO
+  target_concept: эшелонированная оборона
+examples:
+  positive_ru:
+  - Регулярная организация досуга.
+  positive_en:
+  - Regular leisure organization.
+  negative_ru:
+  - Отсутствие практики, приводящее к истощению.
+  negative_en:
+  - Lack of practice leading to exhaustion.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-Development
+  level: L2
+Название: Практика организации досуга
+Определение: Практика, заключающаяся в планировании отдыха, отличающаяся от повседневных
+  задач.
+Синонимы: *id001
+Связи:
+- выгорание
+- жизненное мастерство
+- эшелонированная оборона
+Главы:
+- C8

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/эмоциональная-стабильность
+name_ru: Эмоциональная стабильность
+name_en: Emotional stability
+purpose_ru: Поддерживать продуктивность в стрессовых ситуациях.
+purpose_en: To maintain productivity in stressful situations.
+conceptType: property
+usageContext_ru: В саморазвитии и психологии.
+usageContext_en: In self-development and psychology.
+synonyms_ru: &id001
+- Стрессоустойчивость
+synonyms_en:
+- Stress resistance
+not_this_ru: Не является отсутствием эмоций.
+not_this_en: Not the absence of emotions.
+definition_ru: Свойство, заключающееся в способности управлять эмоциями, отличаясь
+  от эмоциональной нестабильности тем, что позволяет быстро восстанавливаться.
+definition_en: Property involving the ability to manage emotions, differing from emotional
+  instability by enabling quick recovery.
+summary_ru: ''
+summary_en: ''
+example_ru: Эмоциональная стабильность помогает в преодолении проблем.
+example_en: Emotional stability helps in overcoming problems.
+promptHint_ru: Развивайте для устойчивости.
+promptHint_en: Develop for resilience.
+opposite_ru: Эмоциональная нестабильность
+opposite_en: Emotional instability
+metaphor_ru: Неваляшка
+metaphor_en: Roly-poly toy
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: эмоции
+- relation: PART_OF
+  target_concept: характеристика человека
+- relation: HAS_EXAMPLE
+  target_concept: мотивация
+examples:
+  positive_ru:
+  - Эмоциональная стабильность поддерживает успех.
+  positive_en:
+  - Emotional stability supports success.
+  negative_ru:
+  - Стабильность не приводит к выгоранию.
+  negative_en:
+  - Stability does not lead to burnout.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Эмоциональная стабильность
+Определение: Свойство, заключающееся в способности управлять эмоциями, отличаясь от
+  эмоциональной нестабильности тем, что позволяет быстро восстанавливаться.
+Синонимы: *id001
+Связи:
+- мотивация
+- характеристика человека
+- эмоции
+Главы:
+- C4

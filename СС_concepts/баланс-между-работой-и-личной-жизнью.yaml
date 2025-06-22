@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L6/concept/баланс-между-работой-и-личной-жизнью
+name_ru: баланс между работой и личной жизнью
+name_en: balance between work and personal life
+purpose_ru: Помогает гармонично распределять время между работой и личными делами.
+purpose_en: Helps harmoniously distribute time between work and personal matters.
+conceptType: process
+usageContext_ru: В системном мышлении для улучшения качества жизни.
+usageContext_en: In systemic thinking for improving quality of life.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является полным отказом от работы.
+not_this_en: Not a complete abandonment of work.
+definition_ru: Процесс, в ходе которого достигается равновесие между профессиональными
+  и личными обязательствами через системный подход.
+definition_en: A process through which equilibrium is achieved between professional
+  and personal obligations via a systemic approach.
+summary_ru: ''
+summary_en: ''
+example_ru: Развитие системного мышления позволяет быстрее решать рабочие проблемы,
+  освобождая время для семьи.
+example_en: Developing systemic thinking allows for quicker resolution of work problems,
+  freeing time for family.
+promptHint_ru: Используйте для планирования ежедневных задач.
+promptHint_en: Use for planning daily tasks.
+opposite_ru: Перегрузка работой
+opposite_en: Work overload
+metaphor_ru: Весы с чашами работы и жизни.
+metaphor_en: Scales with work and life balances.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: PART_OF
+  target_concept: системное мировоззрение
+examples:
+  positive_ru:
+  - Ежедневное планирование для баланса.
+  positive_en:
+  - Daily planning for balance.
+  negative_ru:
+  - Работа без отдыха.
+  negative_en:
+  - Work without rest.
+discipline:
+  name_ru: Личное развитие
+  name_en: Personal Development
+  level: L2
+Название: баланс между работой и личной жизнью
+Определение: Процесс, в ходе которого достигается равновесие между профессиональными
+  и личными обязательствами через системный подход.
+Синонимы: *id001
+Связи:
+- мышление
+- системное мировоззрение
+- системное мышление
+Главы:
+- C6

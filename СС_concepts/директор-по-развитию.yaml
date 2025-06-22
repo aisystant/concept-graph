@@ -1,0 +1,68 @@
+iri: https://system-school.ru/L7/concept/директор-по-развитию
+name_ru: директор по развитию
+name_en: director of development
+purpose_ru: Руководитель, создающий новые структуры.
+purpose_en: Leader who creates new structures.
+conceptType: role
+usageContext_ru: В менеджменте.
+usageContext_en: In management.
+synonyms_ru: &id001
+- развивающий директор
+synonyms_en:
+- development director
+not_this_ru: Не является операционным.
+not_this_en: It is not operational.
+definition_ru: Роль (genus), фокусирующаяся на инновационных изменениях в организации
+  (differentia).
+definition_en: A role (genus) focused on innovative changes in an organization (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Директор по развитию в компании.
+example_en: Director of development in a company.
+promptHint_ru: Применяйте для инноваций.
+promptHint_en: Apply for innovations.
+opposite_ru: Операционный директор.
+opposite_en: Operational director.
+metaphor_ru: Как инновационный архитектор.
+metaphor_en: As an innovative architect.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: RELATES_TO
+  target_concept: топ-менеджер
+- relation: HAS_EXAMPLE
+  target_concept: роль
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: менеджмент
+examples:
+  positive_ru:
+  - Эффективный директор по развитию.
+  positive_en:
+  - Effective director of development.
+  negative_ru:
+  - Статичный менеджер.
+  negative_en:
+  - Static manager.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: директор по развитию
+Определение: Роль (genus), фокусирующаяся на инновационных изменениях в организации
+  (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- менеджмент
+- роль
+- системный менеджмент
+- топ-менеджер
+Главы:
+- C7

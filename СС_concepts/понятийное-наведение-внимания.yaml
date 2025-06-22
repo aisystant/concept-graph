@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/понятийное-наведение-внимания
+name_ru: понятийное наведение внимания
+name_en: conceptual attention direction
+purpose_ru: Фокусирует внимание на аспектах через понятия.
+purpose_en: Focuses attention on aspects through concepts.
+conceptType: process
+usageContext_ru: В системном мышлении для анализа.
+usageContext_en: In systemic thinking for analysis.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является случайным фокусом.
+not_this_en: Not random focus.
+definition_ru: Процесс, в ходе которого понятия направляют внимание на конкретные
+  объекты, отличающийся целенаправленностью.
+definition_en: A process through which concepts direct attention to specific objects,
+  distinguished by purposefulness.
+summary_ru: ''
+summary_en: ''
+example_ru: Понятийное наведение на воплощение системы.
+example_en: Conceptual attention to system embodiment.
+promptHint_ru: Применяйте для точного анализа.
+promptHint_en: Apply for precise analysis.
+opposite_ru: Рассеянное внимание
+opposite_en: Distracted attention
+metaphor_ru: Линза понятий.
+metaphor_en: Lens of concepts.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: понятие
+- relation: PART_OF
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Направление внимания на систему.
+  positive_en:
+  - Directing attention to the system.
+  negative_ru:
+  - Беспорядочное наблюдение.
+  negative_en:
+  - Disordered observation.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: понятийное наведение внимания
+Определение: Процесс, в ходе которого понятия направляют внимание на конкретные объекты,
+  отличающийся целенаправленностью.
+Синонимы: *id001
+Связи:
+- мышление
+- понятие
+- системное мышление
+Главы:
+- C6

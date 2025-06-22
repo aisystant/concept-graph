@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/осознанная-жизнь
+name_ru: осознанная жизнь
+name_en: conscious life
+purpose_ru: Повышает качество существования.
+purpose_en: Increases quality of existence.
+conceptType: process
+usageContext_ru: В повседневности.
+usageContext_en: In everyday life.
+synonyms_ru: &id001
+- жизнь в настоящем
+synonyms_en:
+- life in the present
+not_this_ru: Не является автоматическим.
+not_this_en: Not automatic.
+definition_ru: Процесс управления вниманием, отличающийся от других процессов фокусом
+  на важном.
+definition_en: A process of attention management, distinguished from other processes
+  by focus on the important.
+summary_ru: ''
+summary_en: ''
+example_ru: Осознанная жизнь включает удержание внимания на понятиях.
+example_en: Conscious life includes holding attention on concepts.
+promptHint_ru: Практикуйте ежедневно.
+promptHint_en: Practice daily.
+opposite_ru: неосознанная жизнь
+opposite_en: unconscious life
+metaphor_ru: Ясный свет.
+metaphor_en: Clear light.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: удержание внимания
+- relation: RELATES_TO
+  target_concept: мировоззрение
+- relation: RELATES_TO
+  target_concept: счастье
+examples:
+  positive_ru:
+  - Осознанная жизнь приводит к радости.
+  positive_en:
+  - Conscious life leads to joy.
+  negative_ru:
+  - Неосознанная вызывает страдания.
+  negative_en:
+  - Unconscious causes suffering.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: осознанная жизнь
+Определение: Процесс управления вниманием, отличающийся от других процессов фокусом
+  на важном.
+Синонимы: *id001
+Связи:
+- мировоззрение
+- счастье
+- удержание внимания
+Главы:
+- C9

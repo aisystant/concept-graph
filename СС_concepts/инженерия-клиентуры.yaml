@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/инженерия-клиентуры
+name_ru: инженерия клиентуры
+name_en: engineering of clientele
+purpose_ru: Разработка систем для привлечения клиентов.
+purpose_en: Development of systems for attracting clients.
+conceptType: process
+usageContext_ru: В предпринимательстве.
+usageContext_en: In entrepreneurship.
+synonyms_ru: &id001
+- разработка аудитории
+synonyms_en:
+- audience development
+not_this_ru: Не является случайным маркетингом.
+not_this_en: It is not random marketing.
+definition_ru: Процесс (genus), фокусирующийся на формировании сообщества клиентов
+  через инженерные методы (differentia).
+definition_en: A process (genus) focused on forming a client community through engineering
+  methods (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Инженерия клиентуры для нового продукта.
+example_en: Engineering of clientele for a new product.
+promptHint_ru: Применяйте для маркетинга.
+promptHint_en: Apply for marketing.
+opposite_ru: Игнорирование клиентов.
+opposite_en: Ignoring clients.
+metaphor_ru: Как сбор аудитории.
+metaphor_en: As audience gathering.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: предпринимательство
+- relation: RELATES_TO
+  target_concept: продвиженец
+- relation: HAS_EXAMPLE
+  target_concept: система
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: метод
+examples:
+  positive_ru:
+  - Эффективная инженерия клиентуры.
+  positive_en:
+  - Effective engineering of clientele.
+  negative_ru:
+  - Безсистемный подход.
+  negative_en:
+  - Unsystematic approach.
+discipline:
+  name_ru: Предпринимательство
+  name_en: Entrepreneurship
+  level: L3
+Название: инженерия клиентуры
+Определение: Процесс (genus), фокусирующийся на формировании сообщества клиентов через
+  инженерные методы (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- метод
+- предпринимательство
+- продвиженец
+- система
+Главы:
+- C7

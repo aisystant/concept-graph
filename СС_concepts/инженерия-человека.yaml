@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/инженерия-человека
+name_ru: Инженерия человека
+name_en: Human engineering
+purpose_ru: Развивать личность как систему.
+purpose_en: To develop personality as a system.
+conceptType: process
+usageContext_ru: В саморазвитии и системном подходе.
+usageContext_en: In self-development and systemic approach.
+synonyms_ru: &id001
+- Инженерия личности
+synonyms_en:
+- Personality engineering
+not_this_ru: Не является биологической модификацией.
+not_this_en: Not biological modification.
+definition_ru: Процесс, в ходе которого улучшаются характеристики человека, отличаясь
+  от традиционного обучения тем, что использует системные принципы.
+definition_en: Process through which human characteristics are improved, differing
+  from traditional learning by using systemic principles.
+summary_ru: ''
+summary_en: ''
+example_ru: Инженерия человека включает развитие агентности.
+example_en: Human engineering includes developing agency.
+promptHint_ru: Применяйте для личностного роста.
+promptHint_en: Apply for personal growth.
+opposite_ru: Случайное развитие
+opposite_en: Random development
+metaphor_ru: Проектирование себя
+metaphor_en: Designing oneself
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: степень мастерства
+- relation: HAS_EXAMPLE
+  target_concept: ресурсность
+examples:
+  positive_ru:
+  - Инженерия человека ведет к успеху.
+  positive_en:
+  - Human engineering leads to success.
+  negative_ru:
+  - Инженерия не игнорирует баланс.
+  negative_en:
+  - Engineering does not ignore balance.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic thinking
+  level: L3
+Название: Инженерия человека
+Определение: Процесс, в ходе которого улучшаются характеристики человека, отличаясь
+  от традиционного обучения тем, что использует системные принципы.
+Синонимы: *id001
+Связи:
+- ресурсность
+- степень мастерства
+- экзокортекс
+Главы:
+- C4

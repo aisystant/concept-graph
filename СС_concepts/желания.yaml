@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L8/concept/желания
+name_ru: Желания
+name_en: Desires
+purpose_ru: Мотивируют действия агента для устранения неудовлетворенностей.
+purpose_en: Motivate an agent's actions to eliminate dissatisfactions.
+conceptType: Property
+usageContext_ru: В психологии для анализа мотиваций.
+usageContext_en: In psychology for analyzing motivations.
+synonyms_ru: &id001
+- потребности
+- Потребности
+synonyms_en:
+- needs
+- Needs
+not_this_ru: Не являются случайными.
+not_this_en: They are not random.
+definition_ru: Свойство агента, заключающееся в внутренних стремлениях, влияющих на
+  выбор действий, отличающееся от внешних принуждений.
+definition_en: A property of an agent, consisting of internal drives influencing action
+  choices, distinguished from external compulsions.
+summary_ru: ''
+summary_en: ''
+example_ru: Желания приводят к действиям по устранению неудовлетворенностей.
+example_en: Desires lead to actions eliminating dissatisfactions.
+promptHint_ru: Используйте для понимания мотиваций.
+promptHint_en: Use for understanding motivations.
+opposite_ru: Безразличие
+opposite_en: Indifference
+metaphor_ru: Как двигатель мотивации.
+metaphor_en: Like a motivation engine.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: dissatisfaction
+- relation: RELATES_TO
+  target_concept: agency
+- relation: RELATES_TO
+  target_concept: social-environment
+- relation: IS_A
+  target_concept: неудовлетворенности
+- relation: PART_OF
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: намерения
+examples:
+  positive_ru:
+  - Желание учиться для развития.
+  positive_en:
+  - Desire to learn for development.
+  negative_ru:
+  - Отсутствие желаний, приводящее к застою.
+  negative_en:
+  - Lack of desires leading to stagnation.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: Желания
+Определение: Свойство агента, заключающееся в внутренних стремлениях, влияющих на
+  выбор действий, отличающееся от внешних принуждений.
+Синонимы: *id001
+Связи:
+- agency
+- dissatisfaction
+- social-environment
+- агентность
+- намерения
+- неудовлетворенности
+Главы:
+- C1
+- C8

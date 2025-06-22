@@ -1,0 +1,84 @@
+iri: https://system-school.ru/L5/concept/собранность
+name_ru: собранность
+name_en: collectedness
+purpose_ru: Поддерживает фокус внимания.
+purpose_en: Supports focus of attention.
+conceptType: Объект
+usageContext_ru: В ролевом мастерстве.
+usageContext_en: In role mastery.
+synonyms_ru: &id001
+- Мастерство собранности
+- Фокус
+- Сосредоточенность
+synonyms_en:
+- Focus mastery
+- Concentration
+- Focus
+not_this_ru: Не является рассеянностью.
+not_this_en: Not distraction.
+definition_ru: Объект, представляющий способность к концентрации, отличающийся управлением
+  эмоциями.
+definition_en: An object representing the ability to concentrate, distinguished by
+  emotion management.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Собранность: фокус на задаче.'
+example_en: 'Collectedness: focus on task.'
+promptHint_ru: Развивайте для продуктивности.
+promptHint_en: Develop for productivity.
+opposite_ru: Рассеянность
+opposite_en: Distraction
+metaphor_ru: Сосредоточенный луч.
+metaphor_en: Focused beam.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: IS_A
+  target_concept: мастерство
+- relation: PART_OF
+  target_concept: трансдисциплина
+- relation: PART_OF
+  target_concept: практики саморазвития
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональная стабильность
+- relation: RELATES_TO
+  target_concept: самоконтроль
+- relation: RELATES_TO
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: внимание в моменте
+examples:
+  positive_ru:
+  - Высокая собранность в работе.
+  positive_en:
+  - High collectedness at work.
+  negative_ru:
+  - Рассеянность в важных моментах.
+  negative_en:
+  - Distraction in important moments.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: собранность
+Определение: Объект, представляющий способность к концентрации, отличающийся управлением
+  эмоциями.
+Синонимы: *id001
+Связи:
+- внимание
+- внимание в моменте
+- мастерство
+- практики саморазвития
+- ролевое мастерство
+- самоконтроль
+- трансдисциплина
+- эмоциональная стабильность
+Главы:
+- C3
+- C4
+- C5

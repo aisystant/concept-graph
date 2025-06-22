@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/временные-масштабы-внимания
+name_ru: Временные масштабы внимания
+name_en: Attention Time Scales
+purpose_ru: Управляет вниманием на разных временных горизонтах.
+purpose_en: Manages attention across different time horizons.
+conceptType: System
+usageContext_ru: В планировании и управлении.
+usageContext_en: In planning and management.
+synonyms_ru: &id001
+- Временные горизонты внимания
+synonyms_en:
+- Attention Horizons
+not_this_ru: Не статичное, а динамичное.
+not_this_en: Not static, but dynamic.
+definition_ru: Система, заключающаяся в управлении вниманием от секунд до лет для
+  достижения баланса.
+definition_en: A system, characterized by managing attention from seconds to years
+  for balance achievement.
+summary_ru: ''
+summary_en: ''
+example_ru: Управление вниманием на краткосрочных и долгосрочных задачах.
+example_en: Managing attention on short-term and long-term tasks.
+promptHint_ru: Адаптируйте внимание к временным масштабам.
+promptHint_en: Adapt attention to time scales.
+opposite_ru: Несогласованность масштабов
+opposite_en: Scale Inconsistency
+metaphor_ru: Как часы, отсчитывающие разные интервалы.
+metaphor_en: Like clocks ticking different intervals.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: время
+examples:
+  positive_ru:
+  - Временные масштабы внимания улучшают планирование.
+  positive_en:
+  - Attention time scales improve planning.
+  negative_ru:
+  - Игнорирование масштабов приводит к ошибкам.
+  negative_en:
+  - Ignoring scales leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Временные масштабы внимания
+Определение: Система, заключающаяся в управлении вниманием от секунд до лет для достижения
+  баланса.
+Синонимы: *id001
+Связи:
+- внимание
+- время
+- управление вниманием
+Главы:
+- C3

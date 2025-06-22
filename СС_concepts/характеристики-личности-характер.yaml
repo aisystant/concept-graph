@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L8/concept/характеристики-личности-характер
+name_ru: Характеристики личности (характер)
+name_en: Personality Characteristics
+purpose_ru: Описывают черты личности.
+purpose_en: Describe traits of personality.
+conceptType: Property
+usageContext_ru: В психологии для анализа.
+usageContext_en: In psychology for analysis.
+synonyms_ru: &id001
+- Черты характера
+synonyms_en:
+- Character Traits
+not_this_ru: Не являются временными.
+not_this_en: They are not temporary.
+definition_ru: Свойство, включающее устойчивые черты, отличающееся от изменчивых состояний.
+definition_en: A property including stable traits, distinguished from changeable states.
+summary_ru: ''
+summary_en: ''
+example_ru: Характеристики личности влияют на поведение.
+example_en: Personality characteristics influence behavior.
+promptHint_ru: Используйте для профилей.
+promptHint_en: Use for profiles.
+opposite_ru: Поверхностные черты
+opposite_en: Superficial traits
+metaphor_ru: Как основа характера.
+metaphor_en: Like the foundation of character.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: личность
+- relation: PART_OF
+  target_concept: модель личности
+- relation: RELATES_TO
+  target_concept: эмоциональная часть личности
+examples:
+  positive_ru:
+  - Сильные характеристики для лидерства.
+  positive_en:
+  - Strong characteristics for leadership.
+  negative_ru:
+  - Слабые характеристики, затрудняющие успех.
+  negative_en:
+  - Weak characteristics hindering success.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Характеристики личности (характер)
+Определение: Свойство, включающее устойчивые черты, отличающееся от изменчивых состояний.
+Синонимы: *id001
+Связи:
+- личность
+- модель личности
+- эмоциональная часть личности
+Главы:
+- C8

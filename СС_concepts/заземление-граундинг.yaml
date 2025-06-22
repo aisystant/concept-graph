@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L3/concept/заземление-граундинг
+name_ru: Заземление (граундинг)
+name_en: Grounding
+purpose_ru: Связывает понятия с реальностью.
+purpose_en: Links concepts to reality.
+conceptType: Process
+usageContext_ru: В обучении.
+usageContext_en: In learning.
+synonyms_ru: &id001
+- Приземление
+synonyms_en:
+- Anchoring
+not_this_ru: Не абстракция.
+not_this_en: Not abstraction.
+definition_ru: Процесс, заключающийся в связи абстрактных понятий с конкретными объектами.
+definition_en: A process, characterized by connecting abstract concepts to concrete
+  objects.
+summary_ru: ''
+summary_en: ''
+example_ru: Заземление понятий в повседневной жизни.
+example_en: Grounding concepts in daily life.
+promptHint_ru: Заземляйте понятия для практики.
+promptHint_en: Ground concepts for practice.
+opposite_ru: Абстракция
+opposite_en: Abstraction
+metaphor_ru: Как корни дерева в земле.
+metaphor_en: Like tree roots in the ground.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: понятия
+- relation: PART_OF
+  target_concept: понятийное внимание
+- relation: HAS_EXAMPLE
+  target_concept: системность
+examples:
+  positive_ru:
+  - Заземление улучшает применение знаний.
+  positive_en:
+  - Grounding improves knowledge application.
+  negative_ru:
+  - Без заземления понятия остаются теоретическими.
+  negative_en:
+  - Without grounding, concepts remain theoretical.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Заземление (граундинг)
+Определение: Процесс, заключающийся в связи абстрактных понятий с конкретными объектами.
+Синонимы: *id001
+Связи:
+- понятийное внимание
+- понятия
+- системность
+Главы:
+- C3

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/баланс-между-собранностью-и-гибкостью
+name_ru: Баланс между собранностью и гибкостью
+name_en: Balance Between Collectedness and Flexibility
+purpose_ru: Обеспечивает гармонию.
+purpose_en: Ensures harmony.
+conceptType: State
+usageContext_ru: В развитии.
+usageContext_en: In development.
+synonyms_ru: &id001
+- Гармония собранности и гибкости
+synonyms_en:
+- Harmony of Collectedness and Flexibility
+not_this_ru: Не экстремум.
+not_this_en: Not extreme.
+definition_ru: Состояние, заключающееся в равновесии между фокусом и адаптацией.
+definition_en: A state, characterized by equilibrium between focus and adaptation.
+summary_ru: ''
+summary_en: ''
+example_ru: Баланс для избежания выгорания.
+example_en: Balance to avoid burnout.
+promptHint_ru: Сохраняйте баланс.
+promptHint_en: Maintain balance.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как равновесие на качелях.
+metaphor_en: Like balance on a seesaw.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: собранность
+- relation: PART_OF
+  target_concept: гиперфокусировка
+- relation: HAS_EXAMPLE
+  target_concept: креативность
+examples:
+  positive_ru:
+  - Баланс повышает устойчивость.
+  positive_en:
+  - Balance increases resilience.
+  negative_ru:
+  - Несбалансированность приводит к проблемам.
+  negative_en:
+  - Imbalance leads to problems.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Баланс между собранностью и гибкостью
+Определение: Состояние, заключающееся в равновесии между фокусом и адаптацией.
+Синонимы: *id001
+Связи:
+- гиперфокусировка
+- креативность
+- собранность
+Главы:
+- C3

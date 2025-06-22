@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/второй-мозг
+name_ru: второй мозг
+name_en: second-brain
+purpose_ru: Усиливает когнитивные функции через внешние инструменты.
+purpose_en: Enhances cognitive functions through external tools.
+conceptType: system
+usageContext_ru: В техноэволюции для хранения и обработки информации.
+usageContext_en: In techno-evolution for storing and processing information.
+synonyms_ru: &id001
+- экзокортекс
+synonyms_en:
+- exocortex
+not_this_ru: Не является биологическим, а технологическим расширением.
+not_this_en: Not biological, but a technological extension.
+definition_ru: Система внешних инструментов, заключающаяся в расширении мозговых функций,
+  отличающаяся от биологического мозга использованием технологий для мышления.
+definition_en: A system of external tools, consisting of brain function extension,
+  differentiated from the biological brain by using technology for thinking.
+summary_ru: ''
+summary_en: ''
+example_ru: Второй мозг включает компьютерные программы для фиксации мыслей.
+example_en: Second brain includes computer programs for capturing thoughts.
+promptHint_ru: Используйте для организации знаний.
+promptHint_en: Use for organizing knowledge.
+opposite_ru: биологический мозг
+opposite_en: biological brain
+metaphor_ru: Внешний жесткий диск для разума.
+metaphor_en: An external hard drive for the mind.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: exocortex
+- relation: RELATES_TO
+  target_concept: techno-evolution
+- relation: RELATES_TO
+  target_concept: thinking
+examples:
+  positive_ru:
+  - Второй мозг улучшает память и обучение.
+  positive_en:
+  - Second brain improves memory and learning.
+  negative_ru:
+  - Без второго мозга знания легко забываются.
+  negative_en:
+  - Without a second brain, knowledge is easily forgotten.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: второй мозг
+Определение: Система внешних инструментов, заключающаяся в расширении мозговых функций,
+  отличающаяся от биологического мозга использованием технологий для мышления.
+Синонимы: *id001
+Связи:
+- exocortex
+- techno-evolution
+- thinking
+Главы:
+- C1

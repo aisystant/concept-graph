@@ -1,0 +1,87 @@
+iri: https://system-school.ru/L8/concept/мозг
+name_ru: Мозг
+name_en: Brain
+purpose_ru: Обеспечивает мыслительные функции личности.
+purpose_en: Provides thinking functions of personality.
+conceptType: Object
+usageContext_ru: В биологии и психологии для анализа мышления.
+usageContext_en: In biology and psychology for analyzing thinking.
+synonyms_ru: &id001
+- нейросеть
+- интеллектуальный центр
+- Головной мозг
+synonyms_en:
+- neural network
+- intellectual center
+- Cerebral Cortex
+not_this_ru: Не является экзокортексом.
+not_this_en: It is not exocortex.
+definition_ru: Объект, являющийся биологической частью тела, отвечающей за интеллект,
+  отличающийся от экзокортекса.
+definition_en: An object that is the biological part of the body responsible for intelligence,
+  distinguished from exocortex.
+summary_ru: ''
+summary_en: ''
+example_ru: Мозг обрабатывает информацию для принятия решений.
+example_en: The brain processes information for decision-making.
+promptHint_ru: Используйте для изучения когниции.
+promptHint_en: Use for studying cognition.
+opposite_ru: Безмозглость
+opposite_en: Brainlessness
+metaphor_ru: Как центральный процессор.
+metaphor_en: Like a central processor.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: exocortex
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: PART_OF
+  target_concept: биологический-интеллект
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: интеллект-стек
+- relation: IS_A
+  target_concept: организм
+- relation: PART_OF
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: вычислительная мощность
+examples:
+  positive_ru:
+  - Мозг как инструмент мышления.
+  positive_en:
+  - Brain as a thinking tool.
+  negative_ru:
+  - Поврежденный мозг, затрудняющий функции.
+  negative_en:
+  - Damaged brain hindering functions.
+discipline:
+  name_ru: Биология
+  name_en: Biology
+  level: L2
+Название: Мозг
+Определение: Объект, являющийся биологической частью тела, отвечающей за интеллект,
+  отличающийся от экзокортекса.
+Синонимы: *id001
+Связи:
+- exocortex
+- intellect
+- thinking
+- биологический-интеллект
+- вычислительная мощность
+- интеллект-стек
+- личность
+- мышление
+- организм
+Главы:
+- C1
+- C2
+- C8

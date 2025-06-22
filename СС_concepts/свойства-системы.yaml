@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/свойства-системы
+name_ru: свойства системы
+name_en: system properties
+purpose_ru: Описывают характеристики системы.
+purpose_en: Describe characteristics of a system.
+conceptType: property set
+usageContext_ru: В системном подходе для анализа.
+usageContext_en: In systemic approach for analysis.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не являются произвольными атрибутами.
+not_this_en: Not arbitrary attributes.
+definition_ru: Набор свойств, таких как целостность и эмерджентность, отличающийся
+  от общих характеристик.
+definition_en: A set of properties, such as integrity and emergence, distinguished
+  from general characteristics.
+summary_ru: ''
+summary_en: ''
+example_ru: Свойства системы, как целостность автомобиля.
+example_en: System properties, like the integrity of a car.
+promptHint_ru: Изучайте для понимания систем.
+promptHint_en: Study for understanding systems.
+opposite_ru: Случайные свойства
+opposite_en: Random properties
+metaphor_ru: Ключевые черты.
+metaphor_en: Key features.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: целостность
+- relation: PART_OF
+  target_concept: эмерджентность
+examples:
+  positive_ru:
+  - Классические свойства системы.
+  positive_en:
+  - Classical system properties.
+  negative_ru:
+  - Нерелевантные атрибуты.
+  negative_en:
+  - Irrelevant attributes.
+discipline:
+  name_ru: Системология
+  name_en: Systemology
+  level: L3
+Название: свойства системы
+Определение: Набор свойств, таких как целостность и эмерджентность, отличающийся от
+  общих характеристик.
+Синонимы: *id001
+Связи:
+- система
+- целостность
+- эмерджентность
+Главы:
+- C6

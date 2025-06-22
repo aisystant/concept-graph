@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/поведение-потребителя
+name_ru: поведение потребителя
+name_en: consumer-behavior
+purpose_ru: Ориентировано на потребление.
+purpose_en: Oriented towards consumption.
+conceptType: behavior
+usageContext_ru: В повседневной жизни.
+usageContext_en: In everyday life.
+synonyms_ru: &id001
+- пассивное поведение
+synonyms_en:
+- passive behavior
+not_this_ru: Не является творческим.
+not_this_en: Not creative.
+definition_ru: Поведение, заключающееся в использовании готовых решений, отличающееся
+  от созидательного через избегание сложности.
+definition_en: Behavior consisting of using ready-made solutions, differentiated from
+  creative by avoiding complexity.
+summary_ru: ''
+summary_en: ''
+example_ru: Поведение потребителя включает покупку товаров.
+example_en: Consumer behavior includes buying goods.
+promptHint_ru: Избегайте для роста.
+promptHint_en: Avoid for growth.
+opposite_ru: поведение создателя
+opposite_en: creator-behavior
+metaphor_ru: Пассажир потока.
+metaphor_en: Passenger of the stream.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: OPPOSITE_OF
+  target_concept: creator-behavior
+- relation: RELATES_TO
+  target_concept: social-environment
+- relation: RELATES_TO
+  target_concept: attention
+examples:
+  positive_ru:
+  - Потребительское поведение удобно.
+  positive_en:
+  - Consumer behavior is convenient.
+  negative_ru:
+  - Оно ограничивает развитие.
+  negative_en:
+  - It limits development.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L2
+Название: поведение потребителя
+Определение: Поведение, заключающееся в использовании готовых решений, отличающееся
+  от созидательного через избегание сложности.
+Синонимы: *id001
+Связи:
+- attention
+- creator-behavior
+- social-environment
+Главы:
+- C1

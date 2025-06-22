@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/непрерывное-развитие
+name_ru: непрерывное развитие
+name_en: continuous development
+purpose_ru: Обеспечивает адаптацию к изменениям.
+purpose_en: Ensures adaptation to changes.
+conceptType: process
+usageContext_ru: В обучении и системах.
+usageContext_en: In learning and systems.
+synonyms_ru: &id001
+- постоянное улучшение
+synonyms_en:
+- constant improvement
+not_this_ru: Не является прерывистым.
+not_this_en: Not intermittent.
+definition_ru: Процесс постоянных изменений, отличающийся от других процессов своей
+  устойчивостью.
+definition_en: A process of constant changes, distinguished from other processes by
+  its sustainability.
+summary_ru: ''
+summary_en: ''
+example_ru: Непрерывное развитие включает ежедневные практики.
+example_en: Continuous development includes daily practices.
+promptHint_ru: Интегрируйте в рутину.
+promptHint_en: Integrate into routine.
+opposite_ru: прерывистое развитие
+opposite_en: intermittent development
+metaphor_ru: Неотступный поток.
+metaphor_en: Unceasing stream.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: итерация
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Непрерывное развитие обеспечивает успех.
+  positive_en:
+  - Continuous development ensures success.
+  negative_ru:
+  - Его отсутствие приводит к отставанию.
+  negative_en:
+  - Its absence leads to lagging.
+discipline:
+  name_ru: Образование
+  name_en: Education
+  level: L2
+Название: непрерывное развитие
+Определение: Процесс постоянных изменений, отличающийся от других процессов своей
+  устойчивостью.
+Синонимы: *id001
+Связи:
+- бесконечное развитие
+- итерация
+- саморазвитие
+Главы:
+- C9

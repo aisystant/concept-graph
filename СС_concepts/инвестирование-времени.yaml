@@ -1,0 +1,84 @@
+iri: https://system-school.ru/L5/concept/инвестирование-времени
+name_ru: инвестирование времени
+name_en: time investment
+purpose_ru: Направляет время на развитие мастерства.
+purpose_en: Directs time toward mastery development.
+conceptType: Процесс
+usageContext_ru: В саморазвитии и обучении.
+usageContext_en: In self-development and learning.
+synonyms_ru: &id001
+- вложение времени
+- Вложение времени
+synonyms_en:
+- time allocation
+- Time Allocation
+not_this_ru: Не является просто тратой времени.
+not_this_en: Not just wasting time.
+definition_ru: Процесс, в ходе которого время используется для повышения мастерства,
+  отличающийся систематичностью.
+definition_en: A process in which time is used to increase mastery, distinguished
+  by systematicity.
+summary_ru: ''
+summary_en: ''
+example_ru: Ежедневное инвестирование времени в обучение.
+example_en: Daily time investment in learning.
+promptHint_ru: Планируйте для долгосрочного роста.
+promptHint_en: Plan for long-term growth.
+opposite_ru: Бесцельная трата времени
+opposite_en: Pointless time wasting
+metaphor_ru: Посев семян для урожая.
+metaphor_en: Sowing seeds for harvest.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: осознанное-управление-временем
+- relation: HAS_EXAMPLE
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: учет времени
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: стратегирование и планирование
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: систематичность
+- relation: RELATES_TO
+  target_concept: изменения
+examples:
+  positive_ru:
+  - Систематическое инвестирование в навыки.
+  positive_en:
+  - Systematic time investment in skills.
+  negative_ru:
+  - Пассивное проведение времени.
+  negative_en:
+  - Passive time spending.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: инвестирование времени
+Определение: Процесс, в ходе которого время используется для повышения мастерства,
+  отличающийся систематичностью.
+Синонимы: *id001
+Связи:
+- время
+- изменения
+- мастерство
+- осознанное-управление-временем
+- систематичность
+- стратегирование и планирование
+- управление вниманием
+- учет времени
+Главы:
+- C2
+- C3
+- C5

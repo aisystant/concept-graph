@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L5/concept/стадии-жизнедеятельности-планирование-работ
+name_ru: стадии жизнедеятельности – планирование работ
+name_en: stages of life activity – work planning
+purpose_ru: Организует работы.
+purpose_en: Organizes works.
+conceptType: Процесс
+usageContext_ru: В общих стадиях.
+usageContext_en: In general stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является реализацией.
+not_this_en: Not implementation.
+definition_ru: Процесс, входящий в стадии жизнедеятельности, отличающийся разбиением
+  на этапы.
+definition_en: A process within life stages, distinguished by breaking into stages.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Стадия: создание чек-листа.'
+example_en: 'Stage: creating a checklist.'
+promptHint_ru: Планируйте тщательно.
+promptHint_en: Plan thoroughly.
+opposite_ru: Спонтанное действие
+opposite_en: Spontaneous action
+metaphor_ru: Подготовка маршрута.
+metaphor_en: Route preparation.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: личное стратегирование
+- relation: RELATES_TO
+  target_concept: реализация
+examples:
+  positive_ru:
+  - Точное планирование.
+  positive_en:
+  - Accurate planning.
+  negative_ru:
+  - Неподготовленные работы.
+  negative_en:
+  - Unprepared works.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: стадии жизнедеятельности – планирование работ
+Определение: Процесс, входящий в стадии жизнедеятельности, отличающийся разбиением
+  на этапы.
+Синонимы: *id001
+Связи:
+- личное стратегирование
+- реализация
+- стадии жизнедеятельности
+Главы:
+- C5

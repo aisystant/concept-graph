@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/интеллектуал
+name_ru: интеллектуал
+name_en: intellectual
+purpose_ru: Работает с проблемами и генерирует идеи.
+purpose_en: Works with problems and generates ideas.
+conceptType: role
+usageContext_ru: В саморазвитии и инновациях.
+usageContext_en: In self-development and innovations.
+synonyms_ru: &id001
+- мыслящий
+synonyms_en:
+- thinking person
+not_this_ru: Не является только теоретиком.
+not_this_en: Not just a theorist.
+definition_ru: Роль человека, заключающаяся в использовании интеллекта для решения
+  проблем, отличающаяся от профессионала через фокус на новых вызовах.
+definition_en: A role of a person, consisting of using intellect to solve problems,
+  differentiated from a professional by focus on new challenges.
+summary_ru: ''
+summary_en: ''
+example_ru: Интеллектуал разрабатывает гипотезы для неопределенных ситуаций.
+example_en: Intellectual develops hypotheses for uncertain situations.
+promptHint_ru: Становьтесь для роста.
+promptHint_en: Become one for growth.
+opposite_ru: потребитель
+opposite_en: consumer
+metaphor_ru: Пионер мысли.
+metaphor_en: Pioneer of thought.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: creator
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: self-development
+examples:
+  positive_ru:
+  - Интеллектуал адаптируется к изменениям.
+  positive_en:
+  - Intellectual adapts to changes.
+  negative_ru:
+  - Интеллектуал без практики неэффективен.
+  negative_en:
+  - Intellectual without practice is ineffective.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: интеллектуал
+Определение: Роль человека, заключающаяся в использовании интеллекта для решения проблем,
+  отличающаяся от профессионала через фокус на новых вызовах.
+Синонимы: *id001
+Связи:
+- creator
+- intellect
+- self-development
+Главы:
+- C1

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/врожденный-и-приобретенный-интеллект
+name_ru: врожденный и приобретенный интеллект
+name_en: innate and acquired intelligence
+purpose_ru: Определяет основу и развитие способностей к обучению и решению проблем.
+purpose_en: Defines the basis and development of abilities for learning and problem-solving.
+conceptType: Property
+usageContext_ru: В контексте интеллект-стека и саморазвития.
+usageContext_en: In the context of the intelligence stack and self-development.
+synonyms_ru: &id001
+- врожденный и наработанный интеллект
+synonyms_en:
+- innate and developed intelligence
+not_this_ru: Не является исключительно одним типом.
+not_this_en: Not exclusively one type.
+definition_ru: Свойство интеллекта, где врожденный определяется генетикой, а приобретенный
+  развивается через опыт и обучение.
+definition_en: A property of intelligence where innate is determined by genetics,
+  and acquired is developed through experience and learning.
+summary_ru: ''
+summary_en: ''
+example_ru: Врожденный интеллект от родителей, приобретенный через изучение трансдисциплин.
+example_en: Innate intelligence from parents, acquired through studying transdisciplines.
+promptHint_ru: Используйте для анализа развития интеллекта.
+promptHint_en: Use for analyzing intelligence development.
+opposite_ru: Статичный интеллект
+opposite_en: Static intelligence
+metaphor_ru: Как семя, которое выращивается.
+metaphor_en: Like a seed that is grown.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: интеллект-стек
+- relation: RELATES_TO
+  target_concept: биологический-интеллект
+- relation: HAS_EXAMPLE
+  target_concept: образование
+examples:
+  positive_ru:
+  - Приобретение интеллекта через образование.
+  positive_en:
+  - Acquiring intelligence through education.
+  negative_ru:
+  - Отсутствие обучения, приводящее к неразвитому интеллекту.
+  negative_en:
+  - Lack of learning leading to undeveloped intelligence.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: врожденный и приобретенный интеллект
+Определение: Свойство интеллекта, где врожденный определяется генетикой, а приобретенный
+  развивается через опыт и обучение.
+Синонимы: *id001
+Связи:
+- биологический-интеллект
+- интеллект-стек
+- образование
+Главы:
+- C2

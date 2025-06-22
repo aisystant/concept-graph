@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L5/concept/потребление-информации
+name_ru: потребление информации
+name_en: information consumption
+purpose_ru: Собирает знания для мышления.
+purpose_en: Gathers knowledge for thinking.
+conceptType: Процесс
+usageContext_ru: В стадиях жизнедеятельности.
+usageContext_en: In life stages.
+synonyms_ru: &id001
+- поглощение данных
+synonyms_en:
+- data absorption
+not_this_ru: Не является размышлением.
+not_this_en: Not reflection.
+definition_ru: Процесс, в ходе которого человек получает информацию, отличающийся
+  систематичностью и отбором.
+definition_en: A process in which a person obtains information, distinguished by systematicity
+  and selection.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Потребление: чтение книг.'
+example_en: 'Consumption: reading books.'
+promptHint_ru: Организуйте для расширения кругозора.
+promptHint_en: Organize to expand horizon.
+opposite_ru: Игнорирование информации
+opposite_en: Ignoring information
+metaphor_ru: Наполнение кубка.
+metaphor_en: Filling a cup.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: attention
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: social-environment
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: размышления
+- relation: RELATES_TO
+  target_concept: кругозор
+examples:
+  positive_ru:
+  - Систематическое потребление качественной информации.
+  positive_en:
+  - Systematic consumption of quality information.
+  negative_ru:
+  - Пассивный просмотр соцсетей.
+  negative_en:
+  - Passive social media browsing.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: потребление информации
+Определение: Процесс, в ходе которого человек получает информацию, отличающийся систематичностью
+  и отбором.
+Синонимы: *id001
+Связи:
+- attention
+- social-environment
+- thinking
+- кругозор
+- размышления
+- стадии жизнедеятельности
+Главы:
+- C1
+- C5

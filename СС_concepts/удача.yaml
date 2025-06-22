@@ -1,0 +1,72 @@
+iri: https://system-school.ru/L8/concept/удача
+name_ru: Удача
+name_en: Luck
+purpose_ru: Влияет на успех через вероятности.
+purpose_en: Influences success through probabilities.
+conceptType: Event
+usageContext_ru: В жизни для объяснения событий.
+usageContext_en: In life for explaining events.
+synonyms_ru: &id001
+- шанс
+- Счастье
+synonyms_en:
+- chance
+- Fortune
+not_this_ru: Не является гарантированной.
+not_this_en: It is not guaranteed.
+definition_ru: Событие, зависящее от вероятностей, отличающееся от мастерства.
+definition_en: An event dependent on probabilities, distinguished from mastery.
+summary_ru: ''
+summary_en: ''
+example_ru: Удача приходит к тем с мастерством.
+example_en: Luck comes to those with mastery.
+promptHint_ru: Используйте для анализа успеха.
+promptHint_en: Use for analyzing success.
+opposite_ru: Несчастье
+opposite_en: Misfortune
+metaphor_ru: Как случайный подарок.
+metaphor_en: Like a random gift.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: agency
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: progress
+- relation: IS_A
+  target_concept: бесконечное развитие
+- relation: PART_OF
+  target_concept: жизненное мастерство
+- relation: RELATES_TO
+  target_concept: фатальная ошибка
+examples:
+  positive_ru:
+  - Удача в проекте.
+  positive_en:
+  - Luck in a project.
+  negative_ru:
+  - Плохая удача, приводящая к неудачам.
+  negative_en:
+  - Bad luck leading to failures.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L2
+Название: Удача
+Определение: Событие, зависящее от вероятностей, отличающееся от мастерства.
+Синонимы: *id001
+Связи:
+- agency
+- progress
+- self-development
+- бесконечное развитие
+- жизненное мастерство
+- фатальная ошибка
+Главы:
+- C1
+- C8

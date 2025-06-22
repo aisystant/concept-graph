@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/квалификация
+name_ru: квалификация
+name_en: qualification
+purpose_ru: Оценивает уровень мастерства в роли.
+purpose_en: Evaluates mastery level in a role.
+conceptType: Объект
+usageContext_ru: В карьерном росте.
+usageContext_en: In career growth.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является званием.
+not_this_en: Not a rank.
+definition_ru: Объект, обозначающий степень владения методами, отличающийся уровнем
+  профессионализма.
+definition_en: An object denoting the degree of method mastery, distinguished by professionalism
+  level.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Квалификация: токарь 6 разряда.'
+example_en: 'Qualification: turner grade 6.'
+promptHint_ru: Развивайте для повышения ценности.
+promptHint_en: Develop to increase value.
+opposite_ru: Низкий уровень
+opposite_en: Low level
+metaphor_ru: Уровень в игре.
+metaphor_en: Level in a game.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: карьера
+examples:
+  positive_ru:
+  - Высокая квалификация инженера.
+  positive_en:
+  - High qualification of an engineer.
+  negative_ru:
+  - Отсутствие квалификации.
+  negative_en:
+  - Lack of qualification.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: квалификация
+Определение: Объект, обозначающий степень владения методами, отличающийся уровнем
+  профессионализма.
+Синонимы: *id001
+Связи:
+- карьера
+- мастерство
+- роль
+Главы:
+- C5

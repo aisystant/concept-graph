@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/социальная-среда
+name_ru: социальная среда
+name_en: social-environment
+purpose_ru: Влияет на формирование личности.
+purpose_en: Influences personality formation.
+conceptType: system
+usageContext_ru: В обществе и культуре.
+usageContext_en: In society and culture.
+synonyms_ru: &id001
+- окружение
+synonyms_en:
+- surroundings
+not_this_ru: Не является изолированным.
+not_this_en: Not isolated.
+definition_ru: Система, заключающаяся в социальных влияниях, отличающаяся от индивидуального
+  через коллективные факторы.
+definition_en: A system consisting of social influences, differentiated from individual
+  by collective factors.
+summary_ru: ''
+summary_en: ''
+example_ru: Социальная среда формирует интересы.
+example_en: Social environment shapes interests.
+promptHint_ru: Управляйте ею.
+promptHint_en: Manage it.
+opposite_ru: изоляция
+opposite_en: isolation
+metaphor_ru: Сеть влияний.
+metaphor_en: Network of influences.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: culture
+- relation: RELATES_TO
+  target_concept: personality
+- relation: RELATES_TO
+  target_concept: attention
+examples:
+  positive_ru:
+  - Благоприятная среда развивает.
+  positive_en:
+  - Favorable environment develops.
+  negative_ru:
+  - Негативная среда подавляет.
+  negative_en:
+  - Negative environment suppresses.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: социальная среда
+Определение: Система, заключающаяся в социальных влияниях, отличающаяся от индивидуального
+  через коллективные факторы.
+Синонимы: *id001
+Связи:
+- attention
+- culture
+- personality
+Главы:
+- C1

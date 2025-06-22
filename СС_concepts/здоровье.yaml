@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/здоровье
+name_ru: здоровье
+name_en: health
+purpose_ru: Поддерживает физическое и ментальное благополучие для продуктивной жизни.
+purpose_en: Supports physical and mental well-being for productive life.
+conceptType: Property
+usageContext_ru: В контексте саморазвития и продления жизни.
+usageContext_en: In the context of self-development and longevity.
+synonyms_ru: &id001
+- благополучие
+synonyms_en:
+- well-being
+not_this_ru: Не является болезнью.
+not_this_en: Not illness.
+definition_ru: Свойство организма, характеризующееся отсутствием заболеваний и способностью
+  к восстановлению.
+definition_en: A property of the organism characterized by the absence of diseases
+  and the ability to recover.
+summary_ru: ''
+summary_en: ''
+example_ru: Регулярные упражнения для поддержания здоровья.
+example_en: Regular exercises to maintain health.
+promptHint_ru: Используйте в планировании образа жизни.
+promptHint_en: Use in lifestyle planning.
+opposite_ru: Болезнь
+opposite_en: Illness
+metaphor_ru: Как крепкий фундамент.
+metaphor_en: Like a strong foundation.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: долголетие
+- relation: PART_OF
+  target_concept: тело
+- relation: HAS_EXAMPLE
+  target_concept: сон
+examples:
+  positive_ru:
+  - Здоровый образ жизни.
+  positive_en:
+  - Healthy lifestyle.
+  negative_ru:
+  - Игнорирование здоровья.
+  negative_en:
+  - Ignoring health.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: здоровье
+Определение: Свойство организма, характеризующееся отсутствием заболеваний и способностью
+  к восстановлению.
+Синонимы: *id001
+Связи:
+- долголетие
+- сон
+- тело
+Главы:
+- C2

@@ -1,0 +1,70 @@
+iri: https://system-school.ru/L5/concept/интеллект-стек
+name_ru: интеллект-стек
+name_en: intellect stack
+purpose_ru: Предоставляет фундаментальные знания для различных деятельностей.
+purpose_en: Provides fundamental knowledge for various activities.
+conceptType: Объект
+usageContext_ru: В развитии деятельностного кругозора.
+usageContext_en: In developing activity scope.
+synonyms_ru: &id001
+- стек интеллекта
+synonyms_en:
+- intelligence framework
+not_this_ru: Не является прикладным знанием.
+not_this_en: Not applied knowledge.
+definition_ru: Объект, включающий трансдисциплины, отличающийся универсальностью для
+  разных областей.
+definition_en: An object including transdisciplines, distinguished by universality
+  for different areas.
+summary_ru: ''
+summary_en: ''
+example_ru: Интеллект-стек для быстрого освоения новой сферы.
+example_en: Intellect stack for quick mastery of a new field.
+promptHint_ru: Изучайте для ускорения обучения.
+promptHint_en: Study to accelerate learning.
+opposite_ru: Прикладные дисциплины
+opposite_en: Applied disciplines
+metaphor_ru: Фундамент здания.
+metaphor_en: Foundation of a building.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: трансдисциплина
+- relation: PART_OF
+  target_concept: образование
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: деятельностный кругозор
+- relation: RELATES_TO
+  target_concept: понятия
+examples:
+  positive_ru:
+  - Использование интеллект-стека в обучении.
+  positive_en:
+  - Using intellect stack in learning.
+  negative_ru:
+  - Зависимость от прикладных знаний без основ.
+  negative_en:
+  - Reliance on applied knowledge without basics.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: интеллект-стек
+Определение: Объект, включающий трансдисциплины, отличающийся универсальностью для
+  разных областей.
+Синонимы: *id001
+Связи:
+- деятельностный кругозор
+- мышление
+- образование
+- понятия
+- трансдисциплина
+Главы:
+- C2
+- C5

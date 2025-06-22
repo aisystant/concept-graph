@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L5/concept/системные-изменения
+name_ru: системные изменения
+name_en: systemic changes
+purpose_ru: Вносят улучшения в мир.
+purpose_en: Bring improvements to the world.
+conceptType: Процесс
+usageContext_ru: В деятельности создателя.
+usageContext_en: In creator's activity.
+synonyms_ru: &id001
+- изменения
+synonyms_en:
+- changes
+not_this_ru: Не являются локальными изменениями.
+not_this_en: Not local changes.
+definition_ru: Процесс, в ходе которого создаются новые системы, отличающийся осознанностью.
+definition_en: A process in which new systems are created, distinguished by awareness.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Системные изменения: внедрение инноваций.'
+example_en: 'Systemic changes: implementing innovations.'
+promptHint_ru: Стремитесь для воздействия.
+promptHint_en: Strive for impact.
+opposite_ru: Локальные корректировки
+opposite_en: Local adjustments
+metaphor_ru: Глобальная перестройка.
+metaphor_en: Global restructuring.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: метод
+examples:
+  positive_ru:
+  - Успешные системные изменения.
+  positive_en:
+  - Successful systemic changes.
+  negative_ru:
+  - Неэффективные изменения.
+  negative_en:
+  - Ineffective changes.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: системные изменения
+Определение: Процесс, в ходе которого создаются новые системы, отличающийся осознанностью.
+Синонимы: *id001
+Связи:
+- метод
+- система
+- создатель
+Главы:
+- C5

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/осознанное-и-неосознанное-обучение
+name_ru: осознанное и неосознанное обучение
+name_en: conscious and unconscious learning
+purpose_ru: Обеспечивает разные подходы к приобретению знаний.
+purpose_en: Provides different approaches to acquiring knowledge.
+conceptType: Process
+usageContext_ru: В контексте образования.
+usageContext_en: In the context of education.
+synonyms_ru: &id001
+- осознанное и неосознанное изучение
+synonyms_en:
+- conscious and unconscious study
+not_this_ru: Не является единым процессом.
+not_this_en: Not a single process.
+definition_ru: Процесс, где осознанное обучение требует активного участия, а неосознанное
+  — пассивного.
+definition_en: A process where conscious learning requires active participation, and
+  unconscious does not.
+summary_ru: ''
+summary_en: ''
+example_ru: Осознанное обучение трансдисциплинам vs. неосознанное через среду.
+example_en: Conscious learning of transdisciplines vs. unconscious through environment.
+promptHint_ru: Используйте для сравнения методов.
+promptHint_en: Use for comparing methods.
+opposite_ru: Полное незнание
+opposite_en: Complete ignorance
+metaphor_ru: Как два пути обучения.
+metaphor_en: Like two paths of learning.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: модели-обучения
+- relation: RELATES_TO
+  target_concept: обучение
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Осознанное обучение для роста.
+  positive_en:
+  - Conscious learning for growth.
+  negative_ru:
+  - Неосознанное обучение без прогресса.
+  negative_en:
+  - Unconscious learning without progress.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: осознанное и неосознанное обучение
+Определение: Процесс, где осознанное обучение требует активного участия, а неосознанное
+  — пассивного.
+Синонимы: *id001
+Связи:
+- модели-обучения
+- мышление
+- обучение
+Главы:
+- C2

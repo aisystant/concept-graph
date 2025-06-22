@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/сбалансированность
+name_ru: сбалансированность
+name_en: balance
+purpose_ru: Обеспечивает гармонию в жизни.
+purpose_en: Ensures harmony in life.
+conceptType: property
+usageContext_ru: В личностном развитии.
+usageContext_en: In personal development.
+synonyms_ru: &id001
+- гармония
+synonyms_en:
+- harmony
+not_this_ru: Не является дисбалансом.
+not_this_en: Not imbalance.
+definition_ru: Свойство личности, заключающееся в гармонии характеристик, отличающееся
+  от других свойств отсутствием конфликтов.
+definition_en: A property of personality consisting in harmony of characteristics,
+  distinguished from other properties by the absence of conflicts.
+summary_ru: ''
+summary_en: ''
+example_ru: Сбалансированность между агентностью и мастерством приводит к счастью.
+example_en: Balance between agency and mastery leads to happiness.
+promptHint_ru: Поддерживайте для устойчивости.
+promptHint_en: Maintain for stability.
+opposite_ru: дисбаланс
+opposite_en: imbalance
+metaphor_ru: Устойчивый мост.
+metaphor_en: Stable bridge.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: характеристики личности
+- relation: RELATES_TO
+  target_concept: счастье
+- relation: RELATES_TO
+  target_concept: ресурсы
+examples:
+  positive_ru:
+  - Сбалансированность обеспечивает успешную жизнь.
+  positive_en:
+  - Balance ensures a successful life.
+  negative_ru:
+  - Дисбаланс приводит к проблемам.
+  negative_en:
+  - Imbalance leads to problems.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: сбалансированность
+Определение: Свойство личности, заключающееся в гармонии характеристик, отличающееся
+  от других свойств отсутствием конфликтов.
+Синонимы: *id001
+Связи:
+- ресурсы
+- счастье
+- характеристики личности
+Главы:
+- C9

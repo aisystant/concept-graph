@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/интересная-жизнь
+name_ru: интересная жизнь
+name_en: interesting life
+purpose_ru: Обеспечивает разнообразие и радость.
+purpose_en: Provides diversity and joy.
+conceptType: process
+usageContext_ru: В личном развитии.
+usageContext_en: In personal development.
+synonyms_ru: &id001
+- жизнь в потоке
+synonyms_en:
+- life in flow
+not_this_ru: Не является рутинной.
+not_this_en: Not routine.
+definition_ru: Процесс проживания, включающий разнообразные ситуации, отличающийся
+  от других процессов наличием положительных впечатлений.
+definition_en: A process of living involving diverse situations, distinguished from
+  other processes by the presence of positive impressions.
+summary_ru: ''
+summary_en: ''
+example_ru: Интересная жизнь включает множество ролей и проектов.
+example_en: An interesting life includes many roles and projects.
+promptHint_ru: Стремитесь через разнообразие.
+promptHint_en: Strive through diversity.
+opposite_ru: скучная жизнь
+opposite_en: boring life
+metaphor_ru: Мозаика опытов.
+metaphor_en: Mosaic of experiences.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: роли
+- relation: RELATES_TO
+  target_concept: впечатления
+- relation: RELATES_TO
+  target_concept: счастье
+examples:
+  positive_ru:
+  - Интересная жизнь полна радости.
+  positive_en:
+  - An interesting life is full of joy.
+  negative_ru:
+  - Скучная жизнь приводит к неудовлетворенностям.
+  negative_en:
+  - A boring life leads to dissatisfactions.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: интересная жизнь
+Определение: Процесс проживания, включающий разнообразные ситуации, отличающийся от
+  других процессов наличием положительных впечатлений.
+Синонимы: *id001
+Связи:
+- впечатления
+- роли
+- счастье
+Главы:
+- C9

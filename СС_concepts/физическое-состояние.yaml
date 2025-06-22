@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/физическое-состояние
+name_ru: Физическое состояние
+name_en: Physical state
+purpose_ru: Оценивать физическое благополучие для продуктивности.
+purpose_en: To evaluate physical well-being for productivity.
+conceptType: object
+usageContext_ru: В здоровье и саморазвитии.
+usageContext_en: In health and self-development.
+synonyms_ru: &id001
+- Физическое благополучие
+synonyms_en:
+- Physical well-being
+not_this_ru: Не является эмоциональным.
+not_this_en: Not emotional.
+definition_ru: Объект, охватывающий физические аспекты, такие как энергия и комфорт,
+  отличаясь от эмоционального состояния тем, что фокусируется на теле.
+definition_en: Object encompassing physical aspects, such as energy and comfort, differing
+  from emotional states by focusing on the body.
+summary_ru: ''
+summary_en: ''
+example_ru: Физическое состояние, как усталость, требует отдыха.
+example_en: Physical state, such as fatigue, requires rest.
+promptHint_ru: Применяйте для мониторинга здоровья.
+promptHint_en: Apply for monitoring health.
+opposite_ru: Энергичность
+opposite_en: Energy
+metaphor_ru: Физическая основа
+metaphor_en: Physical foundation
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: состояния человека
+- relation: PART_OF
+  target_concept: переходы между состояниями
+- relation: HAS_EXAMPLE
+  target_concept: ресурсы
+examples:
+  positive_ru:
+  - Физическое состояние поддерживает активность.
+  positive_en:
+  - Physical state supports activity.
+  negative_ru:
+  - Физическое состояние не игнорирует усталость.
+  negative_en:
+  - Physical state does not ignore fatigue.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Физическое состояние
+Определение: Объект, охватывающий физические аспекты, такие как энергия и комфорт,
+  отличаясь от эмоционального состояния тем, что фокусируется на теле.
+Синонимы: *id001
+Связи:
+- переходы между состояниями
+- ресурсы
+- состояния человека
+Главы:
+- C4

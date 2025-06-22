@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/исправление-ошибок
+name_ru: Исправление ошибок
+name_en: Error Correction
+purpose_ru: Корректирует недочеты для улучшения результатов.
+purpose_en: Corrects flaws to improve results.
+conceptType: Process
+usageContext_ru: В деятельности и обучении.
+usageContext_en: In activities and learning.
+synonyms_ru: &id001
+- Корректировка ошибок
+synonyms_en:
+- Error Correction
+not_this_ru: Не оставление как есть.
+not_this_en: Not leaving as is.
+definition_ru: Процесс улучшения, заключающийся в устранении выявленных ошибок с использованием
+  обратной связи.
+definition_en: An improvement process, characterized by eliminating detected errors
+  using feedback.
+summary_ru: ''
+summary_en: ''
+example_ru: Исправление ошибок в отчете на основе обратной связи.
+example_en: Correcting errors in a report based on feedback.
+promptHint_ru: Используйте обратную связь для исправления ошибок.
+promptHint_en: Use feedback for error correction.
+opposite_ru: Повторение ошибок
+opposite_en: Error Repetition
+metaphor_ru: Как ремонт, восстанавливающий целостность.
+metaphor_en: Like repair restoring integrity.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: распознавание ошибок
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: интуиция
+examples:
+  positive_ru:
+  - Исправление ошибок улучшает качество.
+  positive_en:
+  - Error correction improves quality.
+  negative_ru:
+  - Неисправленные ошибки ухудшают результаты.
+  negative_en:
+  - Uncorrected errors worsen results.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Исправление ошибок
+Определение: Процесс улучшения, заключающийся в устранении выявленных ошибок с использованием
+  обратной связи.
+Синонимы: *id001
+Связи:
+- интуиция
+- распознавание ошибок
+- собранность
+Главы:
+- C3

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/sota
+name_ru: SoTA
+name_en: sota
+purpose_ru: Представляет лучшие теории.
+purpose_en: Represents the best theories.
+conceptType: standard
+usageContext_ru: В научных и практических контекстах.
+usageContext_en: In scientific and practical contexts.
+synonyms_ru: &id001
+- состояние искусства
+synonyms_en:
+- state-of-the-art
+not_this_ru: Не является устаревшим.
+not_this_en: Not outdated.
+definition_ru: Стандарт, заключающийся в наиболее продвинутых теориях, отличающийся
+  от обычных через наивысшую предсказательную силу.
+definition_en: A standard consisting of the most advanced theories, differentiated
+  from ordinary by highest predictive power.
+summary_ru: ''
+summary_en: ''
+example_ru: SoTA теории в обучении.
+example_en: SoTA theories in learning.
+promptHint_ru: Стремитесь к ним.
+promptHint_en: Strive for them.
+opposite_ru: устаревшее
+opposite_en: outdated
+metaphor_ru: Вершина знаний.
+metaphor_en: Pinnacle of knowledge.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: theory
+- relation: RELATES_TO
+  target_concept: progress
+- relation: RELATES_TO
+  target_concept: self-development
+examples:
+  positive_ru:
+  - SoTA улучшает результаты.
+  positive_en:
+  - SoTA improves results.
+  negative_ru:
+  - Устаревшее снижает эффективность.
+  negative_en:
+  - Outdated reduces effectiveness.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: SoTA
+Определение: Стандарт, заключающийся в наиболее продвинутых теориях, отличающийся
+  от обычных через наивысшую предсказательную силу.
+Синонимы: *id001
+Связи:
+- progress
+- self-development
+- theory
+Главы:
+- C1

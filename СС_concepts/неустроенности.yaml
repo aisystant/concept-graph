@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/неустроенности
+name_ru: неустроенности
+name_en: mismatches
+purpose_ru: Выявляют конфликты между системными уровнями.
+purpose_en: Identify conflicts between systemic levels.
+conceptType: property
+usageContext_ru: В системном подходе 3.0 для решения проблем.
+usageContext_en: In systemic approach 3.0 for problem-solving.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не являются гармоничными связями.
+not_this_en: Not harmonious connections.
+definition_ru: Свойство, заключающееся в несоответствиях между системами, отличающееся
+  потенциалом конфликтов.
+definition_en: A property consisting of inconsistencies between systems, distinguished
+  by conflict potential.
+summary_ru: ''
+summary_en: ''
+example_ru: Неустроенности между экосистемами и человеческими действиями.
+example_en: Mismatches between ecosystems and human actions.
+promptHint_ru: Ищите для устранения проблем.
+promptHint_en: Search for to eliminate problems.
+opposite_ru: Гармония
+opposite_en: Harmony
+metaphor_ru: Трещины в структуре.
+metaphor_en: Cracks in the structure.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: системный подход 3.0
+- relation: RELATES_TO
+  target_concept: системные уровни
+- relation: PART_OF
+  target_concept: сложные проблемы
+examples:
+  positive_ru:
+  - Конфликты в глобальных системах.
+  positive_en:
+  - Conflicts in global systems.
+  negative_ru:
+  - Сбалансированные системы.
+  negative_en:
+  - Balanced systems.
+discipline:
+  name_ru: Эволюционная теория
+  name_en: Evolutionary Theory
+  level: L3
+Название: неустроенности
+Определение: Свойство, заключающееся в несоответствиях между системами, отличающееся
+  потенциалом конфликтов.
+Синонимы: *id001
+Связи:
+- системные уровни
+- системный подход 3.0
+- сложные проблемы
+Главы:
+- C6

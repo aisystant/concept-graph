@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L9/concept/приоритетные-проекты
+name_ru: приоритетные проекты
+name_en: priority projects
+purpose_ru: Фокусируют усилия на ключевых задачах.
+purpose_en: Focus efforts on key tasks.
+conceptType: object
+usageContext_ru: В планировании жизни.
+usageContext_en: In life planning.
+synonyms_ru: &id001
+- ключевые проекты
+synonyms_en:
+- key projects
+not_this_ru: Не являются второстепенными.
+not_this_en: Not secondary.
+definition_ru: Объект, представляющий важные инициативы, отличающийся от других объектов
+  их приоритетом.
+definition_en: An object representing important initiatives, distinguished from other
+  objects by their priority.
+summary_ru: ''
+summary_en: ''
+example_ru: Приоритетные проекты включают саморазвитие.
+example_en: Priority projects include self-development.
+promptHint_ru: Определяйте для эффективности.
+promptHint_en: Determine for efficiency.
+opposite_ru: неприоритетные
+opposite_en: non-priority
+metaphor_ru: Основные ветви дерева.
+metaphor_en: Main branches of a tree.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: проект
+- relation: RELATES_TO
+  target_concept: стратегирование
+- relation: PART_OF
+  target_concept: целевая система
+- relation: RELATES_TO
+  target_concept: задачи
+- relation: RELATES_TO
+  target_concept: личные цели
+- relation: RELATES_TO
+  target_concept: траектория жизни
+examples:
+  positive_ru:
+  - Приоритетные проекты ведут к успеху.
+  positive_en:
+  - Priority projects lead to success.
+  negative_ru:
+  - Их игнорирование приводит к провалам.
+  negative_en:
+  - Ignoring them leads to failures.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L2
+Название: приоритетные проекты
+Определение: Объект, представляющий важные инициативы, отличающийся от других объектов
+  их приоритетом.
+Синонимы: *id001
+Связи:
+- задачи
+- личные цели
+- проект
+- стратегирование
+- траектория жизни
+- целевая система
+Главы:
+- C6
+- C9

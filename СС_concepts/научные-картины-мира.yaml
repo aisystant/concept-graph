@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/научные-картины-мира
+name_ru: научные картины мира
+name_en: scientific-worldview
+purpose_ru: Обеспечивает достоверное объяснение реальности.
+purpose_en: Provides reliable explanation of reality.
+conceptType: model
+usageContext_ru: В научных теориях.
+usageContext_en: In scientific theories.
+synonyms_ru: &id001
+- научная модель
+synonyms_en:
+- scientific model
+not_this_ru: Не является ненаучной.
+not_this_en: Not non-scientific.
+definition_ru: Модель, заключающаяся в проверенных теориях, отличающаяся от ненаучных
+  через эмпирическую основу.
+definition_en: A model consisting of verified theories, differentiated from non-scientific
+  by empirical basis.
+summary_ru: ''
+summary_en: ''
+example_ru: Научные картины мира используются в прогнозах.
+example_en: Scientific worldviews are used in forecasts.
+promptHint_ru: Применяйте для точности.
+promptHint_en: Apply for accuracy.
+opposite_ru: ненаучные картины мира
+opposite_en: non-scientific-worldview
+metaphor_ru: Точный компас.
+metaphor_en: Accurate compass.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: world-picture
+- relation: RELATES_TO
+  target_concept: theory
+- relation: OPPOSITE_OF
+  target_concept: non-scientific-worldview
+examples:
+  positive_ru:
+  - Научные картины мира точны.
+  positive_en:
+  - Scientific worldviews are accurate.
+  negative_ru:
+  - Ненаучные картины мира ошибочны.
+  negative_en:
+  - Non-scientific worldviews are erroneous.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: научные картины мира
+Определение: Модель, заключающаяся в проверенных теориях, отличающаяся от ненаучных
+  через эмпирическую основу.
+Синонимы: *id001
+Связи:
+- non-scientific-worldview
+- theory
+- world-picture
+Главы:
+- C1

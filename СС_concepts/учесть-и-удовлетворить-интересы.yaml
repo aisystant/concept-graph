@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L6/concept/учесть-и-удовлетворить-интересы
+name_ru: учесть и удовлетворить интересы
+name_en: account and satisfy interests
+purpose_ru: Обеспечивает успех системы.
+purpose_en: Ensures system success.
+conceptType: process
+usageContext_ru: В системном подходе для ролей.
+usageContext_en: In systemic approach for roles.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не игнорирует интересы.
+not_this_en: Does not ignore interests.
+definition_ru: Процесс учета и удовлетворения интересов ролей, отличающийся от частичного.
+definition_en: A process of accounting and satisfying role interests, distinguished
+  from partial.
+summary_ru: ''
+summary_en: ''
+example_ru: Учет интересов в проекте.
+example_en: Accounting interests in a project.
+promptHint_ru: Применяйте для баланса.
+promptHint_en: Apply for balance.
+opposite_ru: Игнорирование интересов
+opposite_en: Ignoring interests
+metaphor_ru: Баланс весов.
+metaphor_en: Balance of scales.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: заинтересованные лица
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: PART_OF
+  target_concept: системный подход 2.0
+examples:
+  positive_ru:
+  - Полное удовлетворение.
+  positive_en:
+  - Full satisfaction.
+  negative_ru:
+  - Частичное игнорирование.
+  negative_en:
+  - Partial ignoring.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: учесть и удовлетворить интересы
+Определение: Процесс учета и удовлетворения интересов ролей, отличающийся от частичного.
+Синонимы: *id001
+Связи:
+- заинтересованные лица
+- системный подход 2.0
+- успешная система
+Главы:
+- C6

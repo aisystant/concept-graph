@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L5/concept/внешние-и-внутренние-проектная-роль
+name_ru: внешние и внутренние проектная роль
+name_en: external and internal project role
+purpose_ru: Определяет роли в проекте для анализа влияния на систему.
+purpose_en: Defines roles in a project to analyze influence on the system.
+conceptType: Объект
+usageContext_ru: В системном мышлении для классификации ролей в проектах.
+usageContext_en: In systemic thinking for classifying roles in projects.
+synonyms_ru: &id001
+- проектные роли
+synonyms_en:
+- project roles
+not_this_ru: Не является личными ролями вне проекта.
+not_this_en: Not personal roles outside of projects.
+definition_ru: Объект, представляющий роли в проекте, отличающийся классификацией
+  на внутренние (исполнители в команде) и внешние (влияющие извне).
+definition_en: An object representing roles in a project, distinguished by classification
+  into internal (team performers) and external (influencers from outside).
+summary_ru: ''
+summary_en: ''
+example_ru: 'Внутренняя роль: менеджер в команде; внешняя роль: клиент.'
+example_en: 'Internal role: manager in the team; external role: client.'
+promptHint_ru: Используйте для анализа взаимодействия в проекте.
+promptHint_en: Use to analyze interactions in a project.
+opposite_ru: Личная роль
+opposite_en: Personal role
+metaphor_ru: 'Актеры в театре: внутренние — на сцене, внешние — в зрительном зале.'
+metaphor_en: 'Actors in a theater: internal on stage, external in the audience.'
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: проектная роль
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: система
+examples:
+  positive_ru:
+  - 'Внутренняя роль: инженер в команде.'
+  positive_en:
+  - 'Internal role: engineer in the team.'
+  negative_ru:
+  - Личная роль вне проекта.
+  negative_en:
+  - Personal role outside the project.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: внешние и внутренние проектная роль
+Определение: Объект, представляющий роли в проекте, отличающийся классификацией на
+  внутренние (исполнители в команде) и внешние (влияющие извне).
+Синонимы: *id001
+Связи:
+- проектная роль
+- роль
+- система
+Главы:
+- C5

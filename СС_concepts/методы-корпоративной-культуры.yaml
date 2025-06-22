@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/методы-корпоративной-культуры
+name_ru: методы корпоративной культуры
+name_en: methods of corporate culture
+purpose_ru: Методы, принятые в компании.
+purpose_en: Methods adopted in a company.
+conceptType: methods
+usageContext_ru: В корпоративной среде.
+usageContext_en: In corporate environment.
+synonyms_ru: &id001
+- практики культуры
+synonyms_en:
+- culture practices
+not_this_ru: Не являются случайными.
+not_this_en: They are not random.
+definition_ru: Методы (genus), определяющие взаимодействие и развитие в организации
+  (differentia).
+definition_en: Methods (genus) that define interaction and development in an organization
+  (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Методы коммуникации в фирме.
+example_en: Communication methods in a firm.
+promptHint_ru: Развивайте для улучшения.
+promptHint_en: Develop for improvement.
+opposite_ru: Неорганизованные методы.
+opposite_en: Unorganized methods.
+metaphor_ru: Методы как правила игры.
+metaphor_en: Methods as game rules.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: корпоративная культура
+- relation: RELATES_TO
+  target_concept: современная корпоративная культура
+- relation: HAS_EXAMPLE
+  target_concept: директор по развитию
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: метод
+examples:
+  positive_ru:
+  - Эффективные методы культуры.
+  positive_en:
+  - Effective methods of culture.
+  negative_ru:
+  - Устаревшие практики.
+  negative_en:
+  - Outdated practices.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: методы корпоративной культуры
+Определение: Методы (genus), определяющие взаимодействие и развитие в организации
+  (differentia).
+Синонимы: *id001
+Связи:
+- директор по развитию
+- инженерия
+- корпоративная культура
+- метод
+- современная корпоративная культура
+Главы:
+- C7

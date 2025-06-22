@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/техобслуживание-организма
+name_ru: техобслуживание организма
+name_en: organism maintenance
+purpose_ru: Поддерживает здоровье и долголетие.
+purpose_en: Maintains health and longevity.
+conceptType: Process
+usageContext_ru: В контексте здоровья.
+usageContext_en: In the context of health.
+synonyms_ru: &id001
+- уход за организмом
+synonyms_en:
+- body maintenance
+not_this_ru: Не является лечением.
+not_this_en: Not treatment.
+definition_ru: Процесс регулярного ухода за телом для предотвращения проблем.
+definition_en: A process of regular care for the body to prevent issues.
+summary_ru: ''
+summary_en: ''
+example_ru: Регулярные медицинские проверки.
+example_en: Regular medical check-ups.
+promptHint_ru: Используйте в здоровье.
+promptHint_en: Use in health.
+opposite_ru: Заброшенность
+opposite_en: Neglect
+metaphor_ru: Как сервис автомобиля.
+metaphor_en: Like car servicing.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: здоровье
+- relation: PART_OF
+  target_concept: тело
+- relation: HAS_EXAMPLE
+  target_concept: сон
+examples:
+  positive_ru:
+  - Регулярное техобслуживание для долголетия.
+  positive_en:
+  - Regular maintenance for longevity.
+  negative_ru:
+  - Отсутствие ухода, приводящее к проблемам.
+  negative_en:
+  - Lack of care leading to problems.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: техобслуживание организма
+Определение: Процесс регулярного ухода за телом для предотвращения проблем.
+Синонимы: *id001
+Связи:
+- здоровье
+- сон
+- тело
+Главы:
+- C2

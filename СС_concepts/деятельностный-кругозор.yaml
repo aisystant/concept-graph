@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L5/concept/деятельностный-кругозор
+name_ru: деятельностный кругозор
+name_en: activity scope
+purpose_ru: Описывает знания о видах деятельности для понимания ролей.
+purpose_en: Describes knowledge of activity types for understanding roles.
+conceptType: Объект
+usageContext_ru: В ролевом мастерстве и карьерном росте.
+usageContext_en: In role mastery and career growth.
+synonyms_ru: &id001
+- профессиональный кругозор
+synonyms_en:
+- professional horizon
+not_this_ru: Не является общим кругозором.
+not_this_en: Not general scope.
+definition_ru: Объект, представляющий знания о конкретной деятельности, отличающийся
+  перечнем ролей и методов в ней.
+definition_en: An object representing knowledge of a specific activity, distinguished
+  by a list of roles and methods in it.
+summary_ru: ''
+summary_en: ''
+example_ru: Деятельностный кругозор в здравоохранении.
+example_en: Activity scope in healthcare.
+promptHint_ru: Развивайте для адаптации к новым областям.
+promptHint_en: Develop for adaptation to new areas.
+opposite_ru: Узкая специализация
+opposite_en: Narrow specialization
+metaphor_ru: Карта территории.
+metaphor_en: Map of territory.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: кругозор
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: профессионализм
+- relation: RELATES_TO
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: вид деятельности
+- relation: RELATES_TO
+  target_concept: метод
+examples:
+  positive_ru:
+  - Широкий деятельностный кругозор в IT.
+  positive_en:
+  - Wide activity scope in IT.
+  negative_ru:
+  - Отсутствие кругозора в новой области.
+  negative_en:
+  - Lack of scope in a new area.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: деятельностный кругозор
+Определение: Объект, представляющий знания о конкретной деятельности, отличающийся
+  перечнем ролей и методов в ней.
+Синонимы: *id001
+Связи:
+- вид деятельности
+- кругозор
+- метод
+- мышление
+- профессионализм
+- ролевое мастерство
+Главы:
+- C2
+- C5

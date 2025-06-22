@@ -1,0 +1,104 @@
+iri: https://system-school.ru/L9/concept/личность
+name_ru: личность
+name_en: personality
+purpose_ru: Определяет поведение и развитие.
+purpose_en: Determines behavior and development.
+conceptType: object
+usageContext_ru: В психологии и саморазвитии.
+usageContext_en: In psychology and self-development.
+synonyms_ru: &id001
+- индивид
+- Характер
+synonyms_en:
+- individual
+- Character
+not_this_ru: Не является биологическим.
+not_this_en: Not biological.
+definition_ru: Объект, представляющий совокупность черт и опыта, отличающийся от других
+  объектов уникальностью.
+definition_en: An object representing a set of traits and experience, distinguished
+  from other objects by uniqueness.
+summary_ru: ''
+summary_en: ''
+example_ru: Личность как целевая система развивается через проекты.
+example_en: Personality as a target system develops through projects.
+promptHint_ru: Развивайте осознанно.
+promptHint_en: Develop consciously.
+opposite_ru: анонимность
+opposite_en: anonymity
+metaphor_ru: Уникальный узор.
+metaphor_en: Unique pattern.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: agent
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: agency
+- relation: RELATES_TO
+  target_concept: агент
+- relation: PART_OF
+  target_concept: калибр-личности
+- relation: HAS_EXAMPLE
+  target_concept: агентность
+- relation: IS_A
+  target_concept: человек в системном рассмотрении
+- relation: RELATES_TO
+  target_concept: системное лидерство
+- relation: PART_OF
+  target_concept: система
+- relation: IS_A
+  target_concept: агент
+- relation: PART_OF
+  target_concept: модель личности
+- relation: RELATES_TO
+  target_concept: эмоциональная часть личности
+- relation: IS_A
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: характеристики личности
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Развитая личность достигает успеха.
+  positive_en:
+  - Developed personality achieves success.
+  negative_ru:
+  - Неразвитая приводит к проблемам.
+  negative_en:
+  - Undeveloped leads to problems.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: личность
+Определение: Объект, представляющий совокупность черт и опыта, отличающийся от других
+  объектов уникальностью.
+Синонимы: *id001
+Связи:
+- agency
+- agent
+- intellect
+- агент
+- агентность
+- калибр-личности
+- модель личности
+- саморазвитие
+- система
+- системное лидерство
+- создатель
+- характеристики личности
+- человек в системном рассмотрении
+- эмоциональная часть личности
+Главы:
+- C1
+- C2
+- C6
+- C8
+- C9

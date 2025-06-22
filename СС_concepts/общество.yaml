@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/общество
+name_ru: общество
+name_en: society
+purpose_ru: Организует коллективное взаимодействие.
+purpose_en: Organizes collective interaction.
+conceptType: object
+usageContext_ru: В социологии и изменениях.
+usageContext_en: In sociology and changes.
+synonyms_ru: &id001
+- сообщество
+synonyms_en:
+- community
+not_this_ru: Не является изолированным.
+not_this_en: Not isolated.
+definition_ru: Объект, представляющий группу людей, отличающийся от других объектов
+  масштабностью.
+definition_en: An object representing a group of people, distinguished from other
+  objects by its scale.
+summary_ru: ''
+summary_en: ''
+example_ru: Общество влияет на траекторию жизни.
+example_en: Society influences life trajectory.
+promptHint_ru: Анализируйте для изменений.
+promptHint_en: Analyze for changes.
+opposite_ru: изоляция
+opposite_en: isolation
+metaphor_ru: Большая сеть.
+metaphor_en: Large network.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: человечество
+- relation: RELATES_TO
+  target_concept: элита
+- relation: RELATES_TO
+  target_concept: культура
+examples:
+  positive_ru:
+  - Развитое общество способствует прогрессу.
+  positive_en:
+  - Developed society promotes progress.
+  negative_ru:
+  - Отсталое приводит к проблемам.
+  negative_en:
+  - Backward leads to problems.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L3
+Название: общество
+Определение: Объект, представляющий группу людей, отличающийся от других объектов
+  масштабностью.
+Синонимы: *id001
+Связи:
+- культура
+- человечество
+- элита
+Главы:
+- C9

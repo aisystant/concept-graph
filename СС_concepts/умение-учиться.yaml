@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/умение-учиться
+name_ru: умение учиться
+name_en: ability to learn
+purpose_ru: Позволяет быстро осваивать новое.
+purpose_en: Enables quick mastery of new things.
+conceptType: Property
+usageContext_ru: В контексте образования.
+usageContext_en: In the context of education.
+synonyms_ru: &id001
+- способность к обучению
+synonyms_en:
+- learning ability
+not_this_ru: Не является инертностью.
+not_this_en: Not inertia.
+definition_ru: Свойство, включающее методы для эффективного приобретения знаний.
+definition_en: A property involving methods for effective knowledge acquisition.
+summary_ru: ''
+summary_en: ''
+example_ru: Умение учиться через практики саморазвития.
+example_en: Ability to learn through self-development practices.
+promptHint_ru: Используйте для адаптации.
+promptHint_en: Use for adaptation.
+opposite_ru: Неспособность учиться
+opposite_en: Inability to learn
+metaphor_ru: Как ключ к знаниям.
+metaphor_en: Like a key to knowledge.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: роль-ученика
+- relation: PART_OF
+  target_concept: практики-саморазвития
+- relation: HAS_EXAMPLE
+  target_concept: обучение
+examples:
+  positive_ru:
+  - Развитие умения учиться для карьеры.
+  positive_en:
+  - Developing ability to learn for career.
+  negative_ru:
+  - Отсутствие умения, ограничивающее рост.
+  negative_en:
+  - Lack of ability limiting growth.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: умение учиться
+Определение: Свойство, включающее методы для эффективного приобретения знаний.
+Синонимы: *id001
+Связи:
+- обучение
+- практики-саморазвития
+- роль-ученика
+Главы:
+- C2

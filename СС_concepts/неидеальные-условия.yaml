@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L2/concept/неидеальные-условия
+name_ru: неидеальные условия
+name_en: non-ideal conditions
+purpose_ru: Тестирует способность действовать в реальности.
+purpose_en: Tests the ability to act in reality.
+conceptType: Object
+usageContext_ru: В контексте адаптации и развития.
+usageContext_en: In the context of adaptation and development.
+synonyms_ru: &id001
+- сложные обстоятельства
+synonyms_en:
+- challenging circumstances
+not_this_ru: Не является идеальной средой.
+not_this_en: Not an ideal environment.
+definition_ru: Объект, представляющий условия, требующие адаптации для достижения
+  целей.
+definition_en: An object representing conditions requiring adaptation to achieve goals.
+summary_ru: ''
+summary_en: ''
+example_ru: Работа в неидеальных условиях для саморазвития.
+example_en: Working in non-ideal conditions for self-development.
+promptHint_ru: Используйте для преодоления препятствий.
+promptHint_en: Use for overcoming obstacles.
+opposite_ru: Идеальные условия
+opposite_en: Ideal conditions
+metaphor_ru: Как вызов на пути.
+metaphor_en: Like a challenge on the path.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: осознанное-управление-временем
+- relation: HAS_EXAMPLE
+  target_concept: агентность
+examples:
+  positive_ru:
+  - Адаптация к неидеальным условиям.
+  positive_en:
+  - Adapting to non-ideal conditions.
+  negative_ru:
+  - Избегание условий, препятствующее росту.
+  negative_en:
+  - Avoiding conditions hindering growth.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: неидеальные условия
+Определение: Объект, представляющий условия, требующие адаптации для достижения целей.
+Синонимы: *id001
+Связи:
+- агентность
+- время
+- осознанное-управление-временем
+Главы:
+- C2

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/понятийное-внимание
+name_ru: Понятийное внимание
+name_en: Conceptual Attention
+purpose_ru: Сосредотачивается на понятиях.
+purpose_en: Focuses on concepts.
+conceptType: Process
+usageContext_ru: В анализе.
+usageContext_en: In analysis.
+synonyms_ru: &id001
+- Концептуальное внимание
+synonyms_en:
+- Concept-Based Attention
+not_this_ru: Не поверхностное.
+not_this_en: Not superficial.
+definition_ru: Процесс, заключающийся в фокусировке на понятиях для глубокого понимания.
+definition_en: A process, characterized by focusing on concepts for deep understanding.
+summary_ru: ''
+summary_en: ''
+example_ru: Понятийное внимание в изучении теории.
+example_en: Conceptual attention in theory study.
+promptHint_ru: Применяйте для обучения.
+promptHint_en: Apply for learning.
+opposite_ru: Автоматическое внимание
+opposite_en: Automatic Attention
+metaphor_ru: Как микроскоп для деталей.
+metaphor_en: Like a microscope for details.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: понятия
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: заземление
+examples:
+  positive_ru:
+  - Понятийное внимание углубляет знания.
+  positive_en:
+  - Conceptual attention deepens knowledge.
+  negative_ru:
+  - Отсутствие приводит к поверхностности.
+  negative_en:
+  - Absence leads to superficiality.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Понятийное внимание
+Определение: Процесс, заключающийся в фокусировке на понятиях для глубокого понимания.
+Синонимы: *id001
+Связи:
+- внимание
+- заземление
+- понятия
+Главы:
+- C3

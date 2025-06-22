@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/предметная-область
+name_ru: предметная область
+name_en: subject area
+purpose_ru: Определяет сферу деятельности.
+purpose_en: Defines the field of activity.
+conceptType: Объект
+usageContext_ru: В деятельностном кругозоре.
+usageContext_en: In activity scope.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является общим понятием.
+not_this_en: Not a general concept.
+definition_ru: Объект, обозначающий конкретную сферу, отличающийся специфическими
+  ролями и методами.
+definition_en: An object denoting a specific field, distinguished by particular roles
+  and methods.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Предметная область: IT.'
+example_en: 'Subject area: IT.'
+promptHint_ru: Изучайте для специализации.
+promptHint_en: Study for specialization.
+opposite_ru: Общий кругозор
+opposite_en: General horizon
+metaphor_ru: Сектор карты.
+metaphor_en: Sector of a map.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: вид деятельности
+- relation: RELATES_TO
+  target_concept: деятельностный кругозор
+- relation: RELATES_TO
+  target_concept: метод
+examples:
+  positive_ru:
+  - Предметная область медицины.
+  positive_en:
+  - Subject area of medicine.
+  negative_ru:
+  - Вне контекста деятельности.
+  negative_en:
+  - Outside activity context.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: предметная область
+Определение: Объект, обозначающий конкретную сферу, отличающийся специфическими ролями
+  и методами.
+Синонимы: *id001
+Связи:
+- вид деятельности
+- деятельностный кругозор
+- метод
+Главы:
+- C5

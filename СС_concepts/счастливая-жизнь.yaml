@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/счастливая-жизнь
+name_ru: счастливая жизнь
+name_en: happy life
+purpose_ru: Обеспечивает долгосрочное благополучие.
+purpose_en: Ensures long-term well-being.
+conceptType: process
+usageContext_ru: В долгосрочном планировании.
+usageContext_en: In long-term planning.
+synonyms_ru: &id001
+- жизнь в гармонии
+synonyms_en:
+- life in harmony
+not_this_ru: Не является мгновенной.
+not_this_en: Not instantaneous.
+definition_ru: Процесс достижения устойчивого счастья, отличающийся от других процессов
+  своей продолжительностью.
+definition_en: A process of achieving sustainable happiness, distinguished from other
+  processes by its duration.
+summary_ru: ''
+summary_en: ''
+example_ru: Счастливая жизнь требует сбалансированности.
+example_en: A happy life requires balance.
+promptHint_ru: Строите осознанно.
+promptHint_en: Build consciously.
+opposite_ru: несчастливая жизнь
+opposite_en: unhappy life
+metaphor_ru: Долгий путь.
+metaphor_en: Long journey.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: счастье
+- relation: RELATES_TO
+  target_concept: интересная жизнь
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Счастливая жизнь полна радости.
+  positive_en:
+  - A happy life is full of joy.
+  negative_ru:
+  - Ее отсутствие приводит к страданиям.
+  negative_en:
+  - Its absence leads to sufferings.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: счастливая жизнь
+Определение: Процесс достижения устойчивого счастья, отличающийся от других процессов
+  своей продолжительностью.
+Синонимы: *id001
+Связи:
+- интересная жизнь
+- счастье
+- успех
+Главы:
+- C9

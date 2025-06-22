@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L3/concept/эмоциональные-факторы
+name_ru: Эмоциональные факторы
+name_en: Emotional Factors
+purpose_ru: Влияют на внимание и собранность.
+purpose_en: Influence attention and collectedness.
+conceptType: Property
+usageContext_ru: В психологии и управлении.
+usageContext_en: In psychology and management.
+synonyms_ru: &id001
+- Эмоции
+synonyms_en:
+- Emotions
+not_this_ru: Не рациональные.
+not_this_en: Not rational.
+definition_ru: Факторы, заключающиеся в эмоциональных состояниях, влияющих на когнитивные
+  ресурсы.
+definition_en: Factors, characterized by emotional states affecting cognitive resources.
+summary_ru: ''
+summary_en: ''
+example_ru: Эмоциональные факторы вызывают утечки внимания.
+example_en: Emotional factors cause attention leaks.
+promptHint_ru: Управляйте эмоциональными факторами для стабильности.
+promptHint_en: Manage emotional factors for stability.
+opposite_ru: Эмоциональная стабильность
+opposite_en: Emotional Stability
+metaphor_ru: Как волны, влияющие на корабль.
+metaphor_en: Like waves affecting a ship.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: утечки ресурса собранности
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональное состояние
+examples:
+  positive_ru:
+  - Контроль эмоциональных факторов улучшает фокус.
+  positive_en:
+  - Control of emotional factors improves focus.
+  negative_ru:
+  - Неконтролируемые эмоции приводят к выгоранию.
+  negative_en:
+  - Uncontrolled emotions lead to burnout.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Эмоциональные факторы
+Определение: Факторы, заключающиеся в эмоциональных состояниях, влияющих на когнитивные
+  ресурсы.
+Синонимы: *id001
+Связи:
+- внимание
+- утечки ресурса собранности
+- эмоциональное состояние
+Главы:
+- C3

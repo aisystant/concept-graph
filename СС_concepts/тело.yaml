@@ -1,0 +1,82 @@
+iri: https://system-school.ru/L8/concept/тело
+name_ru: Тело
+name_en: Body
+purpose_ru: Обеспечивает физические функции агента.
+purpose_en: Provides physical functions of an agent.
+conceptType: Object
+usageContext_ru: В биологии для описания.
+usageContext_en: In biology for description.
+synonyms_ru: &id001
+- организм
+- Физическое тело
+synonyms_en:
+- organism
+- Physical Body
+not_this_ru: Не является личностью.
+not_this_en: It is not personality.
+definition_ru: Объект, являющийся физической основой организма, отличающийся от экзотела.
+definition_en: An object that is the physical basis of the organism, distinguished
+  from exobody.
+summary_ru: ''
+summary_en: ''
+example_ru: Тело агента включает биологические функции.
+example_en: The body of an agent includes biological functions.
+promptHint_ru: Используйте для анализа физических аспектов.
+promptHint_en: Use for analyzing physical aspects.
+opposite_ru: Абстрактность
+opposite_en: Abstractness
+metaphor_ru: Как vessel для разума.
+metaphor_en: Like a vessel for the mind.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: agent
+- relation: RELATES_TO
+  target_concept: personality
+- relation: RELATES_TO
+  target_concept: exotelo
+- relation: RELATES_TO
+  target_concept: здоровье
+- relation: PART_OF
+  target_concept: экзотело
+- relation: HAS_EXAMPLE
+  target_concept: долголетие
+- relation: IS_A
+  target_concept: организм
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: экзотело
+examples:
+  positive_ru:
+  - Физическое тело человека.
+  positive_en:
+  - Physical body of a human.
+  negative_ru:
+  - Отсутствие тела у ИИ.
+  negative_en:
+  - Lack of body in AI.
+discipline:
+  name_ru: Биология
+  name_en: Biology
+  level: L2
+Название: Тело
+Определение: Объект, являющийся физической основой организма, отличающийся от экзотела.
+Синонимы: *id001
+Связи:
+- agent
+- exotelo
+- personality
+- агент
+- долголетие
+- здоровье
+- организм
+- экзотело
+Главы:
+- C1
+- C2
+- C8

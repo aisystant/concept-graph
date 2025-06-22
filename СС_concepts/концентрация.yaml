@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/концентрация
+name_ru: Концентрация
+name_en: Concentration
+purpose_ru: Углубляет фокус на задаче.
+purpose_en: Deepens focus on a task.
+conceptType: Process
+usageContext_ru: В работе и обучении.
+usageContext_en: In work and learning.
+synonyms_ru: &id001
+- Сосредоточенность
+synonyms_en:
+- Focus
+not_this_ru: Не поверхностное внимание.
+not_this_en: Not superficial attention.
+definition_ru: Процесс фокусировки, заключающийся в углубленном удержании внимания
+  на объекте с минимизацией отвлечений.
+definition_en: A focusing process, characterized by deep maintenance of attention
+  on an object with minimization of distractions.
+summary_ru: ''
+summary_en: ''
+example_ru: Концентрация на деталях текста во время чтения.
+example_en: Concentration on text details during reading.
+promptHint_ru: Развивайте концентрацию через регулярные сессии.
+promptHint_en: Develop concentration through regular sessions.
+opposite_ru: Рассеянность
+opposite_en: Scatteredness
+metaphor_ru: Как лазерный луч, направленный на цель.
+metaphor_en: Like a laser beam directed at a target.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: фокус
+examples:
+  positive_ru:
+  - Концентрация улучшает качество работы.
+  positive_en:
+  - Concentration improves work quality.
+  negative_ru:
+  - Отсутствие концентрации приводит к ошибкам.
+  negative_en:
+  - Lack of concentration leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Концентрация
+Определение: Процесс фокусировки, заключающийся в углубленном удержании внимания на
+  объекте с минимизацией отвлечений.
+Синонимы: *id001
+Связи:
+- внимание
+- собранность
+- фокус
+Главы:
+- C3

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/креативность
+name_ru: Креативность
+name_en: Creativity
+purpose_ru: Генерирует новые идеи.
+purpose_en: Generates new ideas.
+conceptType: Property
+usageContext_ru: В инновациях.
+usageContext_en: In innovations.
+synonyms_ru: &id001
+- Творчество
+synonyms_en:
+- Creativity
+not_this_ru: Не рутина.
+not_this_en: Not routine.
+definition_ru: Свойство, заключающееся в способности создавать оригинальные решения.
+definition_en: A property, characterized by the ability to create original solutions.
+summary_ru: ''
+summary_en: ''
+example_ru: Креативность в решении проблем.
+example_en: Creativity in problem-solving.
+promptHint_ru: Стимулируйте креативность.
+promptHint_en: Stimulate creativity.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как источник идей.
+metaphor_en: Like a source of ideas.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: гиперфокусировка
+- relation: PART_OF
+  target_concept: баланс между собранностью и гибкостью
+- relation: HAS_EXAMPLE
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Креативность инновации.
+  positive_en:
+  - Creativity drives innovation.
+  negative_ru:
+  - Подавление снижает оригинальность.
+  negative_en:
+  - Suppression reduces originality.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Креативность
+Определение: Свойство, заключающееся в способности создавать оригинальные решения.
+Синонимы: *id001
+Связи:
+- баланс между собранностью и гибкостью
+- гиперфокусировка
+- системное мышление
+Главы:
+- C3

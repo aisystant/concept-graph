@@ -1,0 +1,62 @@
+iri: https://system-school.ru/L8/concept/способности
+name_ru: Способности
+name_en: Abilities
+purpose_ru: Обеспечивают выполнение задач.
+purpose_en: Enable task performance.
+conceptType: Property
+usageContext_ru: В развитии для оценки.
+usageContext_en: In development for evaluation.
+synonyms_ru: &id001
+- Умения
+synonyms_en:
+- Skills
+not_this_ru: Не являются врожденными.
+not_this_en: They are not innate.
+definition_ru: Свойство, заключающееся в потенциале для действий, отличающееся от
+  навыков.
+definition_en: A property consisting of potential for actions, distinguished from
+  skills.
+summary_ru: ''
+summary_en: ''
+example_ru: Способности развиваются через мастерство.
+example_en: Abilities are developed through mastery.
+promptHint_ru: Используйте для оценки потенциала.
+promptHint_en: Use for evaluating potential.
+opposite_ru: Неспособность
+opposite_en: Inability
+metaphor_ru: Как сырой материал.
+metaphor_en: Like raw material.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: жизненное мастерство
+- relation: PART_OF
+  target_concept: личность
+- relation: RELATES_TO
+  target_concept: желания
+examples:
+  positive_ru:
+  - Развитые способности для задач.
+  positive_en:
+  - Developed abilities for tasks.
+  negative_ru:
+  - Отсутствие способностей, затрудняющее выполнение.
+  negative_en:
+  - Lack of abilities hindering performance.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: Способности
+Определение: Свойство, заключающееся в потенциале для действий, отличающееся от навыков.
+Синонимы: *id001
+Связи:
+- желания
+- жизненное мастерство
+- личность
+Главы:
+- C8

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/переходы-между-состояниями
+name_ru: Переходы между состояниями
+name_en: State transitions
+purpose_ru: Обеспечивать изменения состояний под влиянием факторов.
+purpose_en: To ensure changes in states under influences.
+conceptType: process
+usageContext_ru: В анализе систем и личности.
+usageContext_en: In analysis of systems and personality.
+synonyms_ru: &id001
+- Переходы состояний
+synonyms_en:
+- Transitions of states
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Процесс, в ходе которого система переходит из одного состояния в другое,
+  отличаясь от статичных процессов тем, что включает внешние и внутренние воздействия.
+definition_en: Process through which a system moves from one state to another, differing
+  from static processes by including external and internal influences.
+summary_ru: ''
+summary_en: ''
+example_ru: Переходы между состояниями включают смену ролей в работе.
+example_en: State transitions include changing roles at work.
+promptHint_ru: Используйте для отслеживания изменений.
+promptHint_en: Use for tracking changes.
+opposite_ru: Стабильность
+opposite_en: Stability
+metaphor_ru: Поток переходов
+metaphor_en: Stream of transitions
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: состояния системы
+- relation: PART_OF
+  target_concept: состояния человека
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональное состояние
+examples:
+  positive_ru:
+  - Переходы между состояниями улучшают адаптацию.
+  positive_en:
+  - State transitions improve adaptation.
+  negative_ru:
+  - Переходы не вызывают хаоса.
+  negative_en:
+  - Transitions do not cause chaos.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic thinking
+  level: L3
+Название: Переходы между состояниями
+Определение: Процесс, в ходе которого система переходит из одного состояния в другое,
+  отличаясь от статичных процессов тем, что включает внешние и внутренние воздействия.
+Синонимы: *id001
+Связи:
+- состояния системы
+- состояния человека
+- эмоциональное состояние
+Главы:
+- C4

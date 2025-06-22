@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/семья
+name_ru: семья
+name_en: family
+purpose_ru: Обеспечивает поддержку и воспитание.
+purpose_en: Provides support and upbringing.
+conceptType: object
+usageContext_ru: В личной жизни.
+usageContext_en: In personal life.
+synonyms_ru: &id001
+- родственники
+synonyms_en:
+- relatives
+not_this_ru: Не является изолированной.
+not_this_en: Not isolated.
+definition_ru: Объект, включающий близких людей, отличающийся от других объектов эмоциональной
+  связью.
+definition_en: An object including close people, distinguished from other objects
+  by emotional bonds.
+summary_ru: ''
+summary_en: ''
+example_ru: Семья передает мировоззрение.
+example_en: Family transmits worldview.
+promptHint_ru: Поддерживайте связи.
+promptHint_en: Maintain connections.
+opposite_ru: одиночество
+opposite_en: loneliness
+metaphor_ru: Крепкий фундамент.
+metaphor_en: Strong foundation.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: воспитание
+- relation: RELATES_TO
+  target_concept: ресурсы
+- relation: RELATES_TO
+  target_concept: интересная жизнь
+examples:
+  positive_ru:
+  - Семья способствует развитию.
+  positive_en:
+  - Family promotes development.
+  negative_ru:
+  - Ее проблемы вызывают неудовлетворенности.
+  negative_en:
+  - Its problems cause dissatisfactions.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L2
+Название: семья
+Определение: Объект, включающий близких людей, отличающийся от других объектов эмоциональной
+  связью.
+Синонимы: *id001
+Связи:
+- воспитание
+- интересная жизнь
+- ресурсы
+Главы:
+- C9

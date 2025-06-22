@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L8/concept/организм
+name_ru: Организм
+name_en: Organism
+purpose_ru: Представляет аппаратную часть агента.
+purpose_en: Represents the hardware part of an agent.
+conceptType: Object
+usageContext_ru: В биологии для описания тела.
+usageContext_en: In biology for describing the body.
+synonyms_ru: &id001
+- Тело
+synonyms_en:
+- Body
+not_this_ru: Не является личностью.
+not_this_en: It is not personality.
+definition_ru: Объект, являющийся биологической основой агента, отличающийся от личности.
+definition_en: An object that is the biological basis of an agent, distinguished from
+  personality.
+summary_ru: ''
+summary_en: ''
+example_ru: Организм включает тело и экзотело.
+example_en: Organism includes body and exobody.
+promptHint_ru: Используйте для анализа физических аспектов.
+promptHint_en: Use for analyzing physical aspects.
+opposite_ru: Механизм
+opposite_en: Mechanism
+metaphor_ru: Как аппарат для личности.
+metaphor_en: Like hardware for personality.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: тело
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: экзотело
+examples:
+  positive_ru:
+  - Биологический организм человека.
+  positive_en:
+  - Biological organism of a human.
+  negative_ru:
+  - Искусственный механизм без организма.
+  negative_en:
+  - Artificial mechanism without an organism.
+discipline:
+  name_ru: Биология
+  name_en: Biology
+  level: L2
+Название: Организм
+Определение: Объект, являющийся биологической основой агента, отличающийся от личности.
+Синонимы: *id001
+Связи:
+- агент
+- тело
+- экзотело
+Главы:
+- C8

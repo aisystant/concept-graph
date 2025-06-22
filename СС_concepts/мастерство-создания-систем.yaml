@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/мастерство-создания-систем
+name_ru: мастерство создания систем
+name_en: system-creation-mastery
+purpose_ru: Позволяет создавать успешные системы.
+purpose_en: Enables creating successful systems.
+conceptType: skill
+usageContext_ru: В инженерии и саморазвитии.
+usageContext_en: In engineering and self-development.
+synonyms_ru: &id001
+- инженерное мастерство
+synonyms_en:
+- engineering mastery
+not_this_ru: Не является общим мастерством.
+not_this_en: Not general mastery.
+definition_ru: Навык, заключающийся в способности проектировать системы, отличающийся
+  от других мастерств через фокус на изменениях мира.
+definition_en: A skill consisting of the ability to design systems, differentiated
+  from other masteries by focus on world changes.
+summary_ru: ''
+summary_en: ''
+example_ru: Мастерство создания систем используется для инноваций.
+example_en: System creation mastery is used for innovations.
+promptHint_ru: Применяйте для проектов.
+promptHint_en: Apply for projects.
+opposite_ru: разрушение
+opposite_en: destruction
+metaphor_ru: Строитель миров.
+metaphor_en: World builder.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: engineering
+- relation: RELATES_TO
+  target_concept: creator
+- relation: RELATES_TO
+  target_concept: mastery
+examples:
+  positive_ru:
+  - Мастерство создания систем улучшает жизнь.
+  positive_en:
+  - System creation mastery improves life.
+  negative_ru:
+  - Без мастерства системы неэффективны.
+  negative_en:
+  - Without mastery, systems are ineffective.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: мастерство создания систем
+Определение: Навык, заключающийся в способности проектировать системы, отличающийся
+  от других мастерств через фокус на изменениях мира.
+Синонимы: *id001
+Связи:
+- creator
+- engineering
+- mastery
+Главы:
+- C1

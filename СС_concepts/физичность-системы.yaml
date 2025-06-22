@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/физичность-системы
+name_ru: физичность системы
+name_en: physicality of system
+purpose_ru: Подчеркивает материальность системы.
+purpose_en: Emphasizes the materiality of the system.
+conceptType: property
+usageContext_ru: В системном мышлении для верификации.
+usageContext_en: In systemic thinking for verification.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является виртуальной.
+not_this_en: Not virtual.
+definition_ru: Свойство системы, заключающееся в ее наличии в физическом мире, отличающееся
+  от ментального.
+definition_en: A property of the system, consisting of its presence in the physical
+  world, distinguished from mental.
+summary_ru: ''
+summary_en: ''
+example_ru: Физичность автомобиля в 4D.
+example_en: Physicality of a car in 4D.
+promptHint_ru: Проверяйте на наличие.
+promptHint_en: Check for presence.
+opposite_ru: Ментальность
+opposite_en: Mentality
+metaphor_ru: Твердое тело.
+metaphor_en: Solid body.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: 4D
+- relation: PART_OF
+  target_concept: воплощение системы
+examples:
+  positive_ru:
+  - Физические системы.
+  positive_en:
+  - Physical systems.
+  negative_ru:
+  - Ментальные конструкции.
+  negative_en:
+  - Mental constructs.
+discipline:
+  name_ru: Физика
+  name_en: Physics
+  level: L3
+Название: физичность системы
+Определение: Свойство системы, заключающееся в ее наличии в физическом мире, отличающееся
+  от ментального.
+Синонимы: *id001
+Связи:
+- 4D
+- воплощение системы
+- система
+Главы:
+- C6

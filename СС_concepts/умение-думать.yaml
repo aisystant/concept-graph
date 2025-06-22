@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/умение-думать
+name_ru: умение думать
+name_en: ability to think
+purpose_ru: Улучшает анализ и творчество.
+purpose_en: Improves analysis and creativity.
+conceptType: Property
+usageContext_ru: В контексте интеллекта.
+usageContext_en: In the context of intelligence.
+synonyms_ru: &id001
+- мышление
+synonyms_en:
+- thinking
+not_this_ru: Не является интуицией.
+not_this_en: Not intuition.
+definition_ru: Свойство, развиваемое через трансдисциплины для системного мышления.
+definition_en: A property developed through transdisciplines for systems thinking.
+summary_ru: ''
+summary_en: ''
+example_ru: Умение думать системно в проектах.
+example_en: Ability to think systematically in projects.
+promptHint_ru: Используйте для решения проблем.
+promptHint_en: Use for problem-solving.
+opposite_ru: Бездумность
+opposite_en: Thoughtlessness
+metaphor_ru: Как интеллектуальный инструмент.
+metaphor_en: Like an intellectual tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: мыслительное-мастерство
+- relation: PART_OF
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: интеллект-стек
+examples:
+  positive_ru:
+  - Развитие умения думать через образование.
+  positive_en:
+  - Developing ability to think through education.
+  negative_ru:
+  - Отсутствие умения, приводящее к ошибкам.
+  negative_en:
+  - Lack of ability leading to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: умение думать
+Определение: Свойство, развиваемое через трансдисциплины для системного мышления.
+Синонимы: *id001
+Связи:
+- интеллект-стек
+- мыслительное-мастерство
+- мышление
+Главы:
+- C2

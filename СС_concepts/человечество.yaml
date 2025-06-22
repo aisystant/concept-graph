@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/человечество
+name_ru: человечество
+name_en: humanity
+purpose_ru: Представляет глобальное сообщество.
+purpose_en: Represents global community.
+conceptType: object
+usageContext_ru: В глобальных контекстах.
+usageContext_en: In global contexts.
+synonyms_ru: &id001
+- человеческий род
+synonyms_en:
+- human race
+not_this_ru: Не является локальным.
+not_this_en: Not local.
+definition_ru: Объект, охватывающий всех людей, отличающийся от других объектов своим
+  охватом.
+definition_en: An object encompassing all people, distinguished from other objects
+  by its scope.
+summary_ru: ''
+summary_en: ''
+example_ru: Человечество развивается через техноэволюцию.
+example_en: Humanity develops through techno evolution.
+promptHint_ru: Размышляйте глобально.
+promptHint_en: Think globally.
+opposite_ru: изоляция
+opposite_en: isolation
+metaphor_ru: Гигантский организм.
+metaphor_en: Giant organism.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: общество
+- relation: RELATES_TO
+  target_concept: техноэволюция
+- relation: RELATES_TO
+  target_concept: элита
+examples:
+  positive_ru:
+  - Развитие человечества улучшает жизнь.
+  positive_en:
+  - Humanity's development improves life.
+  negative_ru:
+  - Его проблемы затрагивают всех.
+  negative_en:
+  - Its problems affect everyone.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L3
+Название: человечество
+Определение: Объект, охватывающий всех людей, отличающийся от других объектов своим
+  охватом.
+Синонимы: *id001
+Связи:
+- общество
+- техноэволюция
+- элита
+Главы:
+- C9

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/биологический-интеллект
+name_ru: биологический интеллект
+name_en: biological intelligence
+purpose_ru: Обеспечивает обработку информации и решение проблем на биологическом уровне.
+purpose_en: Enables information processing and problem-solving at a biological level.
+conceptType: Property
+usageContext_ru: В контексте развития интеллекта и обучения.
+usageContext_en: In the context of intelligence development and learning.
+synonyms_ru: &id001
+- природный интеллект
+synonyms_en:
+- natural intelligence
+not_this_ru: Не является искусственным интеллектом.
+not_this_en: Not artificial intelligence.
+definition_ru: Свойство мозга, включающее врожденные и приобретенные способности к
+  обработке информации.
+definition_en: A property of the brain that includes innate and acquired abilities
+  for information processing.
+summary_ru: ''
+summary_en: ''
+example_ru: Интеллект, развивающийся через решение повседневных проблем.
+example_en: Intelligence that develops through solving everyday problems.
+promptHint_ru: Используйте при обсуждении интеллект-стека.
+promptHint_en: Use when discussing the intelligence stack.
+opposite_ru: Искусственный интеллект
+opposite_en: Artificial intelligence
+metaphor_ru: Как биологический компьютер.
+metaphor_en: Like a biological computer.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: интеллект-стек
+- relation: RELATES_TO
+  target_concept: врожденный-и-приобретенный-интеллект
+- relation: HAS_EXAMPLE
+  target_concept: мозг
+examples:
+  positive_ru:
+  - Развитие интеллекта через обучение трансдисциплинам.
+  positive_en:
+  - Developing intelligence through learning transdisciplines.
+  negative_ru:
+  - Отсутствие развития, приводящее к застою.
+  negative_en:
+  - Lack of development leading to stagnation.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: биологический интеллект
+Определение: Свойство мозга, включающее врожденные и приобретенные способности к обработке
+  информации.
+Синонимы: *id001
+Связи:
+- врожденный-и-приобретенный-интеллект
+- интеллект-стек
+- мозг
+Главы:
+- C2

@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/звание
+name_ru: звание
+name_en: rank
+purpose_ru: Отражает положение в иерархии.
+purpose_en: Reflects position in hierarchy.
+conceptType: Объект
+usageContext_ru: В профессиональных и социальных структурах.
+usageContext_en: In professional and social structures.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является квалификацией.
+not_this_en: Not qualification.
+definition_ru: Объект, обозначающий формальное положение, отличающийся присвоением
+  компетентными органами.
+definition_en: An object denoting formal position, distinguished by assignment from
+  competent authorities.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Звание: профессор в науке.'
+example_en: 'Rank: professor in science.'
+promptHint_ru: Учитывайте в карьерном анализе.
+promptHint_en: Consider in career analysis.
+opposite_ru: Неформальный статус
+opposite_en: Informal status
+metaphor_ru: Звезда на погонах.
+metaphor_en: Star on epaulettes.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: должность
+- relation: RELATES_TO
+  target_concept: квалификация
+- relation: RELATES_TO
+  target_concept: роль
+examples:
+  positive_ru:
+  - Звание генерала в армии.
+  positive_en:
+  - Rank of general in the army.
+  negative_ru:
+  - Самопровозглашенный титул.
+  negative_en:
+  - Self-proclaimed title.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: звание
+Определение: Объект, обозначающий формальное положение, отличающийся присвоением компетентными
+  органами.
+Синонимы: *id001
+Связи:
+- должность
+- квалификация
+- роль
+Главы:
+- C5

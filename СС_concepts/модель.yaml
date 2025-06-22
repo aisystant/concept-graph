@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/модель
+name_ru: модель
+name_en: model
+purpose_ru: Представляет упрощенное описание реальности.
+purpose_en: Represents a simplified description of reality.
+conceptType: representation
+usageContext_ru: В теориях и описаниях.
+usageContext_en: In theories and descriptions.
+synonyms_ru: &id001
+- описание
+synonyms_en:
+- description
+not_this_ru: Не является реальностью.
+not_this_en: Not reality.
+definition_ru: Представление, заключающееся в абстрактном отображении, отличающееся
+  от оригинала через упрощение.
+definition_en: A representation consisting of an abstract depiction, differentiated
+  from the original by simplification.
+summary_ru: ''
+summary_en: ''
+example_ru: Модель мира помогает в планировании.
+example_en: World model aids in planning.
+promptHint_ru: Создавайте для анализа.
+promptHint_en: Create for analysis.
+opposite_ru: оригинал
+opposite_en: original
+metaphor_ru: Миниатюра реальности.
+metaphor_en: Miniature of reality.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: theory
+- relation: RELATES_TO
+  target_concept: world-picture
+- relation: RELATES_TO
+  target_concept: description
+examples:
+  positive_ru:
+  - Точная модель улучшает предсказания.
+  positive_en:
+  - Accurate model improves predictions.
+  negative_ru:
+  - Ошибочная модель вводит в заблуждение.
+  negative_en:
+  - Erroneous model misleads.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: модель
+Определение: Представление, заключающееся в абстрактном отображении, отличающееся
+  от оригинала через упрощение.
+Синонимы: *id001
+Связи:
+- description
+- theory
+- world-picture
+Главы:
+- C1

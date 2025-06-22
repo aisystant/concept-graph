@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/реализация
+name_ru: реализация
+name_en: implementation
+purpose_ru: Выполняет запланированные работы.
+purpose_en: Executes planned works.
+conceptType: Процесс
+usageContext_ru: В стадиях жизнедеятельности.
+usageContext_en: In life stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является планированием.
+not_this_en: Not planning.
+definition_ru: Процесс, в ходе которого выполняются работы, отличающийся практическим
+  применением методов.
+definition_en: A process in which works are executed, distinguished by practical application
+  of methods.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Реализация: выполнение задач по плану.'
+example_en: 'Implementation: executing tasks as planned.'
+promptHint_ru: Фокусируйтесь на для достижения результатов.
+promptHint_en: Focus on for achieving results.
+opposite_ru: Планирование без действия
+opposite_en: Planning without action
+metaphor_ru: Превращение плана в реальность.
+metaphor_en: Turning plan into reality.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: планирование работ
+- relation: RELATES_TO
+  target_concept: досуг
+examples:
+  positive_ru:
+  - Успешная реализация проекта.
+  positive_en:
+  - Successful project implementation.
+  negative_ru:
+  - Провал из-за отсутствия реализации.
+  negative_en:
+  - Failure due to lack of implementation.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: реализация
+Определение: Процесс, в ходе которого выполняются работы, отличающийся практическим
+  применением методов.
+Синонимы: *id001
+Связи:
+- досуг
+- планирование работ
+- стадии жизнедеятельности
+Главы:
+- C5

@@ -1,0 +1,96 @@
+iri: https://system-school.ru/L8/concept/системное-мышление
+name_ru: Системное мышление
+name_en: Systems Thinking
+purpose_ru: Помогает создавать успешные системы.
+purpose_en: Helps create successful systems.
+conceptType: Method
+usageContext_ru: В менеджменте для анализа.
+usageContext_en: In management for analysis.
+synonyms_ru: &id001
+- Системный подход
+- Системный анализ
+synonyms_en:
+- Systemic Approach
+- Systemic analysis
+- Systems Approach
+not_this_ru: Не является линейным мышлением.
+not_this_en: It is not linear thinking.
+definition_ru: Метод, заключающийся в рассмотрении систем как целого, отличающийся
+  от изолированного анализа.
+definition_en: A method consisting of considering systems as a whole, distinguished
+  from isolated analysis.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное мышление учитывает все интересы.
+example_en: Systems thinking accounts for all interests.
+promptHint_ru: Используйте для комплексного анализа.
+promptHint_en: Use for comprehensive analysis.
+opposite_ru: Локальное мышление
+opposite_en: Local Thinking
+metaphor_ru: Как видение картины целиком.
+metaphor_en: Like seeing the big picture.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: системность
+- relation: PART_OF
+  target_concept: трансдисциплина
+- relation: HAS_EXAMPLE
+  target_concept: экзокортекс
+- relation: PART_OF
+  target_concept: системный подход
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: HAS_EXAMPLE
+  target_concept: агентность
+- relation: IS_A
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: понятия системного мышления
+- relation: PART_OF
+  target_concept: системный подход 3.0
+- relation: IS_A
+  target_concept: этика и успешная система
+- relation: PART_OF
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: лидер
+examples:
+  positive_ru:
+  - Применение системного мышления в проектах.
+  positive_en:
+  - Applying systems thinking in projects.
+  negative_ru:
+  - Отсутствие системного подхода, приводящее к неудачам.
+  negative_en:
+  - Lack of systems approach leading to failures.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: Системное мышление
+Определение: Метод, заключающийся в рассмотрении систем как целого, отличающийся от
+  изолированного анализа.
+Синонимы: *id001
+Связи:
+- агентность
+- бесконечное развитие
+- лидер
+- мышление
+- неудовлетворенность
+- понятия системного мышления
+- системность
+- системный подход
+- системный подход 3.0
+- трансдисциплина
+- экзокортекс
+- этика и успешная система
+Главы:
+- C3
+- C4
+- C6
+- C8

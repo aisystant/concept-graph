@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/способность-к-принятию-решений
+name_ru: Способность к принятию решений
+name_en: Decision Making Ability
+purpose_ru: Позволяет агенту выбирать действия.
+purpose_en: Allows an agent to choose actions.
+conceptType: Property
+usageContext_ru: В системах для анализа.
+usageContext_en: In systems for analysis.
+synonyms_ru: &id001
+- Решительная способность
+synonyms_en:
+- Decisive Ability
+not_this_ru: Не является инстинктом.
+not_this_en: It is not instinct.
+definition_ru: Свойство, заключающееся в способности к выбору, основанному на информации,
+  отличающееся от случайных решений.
+definition_en: A property consisting of the ability to choose based on information,
+  distinguished from random decisions.
+summary_ru: ''
+summary_en: ''
+example_ru: Способность к принятию решений включает автономность.
+example_en: Decision-making ability includes autonomy.
+promptHint_ru: Используйте для оценки лидерства.
+promptHint_en: Use for evaluating leadership.
+opposite_ru: Нерешительность
+opposite_en: Indecisiveness
+metaphor_ru: Как компас в лабиринте.
+metaphor_en: Like a compass in a maze.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: способности
+- relation: PART_OF
+  target_concept: интеллект
+- relation: RELATES_TO
+  target_concept: принятие решений
+examples:
+  positive_ru:
+  - Эффективная способность к решениям.
+  positive_en:
+  - Effective decision-making ability.
+  negative_ru:
+  - Слабая способность, приводящая к ошибкам.
+  negative_en:
+  - Weak ability leading to errors.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Способность к принятию решений
+Определение: Свойство, заключающееся в способности к выбору, основанному на информации,
+  отличающееся от случайных решений.
+Синонимы: *id001
+Связи:
+- интеллект
+- принятие решений
+- способности
+Главы:
+- C8

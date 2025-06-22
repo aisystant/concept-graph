@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/ответственность
+name_ru: Ответственность
+name_en: Responsibility
+purpose_ru: Обеспечивает подотчетность за решения.
+purpose_en: Ensures accountability for decisions.
+conceptType: Property
+usageContext_ru: В этике для этических выборов.
+usageContext_en: In ethics for ethical choices.
+synonyms_ru: &id001
+- Обязанность
+synonyms_en:
+- Duty
+not_this_ru: Не является безнаказанностью.
+not_this_en: It is not impunity.
+definition_ru: Свойство, заключающееся в принятии последствий решений, отличающееся
+  от безответственности.
+definition_en: A property consisting of accepting the consequences of decisions, distinguished
+  from irresponsibility.
+summary_ru: ''
+summary_en: ''
+example_ru: Ответственность включает постановку 'шкуры на кон'.
+example_en: Responsibility includes putting 'skin in the game'.
+promptHint_ru: Используйте для оценки решений.
+promptHint_en: Use for evaluating decisions.
+opposite_ru: Безответственность
+opposite_en: Irresponsibility
+metaphor_ru: Как ноша за выборы.
+metaphor_en: Like a burden for choices.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: фатальная ошибка
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Принятие ответственности за проект.
+  positive_en:
+  - Accepting responsibility for a project.
+  negative_ru:
+  - Избегание ответственности.
+  negative_en:
+  - Avoiding responsibility.
+discipline:
+  name_ru: Этика
+  name_en: Ethics
+  level: L3
+Название: Ответственность
+Определение: Свойство, заключающееся в принятии последствий решений, отличающееся
+  от безответственности.
+Синонимы: *id001
+Связи:
+- сострадание
+- фатальная ошибка
+- этика
+Главы:
+- C8

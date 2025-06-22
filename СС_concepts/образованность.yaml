@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/образованность
+name_ru: образованность
+name_en: educatedness
+purpose_ru: Характеризует уровень интеллекта и знаний.
+purpose_en: Characterizes the level of intelligence and knowledge.
+conceptType: Property
+usageContext_ru: В контексте личностного развития.
+usageContext_en: In the context of personal development.
+synonyms_ru: &id001
+- интеллектуальность
+synonyms_en:
+- intellectuality
+not_this_ru: Не является профессионализмом.
+not_this_en: Not professionalism.
+definition_ru: Свойство, отражающее фундаментальные знания и мыслительные навыки.
+definition_en: A property reflecting fundamental knowledge and thinking skills.
+summary_ru: ''
+summary_en: ''
+example_ru: Высокая образованность через трансдисциплины.
+example_en: High educatedness through transdisciplines.
+promptHint_ru: Используйте для оценки интеллекта.
+promptHint_en: Use for evaluating intelligence.
+opposite_ru: Невежество
+opposite_en: Ignorance
+metaphor_ru: Как богатый багаж.
+metaphor_en: Like a rich baggage.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: образование
+- relation: PART_OF
+  target_concept: мыслительное-мастерство
+- relation: HAS_EXAMPLE
+  target_concept: интеллект-стек
+examples:
+  positive_ru:
+  - Образованность, помогающая в объяснениях.
+  positive_en:
+  - Educatedness aiding in explanations.
+  negative_ru:
+  - Низкая образованность, затрудняющая понимание.
+  negative_en:
+  - Low educatedness hindering understanding.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: образованность
+Определение: Свойство, отражающее фундаментальные знания и мыслительные навыки.
+Синонимы: *id001
+Связи:
+- интеллект-стек
+- мыслительное-мастерство
+- образование
+Главы:
+- C2

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/отрицательная-полезность-труда
+name_ru: отрицательная полезность труда
+name_en: negative utility of labor
+purpose_ru: Объясняет предпочтение досуга над работой.
+purpose_en: Explains preference of leisure over work.
+conceptType: Principle
+usageContext_ru: В контексте экономических решений.
+usageContext_en: In the context of economic decisions.
+synonyms_ru: &id001
+- дискомфорт труда
+synonyms_en:
+- labor discomfort
+not_this_ru: Не является положительной.
+not_this_en: Not positive.
+definition_ru: Принцип, где труд отодвигается из-за его затрат и неопределенности.
+definition_en: A principle where labor is deferred due to its costs and uncertainty.
+summary_ru: ''
+summary_en: ''
+example_ru: Предпочтение досуга из-за отрицательной полезности труда.
+example_en: Preferring leisure due to negative utility of labor.
+promptHint_ru: Используйте для анализа мотивации.
+promptHint_en: Use for analyzing motivation.
+opposite_ru: Положительная полезность
+opposite_en: Positive utility
+metaphor_ru: Как баланс весов.
+metaphor_en: Like a balance scale.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: инвестирование-времени
+- relation: HAS_EXAMPLE
+  target_concept: работа
+examples:
+  positive_ru:
+  - Преодоление отрицательной полезности для инвестиций.
+  positive_en:
+  - Overcoming negative utility for investments.
+  negative_ru:
+  - Избегание труда из-за его полезности.
+  negative_en:
+  - Avoiding labor due to its utility.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: отрицательная полезность труда
+Определение: Принцип, где труд отодвигается из-за его затрат и неопределенности.
+Синонимы: *id001
+Связи:
+- время
+- инвестирование-времени
+- работа
+Главы:
+- C2

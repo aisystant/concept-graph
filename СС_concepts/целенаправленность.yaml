@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/целенаправленность
+name_ru: Целенаправленность
+name_en: Purposefulness
+purpose_ru: Направляет действия к целям.
+purpose_en: Directs actions towards goals.
+conceptType: Property
+usageContext_ru: В мотивации для фокуса.
+usageContext_en: In motivation for focus.
+synonyms_ru: &id001
+- Направленность
+synonyms_en:
+- Directionality
+not_this_ru: Не является бесцельным.
+not_this_en: It is not aimless.
+definition_ru: Свойство, заключающееся в ориентации на цели, отличающееся от случайных
+  действий.
+definition_en: A property consisting of orientation towards goals, distinguished from
+  random actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Целенаправленность помогает агенту достигать задач.
+example_en: Purposefulness helps an agent achieve tasks.
+promptHint_ru: Используйте для целеполагания.
+promptHint_en: Use for goal-setting.
+opposite_ru: Бесцельность
+opposite_en: Aimlessness
+metaphor_ru: Как компас к цели.
+metaphor_en: Like a compass to a goal.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: намерения
+- relation: RELATES_TO
+  target_concept: неудовлетворенности
+examples:
+  positive_ru:
+  - Целенаправленные действия.
+  positive_en:
+  - Purposeful actions.
+  negative_ru:
+  - Бесцельные усилия.
+  negative_en:
+  - Aimless efforts.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: Целенаправленность
+Определение: Свойство, заключающееся в ориентации на цели, отличающееся от случайных
+  действий.
+Синонимы: *id001
+Связи:
+- агентность
+- намерения
+- неудовлетворенности
+Главы:
+- C8

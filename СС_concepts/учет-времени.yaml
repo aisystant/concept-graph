@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/учет-времени
+name_ru: Учет времени
+name_en: Time Accounting
+purpose_ru: Отслеживает использование времени для оптимизации.
+purpose_en: Tracks time use for optimization.
+conceptType: Process
+usageContext_ru: В повседневном планировании.
+usageContext_en: In daily planning.
+synonyms_ru: &id001
+- Фиксация времени
+synonyms_en:
+- Time Tracking
+not_this_ru: Не просто запись, а анализ.
+not_this_en: Not just recording, but analysis.
+definition_ru: Процесс мониторинга, заключающийся в фиксации и анализе временных затрат
+  на задачи.
+definition_en: A monitoring process, characterized by recording and analyzing time
+  spent on tasks.
+summary_ru: ''
+summary_en: ''
+example_ru: Учет времени с помощью трекера для улучшения продуктивности.
+example_en: Time accounting with a tracker to improve productivity.
+promptHint_ru: Ведите учет времени для выявления потерь.
+promptHint_en: Keep time accounting to identify losses.
+opposite_ru: Игнорирование времени
+opposite_en: Time Ignoring
+metaphor_ru: Как бухгалтерский учет для финансов.
+metaphor_en: Like financial accounting for money.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: инвестирование времени
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: временные масштабы внимания
+examples:
+  positive_ru:
+  - Учет времени помогает в планировании.
+  positive_en:
+  - Time accounting aids in planning.
+  negative_ru:
+  - Отсутствие учета приводит к неэффективности.
+  negative_en:
+  - Lack of accounting leads to inefficiency.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Учет времени
+Определение: Процесс мониторинга, заключающийся в фиксации и анализе временных затрат
+  на задачи.
+Синонимы: *id001
+Связи:
+- временные масштабы внимания
+- инвестирование времени
+- управление вниманием
+Главы:
+- C3

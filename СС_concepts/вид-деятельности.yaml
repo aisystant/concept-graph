@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L5/concept/вид-деятельности
+name_ru: вид деятельности
+name_en: type of activity
+purpose_ru: Классифицирует области человеческой деятельности для анализа ролей и методов.
+purpose_en: Classifies areas of human activity for analyzing roles and methods.
+conceptType: Объект
+usageContext_ru: В анализе деятельностного кругозора и ролей.
+usageContext_en: In analyzing activity scope and roles.
+synonyms_ru: &id001
+- сфера деятельности
+synonyms_en:
+- field of activity
+not_this_ru: Не является конкретной ролью.
+not_this_en: Not a specific role.
+definition_ru: Объект, обозначающий категорию человеческой деятельности, отличающийся
+  перечнем, таким как политика или наука.
+definition_en: An object denoting a category of human activity, distinguished by a
+  list such as politics or science.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Вид деятельности: здравоохранение, включающее роли врачей.'
+example_en: 'Type of activity: healthcare, including doctor roles.'
+promptHint_ru: Используйте для классификации ролей в различных областях.
+promptHint_en: Use to classify roles in various areas.
+opposite_ru: Единичная роль
+opposite_en: Single role
+metaphor_ru: Разделы в энциклопедии.
+metaphor_en: Sections in an encyclopedia.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: деятельностный кругозор
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: метод
+examples:
+  positive_ru:
+  - 'Вид деятельности: образование.'
+  positive_en:
+  - 'Type of activity: education.'
+  negative_ru:
+  - Конкретная задача, не вид.
+  negative_en:
+  - Specific task, not a type.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: вид деятельности
+Определение: Объект, обозначающий категорию человеческой деятельности, отличающийся
+  перечнем, таким как политика или наука.
+Синонимы: *id001
+Связи:
+- деятельностный кругозор
+- метод
+- роль
+Главы:
+- C5

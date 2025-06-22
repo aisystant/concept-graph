@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/методы-ученика
+name_ru: методы ученика
+name_en: student methods
+purpose_ru: Улучшают процесс обучения и саморазвития.
+purpose_en: Improve the process of learning and self-development.
+conceptType: Process
+usageContext_ru: В контексте новой грамотности.
+usageContext_en: In the context of new literacy.
+synonyms_ru: &id001
+- практики ученика
+synonyms_en:
+- student practices
+not_this_ru: Не являются неструктурированными.
+not_this_en: Not unstructured.
+definition_ru: Процесс, включающий техники для эффективного обучения, такие как мышление
+  письмом.
+definition_en: A process involving techniques for effective learning, such as written
+  thinking.
+summary_ru: ''
+summary_en: ''
+example_ru: Мышление письмом в корпоративной культуре.
+example_en: Written thinking in corporate culture.
+promptHint_ru: Используйте для улучшения обучения.
+promptHint_en: Use for improving learning.
+opposite_ru: Неэффективные методы
+opposite_en: Ineffective methods
+metaphor_ru: Как инструменты ученика.
+metaphor_en: Like tools for a student.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: практики-саморазвития
+- relation: RELATES_TO
+  target_concept: роль-ученика
+- relation: HAS_EXAMPLE
+  target_concept: мышление-письмом
+examples:
+  positive_ru:
+  - Применение методов для быстрого обучения.
+  positive_en:
+  - Applying methods for quick learning.
+  negative_ru:
+  - Игнорирование методов, замедляющее прогресс.
+  negative_en:
+  - Ignoring methods slowing progress.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: методы ученика
+Определение: Процесс, включающий техники для эффективного обучения, такие как мышление
+  письмом.
+Синонимы: *id001
+Связи:
+- мышление-письмом
+- практики-саморазвития
+- роль-ученика
+Главы:
+- C2

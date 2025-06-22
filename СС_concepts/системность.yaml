@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/системность
+name_ru: Системность
+name_en: Systemicity
+purpose_ru: Обеспечивает целостный подход.
+purpose_en: Ensures a holistic approach.
+conceptType: Property
+usageContext_ru: В мышлении.
+usageContext_en: In thinking.
+synonyms_ru: &id001
+- Системность
+synonyms_en:
+- Systemness
+not_this_ru: Не фрагментарность.
+not_this_en: Not fragmentation.
+definition_ru: Свойство, заключающееся в рассмотрении объектов как частей систем.
+definition_en: A property, characterized by viewing objects as system parts.
+summary_ru: ''
+summary_en: ''
+example_ru: Системность в анализе процессов.
+example_en: Systemicity in process analysis.
+promptHint_ru: Применяйте системность для комплексного взгляда.
+promptHint_en: Apply systemicity for a comprehensive view.
+opposite_ru: Фрагментарность
+opposite_en: Fragmentation
+metaphor_ru: Как пазл, собирающий картину.
+metaphor_en: Like a puzzle assembling a picture.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: понятия
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: HAS_EXAMPLE
+  target_concept: причинность
+examples:
+  positive_ru:
+  - Системность улучшает понимание.
+  positive_en:
+  - Systemicity improves understanding.
+  negative_ru:
+  - Отсутствие системности приводит к ошибкам.
+  negative_en:
+  - Lack of systemicity leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Системность
+Определение: Свойство, заключающееся в рассмотрении объектов как частей систем.
+Синонимы: *id001
+Связи:
+- понятия
+- причинность
+- системное мышление
+Главы:
+- C3

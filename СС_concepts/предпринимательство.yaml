@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/предпринимательство
+name_ru: предпринимательство
+name_en: entrepreneurship
+purpose_ru: Деятельность по выявлению возможностей и созданию ценности.
+purpose_en: Activity for identifying opportunities and creating value.
+conceptType: process
+usageContext_ru: В бизнесе и инновациях.
+usageContext_en: In business and innovations.
+synonyms_ru: &id001
+- бизнес
+synonyms_en:
+- business
+not_this_ru: Не является рутинной работой.
+not_this_en: It is not routine work.
+definition_ru: Процесс (genus), включающий выявление проблем и создание систем для
+  их решения (differentia).
+definition_en: A process (genus) that involves identifying problems and creating systems
+  to solve them (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Предпринимательство в создании стартапа.
+example_en: Entrepreneurship in starting a startup.
+promptHint_ru: Используйте для генерации идей.
+promptHint_en: Use for idea generation.
+opposite_ru: Статус-кво.
+opposite_en: Status quo.
+metaphor_ru: Предпринимательство как исследование.
+metaphor_en: Entrepreneurship as exploration.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: инженерия
+- relation: RELATES_TO
+  target_concept: визионер
+- relation: HAS_EXAMPLE
+  target_concept: бизнесмен
+- relation: ALIGNS_WITH
+  target_concept: техноэволюция
+- relation: PART_OF
+  target_concept: система
+examples:
+  positive_ru:
+  - Успешное предпринимательство.
+  positive_en:
+  - Successful entrepreneurship.
+  negative_ru:
+  - Неинновационная деятельность.
+  negative_en:
+  - Non-innovative activity.
+discipline:
+  name_ru: Предпринимательство
+  name_en: Entrepreneurship
+  level: L3
+Название: предпринимательство
+Определение: Процесс (genus), включающий выявление проблем и создание систем для их
+  решения (differentia).
+Синонимы: *id001
+Связи:
+- бизнесмен
+- визионер
+- инженерия
+- система
+- техноэволюция
+Главы:
+- C7

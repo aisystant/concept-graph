@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/принципы-свободы
+name_ru: принципы свободы
+name_en: principles of freedom
+purpose_ru: Руководит выбором для минимизации ограничений.
+purpose_en: Guides choice to minimize restrictions.
+conceptType: Principle
+usageContext_ru: В контексте выбора и профориентации.
+usageContext_en: In the context of choice and career guidance.
+synonyms_ru: &id001
+- принципы выбора
+synonyms_en:
+- principles of choice
+not_this_ru: Не является принудительным.
+not_this_en: Not coercive.
+definition_ru: Принцип, подчеркивающий выбор, сохраняющий будущие варианты.
+definition_en: A principle emphasizing choices that preserve future options.
+summary_ru: ''
+summary_en: ''
+example_ru: Выбор образования для свободы в профессии.
+example_en: Choosing education for freedom in profession.
+promptHint_ru: Используйте в решениях.
+promptHint_en: Use in decisions.
+opposite_ru: Ограничение выбора
+opposite_en: Restriction of choice
+metaphor_ru: Как открытый путь.
+metaphor_en: Like an open path.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: профориентация
+- relation: PART_OF
+  target_concept: умение-учиться
+- relation: HAS_EXAMPLE
+  target_concept: время
+examples:
+  positive_ru:
+  - Применение принципов для карьерного роста.
+  positive_en:
+  - Applying principles for career growth.
+  negative_ru:
+  - Игнорирование принципов, ограничивающее будущее.
+  negative_en:
+  - Ignoring principles limiting the future.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: принципы свободы
+Определение: Принцип, подчеркивающий выбор, сохраняющий будущие варианты.
+Синонимы: *id001
+Связи:
+- время
+- профориентация
+- умение-учиться
+Главы:
+- C2

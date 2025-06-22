@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/потеря-времени
+name_ru: потеря времени
+name_en: time loss
+purpose_ru: Указывает на неэффективное использование времени.
+purpose_en: Indicates inefficient use of time.
+conceptType: Process
+usageContext_ru: В контексте управления временем.
+usageContext_en: In the context of time management.
+synonyms_ru: &id001
+- трата времени
+synonyms_en:
+- time waste
+not_this_ru: Не является инвестированием.
+not_this_en: Not investment.
+definition_ru: Процесс, где время тратится без пользы, приводя к упущенным возможностям.
+definition_en: A process where time is spent without benefit, leading to missed opportunities.
+summary_ru: ''
+summary_en: ''
+example_ru: Потеря времени на соцсети.
+example_en: Losing time on social media.
+promptHint_ru: Избегайте в планировании.
+promptHint_en: Avoid in planning.
+opposite_ru: Инвестирование времени
+opposite_en: Time investment
+metaphor_ru: Как утечка ресурсов.
+metaphor_en: Like a resource leak.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: время
+- relation: PART_OF
+  target_concept: осознанное-управление-временем
+- relation: HAS_EXAMPLE
+  target_concept: трата-времени
+examples:
+  positive_ru:
+  - Избежание потери времени.
+  positive_en:
+  - Avoiding time loss.
+  negative_ru:
+  - Регулярная потеря времени на вредные привычки.
+  negative_en:
+  - Regular time loss on bad habits.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L2
+Название: потеря времени
+Определение: Процесс, где время тратится без пользы, приводя к упущенным возможностям.
+Синонимы: *id001
+Связи:
+- время
+- осознанное-управление-временем
+- трата-времени
+Главы:
+- C2

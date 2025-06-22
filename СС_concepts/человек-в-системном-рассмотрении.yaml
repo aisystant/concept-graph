@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/человек-в-системном-рассмотрении
+name_ru: человек в системном рассмотрении
+name_en: human in systemic consideration
+purpose_ru: Анализирует человека как систему.
+purpose_en: Analyzes a human as a system.
+conceptType: system
+usageContext_ru: В системном мышлении для ролей.
+usageContext_en: In systemic thinking for roles.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не игнорирует роли.
+not_this_en: Does not ignore roles.
+definition_ru: Представление человека как системы с ролями и мастерством, отличающееся
+  от индивидуального.
+definition_en: Representation of a human as a system with roles and mastery, distinguished
+  from individual.
+summary_ru: ''
+summary_en: ''
+example_ru: Человек как агент в проекте.
+example_en: Human as an agent in a project.
+promptHint_ru: Рассматривайте комплексно.
+promptHint_en: Consider comprehensively.
+opposite_ru: Индивидуальное рассмотрение
+opposite_en: Individual consideration
+metaphor_ru: Системный агент.
+metaphor_en: Systemic agent.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: личность
+- relation: PART_OF
+  target_concept: системное лидерство
+examples:
+  positive_ru:
+  - Анализ человека в системах.
+  positive_en:
+  - Analysis of human in systems.
+  negative_ru:
+  - Изолированное рассмотрение.
+  negative_en:
+  - isolated consideration.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L3
+Название: человек в системном рассмотрении
+Определение: Представление человека как системы с ролями и мастерством, отличающееся
+  от индивидуального.
+Синонимы: *id001
+Связи:
+- личность
+- система
+- системное лидерство
+Главы:
+- C6

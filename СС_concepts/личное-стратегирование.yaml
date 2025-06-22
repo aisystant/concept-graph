@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/личное-стратегирование
+name_ru: личное стратегирование
+name_en: personal strategizing
+purpose_ru: Формирует планы личного развития.
+purpose_en: Forms plans for personal development.
+conceptType: Процесс
+usageContext_ru: В саморазвитии.
+usageContext_en: In self-development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является ежедневным планированием.
+not_this_en: Not daily planning.
+definition_ru: Процесс, в ходе которого определяются приоритетные проекты, отличающийся
+  корректировкой неудовлетворенностей.
+definition_en: A process in which priority projects are determined, distinguished
+  by adjustment of dissatisfactions.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Личное стратегирование: планирование карьерных шагов.'
+example_en: 'Personal strategizing: planning career steps.'
+promptHint_ru: Проводите регулярно для прогресса.
+promptHint_en: Conduct regularly for progress.
+opposite_ru: Спонтанное действие
+opposite_en: Spontaneous action
+metaphor_ru: Навигация по карте.
+metaphor_en: Navigation on a map.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: RELATES_TO
+  target_concept: планирование работ
+examples:
+  positive_ru:
+  - Регулярное личное стратегирование.
+  positive_en:
+  - Regular personal strategizing.
+  negative_ru:
+  - Отсутствие стратегии.
+  negative_en:
+  - Lack of strategy.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: личное стратегирование
+Определение: Процесс, в ходе которого определяются приоритетные проекты, отличающийся
+  корректировкой неудовлетворенностей.
+Синонимы: *id001
+Связи:
+- неудовлетворенность
+- планирование работ
+- стадии жизнедеятельности
+Главы:
+- C5

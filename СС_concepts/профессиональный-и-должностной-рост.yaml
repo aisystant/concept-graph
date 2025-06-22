@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L5/concept/профессиональный-и-должностной-рост
+name_ru: профессиональный и должностной рост
+name_en: professional and positional growth
+purpose_ru: Описывает аспекты карьеры.
+purpose_en: Describes aspects of career.
+conceptType: Процесс
+usageContext_ru: В карьерном развитии.
+usageContext_en: In career development.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является статичным положением.
+not_this_en: Not a static position.
+definition_ru: Процесс, включающий повышение квалификации и должности, отличающийся
+  освоением методов.
+definition_en: A process involving qualification and position increase, distinguished
+  by method mastery.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Профессиональный рост: освоение новых навыков.'
+example_en: 'Professional growth: mastering new skills.'
+promptHint_ru: Стремитесь для продвижения.
+promptHint_en: Strive for advancement.
+opposite_ru: Застой
+opposite_en: Stagnation
+metaphor_ru: Восхождение горы.
+metaphor_en: Mountain climbing.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: карьера
+- relation: RELATES_TO
+  target_concept: должность
+- relation: RELATES_TO
+  target_concept: квалификация
+examples:
+  positive_ru:
+  - Успешный профессиональный рост.
+  positive_en:
+  - Successful professional growth.
+  negative_ru:
+  - Отсутствие развития.
+  negative_en:
+  - Lack of development.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: профессиональный и должностной рост
+Определение: Процесс, включающий повышение квалификации и должности, отличающийся
+  освоением методов.
+Синонимы: *id001
+Связи:
+- должность
+- карьера
+- квалификация
+Главы:
+- C5

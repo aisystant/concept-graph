@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/стратегирование-и-планирование
+name_ru: Стратегирование и планирование
+name_en: Strategizing and Planning
+purpose_ru: Определяет цели и пути.
+purpose_en: Defines goals and paths.
+conceptType: Process
+usageContext_ru: В управлении.
+usageContext_en: In management.
+synonyms_ru: &id001
+- Планирование стратегий
+synonyms_en:
+- Strategy Planning
+not_this_ru: Не импровизация.
+not_this_en: Not improvisation.
+definition_ru: Процесс, заключающийся в разработке стратегий и планов для достижения
+  целей.
+definition_en: A process, characterized by developing strategies and plans for goal
+  achievement.
+summary_ru: ''
+summary_en: ''
+example_ru: Стратегирование для распределения задач.
+example_en: Strategizing for task distribution.
+promptHint_ru: Планируйте стратегически.
+promptHint_en: Plan strategically.
+opposite_ru: Спонтанность
+opposite_en: Spontaneity
+metaphor_ru: Как карта путешествия.
+metaphor_en: Like a travel map.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: инвестирование времени
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: временные масштабы внимания
+examples:
+  positive_ru:
+  - Стратегирование повышает успех.
+  positive_en:
+  - Strategizing increases success.
+  negative_ru:
+  - Без планирования возникают проблемы.
+  negative_en:
+  - Without planning, problems arise.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Стратегирование и планирование
+Определение: Процесс, заключающийся в разработке стратегий и планов для достижения
+  целей.
+Синонимы: *id001
+Связи:
+- временные масштабы внимания
+- инвестирование времени
+- управление вниманием
+Главы:
+- C3

@@ -1,0 +1,119 @@
+iri: https://system-school.ru/L9/concept/агентность
+name_ru: агентность
+name_en: agency
+purpose_ru: Мотивирует человека к действию и изменению мира, помогая преодолевать
+  неудовлетворенности.
+purpose_en: Motivates a person to act and change the world, helping to overcome dissatisfactions.
+conceptType: property
+usageContext_ru: В контексте саморазвития, постановки сверхцелей и воспитания.
+usageContext_en: In the context of self-development, setting super goals, and upbringing.
+synonyms_ru: &id001
+- активность
+- стимул
+- самостоятельность
+- Способность к действию
+- желание действовать
+- мотивация
+synonyms_en:
+- drive
+- initiative
+- activity
+- autonomy
+- Capacity for action
+- desire to act
+- motivation
+not_this_ru: Не является пассивностью или отсутствием воли.
+not_this_en: Not passivity or lack of will.
+definition_ru: Свойство личности, заключающееся в способности желать и инициировать
+  действия для достижения целей, отличающееся от других свойств наличием внутренней
+  мотивации для преодоления препятствий.
+definition_en: A property of personality, consisting in the ability to desire and
+  initiate actions to achieve goals, distinguished from other properties by the presence
+  of internal motivation to overcome obstacles.
+summary_ru: ''
+summary_en: ''
+example_ru: Человек с высокой агентностью ставит сверхцели и системно работает над
+  ними, несмотря на трудности.
+example_en: A person with high agency sets super goals and works on them systematically,
+  despite difficulties.
+promptHint_ru: Используйте для анализа мотивации в личных проектах.
+promptHint_en: Use to analyze motivation in personal projects.
+opposite_ru: пассивность
+opposite_en: passivity
+metaphor_ru: Двигатель, запускающий действия.
+metaphor_en: Engine that launches actions.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: caliber-of-personality
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: RELATES_TO
+  target_concept: агент
+- relation: PART_OF
+  target_concept: личность
+- relation: HAS_EXAMPLE
+  target_concept: калибр-личности
+- relation: RELATES_TO
+  target_concept: неудовлетворенность
+- relation: PART_OF
+  target_concept: калибр личности
+- relation: HAS_EXAMPLE
+  target_concept: мотивация
+- relation: IS_A
+  target_concept: автономность
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: неудовлетворенности
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: сверхцель
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Человек с агентностью запускает проект саморазвития.
+  positive_en:
+  - A person with agency initiates a self-development project.
+  negative_ru:
+  - Человек без агентности игнорирует возможности.
+  negative_en:
+  - A person without agency ignores opportunities.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L2
+Название: агентность
+Определение: Свойство личности, заключающееся в способности желать и инициировать
+  действия для достижения целей, отличающееся от других свойств наличием внутренней
+  мотивации для преодоления препятствий.
+Синонимы: *id001
+Связи:
+- caliber-of-personality
+- intellect
+- self-development
+- автономность
+- агент
+- бесконечное развитие
+- калибр личности
+- калибр-личности
+- личность
+- мотивация
+- неудовлетворенности
+- неудовлетворенность
+- саморазвитие
+- сверхцель
+Главы:
+- C1
+- C2
+- C4
+- C8
+- C9

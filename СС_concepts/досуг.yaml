@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L5/concept/досуг
+name_ru: досуг
+name_en: leisure
+purpose_ru: Обеспечивает отдых и развитие для восстановления.
+purpose_en: Provides rest and development for recovery.
+conceptType: Процесс
+usageContext_ru: В повседневной жизни для баланса.
+usageContext_en: In daily life for balance.
+synonyms_ru: &id001
+- отдых
+synonyms_en:
+- rest
+not_this_ru: Не является работой.
+not_this_en: Not work.
+definition_ru: Процесс, включающий нерабочее время, отличающийся целью получения удовольствия
+  и восстановления.
+definition_en: A process involving non-work time, distinguished by the goal of obtaining
+  pleasure and recovery.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Досуг: чтение книг или спорт.'
+example_en: 'Leisure: reading books or sports.'
+promptHint_ru: Планируйте для поддержания энергии.
+promptHint_en: Plan to maintain energy.
+opposite_ru: Работа
+opposite_en: Work
+metaphor_ru: Перезарядка батареи.
+metaphor_en: Battery recharging.
+formula_ru: ''
+formula_en: ''
+difficulty: 1
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: осознанное-времяпрепровождение
+- relation: RELATES_TO
+  target_concept: активный-и-пассивный-досуг
+- relation: HAS_EXAMPLE
+  target_concept: отдых
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: реализация
+- relation: RELATES_TO
+  target_concept: роль
+examples:
+  positive_ru:
+  - Осознанный досуг после работы.
+  positive_en:
+  - Conscious leisure after work.
+  negative_ru:
+  - Работа под видом досуга.
+  negative_en:
+  - Work disguised as leisure.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: досуг
+Определение: Процесс, включающий нерабочее время, отличающийся целью получения удовольствия
+  и восстановления.
+Синонимы: *id001
+Связи:
+- активный-и-пассивный-досуг
+- осознанное-времяпрепровождение
+- отдых
+- реализация
+- роль
+- стадии жизнедеятельности
+Главы:
+- C2
+- C5

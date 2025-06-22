@@ -1,0 +1,91 @@
+iri: https://system-school.ru/L9/concept/техноэволюция
+name_ru: техноэволюция
+name_en: techno evolution
+purpose_ru: Движет прогрессом человечества.
+purpose_en: Drives humanity's progress.
+conceptType: process
+usageContext_ru: В технологическом развитии.
+usageContext_en: In technological development.
+synonyms_ru: &id001
+- технологическая эволюция
+- эволюция технологий
+synonyms_en:
+- technological evolution
+- technology evolution
+not_this_ru: Не является биологической.
+not_this_en: Not biological.
+definition_ru: Процесс эволюции через технологии, отличающийся от других процессов
+  своей скоростью.
+definition_en: A process of evolution through technology, distinguished from other
+  processes by its speed.
+summary_ru: ''
+summary_en: ''
+example_ru: Техноэволюция включает создание новых систем.
+example_en: Techno evolution includes creating new systems.
+promptHint_ru: Изучайте для инноваций.
+promptHint_en: Study for innovations.
+opposite_ru: стагнация технологий
+opposite_en: technology stagnation
+metaphor_ru: Быстрый поток.
+metaphor_en: Fast stream.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: OPPOSITE_OF
+  target_concept: evolution
+- relation: RELATES_TO
+  target_concept: memes
+- relation: RELATES_TO
+  target_concept: exocortex
+- relation: RELATES_TO
+  target_concept: предпринимательство
+- relation: HAS_EXAMPLE
+  target_concept: мем
+- relation: ALIGNS_WITH
+  target_concept: успешная система
+- relation: PART_OF
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: бесконечное развитие
+- relation: RELATES_TO
+  target_concept: культура
+- relation: RELATES_TO
+  target_concept: человечество
+examples:
+  positive_ru:
+  - Техноэволюция улучшает мир.
+  positive_en:
+  - Techno evolution improves the world.
+  negative_ru:
+  - Ее остановка приводит к отставанию.
+  negative_en:
+  - Its stop leads to lagging.
+discipline:
+  name_ru: Наука
+  name_en: Science
+  level: L3
+Название: техноэволюция
+Определение: Процесс эволюции через технологии, отличающийся от других процессов своей
+  скоростью.
+Синонимы: *id001
+Связи:
+- evolution
+- exocortex
+- memes
+- бесконечное развитие
+- инженерия
+- культура
+- мем
+- предпринимательство
+- система
+- успешная система
+- человечество
+Главы:
+- C1
+- C7
+- C9

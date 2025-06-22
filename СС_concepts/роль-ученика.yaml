@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/роль-ученика
+name_ru: роль ученика
+name_en: student role
+purpose_ru: Включает методы для эффективного обучения.
+purpose_en: Involves methods for effective learning.
+conceptType: Role
+usageContext_ru: В контексте самообучения.
+usageContext_en: In the context of self-learning.
+synonyms_ru: &id001
+- роль учащегося
+synonyms_en:
+- learner role
+not_this_ru: Не является пассивной.
+not_this_en: Not passive.
+definition_ru: Роль, где человек активно применяет методы для приобретения знаний.
+definition_en: A role where a person actively applies methods to acquire knowledge.
+summary_ru: ''
+summary_en: ''
+example_ru: Исполнение роли ученика в обучении.
+example_en: Performing the student role in learning.
+promptHint_ru: Используйте для самоанализа.
+promptHint_en: Use for self-analysis.
+opposite_ru: Роль эксперта
+opposite_en: Expert role
+metaphor_ru: Как ученик в классе.
+metaphor_en: Like a student in class.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: практики-саморазвития
+- relation: RELATES_TO
+  target_concept: методы-ученика
+- relation: HAS_EXAMPLE
+  target_concept: обучение
+examples:
+  positive_ru:
+  - Активная роль ученика в самообучении.
+  positive_en:
+  - Active student role in self-learning.
+  negative_ru:
+  - Пассивная роль без усилий.
+  negative_en:
+  - Passive role without effort.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: роль ученика
+Определение: Роль, где человек активно применяет методы для приобретения знаний.
+Синонимы: *id001
+Связи:
+- методы-ученика
+- обучение
+- практики-саморазвития
+Главы:
+- C2

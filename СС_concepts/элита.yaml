@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/элита
+name_ru: элита
+name_en: elite
+purpose_ru: Влияет на общественные изменения.
+purpose_en: Influences societal changes.
+conceptType: object
+usageContext_ru: В социологии.
+usageContext_en: In sociology.
+synonyms_ru: &id001
+- высший слой
+synonyms_en:
+- upper layer
+not_this_ru: Не является случайной.
+not_this_en: Not random.
+definition_ru: Объект, представляющий группу с ресурсами, отличающийся от других объектов
+  своей ролью.
+definition_en: An object representing a group with resources, distinguished from other
+  objects by its role.
+summary_ru: ''
+summary_en: ''
+example_ru: Элита создает системы на уровне общества.
+example_en: Elite creates systems at the societal level.
+promptHint_ru: Анализируйте для понимания.
+promptHint_en: Analyze for understanding.
+opposite_ru: массы
+opposite_en: masses
+metaphor_ru: Ведущие умы.
+metaphor_en: Leading minds.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: ресурсы
+- relation: RELATES_TO
+  target_concept: человечество
+examples:
+  positive_ru:
+  - Элита способствует прогрессу.
+  positive_en:
+  - Elite promotes progress.
+  negative_ru:
+  - Плохая элита приводит к кризисам.
+  negative_en:
+  - Bad elite leads to crises.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L3
+Название: элита
+Определение: Объект, представляющий группу с ресурсами, отличающийся от других объектов
+  своей ролью.
+Синонимы: *id001
+Связи:
+- агентность
+- ресурсы
+- человечество
+Главы:
+- C9

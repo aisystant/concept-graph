@@ -1,0 +1,69 @@
+iri: https://system-school.ru/L7/concept/мем
+name_ru: мем
+name_en: meme
+purpose_ru: Идея, распространяющаяся и влияющая на эволюцию.
+purpose_en: An idea that spreads and influences evolution.
+conceptType: object
+usageContext_ru: В техноэволюции.
+usageContext_en: In technoevolution.
+synonyms_ru: &id001
+- идея
+synonyms_en:
+- idea
+not_this_ru: Не является физическим объектом.
+not_this_en: It is not a physical object.
+definition_ru: Объект (genus), представляющий идеи или смыслы, которые воплощаются
+  в системы (differentia).
+definition_en: An object (genus) representing ideas or meanings that are embodied
+  in systems (differentia).
+summary_ru: ''
+summary_en: ''
+example_ru: Мем в SpaceX.
+example_en: Meme in SpaceX.
+promptHint_ru: Используйте для распространения идей.
+promptHint_en: Use for spreading ideas.
+opposite_ru: Изолированная идея.
+opposite_en: Isolated idea.
+metaphor_ru: Мем как вирус идей.
+metaphor_en: Meme as a virus of ideas.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: техноэволюция
+- relation: RELATES_TO
+  target_concept: успешная система
+- relation: HAS_EXAMPLE
+  target_concept: предпринимательство
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: система
+examples:
+  positive_ru:
+  - Распространение мемов.
+  positive_en:
+  - Spreading memes.
+  negative_ru:
+  - Неэффективные идеи.
+  negative_en:
+  - Ineffective ideas.
+discipline:
+  name_ru: Техноэволюция
+  name_en: Technoevolution
+  level: L3
+Название: мем
+Определение: Объект (genus), представляющий идеи или смыслы, которые воплощаются в
+  системы (differentia).
+Синонимы: *id001
+Связи:
+- инженерия
+- предпринимательство
+- система
+- техноэволюция
+- успешная система
+Главы:
+- C7

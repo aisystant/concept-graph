@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/планирование-задач
+name_ru: Планирование задач
+name_en: Task Planning
+purpose_ru: Организует задачи.
+purpose_en: Organizes tasks.
+conceptType: Process
+usageContext_ru: В управлении.
+usageContext_en: In management.
+synonyms_ru: &id001
+- Организация задач
+synonyms_en:
+- Task Organization
+not_this_ru: Не хаотичное.
+not_this_en: Not chaotic.
+definition_ru: Процесс, заключающийся в структурировании задач для выполнения.
+definition_en: A process, characterized by structuring tasks for execution.
+summary_ru: ''
+summary_en: ''
+example_ru: Планирование с экзокортексом.
+example_en: Planning with exocortex.
+promptHint_ru: Планируйте задачи системно.
+promptHint_en: Plan tasks systematically.
+opposite_ru: Спонтанное выполнение
+opposite_en: Spontaneous Execution
+metaphor_ru: Как roadmap.
+metaphor_en: Like a roadmap.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: стратегирование и планирование
+- relation: PART_OF
+  target_concept: экзокортекс
+- relation: HAS_EXAMPLE
+  target_concept: адаптация к изменениям
+examples:
+  positive_ru:
+  - Планирование повышает успех задач.
+  positive_en:
+  - Planning increases task success.
+  negative_ru:
+  - Без планирования задачи проваливаются.
+  negative_en:
+  - Without planning, tasks fail.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Планирование задач
+Определение: Процесс, заключающийся в структурировании задач для выполнения.
+Синонимы: *id001
+Связи:
+- адаптация к изменениям
+- стратегирование и планирование
+- экзокортекс
+Главы:
+- C3

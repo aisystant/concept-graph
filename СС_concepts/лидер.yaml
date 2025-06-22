@@ -1,0 +1,81 @@
+iri: https://system-school.ru/L8/concept/лидер
+name_ru: Лидер
+name_en: Leader
+purpose_ru: Руководит и мотивирует в системном лидерстве.
+purpose_en: Guides and motivates in systems leadership.
+conceptType: Role
+usageContext_ru: В командах для организации действий.
+usageContext_en: In teams for organizing actions.
+synonyms_ru: &id001
+- руководитель
+- Руководитель
+synonyms_en:
+- leader
+- Manager
+not_this_ru: Не является авторитарным.
+not_this_en: It is not authoritarian.
+definition_ru: Роль, в которой индивид помогает другим встать в роли и мотивирует,
+  отличающаяся от классического лидерства.
+definition_en: A role in which an individual helps others assume roles and motivates,
+  distinguished from classical leadership.
+summary_ru: ''
+summary_en: ''
+example_ru: Системный лидер помогает команде создавать успешные системы.
+example_en: A systems leader helps the team create successful systems.
+promptHint_ru: Используйте для развития лидерских качеств.
+promptHint_en: Use for developing leadership qualities.
+opposite_ru: Последователь
+opposite_en: Follower
+metaphor_ru: Как дирижер оркестра.
+metaphor_en: Like a conductor of an orchestra.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: RELATES_TO
+  target_concept: менеджер оргразвития
+- relation: HAS_EXAMPLE
+  target_concept: топ-менеджер
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: роль
+- relation: IS_A
+  target_concept: системное лидерство
+- relation: PART_OF
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Лидер, мотивирующий команду.
+  positive_en:
+  - Leader motivating the team.
+  negative_ru:
+  - Лидер, игнорирующий интересы.
+  negative_en:
+  - Leader ignoring interests.
+discipline:
+  name_ru: Лидерство
+  name_en: Leadership
+  level: L3
+Название: Лидер
+Определение: Роль, в которой индивид помогает другим встать в роли и мотивирует, отличающаяся
+  от классического лидерства.
+Синонимы: *id001
+Связи:
+- агент
+- инженерия
+- менеджер оргразвития
+- роль
+- системное лидерство
+- системный менеджмент
+- сострадание
+- топ-менеджер
+Главы:
+- C7
+- C8

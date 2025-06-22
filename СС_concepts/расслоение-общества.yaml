@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/расслоение-общества
+name_ru: расслоение общества
+name_en: social-stratification
+purpose_ru: Отражает различия в обществе.
+purpose_en: Reflects differences in society.
+conceptType: process
+usageContext_ru: В прогрессе и культуре.
+usageContext_en: In progress and culture.
+synonyms_ru: &id001
+- разделение
+synonyms_en:
+- division
+not_this_ru: Не является равенством.
+not_this_en: Not equality.
+definition_ru: Процесс, заключающийся в разделении на группы, отличающийся от единства
+  через неравенство.
+definition_en: A process consisting of division into groups, differentiated from unity
+  by inequality.
+summary_ru: ''
+summary_en: ''
+example_ru: Расслоение на интеллектуалов и потребителей.
+example_en: Stratification into intellectuals and consumers.
+promptHint_ru: Анализируйте для понимания.
+promptHint_en: Analyze for understanding.
+opposite_ru: равенство
+opposite_en: equality
+metaphor_ru: Слои общества.
+metaphor_en: Layers of society.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: progress
+- relation: RELATES_TO
+  target_concept: culture
+- relation: RELATES_TO
+  target_concept: creator-behavior
+examples:
+  positive_ru:
+  - Расслоение стимулирует конкуренцию.
+  positive_en:
+  - Stratification stimulates competition.
+  negative_ru:
+  - Оно может вызвать конфликты.
+  negative_en:
+  - It can cause conflicts.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: расслоение общества
+Определение: Процесс, заключающийся в разделении на группы, отличающийся от единства
+  через неравенство.
+Синонимы: *id001
+Связи:
+- creator-behavior
+- culture
+- progress
+Главы:
+- C1

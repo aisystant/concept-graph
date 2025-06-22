@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/ограниченность-внимания
+name_ru: Ограниченность внимания
+name_en: Attention Limitations
+purpose_ru: Подчеркивает finite ресурсы внимания.
+purpose_en: Emphasizes finite attention resources.
+conceptType: Property
+usageContext_ru: В когнитивной науке.
+usageContext_en: In cognitive science.
+synonyms_ru: &id001
+- Ограничения внимания
+synonyms_en:
+- Attention Constraints
+not_this_ru: Не отсутствие, а пределы.
+not_this_en: Not absence, but limits.
+definition_ru: Свойство, заключающееся в ограниченном объеме объектов, на которые
+  можно сосредоточиться одновременно.
+definition_en: A property, characterized by the limited number of objects that can
+  be focused on simultaneously.
+summary_ru: ''
+summary_en: ''
+example_ru: Ограниченность внимания требует выбора приоритетов.
+example_en: Attention limitations require priority selection.
+promptHint_ru: Учитывайте ограниченность в планировании.
+promptHint_en: Consider limitations in planning.
+opposite_ru: Безграничность
+opposite_en: Unlimitedness
+metaphor_ru: Как ограниченный бюджет.
+metaphor_en: Like a limited budget.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: информационная перегрузка
+examples:
+  positive_ru:
+  - Понимание ограниченности улучшает фокус.
+  positive_en:
+  - Understanding limitations improves focus.
+  negative_ru:
+  - Игнорирование ограниченности вызывает перегрузки.
+  negative_en:
+  - Ignoring limitations causes overloads.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Ограниченность внимания
+Определение: Свойство, заключающееся в ограниченном объеме объектов, на которые можно
+  сосредоточиться одновременно.
+Синонимы: *id001
+Связи:
+- внимание
+- информационная перегрузка
+- управление вниманием
+Главы:
+- C3

@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L6/concept/целевая-система
+name_ru: целевая система
+name_en: target system
+purpose_ru: Главная система в проекте.
+purpose_en: Main system in a project.
+conceptType: system
+usageContext_ru: В системном мышлении для фокуса.
+usageContext_en: In systemic thinking for focus.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является вспомогательной.
+not_this_en: Not auxiliary.
+definition_ru: Система, ради которой ведется проект, отличающаяся от других видов
+  систем.
+definition_en: A system for which the project is conducted, distinguished from other
+  types of systems.
+summary_ru: ''
+summary_en: ''
+example_ru: Автомобиль как целевая система.
+example_en: Car as a target system.
+promptHint_ru: Определяйте в начале.
+promptHint_en: Define at the beginning.
+opposite_ru: Системы создания
+opposite_en: Creation systems
+metaphor_ru: Конечная цель.
+metaphor_en: End goal.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: надсистема
+- relation: PART_OF
+  target_concept: проект
+examples:
+  positive_ru:
+  - Целевая система в стратегировании.
+  positive_en:
+  - Target system in strategizing.
+  negative_ru:
+  - Вспомогательные системы.
+  negative_en:
+  - Auxiliary systems.
+discipline:
+  name_ru: Проектирование
+  name_en: Design
+  level: L3
+Название: целевая система
+Определение: Система, ради которой ведется проект, отличающаяся от других видов систем.
+Синонимы: *id001
+Связи:
+- надсистема
+- проект
+- система
+Главы:
+- C6

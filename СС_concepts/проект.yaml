@@ -1,0 +1,58 @@
+iri: https://system-school.ru/L6/concept/проект
+name_ru: проект
+name_en: project
+purpose_ru: Деятельность по созданию целевой системы.
+purpose_en: Activity for creating a target system.
+conceptType: process
+usageContext_ru: В системном мышлении для реализации.
+usageContext_en: In systemic thinking for implementation.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является случайной деятельностью.
+not_this_en: Not random activity.
+definition_ru: Процесс, включающий создание системы, отличающийся целенаправленностью.
+definition_en: A process involving system creation, distinguished by purposefulness.
+summary_ru: ''
+summary_en: ''
+example_ru: Проект по разработке автомобиля.
+example_en: Project for developing a car.
+promptHint_ru: Планируйте тщательно.
+promptHint_en: Plan carefully.
+opposite_ru: Повседневная рутина
+opposite_en: Daily routine
+metaphor_ru: Путешествие к цели.
+metaphor_en: Journey to the goal.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система создания
+- relation: RELATES_TO
+  target_concept: целевая система
+- relation: PART_OF
+  target_concept: стратегирование
+examples:
+  positive_ru:
+  - Структурированный проект.
+  positive_en:
+  - Structured project.
+  negative_ru:
+  - Беспорядочная работа.
+  negative_en:
+  - Disorganized work.
+discipline:
+  name_ru: Проектный менеджмент
+  name_en: Project Management
+  level: L3
+Название: проект
+Определение: Процесс, включающий создание системы, отличающийся целенаправленностью.
+Синонимы: *id001
+Связи:
+- система создания
+- стратегирование
+- целевая система
+Главы:
+- C6

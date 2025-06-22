@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L2/concept/профориентация
+name_ru: профориентация
+name_en: career guidance
+purpose_ru: Помогает в выборе профессии на основе принципов.
+purpose_en: Assists in career choice based on principles.
+conceptType: Process
+usageContext_ru: В контексте образования и выбора.
+usageContext_en: In the context of education and choice.
+synonyms_ru: &id001
+- ориентация на профессию
+synonyms_en:
+- career orientation
+not_this_ru: Не является случайным выбором.
+not_this_en: Not random choice.
+definition_ru: Процесс, использующий принцип свободы выбора для определения образовательного
+  пути.
+definition_en: A process using the principle of freedom of choice for determining
+  educational paths.
+summary_ru: ''
+summary_en: ''
+example_ru: Профориентация через фундаментальное образование.
+example_en: Career guidance through fundamental education.
+promptHint_ru: Используйте для карьерного планирования.
+promptHint_en: Use for career planning.
+opposite_ru: Слепой выбор
+opposite_en: Blind choice
+metaphor_ru: Как компас карьеры.
+metaphor_en: Like a career compass.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: образование
+- relation: PART_OF
+  target_concept: умение-учиться
+- relation: HAS_EXAMPLE
+  target_concept: принципы-свободы
+examples:
+  positive_ru:
+  - Профориентация, ведущая к успешной карьере.
+  positive_en:
+  - Career guidance leading to successful career.
+  negative_ru:
+  - Ошибочная профориентация без анализа.
+  negative_en:
+  - Erroneous career guidance without analysis.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: профориентация
+Определение: Процесс, использующий принцип свободы выбора для определения образовательного
+  пути.
+Синонимы: *id001
+Связи:
+- образование
+- принципы-свободы
+- умение-учиться
+Главы:
+- C2

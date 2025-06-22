@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/full-kitting
+name_ru: Full Kitting
+name_en: Full Kitting
+purpose_ru: Подготавливает условия для продуктивной работы.
+purpose_en: Prepares conditions for productive work.
+conceptType: Process
+usageContext_ru: В подготовке к деятельности.
+usageContext_en: In activity preparation.
+synonyms_ru: &id001
+- Полная подготовка
+synonyms_en:
+- Complete Preparation
+not_this_ru: Не improvisation, а системная подготовка.
+not_this_en: Not improvisation, but systematic preparation.
+definition_ru: Процесс подготовки, заключающийся в организации пространства, инструментов
+  и ресурсов для минимизации усилий.
+definition_en: A preparation process, characterized by organizing space, tools, and
+  resources to minimize efforts.
+summary_ru: ''
+summary_en: ''
+example_ru: Full Kitting включает выбор инструментов для эффективной работы.
+example_en: Full Kitting includes selecting tools for efficient work.
+promptHint_ru: Используйте Full Kitting перед началом задач.
+promptHint_en: Use Full Kitting before starting tasks.
+opposite_ru: Неподготовленность
+opposite_en: Unpreparedness
+metaphor_ru: Как настройка инструментов перед концертом.
+metaphor_en: Like setting up instruments before a concert.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: собранность
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: ресурсы
+examples:
+  positive_ru:
+  - Full Kitting улучшает продуктивность.
+  positive_en:
+  - Full Kitting improves productivity.
+  negative_ru:
+  - Отсутствие Full Kitting приводит к задержкам.
+  negative_en:
+  - Lack of Full Kitting leads to delays.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Full Kitting
+Определение: Процесс подготовки, заключающийся в организации пространства, инструментов
+  и ресурсов для минимизации усилий.
+Синонимы: *id001
+Связи:
+- ресурсы
+- собранность
+- управление вниманием
+Главы:
+- C3

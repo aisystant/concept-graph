@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/роли
+name_ru: роли
+name_en: roles
+purpose_ru: Определяют поведение в ситуациях.
+purpose_en: Determine behavior in situations.
+conceptType: object
+usageContext_ru: В социальных взаимодействиях.
+usageContext_en: In social interactions.
+synonyms_ru: &id001
+- функции
+synonyms_en:
+- functions
+not_this_ru: Не являются фиксированными.
+not_this_en: Not fixed.
+definition_ru: Объект, представляющий социальные функции, отличающийся от других объектов
+  их адаптивностью.
+definition_en: An object representing social functions, distinguished from other objects
+  by their adaptability.
+summary_ru: ''
+summary_en: ''
+example_ru: Роли в проектах помогают в интересной жизни.
+example_en: Roles in projects help in an interesting life.
+promptHint_ru: Выбирайте осознанно.
+promptHint_en: Choose consciously.
+opposite_ru: ролевая путаница
+opposite_en: role confusion
+metaphor_ru: Маски в театре.
+metaphor_en: Masks in theater.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: интересная жизнь
+- relation: RELATES_TO
+  target_concept: мастерство
+- relation: RELATES_TO
+  target_concept: приоритетные проекты
+examples:
+  positive_ru:
+  - Хорошие роли приводят к успеху.
+  positive_en:
+  - Good roles lead to success.
+  negative_ru:
+  - Плохие роли вызывают проблемы.
+  negative_en:
+  - Bad roles cause problems.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L2
+Название: роли
+Определение: Объект, представляющий социальные функции, отличающийся от других объектов
+  их адаптивностью.
+Синонимы: *id001
+Связи:
+- интересная жизнь
+- мастерство
+- приоритетные проекты
+Главы:
+- C9

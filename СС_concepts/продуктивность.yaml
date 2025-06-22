@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/продуктивность
+name_ru: Продуктивность
+name_en: Productivity
+purpose_ru: Повышает эффективность использования ресурсов.
+purpose_en: Increases efficiency of resource use.
+conceptType: Property
+usageContext_ru: В работе и жизни.
+usageContext_en: In work and life.
+synonyms_ru: &id001
+- Эффективность
+synonyms_en:
+- Efficiency
+not_this_ru: Не скорость, а качество результатов.
+not_this_en: Not speed, but quality of results.
+definition_ru: Свойство деятельности, заключающееся в достижении максимальных результатов
+  с минимальными затратами.
+definition_en: A property of activity, characterized by achieving maximum results
+  with minimum costs.
+summary_ru: ''
+summary_en: ''
+example_ru: Продуктивность растет через собранность и управление вниманием.
+example_en: Productivity grows through collectedness and attention management.
+promptHint_ru: Увеличивайте продуктивность за счет фокуса.
+promptHint_en: Increase productivity through focus.
+opposite_ru: Непродуктивность
+opposite_en: Unproductivity
+metaphor_ru: Как урожай от посева.
+metaphor_en: Like harvest from sowing.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: собранность
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: выгорание
+examples:
+  positive_ru:
+  - Высокая продуктивность достигается через планирование.
+  positive_en:
+  - High productivity is achieved through planning.
+  negative_ru:
+  - Выгорание снижает продуктивность.
+  negative_en:
+  - Burnout reduces productivity.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Продуктивность
+Определение: Свойство деятельности, заключающееся в достижении максимальных результатов
+  с минимальными затратами.
+Синонимы: *id001
+Связи:
+- выгорание
+- собранность
+- управление вниманием
+Главы:
+- C3

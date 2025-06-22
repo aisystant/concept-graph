@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/великая-идея
+name_ru: великая идея
+name_en: great idea
+purpose_ru: Вдохновляет на достижение амбициозных целей и изменения мира.
+purpose_en: Inspires the achievement of ambitious goals and world change.
+conceptType: object
+usageContext_ru: В стратегировании и постановке сверхцелей.
+usageContext_en: In strategizing and setting super goals.
+synonyms_ru: &id001
+- сверхцель
+synonyms_en:
+- super goal
+not_this_ru: Не является повседневной задачей.
+not_this_en: Not an everyday task.
+definition_ru: Объект, представляющий собой амбициозное видение, отличающееся от других
+  идей масштабом влияния на общество.
+definition_en: An object representing an ambitious vision, distinguished from other
+  ideas by its scale of impact on society.
+summary_ru: ''
+summary_en: ''
+example_ru: Великая идея о освоении космоса мотивирует к инновациям.
+example_en: A great idea about space exploration motivates innovation.
+promptHint_ru: Используйте для генерации вдохновения.
+promptHint_en: Use for generating inspiration.
+opposite_ru: мелкая идея
+opposite_en: minor idea
+metaphor_ru: Маяк, освещающий путь.
+metaphor_en: A beacon lighting the way.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: калибр личности
+- relation: RELATES_TO
+  target_concept: смысл жизни
+examples:
+  positive_ru:
+  - Великая идея приводит к глобальным изменениям.
+  positive_en:
+  - A great idea leads to global changes.
+  negative_ru:
+  - Отсутствие великой идеи приводит к безынициативности.
+  negative_en:
+  - Lack of a great idea leads to lack of initiative.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: великая идея
+Определение: Объект, представляющий собой амбициозное видение, отличающееся от других
+  идей масштабом влияния на общество.
+Синонимы: *id001
+Связи:
+- агентность
+- калибр личности
+- смысл жизни
+Главы:
+- C9

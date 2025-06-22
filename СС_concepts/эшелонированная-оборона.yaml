@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/эшелонированная-оборона
+name_ru: Эшелонированная оборона
+name_en: Echeloned Defense
+purpose_ru: Защищает от выгорания через многоуровневый отдых.
+purpose_en: Protects against burnout through multi-level rest.
+conceptType: Practice
+usageContext_ru: В саморазвитии для баланса.
+usageContext_en: In self-development for balance.
+synonyms_ru: &id001
+- Многоуровневая защита
+synonyms_en:
+- Multi-Level Defense
+not_this_ru: Не является единовременной.
+not_this_en: It is not one-time.
+definition_ru: Практика, заключающаяся в организации отдыха на разных уровнях, отличающаяся
+  от простого перерыва.
+definition_en: A practice consisting of organizing rest at different levels, distinguished
+  from a simple break.
+summary_ru: ''
+summary_en: ''
+example_ru: Эшелонированная оборона включает ежедневный и ежегодный отдых.
+example_en: Echeloned defense includes daily and annual rest.
+promptHint_ru: Используйте для предотвращения истощения.
+promptHint_en: Use for preventing exhaustion.
+opposite_ru: Перегрузка
+opposite_en: Overload
+metaphor_ru: Как многослойный щит.
+metaphor_en: Like a multi-layer shield.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: практика организации досуга
+- relation: PART_OF
+  target_concept: выгорание
+- relation: RELATES_TO
+  target_concept: жизненное мастерство
+examples:
+  positive_ru:
+  - Эшелонированная оборона от стресса.
+  positive_en:
+  - Echeloned defense against stress.
+  negative_ru:
+  - Отсутствие обороны, приводящее к выгоранию.
+  negative_en:
+  - Lack of defense leading to burnout.
+discipline:
+  name_ru: Саморазвитие
+  name_en: Self-Development
+  level: L3
+Название: Эшелонированная оборона
+Определение: Практика, заключающаяся в организации отдыха на разных уровнях, отличающаяся
+  от простого перерыва.
+Синонимы: *id001
+Связи:
+- выгорание
+- жизненное мастерство
+- практика организации досуга
+Главы:
+- C8

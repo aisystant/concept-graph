@@ -1,0 +1,85 @@
+iri: https://system-school.ru/L9/concept/культура
+name_ru: культура
+name_en: culture
+purpose_ru: Формирует поведение и ценности.
+purpose_en: Forms behavior and values.
+conceptType: object
+usageContext_ru: В обществе и обучении.
+usageContext_en: In society and learning.
+synonyms_ru: &id001
+- нормы поведения
+- традиции
+synonyms_en:
+- behavioral norms
+- traditions
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Объект, включающий нормы и практики, отличающийся от других объектов
+  их коллективным характером.
+definition_en: An object including norms and practices, distinguished from other objects
+  by its collective nature.
+summary_ru: ''
+summary_en: ''
+example_ru: Культура МИМ основана на системном мышлении.
+example_en: MIIM culture is based on systemic thinking.
+promptHint_ru: Изучайте для адаптации.
+promptHint_en: Study for adaptation.
+opposite_ru: варварство
+opposite_en: barbarism
+metaphor_ru: Общий фундамент.
+metaphor_en: Common foundation.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: social-environment
+- relation: RELATES_TO
+  target_concept: beliefs
+- relation: RELATES_TO
+  target_concept: world-picture
+- relation: RELATES_TO
+  target_concept: корпоративная-культура
+- relation: PART_OF
+  target_concept: культура-обучения
+- relation: HAS_EXAMPLE
+  target_concept: искусство
+- relation: RELATES_TO
+  target_concept: культура обучения
+- relation: RELATES_TO
+  target_concept: культура МИМ
+- relation: RELATES_TO
+  target_concept: сообщество единомышленников
+examples:
+  positive_ru:
+  - Культура способствует развитию.
+  positive_en:
+  - Culture promotes development.
+  negative_ru:
+  - Плохая культура тормозит.
+  negative_en:
+  - Bad culture hinders.
+discipline:
+  name_ru: Социология
+  name_en: Sociology
+  level: L3
+Название: культура
+Определение: Объект, включающий нормы и практики, отличающийся от других объектов
+  их коллективным характером.
+Синонимы: *id001
+Связи:
+- beliefs
+- social-environment
+- world-picture
+- искусство
+- корпоративная-культура
+- культура МИМ
+- культура обучения
+- культура-обучения
+- сообщество единомышленников
+Главы:
+- C1
+- C2
+- C9

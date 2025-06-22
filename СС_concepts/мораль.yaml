@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/мораль
+name_ru: Мораль
+name_en: Morality
+purpose_ru: Определяет нормы поведения в обществе.
+purpose_en: Defines behavioral norms in society.
+conceptType: System
+usageContext_ru: В этике для установления правил.
+usageContext_en: In ethics for establishing rules.
+synonyms_ru: &id001
+- Нравственность
+synonyms_en:
+- Ethics Norms
+not_this_ru: Не является законом.
+not_this_en: It is not law.
+definition_ru: Система, заключающаяся в принятых представлениях о добре и зле, отличающаяся
+  от этики как дисциплины.
+definition_en: A system consisting of accepted ideas of good and evil, distinguished
+  from ethics as a discipline.
+summary_ru: ''
+summary_en: ''
+example_ru: Мораль включает нормы поведения в сообществе.
+example_en: Morality includes behavioral norms in society.
+promptHint_ru: Используйте для этического анализа.
+promptHint_en: Use for ethical analysis.
+opposite_ru: Иморализм
+opposite_en: Immorality
+metaphor_ru: Как социальный кодекс.
+metaphor_en: Like a social code.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: этика
+- relation: PART_OF
+  target_concept: этика и успешная система
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Принятая мораль в культуре.
+  positive_en:
+  - Accepted morality in culture.
+  negative_ru:
+  - Нарушение моральных норм.
+  negative_en:
+  - Violation of moral norms.
+discipline:
+  name_ru: Этика
+  name_en: Ethics
+  level: L3
+Название: Мораль
+Определение: Система, заключающаяся в принятых представлениях о добре и зле, отличающаяся
+  от этики как дисциплины.
+Синонимы: *id001
+Связи:
+- сострадание
+- этика
+- этика и успешная система
+Главы:
+- C8

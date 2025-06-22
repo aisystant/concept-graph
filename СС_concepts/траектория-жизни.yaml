@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/траектория-жизни
+name_ru: траектория жизни
+name_en: life trajectory
+purpose_ru: Определяет путь развития.
+purpose_en: Determines development path.
+conceptType: object
+usageContext_ru: В планировании.
+usageContext_en: In planning.
+synonyms_ru: &id001
+- путь жизни
+synonyms_en:
+- life path
+not_this_ru: Не является случайным.
+not_this_en: Not random.
+definition_ru: Объект, представляющий последовательность событий, отличающийся от
+  других объектов его направленностью.
+definition_en: An object representing a sequence of events, distinguished from other
+  objects by its direction.
+summary_ru: ''
+summary_en: ''
+example_ru: Траектория жизни включает этапы от задач к сверхцелям.
+example_en: Life trajectory includes stages from tasks to super goals.
+promptHint_ru: Планируйте заранее.
+promptHint_en: Plan ahead.
+opposite_ru: хаотичный путь
+opposite_en: chaotic path
+metaphor_ru: Дорога в будущее.
+metaphor_en: Road to the future.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: смысл жизни
+- relation: RELATES_TO
+  target_concept: личные цели
+- relation: RELATES_TO
+  target_concept: создатель
+examples:
+  positive_ru:
+  - Хорошая траектория приводит к успеху.
+  positive_en:
+  - Good trajectory leads to success.
+  negative_ru:
+  - Плохая приводит к кризисам.
+  negative_en:
+  - Bad leads to crises.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: траектория жизни
+Определение: Объект, представляющий последовательность событий, отличающийся от других
+  объектов его направленностью.
+Синонимы: *id001
+Связи:
+- личные цели
+- смысл жизни
+- создатель
+Главы:
+- C9

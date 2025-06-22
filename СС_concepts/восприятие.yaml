@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/восприятие
+name_ru: Восприятие
+name_en: Perception
+purpose_ru: Формирует понимание окружающего мира.
+purpose_en: Forms understanding of the surrounding world.
+conceptType: Process
+usageContext_ru: В сенсорном опыте.
+usageContext_en: In sensory experience.
+synonyms_ru: &id001
+- Ощущение
+synonyms_en:
+- Sensation
+not_this_ru: Не пассивное, а активное.
+not_this_en: Not passive, but active.
+definition_ru: Процесс, заключающийся в обработке сенсорной информации для взаимодействия
+  с миром.
+definition_en: A process, characterized by processing sensory information for world
+  interaction.
+summary_ru: ''
+summary_en: ''
+example_ru: Восприятие через внимание в сложных ситуациях.
+example_en: Perception through attention in complex situations.
+promptHint_ru: Улучшайте восприятие через осознанность.
+promptHint_en: Improve perception through awareness.
+opposite_ru: Невосприятие
+opposite_en: Non-perception
+metaphor_ru: Как фильтр, пропускающий информацию.
+metaphor_en: Like a filter passing information.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: внимание S2
+- relation: HAS_EXAMPLE
+  target_concept: мультимодальное внимание
+examples:
+  positive_ru:
+  - Эффективное восприятие улучшает решения.
+  positive_en:
+  - Effective perception improves decisions.
+  negative_ru:
+  - Ошибочное восприятие приводит к ошибкам.
+  negative_en:
+  - Faulty perception leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Восприятие
+Определение: Процесс, заключающийся в обработке сенсорной информации для взаимодействия
+  с миром.
+Синонимы: *id001
+Связи:
+- внимание
+- внимание S2
+- мультимодальное внимание
+Главы:
+- C3

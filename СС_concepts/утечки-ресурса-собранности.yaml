@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/утечки-ресурса-собранности
+name_ru: Утечки ресурса собранности
+name_en: Leaks of Collectedness Resource
+purpose_ru: Идентифицирует потери для их минимизации.
+purpose_en: Identifies losses for minimization.
+conceptType: Process
+usageContext_ru: В управлении вниманием.
+usageContext_en: In attention management.
+synonyms_ru: &id001
+- Потери собранности
+synonyms_en:
+- Collectedness Losses
+not_this_ru: Не полезные расходы.
+not_this_en: Not useful expenditures.
+definition_ru: Процесс, заключающийся в неконтролируемых потерях внимания из-за отвлечений
+  и перегрузок.
+definition_en: A process, characterized by uncontrolled attention losses due to distractions
+  and overloads.
+summary_ru: ''
+summary_en: ''
+example_ru: Утечки из-за эмоциональных факторов.
+example_en: Leaks due to emotional factors.
+promptHint_ru: Минимизируйте утечки через планирование.
+promptHint_en: Minimize leaks through planning.
+opposite_ru: Сохранение ресурса
+opposite_en: Resource Preservation
+metaphor_ru: Как протечки в трубе.
+metaphor_en: Like leaks in a pipe.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: ресурсы
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: эмоциональные факторы
+examples:
+  positive_ru:
+  - Контроль утечек повышает эффективность.
+  positive_en:
+  - Controlling leaks increases efficiency.
+  negative_ru:
+  - Утечки снижают продуктивность.
+  negative_en:
+  - Leaks reduce productivity.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Утечки ресурса собранности
+Определение: Процесс, заключающийся в неконтролируемых потерях внимания из-за отвлечений
+  и перегрузок.
+Синонимы: *id001
+Связи:
+- ресурсы
+- собранность
+- эмоциональные факторы
+Главы:
+- C3

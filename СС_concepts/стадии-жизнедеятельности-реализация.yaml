@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L5/concept/стадии-жизнедеятельности-реализация
+name_ru: стадии жизнедеятельности – реализация
+name_en: stages of life activity – implementation
+purpose_ru: Выполняет планы.
+purpose_en: Executes plans.
+conceptType: Процесс
+usageContext_ru: В общих стадиях.
+usageContext_en: In general stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является планированием.
+not_this_en: Not planning.
+definition_ru: Процесс, входящий в стадии жизнедеятельности, отличающийся практическим
+  выполнением.
+definition_en: A process within life stages, distinguished by practical execution.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Стадия: выполнение задач.'
+example_en: 'Stage: task execution.'
+promptHint_ru: Действуйте по плану.
+promptHint_en: Act according to plan.
+opposite_ru: Планирование без действий
+opposite_en: Planning without actions
+metaphor_ru: Превращение слов в дела.
+metaphor_en: Turning words into deeds.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: планирование работ
+- relation: RELATES_TO
+  target_concept: досуг
+examples:
+  positive_ru:
+  - Успешная реализация плана.
+  positive_en:
+  - Successful plan implementation.
+  negative_ru:
+  - Провал из-за нереализации.
+  negative_en:
+  - Failure due to non-implementation.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: стадии жизнедеятельности – реализация
+Определение: Процесс, входящий в стадии жизнедеятельности, отличающийся практическим
+  выполнением.
+Синонимы: *id001
+Связи:
+- досуг
+- планирование работ
+- стадии жизнедеятельности
+Главы:
+- C5

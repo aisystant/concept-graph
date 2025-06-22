@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/внимание-в-моменте-стоп-момент
+name_ru: Внимание в моменте (стоп-момент)
+name_en: Attention in the Moment (Stop Moment)
+purpose_ru: Позволяет осознанно прерывать автоматизм.
+purpose_en: Allows conscious interruption of automatism.
+conceptType: Process
+usageContext_ru: В принятии решений.
+usageContext_en: In decision-making.
+synonyms_ru: &id001
+- Мгновенное внимание
+synonyms_en:
+- Instant Attention
+not_this_ru: Не постоянное.
+not_this_en: Not constant.
+definition_ru: Процесс, заключающийся в осознанной паузе для перенаправления внимания.
+definition_en: A process, characterized by a conscious pause to redirect attention.
+summary_ru: ''
+summary_en: ''
+example_ru: Стоп-момент в практике инвестирования времени.
+example_en: Stop moment in time investment practice.
+promptHint_ru: Используйте стоп-момент для рефлексии.
+promptHint_en: Use stop moment for reflection.
+opposite_ru: Автоматизм
+opposite_en: Automatism
+metaphor_ru: Как тормоз в движении.
+metaphor_en: Like a brake in motion.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: первая сигнальная система
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: ритуал практики инвестирования и учета времени
+examples:
+  positive_ru:
+  - Стоп-момент улучшает осознанность.
+  positive_en:
+  - Stop moment enhances awareness.
+  negative_ru:
+  - Отсутствие стоп-момента приводит к ошибкам.
+  negative_en:
+  - Lack of stop moment leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Внимание в моменте (стоп-момент)
+Определение: Процесс, заключающийся в осознанной паузе для перенаправления внимания.
+Синонимы: *id001
+Связи:
+- внимание
+- первая сигнальная система
+- ритуал практики инвестирования и учета времени
+Главы:
+- C3

@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L2/concept/осознанная-некомпетентность
+name_ru: осознанная некомпетентность
+name_en: conscious incompetence
+purpose_ru: Выявляет пробелы в знаниях для роста.
+purpose_en: Identifies knowledge gaps for growth.
+conceptType: Stage
+usageContext_ru: В контексте моделей обучения.
+usageContext_en: In the context of learning models.
+synonyms_ru: &id001
+- осознанное незнание
+synonyms_en:
+- conscious ignorance
+not_this_ru: Не является неосознанным.
+not_this_en: Not unconscious.
+definition_ru: Стадия, где человек осознает свои недостатки и готов учиться.
+definition_en: A stage where a person recognizes their shortcomings and is ready to
+  learn.
+summary_ru: ''
+summary_en: ''
+example_ru: Осознание необходимости обучения новому навыку.
+example_en: Recognizing the need to learn a new skill.
+promptHint_ru: Используйте для старта обучения.
+promptHint_en: Use to start learning.
+opposite_ru: Неосознанная некомпетентность
+opposite_en: Unconscious incompetence
+metaphor_ru: Как пробуждение.
+metaphor_en: Like awakening.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: квадрант-компетенций
+- relation: RELATES_TO
+  target_concept: осознанное-обучение
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+examples:
+  positive_ru:
+  - Осознание некомпетентности как шаг к мастерству.
+  positive_en:
+  - Recognizing incompetence as a step to mastery.
+  negative_ru:
+  - Отрицание некомпетентности.
+  negative_en:
+  - Denying incompetence.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: осознанная некомпетентность
+Определение: Стадия, где человек осознает свои недостатки и готов учиться.
+Синонимы: *id001
+Связи:
+- квадрант-компетенций
+- мышление
+- осознанное-обучение
+Главы:
+- C2

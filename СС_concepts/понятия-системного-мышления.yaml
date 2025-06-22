@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/понятия-системного-мышления
+name_ru: понятия системного мышления
+name_en: concepts of systemic thinking
+purpose_ru: Формируют основу для системного анализа.
+purpose_en: Form the basis for systemic analysis.
+conceptType: concept set
+usageContext_ru: В системном мышлении для моделирования.
+usageContext_en: In systemic thinking for modeling.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не являются случайными терминами.
+not_this_en: Not random terms.
+definition_ru: Множество понятий, используемых в системном мышлении, отличающееся
+  связью с трансдисциплинами.
+definition_en: A set of concepts used in systemic thinking, distinguished by connection
+  to transdisciplines.
+summary_ru: ''
+summary_en: ''
+example_ru: Понятия как система, роль в анализе проектов.
+example_en: Concepts like system, role in project analysis.
+promptHint_ru: Изучайте для применения.
+promptHint_en: Study for application.
+opposite_ru: Прикладные понятия
+opposite_en: Applied concepts
+metaphor_ru: Инструменты мышления.
+metaphor_en: Tools of thinking.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: понятие
+- relation: RELATES_TO
+  target_concept: мышление
+- relation: PART_OF
+  target_concept: системное мышление
+examples:
+  positive_ru:
+  - Использование в моделях.
+  positive_en:
+  - Use in models.
+  negative_ru:
+  - Отсутствие системных понятий.
+  negative_en:
+  - Absence of systemic concepts.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: понятия системного мышления
+Определение: Множество понятий, используемых в системном мышлении, отличающееся связью
+  с трансдисциплинами.
+Синонимы: *id001
+Связи:
+- мышление
+- понятие
+- системное мышление
+Главы:
+- C6

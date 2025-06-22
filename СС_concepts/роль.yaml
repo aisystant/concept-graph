@@ -1,0 +1,93 @@
+iri: https://system-school.ru/L8/concept/роль
+name_ru: Роль
+name_en: Role
+purpose_ru: Определяет функции агента в системе.
+purpose_en: Defines the functions of an agent in a system.
+conceptType: Role
+usageContext_ru: В системном мышлении для распределения задач.
+usageContext_en: In systems thinking for task distribution.
+synonyms_ru: &id001
+- проектная роль
+- функция
+- Функция
+synonyms_en:
+- project role
+- function
+- Function
+not_this_ru: Не является личностью.
+not_this_en: It is not personality.
+definition_ru: Роль, в которой агент выполняет определенные действия, отличающаяся
+  от его общих характеристик.
+definition_en: A role in which an agent performs specific actions, distinguished from
+  its general characteristics.
+summary_ru: ''
+summary_en: ''
+example_ru: Роль в проекте определяет предпочтения.
+example_en: Role in a project determines preferences.
+promptHint_ru: Используйте для анализа позиций.
+promptHint_en: Use for analyzing positions.
+opposite_ru: Безрольность
+opposite_en: Ruelessness
+metaphor_ru: Как маска в театре.
+metaphor_en: Like a mask in theater.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: исполнитель роли
+- relation: RELATES_TO
+  target_concept: метод
+- relation: RELATES_TO
+  target_concept: ролевое мастерство
+- relation: RELATES_TO
+  target_concept: должность
+- relation: PART_OF
+  target_concept: системный менеджмент
+- relation: HAS_EXAMPLE
+  target_concept: инженер
+- relation: ALIGNS_WITH
+  target_concept: менеджмент
+- relation: IS_A
+  target_concept: директор по развитию
+- relation: IS_A
+  target_concept: ролевой интерес
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: агент
+examples:
+  positive_ru:
+  - Эффективная роль в команде.
+  positive_en:
+  - Effective role in a team.
+  negative_ru:
+  - Неподходящая роль, вызывающая проблемы.
+  negative_en:
+  - Unsuitable role causing problems.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systems Thinking
+  level: L3
+Название: Роль
+Определение: Роль, в которой агент выполняет определенные действия, отличающаяся от
+  его общих характеристик.
+Синонимы: *id001
+Связи:
+- агент
+- директор по развитию
+- должность
+- инженер
+- исполнитель роли
+- менеджмент
+- метод
+- ролевое мастерство
+- ролевой интерес
+- системное мышление
+- системный менеджмент
+Главы:
+- C5
+- C7
+- C8

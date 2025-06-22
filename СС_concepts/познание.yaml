@@ -1,0 +1,75 @@
+iri: https://system-school.ru/L8/concept/познание
+name_ru: Познание
+name_en: Cognition
+purpose_ru: Включает процесс получения знаний.
+purpose_en: Includes the process of acquiring knowledge.
+conceptType: Process
+usageContext_ru: В обучении для развития.
+usageContext_en: In learning for development.
+synonyms_ru: &id001
+- знание
+- Обучение
+synonyms_en:
+- knowledge acquisition
+- Learning
+not_this_ru: Не является пассивным.
+not_this_en: It is not passive.
+definition_ru: Процесс, в ходе которого происходит сбор и обработка информации, отличающийся
+  от интуиции.
+definition_en: A process in which information is gathered and processed, distinguished
+  from intuition.
+summary_ru: ''
+summary_en: ''
+example_ru: Познание расширяет знания для оптимизма.
+example_en: Cognition expands knowledge for optimism.
+promptHint_ru: Используйте для образовательных стратегий.
+promptHint_en: Use for educational strategies.
+opposite_ru: Незнание
+opposite_en: Ignorance
+metaphor_ru: Как путь к мудрости.
+metaphor_en: Like a path to wisdom.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: thinking
+- relation: RELATES_TO
+  target_concept: intellect
+- relation: RELATES_TO
+  target_concept: self-development
+- relation: IS_A
+  target_concept: знания
+- relation: PART_OF
+  target_concept: жизненное мастерство
+- relation: RELATES_TO
+  target_concept: принцип оптимизма
+examples:
+  positive_ru:
+  - Активное познание мира.
+  positive_en:
+  - Active cognition of the world.
+  negative_ru:
+  - Отсутствие познания, приводящее к застою.
+  negative_en:
+  - Lack of cognition leading to stagnation.
+discipline:
+  name_ru: Образование
+  name_en: Education
+  level: L2
+Название: Познание
+Определение: Процесс, в ходе которого происходит сбор и обработка информации, отличающийся
+  от интуиции.
+Синонимы: *id001
+Связи:
+- intellect
+- self-development
+- thinking
+- жизненное мастерство
+- знания
+- принцип оптимизма
+Главы:
+- C1
+- C8

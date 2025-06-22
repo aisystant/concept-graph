@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L1/concept/профессиональное-мастерство
+name_ru: профессиональное мастерство
+name_en: professional-mastery
+purpose_ru: Позволяет решать специфические задачи.
+purpose_en: Enables solving specific tasks.
+conceptType: skill
+usageContext_ru: В карьере.
+usageContext_en: In career.
+synonyms_ru: &id001
+- специальное мастерство
+synonyms_en:
+- specialized mastery
+not_this_ru: Не является общим.
+not_this_en: Not general.
+definition_ru: Навык, заключающийся в экспертизе в области, отличающийся от мыслительного
+  мастерства через практическое применение.
+definition_en: A skill consisting of expertise in a field, differentiated from thinking
+  mastery by practical application.
+summary_ru: ''
+summary_en: ''
+example_ru: Профессиональное мастерство в бухгалтерии.
+example_en: Professional mastery in accounting.
+promptHint_ru: Развивайте в профессии.
+promptHint_en: Develop in your profession.
+opposite_ru: непрофессионализм
+opposite_en: unprofessionalism
+metaphor_ru: Острое орудие.
+metaphor_en: Sharp tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: life-mastery
+- relation: RELATES_TO
+  target_concept: mastery
+- relation: RELATES_TO
+  target_concept: professional
+examples:
+  positive_ru:
+  - Профессиональное мастерство повышает эффективность.
+  positive_en:
+  - Professional mastery increases efficiency.
+  negative_ru:
+  - Его отсутствие приводит к ошибкам.
+  negative_en:
+  - Its absence leads to errors.
+discipline:
+  name_ru: Системное саморазвитие
+  name_en: Systemic Self-Development
+  level: L3
+Название: профессиональное мастерство
+Определение: Навык, заключающийся в экспертизе в области, отличающийся от мыслительного
+  мастерства через практическое применение.
+Синонимы: *id001
+Связи:
+- life-mastery
+- mastery
+- professional
+Главы:
+- C1

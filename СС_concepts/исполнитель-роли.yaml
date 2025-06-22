@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L5/concept/исполнитель-роли
+name_ru: исполнитель роли
+name_en: role performer
+purpose_ru: Осуществляет действия по роли.
+purpose_en: Carries out actions according to the role.
+conceptType: Объект
+usageContext_ru: В анализе поведения в проектах.
+usageContext_en: In analyzing behavior in projects.
+synonyms_ru: &id001
+- агент
+synonyms_en:
+- agent
+not_this_ru: Не является ролью.
+not_this_en: Not the role.
+definition_ru: Объект, представляющий человека в роли, отличающийся квалификацией
+  и мастерством.
+definition_en: An object representing a person in a role, distinguished by qualification
+  and mastery.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Исполнитель роли: актер в театре.'
+example_en: 'Role performer: actor in theater.'
+promptHint_ru: Анализируйте для улучшения исполнения.
+promptHint_en: Analyze for better performance.
+opposite_ru: Неактивный участник
+opposite_en: Inactive participant
+metaphor_ru: Актер на сцене.
+metaphor_en: Actor on stage.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: агент
+- relation: RELATES_TO
+  target_concept: роль
+- relation: RELATES_TO
+  target_concept: метод
+examples:
+  positive_ru:
+  - Эффективный исполнитель роли менеджера.
+  positive_en:
+  - Effective role performer as a manager.
+  negative_ru:
+  - Человек, избегающий ролей.
+  negative_en:
+  - Person avoiding roles.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L3
+Название: исполнитель роли
+Определение: Объект, представляющий человека в роли, отличающийся квалификацией и
+  мастерством.
+Синонимы: *id001
+Связи:
+- агент
+- метод
+- роль
+Главы:
+- C5

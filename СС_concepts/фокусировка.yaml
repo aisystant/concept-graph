@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L3/concept/фокусировка
+name_ru: Фокусировка
+name_en: Focusing
+purpose_ru: Направляет внимание на ключевые элементы.
+purpose_en: Directs attention to key elements.
+conceptType: Process
+usageContext_ru: В задачах и решениях.
+usageContext_en: In tasks and decisions.
+synonyms_ru: &id001
+- Сосредоточение
+synonyms_en:
+- Focusing
+not_this_ru: Не рассеянность.
+not_this_en: Not distraction.
+definition_ru: Процесс внимания, заключающийся в концентрации на выбранном объекте.
+definition_en: An attention process, characterized by concentration on a selected
+  object.
+summary_ru: ''
+summary_en: ''
+example_ru: Фокусировка на важных задачах во время работы.
+example_en: Focusing on important tasks during work.
+promptHint_ru: Используйте фокусировку для глубокого анализа.
+promptHint_en: Use focusing for deep analysis.
+opposite_ru: Расфокусировка
+opposite_en: Unfocusing
+metaphor_ru: Как линза, собирающая свет.
+metaphor_en: Like a lens gathering light.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: собранность
+- relation: HAS_EXAMPLE
+  target_concept: наведение внимания
+examples:
+  positive_ru:
+  - Фокусировка повышает точность.
+  positive_en:
+  - Focusing increases accuracy.
+  negative_ru:
+  - Отсутствие фокусировки приводит к ошибкам.
+  negative_en:
+  - Lack of focusing leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Фокусировка
+Определение: Процесс внимания, заключающийся в концентрации на выбранном объекте.
+Синонимы: *id001
+Связи:
+- внимание
+- наведение внимания
+- собранность
+Главы:
+- C3

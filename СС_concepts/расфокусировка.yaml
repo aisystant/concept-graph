@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/расфокусировка
+name_ru: Расфокусировка
+name_en: Unfocusing
+purpose_ru: Распределяет внимание.
+purpose_en: Distributes attention.
+conceptType: Process
+usageContext_ru: В анализе.
+usageContext_en: In analysis.
+synonyms_ru: &id001
+- Рассеивание
+synonyms_en:
+- Scattering
+not_this_ru: Не фокус.
+not_this_en: Not focus.
+definition_ru: Процесс, заключающийся в рассеивании внимания на несколько объектов.
+definition_en: A process, characterized by dispersing attention across multiple objects.
+summary_ru: ''
+summary_en: ''
+example_ru: Расфокусировка в поиске идей.
+example_en: Unfocusing in idea searching.
+promptHint_ru: Используйте расфокусировку для творчества.
+promptHint_en: Use unfocusing for creativity.
+opposite_ru: Фокусировка
+opposite_en: Focusing
+metaphor_ru: Как расширение поля зрения.
+metaphor_en: Like expanding the field of view.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание
+- relation: PART_OF
+  target_concept: управление вниманием
+- relation: HAS_EXAMPLE
+  target_concept: отвлечения
+examples:
+  positive_ru:
+  - Расфокусировка стимулирует креативность.
+  positive_en:
+  - Unfocusing stimulates creativity.
+  negative_ru:
+  - Избыточная расфокусировка приводит к хаосу.
+  negative_en:
+  - Excessive unfocusing leads to chaos.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Расфокусировка
+Определение: Процесс, заключающийся в рассеивании внимания на несколько объектов.
+Синонимы: *id001
+Связи:
+- внимание
+- отвлечения
+- управление вниманием
+Главы:
+- C3

@@ -1,0 +1,59 @@
+iri: https://system-school.ru/L5/concept/стадии-жизнедеятельности-размышления
+name_ru: стадии жизнедеятельности – размышления
+name_en: stages of life activity – reflections
+purpose_ru: Генерирует идеи.
+purpose_en: Generates ideas.
+conceptType: Процесс
+usageContext_ru: В общих стадиях.
+usageContext_en: In general stages.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является потреблением.
+not_this_en: Not consumption.
+definition_ru: Процесс, входящий в стадии жизнедеятельности, отличающийся анализом
+  мыслей.
+definition_en: A process within life stages, distinguished by thought analysis.
+summary_ru: ''
+summary_en: ''
+example_ru: 'Стадия: мышление письмом.'
+example_en: 'Stage: thinking in writing.'
+promptHint_ru: Практикуйте для инноваций.
+promptHint_en: Practice for innovations.
+opposite_ru: Поверхностное мышление
+opposite_en: Superficial thinking
+metaphor_ru: Переработка материалов.
+metaphor_en: Material processing.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: стадии жизнедеятельности
+- relation: RELATES_TO
+  target_concept: потребление информации
+- relation: RELATES_TO
+  target_concept: личное стратегирование
+examples:
+  positive_ru:
+  - Глубокие размышления.
+  positive_en:
+  - Deep reflections.
+  negative_ru:
+  - Быстрое игнорирование.
+  negative_en:
+  - Quick ignoring.
+discipline:
+  name_ru: Системное мышление
+  name_en: Systemic Thinking
+  level: L2
+Название: стадии жизнедеятельности – размышления
+Определение: Процесс, входящий в стадии жизнедеятельности, отличающийся анализом мыслей.
+Синонимы: *id001
+Связи:
+- личное стратегирование
+- потребление информации
+- стадии жизнедеятельности
+Главы:
+- C5

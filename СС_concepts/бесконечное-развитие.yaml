@@ -1,0 +1,82 @@
+iri: https://system-school.ru/L9/concept/бесконечное-развитие
+name_ru: бесконечное развитие
+name_en: infinite development
+purpose_ru: Обеспечивает непрерывное улучшение и адаптацию к изменениям для достижения
+  успеха.
+purpose_en: Ensures continuous improvement and adaptation to changes for achieving
+  success.
+conceptType: process
+usageContext_ru: В саморазвитии и создании систем.
+usageContext_en: In self-development and system creation.
+synonyms_ru: &id001
+- Вечное развитие
+- непрерывное развитие
+synonyms_en:
+- Endless Growth
+- continuous development
+not_this_ru: Не является конечным достижением.
+not_this_en: Not a finite achievement.
+definition_ru: Процесс, в ходе которого личность или система постоянно эволюционирует,
+  отличающийся от других процессов отсутствием конечных границ и фокусом на бесконечном
+  улучшении.
+definition_en: A process in which a personality or system continuously evolves, distinguished
+  from other processes by the absence of finite boundaries and a focus on endless
+  improvement.
+summary_ru: ''
+summary_en: ''
+example_ru: Создатель занимается бесконечным развитием, устраняя неудовлетворенности
+  и создавая системы.
+example_en: A creator engages in infinite development, eliminating dissatisfactions
+  and creating systems.
+promptHint_ru: Применяйте для планирования долгосрочных целей.
+promptHint_en: Apply for planning long-term goals.
+opposite_ru: конечное развитие
+opposite_en: finite development
+metaphor_ru: Бесконечная река, текучая без остановки.
+metaphor_en: An endless river flowing without stop.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: жизненное мастерство
+- relation: PART_OF
+  target_concept: системное мышление
+- relation: RELATES_TO
+  target_concept: удача
+- relation: IS_A
+  target_concept: саморазвитие
+- relation: RELATES_TO
+  target_concept: неудовлетворенности
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Бесконечное развитие приводит к созданию успешных систем.
+  positive_en:
+  - Infinite development leads to creating successful systems.
+  negative_ru:
+  - Отсутствие бесконечного развития приводит к застою.
+  negative_en:
+  - Lack of infinite development leads to stagnation.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: бесконечное развитие
+Определение: Процесс, в ходе которого личность или система постоянно эволюционирует,
+  отличающийся от других процессов отсутствием конечных границ и фокусом на бесконечном
+  улучшении.
+Синонимы: *id001
+Связи:
+- жизненное мастерство
+- неудовлетворенности
+- саморазвитие
+- системное мышление
+- удача
+- успех
+Главы:
+- C8
+- C9

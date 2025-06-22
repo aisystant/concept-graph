@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/сверхцель
+name_ru: сверхцель
+name_en: super goal
+purpose_ru: Мотивирует к большим достижениям.
+purpose_en: Motivates for great achievements.
+conceptType: object
+usageContext_ru: В стратегировании.
+usageContext_en: In strategizing.
+synonyms_ru: &id001
+- высокая цель
+synonyms_en:
+- high goal
+not_this_ru: Не является мелкой.
+not_this_en: Not minor.
+definition_ru: Объект, представляющий амбициозную цель, отличающийся от других объектов
+  своим масштабом.
+definition_en: An object representing an ambitious goal, distinguished from other
+  objects by its scale.
+summary_ru: ''
+summary_en: ''
+example_ru: Сверхцель включает продление жизни.
+example_en: Super goal includes life extension.
+promptHint_ru: Ставьте для вдохновения.
+promptHint_en: Set for inspiration.
+opposite_ru: мелкая цель
+opposite_en: minor goal
+metaphor_ru: Далекий горизонт.
+metaphor_en: Distant horizon.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: великая идея
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Сверхцель мотивирует развитие.
+  positive_en:
+  - Super goal motivates development.
+  negative_ru:
+  - Ее отсутствие приводит к безынициативности.
+  negative_en:
+  - Its absence leads to lack of initiative.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: сверхцель
+Определение: Объект, представляющий амбициозную цель, отличающийся от других объектов
+  своим масштабом.
+Синонимы: *id001
+Связи:
+- агентность
+- великая идея
+- успех
+Главы:
+- C9

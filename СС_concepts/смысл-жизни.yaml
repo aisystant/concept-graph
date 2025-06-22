@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L9/concept/смысл-жизни
+name_ru: смысл жизни
+name_en: meaning of life
+purpose_ru: Даёт направление.
+purpose_en: Gives direction.
+conceptType: object
+usageContext_ru: В философии.
+usageContext_en: In philosophy.
+synonyms_ru: &id001
+- цель существования
+synonyms_en:
+- purpose of existence
+not_this_ru: Не является универсальным.
+not_this_en: Not universal.
+definition_ru: Объект, представляющий личный смысл, отличающийся от других объектов
+  его субъективностью.
+definition_en: An object representing personal meaning, distinguished from other objects
+  by its subjectivity.
+summary_ru: ''
+summary_en: ''
+example_ru: Смысл жизни в создании систем.
+example_en: Meaning of life in creating systems.
+promptHint_ru: Ищите в себе.
+promptHint_en: Seek within yourself.
+opposite_ru: бессмысленность
+opposite_en: meaninglessness
+metaphor_ru: Внутренний свет.
+metaphor_en: Inner light.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: создатель
+- relation: RELATES_TO
+  target_concept: траектория жизни
+- relation: RELATES_TO
+  target_concept: успех
+examples:
+  positive_ru:
+  - Смысл жизни мотивирует.
+  positive_en:
+  - Meaning of life motivates.
+  negative_ru:
+  - Его отсутствие приводит к кризису.
+  negative_en:
+  - Its absence leads to crisis.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: смысл жизни
+Определение: Объект, представляющий личный смысл, отличающийся от других объектов
+  его субъективностью.
+Синонимы: *id001
+Связи:
+- создатель
+- траектория жизни
+- успех
+Главы:
+- C9

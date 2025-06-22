@@ -1,0 +1,61 @@
+iri: https://system-school.ru/L6/concept/наша-система
+name_ru: наша система
+name_en: our system
+purpose_ru: Определяет систему для конкретной команды или человека.
+purpose_en: Defines the system for a specific team or person.
+conceptType: system
+usageContext_ru: В системном мышлении для фокуса на ответственности.
+usageContext_en: In systemic thinking for focusing on responsibility.
+synonyms_ru: &id001 []
+synonyms_en: []
+not_this_ru: Не является общей системой.
+not_this_en: Not a general system.
+definition_ru: Система, принадлежащая или управляемая конкретным агентом, отличающаяся
+  личной значимостью.
+definition_en: A system owned or managed by a specific agent, distinguished by personal
+  significance.
+summary_ru: ''
+summary_en: ''
+example_ru: Мотор как наша система в проекте автомобиля.
+example_en: Engine as our system in a car project.
+promptHint_ru: Определите для командной работы.
+promptHint_en: Define for team work.
+opposite_ru: Чужая система
+opposite_en: Foreign system
+metaphor_ru: Личный инструмент.
+metaphor_en: Personal tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: целевая система
+- relation: PART_OF
+  target_concept: проект
+examples:
+  positive_ru:
+  - Система команды в проекте.
+  positive_en:
+  - Team's system in a project.
+  negative_ru:
+  - Общая система без личной связи.
+  negative_en:
+  - General system without personal connection.
+discipline:
+  name_ru: Менеджмент
+  name_en: Management
+  level: L3
+Название: наша система
+Определение: Система, принадлежащая или управляемая конкретным агентом, отличающаяся
+  личной значимостью.
+Синонимы: *id001
+Связи:
+- проект
+- система
+- целевая система
+Главы:
+- C6

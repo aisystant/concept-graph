@@ -1,0 +1,85 @@
+iri: https://system-school.ru/L9/concept/успешная-система
+name_ru: успешная система
+name_en: successful system
+purpose_ru: Решает проблемы других.
+purpose_en: Solves others' problems.
+conceptType: object
+usageContext_ru: В проектировании.
+usageContext_en: In design.
+synonyms_ru: &id001
+- эффективная система
+synonyms_en:
+- effective system
+not_this_ru: Не является неудачной.
+not_this_en: Not unsuccessful.
+definition_ru: Объект, удовлетворяющий интересы, отличающийся от других объектов своей
+  полезностью.
+definition_en: An object satisfying interests, distinguished from other objects by
+  its usefulness.
+summary_ru: ''
+summary_en: ''
+example_ru: Успешная система устраняет неудовлетворенности.
+example_en: A successful system eliminates dissatisfactions.
+promptHint_ru: Создавайте для воздействия.
+promptHint_en: Create for impact.
+opposite_ru: неуспешная система
+opposite_en: unsuccessful system
+metaphor_ru: Рабочий механизм.
+metaphor_en: Working mechanism.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Create
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: система
+- relation: RELATES_TO
+  target_concept: заинтересованные лица
+- relation: PART_OF
+  target_concept: системное описание
+- relation: PART_OF
+  target_concept: техноэволюция
+- relation: RELATES_TO
+  target_concept: мем
+- relation: HAS_EXAMPLE
+  target_concept: система
+- relation: ALIGNS_WITH
+  target_concept: инженерия
+- relation: IS_A
+  target_concept: предпринимательство
+- relation: RELATES_TO
+  target_concept: успех
+- relation: RELATES_TO
+  target_concept: создатель
+examples:
+  positive_ru:
+  - Успешная система улучшает мир.
+  positive_en:
+  - Successful system improves the world.
+  negative_ru:
+  - Неуспешная вызывает проблемы.
+  negative_en:
+  - Unsuccessful causes problems.
+discipline:
+  name_ru: Инженерия
+  name_en: Engineering
+  level: L3
+Название: успешная система
+Определение: Объект, удовлетворяющий интересы, отличающийся от других объектов своей
+  полезностью.
+Синонимы: *id001
+Связи:
+- заинтересованные лица
+- инженерия
+- мем
+- предпринимательство
+- система
+- системное описание
+- создатель
+- техноэволюция
+- успех
+Главы:
+- C6
+- C7
+- C9

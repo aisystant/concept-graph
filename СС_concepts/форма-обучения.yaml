@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/форма-обучения
+name_ru: форма обучения
+name_en: learning form
+purpose_ru: Определяет, как учиться.
+purpose_en: Defines how to learn.
+conceptType: Object
+usageContext_ru: В контексте образования.
+usageContext_en: In the context of education.
+synonyms_ru: &id001
+- метод обучения
+synonyms_en:
+- learning method
+not_this_ru: Не является содержанием.
+not_this_en: Not content.
+definition_ru: Объект, описывающий способы организации обучения.
+definition_en: An object describing ways to organize learning.
+summary_ru: ''
+summary_en: ''
+example_ru: Форма обучения — онлайн-курсы.
+example_en: Learning form — online courses.
+promptHint_ru: Используйте для выбора методов.
+promptHint_en: Use for selecting methods.
+opposite_ru: Содержание обучения
+opposite_en: Learning content
+metaphor_ru: Как рамка для содержания.
+metaphor_en: Like a frame for content.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Understand
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: содержание-обучения
+- relation: PART_OF
+  target_concept: обучение
+- relation: HAS_EXAMPLE
+  target_concept: умение-учиться
+examples:
+  positive_ru:
+  - Эффективная форма для обучения.
+  positive_en:
+  - Effective form for learning.
+  negative_ru:
+  - Неадаптированная форма.
+  negative_en:
+  - Unadapted form.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: форма обучения
+Определение: Объект, описывающий способы организации обучения.
+Синонимы: *id001
+Связи:
+- обучение
+- содержание-обучения
+- умение-учиться
+Главы:
+- C2

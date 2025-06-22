@@ -1,0 +1,74 @@
+iri: https://system-school.ru/L9/concept/свобода-воли
+name_ru: свобода воли
+name_en: free will
+purpose_ru: Влияет на принятие решений.
+purpose_en: Influences decision-making.
+conceptType: property
+usageContext_ru: В философии.
+usageContext_en: In philosophy.
+synonyms_ru: &id001
+- Воля
+- воля
+synonyms_en:
+- Will
+- will
+not_this_ru: Не является абсолютной.
+not_this_en: Not absolute.
+definition_ru: Свойство, предполагающее выбор, отличающееся от других свойств своей
+  дискуссионностью.
+definition_en: A property assuming choice, distinguished from other properties by
+  its debatability.
+summary_ru: ''
+summary_en: ''
+example_ru: Свобода воли обсуждается в контексте привычек.
+example_en: Free will is discussed in the context of habits.
+promptHint_ru: Размышляйте критически.
+promptHint_en: Reflect critically.
+opposite_ru: детерминизм
+opposite_en: determinism
+metaphor_ru: Крестный путь.
+metaphor_en: Crossroad path.
+formula_ru: ''
+formula_en: ''
+difficulty: 5
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: агентность
+- relation: PART_OF
+  target_concept: привычка
+- relation: RELATES_TO
+  target_concept: автономность
+- relation: RELATES_TO
+  target_concept: агентность
+- relation: RELATES_TO
+  target_concept: привычки
+- relation: RELATES_TO
+  target_concept: саморазвитие
+examples:
+  positive_ru:
+  - Свобода воли позволяет изменениям.
+  positive_en:
+  - Free will allows changes.
+  negative_ru:
+  - Ее отрицание приводит к пассивности.
+  negative_en:
+  - Its denial leads to passivity.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: свобода воли
+Определение: Свойство, предполагающее выбор, отличающееся от других свойств своей
+  дискуссионностью.
+Синонимы: *id001
+Связи:
+- автономность
+- агентность
+- привычка
+- привычки
+- саморазвитие
+Главы:
+- C8
+- C9

@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L3/concept/ритуал-практики-инвестирования-и-учета-времени
+name_ru: Ритуал практики инвестирования и учета времени
+name_en: Ritual of Time Investment and Accounting Practice
+purpose_ru: Структурирует время для продуктивности.
+purpose_en: Structures time for productivity.
+conceptType: Process
+usageContext_ru: В ежедневной рутине.
+usageContext_en: In daily routines.
+synonyms_ru: &id001
+- Ритуал учета времени
+synonyms_en:
+- Time Accounting Ritual
+not_this_ru: Не хаотичный.
+not_this_en: Not chaotic.
+definition_ru: Процесс, заключающийся в ритуальном фиксировании ролей, методов и продуктов
+  для управления временем.
+definition_en: A process, characterized by ritualistic fixing of roles, methods, and
+  products for time management.
+summary_ru: ''
+summary_en: ''
+example_ru: Ритуал с вопросами о роли и методе.
+example_en: Ritual with questions about role and method.
+promptHint_ru: Внедряйте ритуал ежедневно.
+promptHint_en: Implement the ritual daily.
+opposite_ru: Информация отсутствует.
+opposite_en: Information absent.
+metaphor_ru: Как ежедневный ритуал.
+metaphor_en: Like a daily ritual.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: внимание в моменте
+- relation: PART_OF
+  target_concept: инвестирование времени
+- relation: HAS_EXAMPLE
+  target_concept: учет времени
+examples:
+  positive_ru:
+  - Ритуал улучшает планирование.
+  positive_en:
+  - Ritual improves planning.
+  negative_ru:
+  - Пропуск ритуала приводит к хаосу.
+  negative_en:
+  - Skipping ritual leads to chaos.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Ритуал практики инвестирования и учета времени
+Определение: Процесс, заключающийся в ритуальном фиксировании ролей, методов и продуктов
+  для управления временем.
+Синонимы: *id001
+Связи:
+- внимание в моменте
+- инвестирование времени
+- учет времени
+Главы:
+- C3

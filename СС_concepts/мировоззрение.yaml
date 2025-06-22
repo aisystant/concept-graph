@@ -1,0 +1,73 @@
+iri: https://system-school.ru/L9/concept/мировоззрение
+name_ru: мировоззрение
+name_en: worldview
+purpose_ru: Формирует восприятие реальности.
+purpose_en: Forms perception of reality.
+conceptType: object
+usageContext_ru: В принятии решений.
+usageContext_en: In decision-making.
+synonyms_ru: &id001
+- картина мира
+synonyms_en:
+- picture of the world
+not_this_ru: Не является поверхностным.
+not_this_en: Not superficial.
+definition_ru: Объект, представляющий систему взглядов, отличающийся от других объектов
+  глубиной и влиянием на поведение.
+definition_en: An object representing a system of views, distinguished from other
+  objects by depth and influence on behavior.
+summary_ru: ''
+summary_en: ''
+example_ru: Системное мировоззрение помогает в саморазвитии.
+example_en: Systemic worldview aids in self-development.
+promptHint_ru: Развивайте для ясности.
+promptHint_en: Develop for clarity.
+opposite_ru: хаотичное мировоззрение
+opposite_en: chaotic worldview
+metaphor_ru: Линза восприятия.
+metaphor_en: Lens of perception.
+formula_ru: ''
+formula_en: ''
+difficulty: 4
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: знания
+- relation: PART_OF
+  target_concept: мышление
+- relation: HAS_EXAMPLE
+  target_concept: убеждения
+- relation: RELATES_TO
+  target_concept: осознанная жизнь
+- relation: RELATES_TO
+  target_concept: воспитание
+- relation: RELATES_TO
+  target_concept: смысл жизни
+examples:
+  positive_ru:
+  - Правильное мировоззрение ведет к успеху.
+  positive_en:
+  - Correct worldview leads to success.
+  negative_ru:
+  - Ошибочное приводит к ошибкам.
+  negative_en:
+  - Erroneous leads to mistakes.
+discipline:
+  name_ru: Философия
+  name_en: Philosophy
+  level: L3
+Название: мировоззрение
+Определение: Объект, представляющий систему взглядов, отличающийся от других объектов
+  глубиной и влиянием на поведение.
+Синонимы: *id001
+Связи:
+- воспитание
+- знания
+- мышление
+- осознанная жизнь
+- смысл жизни
+- убеждения
+Главы:
+- C2
+- C9

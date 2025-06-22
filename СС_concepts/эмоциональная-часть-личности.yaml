@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L8/concept/эмоциональная-часть-личности
+name_ru: Эмоциональная часть личности
+name_en: Emotional Personality Part
+purpose_ru: Обрабатывает эмоции и впечатления.
+purpose_en: Processes emotions and impressions.
+conceptType: Component
+usageContext_ru: В психологии для анализа эмоций.
+usageContext_en: In psychology for analyzing emotions.
+synonyms_ru: &id001
+- Эмоциональный компонент
+synonyms_en:
+- Emotional Component
+not_this_ru: Не является рациональным.
+not_this_en: It is not rational.
+definition_ru: Компонент личности, заключающийся в эмоциональных функциях, отличающийся
+  от мыслительных.
+definition_en: A component of personality, consisting of emotional functions, distinguished
+  from thinking ones.
+summary_ru: ''
+summary_en: ''
+example_ru: Эмоциональная часть влияет на впечатления.
+example_en: Emotional part influences impressions.
+promptHint_ru: Используйте для эмоционального анализа.
+promptHint_en: Use for emotional analysis.
+opposite_ru: Рациональность
+opposite_en: Rationality
+metaphor_ru: Как эмоциональный двигатель.
+metaphor_en: Like an emotional engine.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Analyze
+version: '1.0'
+related_concepts:
+- relation: IS_A
+  target_concept: личность
+- relation: PART_OF
+  target_concept: модель личности
+- relation: RELATES_TO
+  target_concept: сострадание
+examples:
+  positive_ru:
+  - Эмоциональная часть в решениях.
+  positive_en:
+  - Emotional part in decisions.
+  negative_ru:
+  - Подавление эмоций.
+  negative_en:
+  - Suppression of emotions.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Эмоциональная часть личности
+Определение: Компонент личности, заключающийся в эмоциональных функциях, отличающийся
+  от мыслительных.
+Синонимы: *id001
+Связи:
+- личность
+- модель личности
+- сострадание
+Главы:
+- C8

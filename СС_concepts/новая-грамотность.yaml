@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L2/concept/новая-грамотность
+name_ru: новая грамотность
+name_en: new literacy
+purpose_ru: Расширяет базовые навыки для современного мира.
+purpose_en: Expands basic skills for the modern world.
+conceptType: Process
+usageContext_ru: В контексте культуры обучения.
+usageContext_en: In the context of learning culture.
+synonyms_ru: &id001
+- современная грамотность
+synonyms_en:
+- modern literacy
+not_this_ru: Не является традиционной грамотностью.
+not_this_en: Not traditional literacy.
+definition_ru: Процесс, включающий методы для lifelong learning в цифровую эпоху.
+definition_en: A process involving methods for lifelong learning in the digital era.
+summary_ru: ''
+summary_en: ''
+example_ru: Методы ученика, такие как мышление письмом.
+example_en: Student methods like written thinking.
+promptHint_ru: Используйте для адаптации к изменениям.
+promptHint_en: Use for adapting to changes.
+opposite_ru: Традиционная грамотность
+opposite_en: Traditional literacy
+metaphor_ru: Как обновленный инструмент.
+metaphor_en: Like an updated tool.
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Apply
+version: '1.0'
+related_concepts:
+- relation: PART_OF
+  target_concept: культура-обучения
+- relation: RELATES_TO
+  target_concept: методы-ученика
+- relation: HAS_EXAMPLE
+  target_concept: практики-саморазвития
+examples:
+  positive_ru:
+  - Приобретение новой грамотности для карьеры.
+  positive_en:
+  - Acquiring new literacy for career.
+  negative_ru:
+  - Отсутствие новой грамотности, затрудняющее адаптацию.
+  negative_en:
+  - Lack of new literacy hindering adaptation.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: Systems Management
+  level: L3
+Название: новая грамотность
+Определение: Процесс, включающий методы для lifelong learning в цифровую эпоху.
+Синонимы: *id001
+Связи:
+- культура-обучения
+- методы-ученика
+- практики-саморазвития
+Главы:
+- C2

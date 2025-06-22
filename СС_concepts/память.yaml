@@ -1,0 +1,63 @@
+iri: https://system-school.ru/L4/concept/память
+name_ru: Память
+name_en: Memory
+purpose_ru: Хранить и извлекать информацию для формирования личности.
+purpose_en: To store and retrieve information for personality formation.
+conceptType: object
+usageContext_ru: В психологии и саморазвитии.
+usageContext_en: In psychology and self-development.
+synonyms_ru: &id001
+- Воспоминания
+synonyms_en:
+- Memories
+not_this_ru: Не является статичной.
+not_this_en: Not static.
+definition_ru: Объект, хранящий впечатления и воспоминания, отличаясь от простого
+  хранения тем, что влияет на убеждения и поведение.
+definition_en: Object storing impressions and memories, differing from simple storage
+  by influencing beliefs and behavior.
+summary_ru: ''
+summary_en: ''
+example_ru: Память фиксирует события для будущего анализа.
+example_en: Memory records events for future analysis.
+promptHint_ru: Используйте для рефлексии.
+promptHint_en: Use for reflection.
+opposite_ru: Забывчивость
+opposite_en: Forgetfulness
+metaphor_ru: Банк опыта
+metaphor_en: Bank of experience
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: воспоминания
+- relation: PART_OF
+  target_concept: убеждения
+- relation: HAS_EXAMPLE
+  target_concept: эмоции
+examples:
+  positive_ru:
+  - Память помогает в обучении.
+  positive_en:
+  - Memory aids in learning.
+  negative_ru:
+  - Память не искажает факты.
+  negative_en:
+  - Memory does not distort facts.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Память
+Определение: Объект, хранящий впечатления и воспоминания, отличаясь от простого хранения
+  тем, что влияет на убеждения и поведение.
+Синонимы: *id001
+Связи:
+- воспоминания
+- убеждения
+- эмоции
+Главы:
+- C4

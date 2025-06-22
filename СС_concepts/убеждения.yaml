@@ -1,0 +1,87 @@
+iri: https://system-school.ru/L4/concept/убеждения
+name_ru: Убеждения
+name_en: Beliefs
+purpose_ru: Направлять решения и поведение.
+purpose_en: To guide decisions and behavior.
+conceptType: object
+usageContext_ru: В формировании личности.
+usageContext_en: In personality formation.
+synonyms_ru: &id001
+- верования
+- ценности
+- Верования
+synonyms_en:
+- convictions
+- values
+- Convictions
+not_this_ru: Не являются изменчивыми.
+not_this_en: Not changeable.
+definition_ru: Объект, хранящий устойчивые представления, отличаясь от впечатлений
+  тем, что формирует основу для действий.
+definition_en: Object storing stable representations, differing from impressions by
+  forming the basis for actions.
+summary_ru: ''
+summary_en: ''
+example_ru: Убеждения влияют на выбор.
+example_en: Beliefs influence choices.
+promptHint_ru: Осознавайте для корректировки.
+promptHint_en: Be aware for adjustment.
+opposite_ru: Сомнения
+opposite_en: Doubts
+metaphor_ru: Фундамент мышления
+metaphor_en: Foundation of thinking
+formula_ru: ''
+formula_en: ''
+difficulty: 3
+bloom: Evaluate
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: world-picture
+- relation: RELATES_TO
+  target_concept: culture
+- relation: RELATES_TO
+  target_concept: social-environment
+- relation: PART_OF
+  target_concept: мировоззрение
+- relation: RELATES_TO
+  target_concept: знания
+- relation: HAS_EXAMPLE
+  target_concept: мышление
+- relation: RELATES_TO
+  target_concept: память
+- relation: PART_OF
+  target_concept: мотивация
+- relation: HAS_EXAMPLE
+  target_concept: воспоминания
+examples:
+  positive_ru:
+  - Убеждения поддерживают цели.
+  positive_en:
+  - Beliefs support goals.
+  negative_ru:
+  - Убеждения не противоречивы.
+  negative_en:
+  - Beliefs are not contradictory.
+discipline:
+  name_ru: Психология
+  name_en: Psychology
+  level: L3
+Название: Убеждения
+Определение: Объект, хранящий устойчивые представления, отличаясь от впечатлений тем,
+  что формирует основу для действий.
+Синонимы: *id001
+Связи:
+- culture
+- social-environment
+- world-picture
+- воспоминания
+- знания
+- мировоззрение
+- мотивация
+- мышление
+- память
+Главы:
+- C1
+- C2
+- C4

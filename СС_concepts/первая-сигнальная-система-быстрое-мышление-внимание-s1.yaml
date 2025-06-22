@@ -1,0 +1,60 @@
+iri: https://system-school.ru/L3/concept/первая-сигнальная-система-быстрое-мышление-внимание-s1
+name_ru: Первая сигнальная система (быстрое мышление, внимание S1)
+name_en: First Signaling System (Fast Thinking, Attention S1)
+purpose_ru: Обеспечивает быстрые реакции.
+purpose_en: Provides fast reactions.
+conceptType: Process
+usageContext_ru: В повседневных задачах.
+usageContext_en: In daily tasks.
+synonyms_ru: &id001
+- Быстрое внимание
+synonyms_en:
+- Fast Attention
+not_this_ru: Не глубокий анализ.
+not_this_en: Not deep analysis.
+definition_ru: Процесс, заключающийся в быстром, интуитивном ответе на стимулы.
+definition_en: A process, characterized by quick, intuitive response to stimuli.
+summary_ru: ''
+summary_en: ''
+example_ru: S1 внимание в автоматических действиях.
+example_en: S1 attention in automatic actions.
+promptHint_ru: Используйте S1 для быстрых решений.
+promptHint_en: Use S1 for quick decisions.
+opposite_ru: Вторая сигнальная система
+opposite_en: Second Signaling System
+metaphor_ru: Как рефлекс.
+metaphor_en: Like a reflex.
+formula_ru: ''
+formula_en: ''
+difficulty: 2
+bloom: Remember
+version: '1.0'
+related_concepts:
+- relation: RELATES_TO
+  target_concept: виды внимания
+- relation: PART_OF
+  target_concept: внимание
+- relation: HAS_EXAMPLE
+  target_concept: внимание в моменте
+examples:
+  positive_ru:
+  - S1 ускоряет реакции.
+  positive_en:
+  - S1 speeds up reactions.
+  negative_ru:
+  - Злоупотребление S1 приводит к ошибкам.
+  negative_en:
+  - Overuse of S1 leads to errors.
+discipline:
+  name_ru: Системный менеджмент
+  name_en: System Management
+  level: L3
+Название: Первая сигнальная система (быстрое мышление, внимание S1)
+Определение: Процесс, заключающийся в быстром, интуитивном ответе на стимулы.
+Синонимы: *id001
+Связи:
+- виды внимания
+- внимание
+- внимание в моменте
+Главы:
+- C3
