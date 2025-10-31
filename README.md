@@ -1,1 +1,1 @@
-# concept-graph
+# Concept graph
